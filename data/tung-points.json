@@ -1,0 +1,1698 @@
+[
+  {
+    "id": "11.01",
+    "name": "Большая щель",
+    "indications": "Головная боль, мигрень",
+    "location": "Ладонь",
+    "en": "Great Crevice",
+    "pinyin": "Da Jian"
+  },
+  {
+    "id": "11.02",
+    "name": "Малая щель",
+    "indications": "Боль в глазах, покраснение глаз",
+    "location": "Ладонь",
+    "en": "Small Crevice",
+    "pinyin": "Xiao Jian"
+  },
+  {
+    "id": "11.05",
+    "name": "Центральная щель",
+    "indications": "Сердечные боли, бессонница",
+    "location": "Ладонь",
+    "en": "Central Crevice",
+    "pinyin": "Zhong Jian"
+  },
+  {
+    "id": "11.06",
+    "name": "Возвращение в гнездо",
+    "indications": "Нарушения менструального цикла, маточные кровотечения",
+    "location": "Ладонь",
+    "en": "Return to Nest",
+    "pinyin": "Gui Chao"
+  },
+  {
+    "id": "11.08",
+    "name": "Палец Пять Металла и Палец Тысяча Металла",
+    "indications": "Заболевания легких, кашель, астма",
+    "location": "Пальцы рук",
+    "en": "Finger Five Metal and Finger Thousand Metal",
+    "pinyin": "Zhi Wu Jin / Zhi Qian Jin"
+  },
+  {
+    "id": "11.09",
+    "name": "Сердечное колено",
+    "indications": "Боли в колене, сердечная недостаточность",
+    "location": "Колено",
+    "en": "Heart Knee",
+    "pinyin": "Xin Xi"
+  },
+  {
+    "id": "11.10",
+    "name": "Дерево-Огонь",
+    "indications": "Гепатит, желтуха, лихорадка",
+    "location": "Тело",
+    "en": "Wood Fire",
+    "pinyin": "Mu Huo"
+  },
+  {
+    "id": "11.11",
+    "name": "Легкое-Сердце",
+    "indications": "Сердечно-легочные заболевания, одышка",
+    "location": "Грудная клетка",
+    "en": "Lung Heart",
+    "pinyin": "Fei Xin"
+  },
+  {
+    "id": "11.12",
+    "name": "Два угла ярких",
+    "indications": "Головокружение, шум в ушах",
+    "location": "Голова",
+    "en": "Two Corner Bright",
+    "pinyin": "Er Jiao Ming"
+  },
+  {
+    "id": "11.13",
+    "name": "Желчный пузырь",
+    "indications": "Холецистит, желчнокаменная болезнь",
+    "location": "Нога",
+    "en": "Gallbladder",
+    "pinyin": "Dan"
+  },
+  {
+    "id": "11.14",
+    "name": "Палец Три слоя",
+    "indications": "Глухота, звон в ушах",
+    "location": "Пальцы рук",
+    "en": "Finger Three Layers",
+    "pinyin": "Zhi San Chong"
+  },
+  {
+    "id": "11.15",
+    "name": "Палец Почки",
+    "indications": "Нефрит, импотенция",
+    "location": "Пальцы рук",
+    "en": "Finger Kidney",
+    "pinyin": "Zhi Shen"
+  },
+  {
+    "id": "11.16",
+    "name": "Огненное колено",
+    "indications": "Артрит колена, жар в суставе",
+    "location": "Колено",
+    "en": "Fire Knee",
+    "pinyin": "Huo Xi"
+  },
+  {
+    "id": "11.17",
+    "name": "Дерево (простуда)",
+    "indications": "Простуда, грипп, лихорадка",
+    "location": "Тело",
+    "en": "Mu (Wood) a.k.a. Common cold",
+    "pinyin": "Mu / Gan Mao"
+  },
+  {
+    "id": "11.18",
+    "name": "Опухание селезенки",
+    "indications": "Спленомегалия, вздутие живота",
+    "location": "Живот",
+    "en": "Spleen Swelling",
+    "pinyin": "Pi Zhong"
+  },
+  {
+    "id": "11.19",
+    "name": "Сердце нормальное",
+    "indications": "Аритмия, тахикардия",
+    "location": "Грудная клетка",
+    "en": "Heart Normal",
+    "pinyin": "Xin Zheng"
+  },
+  {
+    "id": "11.20",
+    "name": "Пламя дерева",
+    "indications": "Гепатит, цирроз печени",
+    "location": "Тело",
+    "en": "Wood Blaze",
+    "pinyin": "Mu Yan"
+  },
+  {
+    "id": "11.21",
+    "name": "Три глаза",
+    "indications": "Глаукома, катаракта",
+    "location": "Голова",
+    "en": "Three Eyes",
+    "pinyin": "San Yan"
+  },
+  {
+    "id": "11.22",
+    "name": "Восстановление",
+    "indications": "Общая слабость, восстановление после болезни",
+    "location": "Тело",
+    "en": "Recovery",
+    "pinyin": "Fu Yuan"
+  },
+  {
+    "id": "11.23",
+    "name": "Желтый глаз",
+    "indications": "Желтуха, конъюнктивит",
+    "location": "Глаза",
+    "en": "Eye Yellow",
+    "pinyin": "Yan Huang"
+  },
+  {
+    "id": "11.24",
+    "name": "Гинекология",
+    "indications": "Гинекологические заболевания, бесплодие",
+    "location": "Низ живота",
+    "en": "Gynecology",
+    "pinyin": "Fu Ke"
+  },
+  {
+    "id": "11.25",
+    "name": "Остановка слюны",
+    "indications": "Слюнотечение, тошнота",
+    "location": "Рот",
+    "en": "Stop Spittle",
+    "pinyin": "Zhi Tuo"
+  },
+  {
+    "id": "11.26",
+    "name": "Контроль грязи",
+    "indications": "Дерматит, экзема",
+    "location": "Тело",
+    "en": "Control Dirty",
+    "pinyin": "Zhi Zang"
+  },
+  {
+    "id": "11.27",
+    "name": "Пять тигров",
+    "indications": "Подагра, боль в стопе",
+    "location": "Стопа",
+    "en": "Five Tigers",
+    "pinyin": "Wu Hu"
+  },
+  {
+    "id": "22.01",
+    "name": "Слой Воды",
+    "indications": "Отеки, задержка мочи",
+    "location": "Запястье",
+    "en": "Layer Water",
+    "pinyin": "Ceng Shui"
+  },
+  {
+    "id": "22.02",
+    "name": "Слой Металла",
+    "indications": "Заболевания легких, кашель",
+    "location": "Запястье",
+    "en": "Layer Metal",
+    "pinyin": "Ceng Jin"
+  },
+  {
+    "id": "22.03",
+    "name": "Верхний белый",
+    "indications": "Белизна кожи, витилиго",
+    "location": "Запястье",
+    "en": "Upper White",
+    "pinyin": "Shang Bai"
+  },
+  {
+    "id": "22.04",
+    "name": "Великий белый",
+    "indications": "Лейкодерма, кожные заболевания",
+    "location": "Запястье",
+    "en": "Great White",
+    "pinyin": "Da Bai"
+  },
+  {
+    "id": "22.05",
+    "name": "Кость духа",
+    "indications": "Неврастения, бессонница",
+    "location": "Запястье",
+    "en": "Spirit Bone",
+    "pinyin": "Ling Gu"
+  },
+  {
+    "id": "22.06",
+    "name": "Средний белый",
+    "indications": "Кожные высыпания, зуд",
+    "location": "Запястье",
+    "en": "Middle White",
+    "pinyin": "Zhong Bai"
+  },
+  {
+    "id": "22.07",
+    "name": "Нижний белый",
+    "indications": "Дерматит, аллергия",
+    "location": "Запястье",
+    "en": "Lower White",
+    "pinyin": "Xia Bai"
+  },
+  {
+    "id": "22.08",
+    "name": "Запястье гладкое один",
+    "indications": "Боль в запястье, туннельный синдром",
+    "location": "Запястье",
+    "en": "Wrist Smooth One",
+    "pinyin": "Wan Shun Yi"
+  },
+  {
+    "id": "22.09",
+    "name": "Запястье гладкое два",
+    "indications": "Растяжение запястья, артрит",
+    "location": "Запястье",
+    "en": "Wrist Smooth Two",
+    "pinyin": "Wan Shun Er"
+  },
+  {
+    "id": "22.1",
+    "name": "Земля-Вода",
+    "indications": "Нарушение водного обмена",
+    "location": "Запястье",
+    "en": "Earth Water",
+    "pinyin": "Di Shui"
+  },
+  {
+    "id": "22.10",
+    "name": "Освобождение руки",
+    "indications": "Спазмы кисти, паралич",
+    "location": "Кисть",
+    "en": "Hand Release",
+    "pinyin": "Shou Jie"
+  },
+  {
+    "id": "22.11",
+    "name": "Земля-Вода",
+    "indications": "Отеки, водянка",
+    "location": "Запястье",
+    "en": "Earth Water",
+    "pinyin": "Di Shui"
+  },
+  {
+    "id": "33.01",
+    "name": "Эта дверь",
+    "indications": "Астма, одышка",
+    "location": "Грудная клетка",
+    "en": "This Door",
+    "pinyin": "Ci Men"
+  },
+  {
+    "id": "33.02",
+    "name": "Боковая дверь",
+    "indications": "Межреберная невралгия",
+    "location": "Грудная клетка",
+    "en": "This Side Door",
+    "pinyin": "Ci Ce Men"
+  },
+  {
+    "id": "33.03",
+    "name": "Этот портал",
+    "indications": "Кашель, бронхит",
+    "location": "Грудная клетка",
+    "en": "This Portal",
+    "pinyin": "Ci Hu"
+  },
+  {
+    "id": "33.04",
+    "name": "Огненная гроздь",
+    "indications": "Жар в ногах, варикоз",
+    "location": "Нога",
+    "en": "Fire Bunch",
+    "pinyin": "Huo Chuan"
+  },
+  {
+    "id": "33.05",
+    "name": "Огненный холм",
+    "indications": "Воспаление суставов ног",
+    "location": "Нога",
+    "en": "Fire Mound",
+    "pinyin": "Huo Qiu"
+  },
+  {
+    "id": "33.06",
+    "name": "Огненная гора",
+    "indications": "Геморрой, запор",
+    "location": "Нога",
+    "en": "Fire Mountain",
+    "pinyin": "Huo Shan"
+  },
+  {
+    "id": "33.07",
+    "name": "Огненное море кишечника",
+    "indications": "Колит, диарея",
+    "location": "Нога",
+    "en": "Fire Bowel Sea",
+    "pinyin": "Huo Chang Hai"
+  },
+  {
+    "id": "33.08",
+    "name": "Рука Пять Металла",
+    "indications": "Заболевания легких, боль в руке",
+    "location": "Рука",
+    "en": "Hand Five Metal",
+    "pinyin": "Shou Wu Jin"
+  },
+  {
+    "id": "33.09",
+    "name": "Рука Тысяча Металла",
+    "indications": "Астма, бронхит",
+    "location": "Рука",
+    "en": "Hand Thousand Metal",
+    "pinyin": "Shou Qian Jin"
+  },
+  {
+    "id": "33.1",
+    "name": "Ворота печени",
+    "indications": "Гепатит, цирроз",
+    "location": "Нога",
+    "en": "Liver Gate",
+    "pinyin": "Gan Men"
+  },
+  {
+    "id": "33.10",
+    "name": "Ворота кишечника",
+    "indications": "Запор, энтерит",
+    "location": "Нога",
+    "en": "Intestine Gate",
+    "pinyin": "Chang Men"
+  },
+  {
+    "id": "33.11",
+    "name": "Ворота печени",
+    "indications": "Желтуха, гепатит",
+    "location": "Нога",
+    "en": "Liver Gate",
+    "pinyin": "Gan Men"
+  },
+  {
+    "id": "33.12",
+    "name": "Ворота сердца",
+    "indications": "Сердечная недостаточность, аритмия",
+    "location": "Нога",
+    "en": "Heart Gate",
+    "pinyin": "Xin Men"
+  },
+  {
+    "id": "33.13",
+    "name": "Человек-ученый",
+    "indications": "Умственное переутомление",
+    "location": "Нога",
+    "en": "Human Scholar",
+    "pinyin": "Ren Shi"
+  },
+  {
+    "id": "33.14",
+    "name": "Земля-ученый",
+    "indications": "Заболевания селезенки",
+    "location": "Нога",
+    "en": "Earth Scholar",
+    "pinyin": "Di Shi"
+  },
+  {
+    "id": "33.15",
+    "name": "Небо-ученый",
+    "indications": "Головокружение, мигрень",
+    "location": "Нога",
+    "en": "Heaven Scholar",
+    "pinyin": "Tian Shi"
+  },
+  {
+    "id": "33.16",
+    "name": "Изогнутый холм",
+    "indications": "Боль в колене, артрит",
+    "location": "Нога",
+    "en": "Curve Mound",
+    "pinyin": "Qu Qiu"
+  },
+  {
+    "id": "44.01",
+    "name": "Разделяющий металл",
+    "indications": "Боль в спине, ишиас",
+    "location": "Спина",
+    "en": "Dividing Metal",
+    "pinyin": "Fen Jin"
+  },
+  {
+    "id": "44.02",
+    "name": "Позвонок спины",
+    "indications": "Остеохондроз, грыжа",
+    "location": "Спина",
+    "en": "Back Vertebra",
+    "pinyin": "Bei Ji"
+  },
+  {
+    "id": "44.03",
+    "name": "Мудрость головы",
+    "indications": "Головная боль, бессонница",
+    "location": "Голова",
+    "en": "Head Wisdom",
+    "pinyin": "Tou Zhi"
+  },
+  {
+    "id": "44.04",
+    "name": "Вершина богатства",
+    "indications": "Головокружение, гипертония",
+    "location": "Голова",
+    "en": "Wealth Top",
+    "pinyin": "Fu Ding"
+  },
+  {
+    "id": "44.05",
+    "name": "Ветвь спины",
+    "indications": "Боль в пояснице",
+    "location": "Спина",
+    "en": "Back Branch",
+    "pinyin": "Bei Zhi"
+  },
+  {
+    "id": "44.06",
+    "name": "Центр плеча",
+    "indications": "Плечелопаточный периартрит",
+    "location": "Плечо",
+    "en": "Shoulder Center",
+    "pinyin": "Jian Zhong"
+  },
+  {
+    "id": "44.07",
+    "name": "Лицо спины",
+    "indications": "Фурункулы на спине",
+    "location": "Спина",
+    "en": "Back Face",
+    "pinyin": "Bei Mian"
+  },
+  {
+    "id": "44.08",
+    "name": "Клан человека",
+    "indications": "Заболевания почек",
+    "location": "Спина",
+    "en": "Human Clan",
+    "pinyin": "Ren Zu"
+  },
+  {
+    "id": "44.09",
+    "name": "Клан земли",
+    "indications": "Заболевания селезенки",
+    "location": "Спина",
+    "en": "Earth Clan",
+    "pinyin": "Di Zu"
+  },
+  {
+    "id": "44.1",
+    "name": "Облачно-белый",
+    "indications": "Кашель, астма",
+    "location": "Спина",
+    "en": "Cloud White",
+    "pinyin": "Yun Bai"
+  },
+  {
+    "id": "44.10",
+    "name": "Клан неба",
+    "indications": "Головная боль, мигрень",
+    "location": "Спина",
+    "en": "Heaven Clan",
+    "pinyin": "Tian Zu"
+  },
+  {
+    "id": "44.11",
+    "name": "Облачно-белый",
+    "indications": "Бронхит, пневмония",
+    "location": "Спина",
+    "en": "Cloud White",
+    "pinyin": "Yun Bai"
+  },
+  {
+    "id": "44.12",
+    "name": "Сливово-белый",
+    "indications": "Кожные заболевания",
+    "location": "Спина",
+    "en": "Plum White",
+    "pinyin": "Mei Bai"
+  },
+  {
+    "id": "44.13",
+    "name": "Соединение ветвей",
+    "indications": "Невралгия",
+    "location": "Спина",
+    "en": "Branch Connect",
+    "pinyin": "Zhi Lian"
+  },
+  {
+    "id": "44.14",
+    "name": "Нижнее соединение",
+    "indications": "Боль в пояснице",
+    "location": "Спина",
+    "en": "Lower Connect",
+    "pinyin": "Xia Lian"
+  },
+  {
+    "id": "44.15",
+    "name": "Нижний изгиб",
+    "indications": "Ишиас",
+    "location": "Спина",
+    "en": "Lower Curve",
+    "pinyin": "Xia Qu"
+  },
+  {
+    "id": "44.16",
+    "name": "Верхний изгиб",
+    "indications": "Боль в шее",
+    "location": "Спина",
+    "en": "Upper Curve",
+    "pinyin": "Shang Qu"
+  },
+  {
+    "id": "44.17",
+    "name": "Водное исцеление",
+    "indications": "Отеки, водянка",
+    "location": "Спина",
+    "en": "Water Heal",
+    "pinyin": "Shui Liao"
+  },
+  {
+    "id": "55.01",
+    "name": "Огненный мешок",
+    "indications": "Варикоз, тромбофлебит",
+    "location": "Нога",
+    "en": "Fire Bag",
+    "pinyin": "Huo Dai"
+  },
+  {
+    "id": "55.02",
+    "name": "Цветочная кость один",
+    "indications": "Боль в голени",
+    "location": "Нога",
+    "en": "Flower Bone One",
+    "pinyin": "Hua Gu Yi"
+  },
+  {
+    "id": "55.03",
+    "name": "Цветочная кость два",
+    "indications": "Судороги ног",
+    "location": "Нога",
+    "en": "Flower Bone Two",
+    "pinyin": "Hua Gu Er"
+  },
+  {
+    "id": "55.04",
+    "name": "Цветочная кость три",
+    "indications": "Артрит голеностопа",
+    "location": "Нога",
+    "en": "Flower Bone Three",
+    "pinyin": "Hua Gu San"
+  },
+  {
+    "id": "55.05",
+    "name": "Цветочная кость четыре",
+    "indications": "Подагра",
+    "location": "Нога",
+    "en": "Flower Bone Four",
+    "pinyin": "Hua Gu Si"
+  },
+  {
+    "id": "55.06",
+    "name": "Верхняя опухоль",
+    "indications": "Опухоли, новообразования",
+    "location": "Нога",
+    "en": "Upper Tumor",
+    "pinyin": "Shang Liu"
+  },
+  {
+    "id": "66.02",
+    "name": "Дерево-гинекология",
+    "indications": "Гинекологические заболевания",
+    "location": "Нога",
+    "en": "Wood Gynecology",
+    "pinyin": "Mu Fu Ke"
+  },
+  {
+    "id": "66.03",
+    "name": "Огненная твердость",
+    "indications": "Гипертония, склероз",
+    "location": "Нога",
+    "en": "Fire Hardness",
+    "pinyin": "Huo Ying"
+  },
+  {
+    "id": "66.04",
+    "name": "Огненный мастер",
+    "indications": "Лихорадка, воспаление",
+    "location": "Нога",
+    "en": "Fire Master",
+    "pinyin": "Huo Zhu"
+  },
+  {
+    "id": "66.05",
+    "name": "Дверь металла",
+    "indications": "Заболевания легких",
+    "location": "Нога",
+    "en": "Door Metal",
+    "pinyin": "Men Jin"
+  },
+  {
+    "id": "66.06",
+    "name": "Хранилище дерева",
+    "indications": "Заболевания печени",
+    "location": "Нога",
+    "en": "Wood Keep",
+    "pinyin": "Mu Ku"
+  },
+  {
+    "id": "66.07",
+    "name": "Черпак дерева",
+    "indications": "Желтуха",
+    "location": "Нога",
+    "en": "Wood Scoop",
+    "pinyin": "Mu Shao"
+  },
+  {
+    "id": "66.08",
+    "name": "Шесть полных",
+    "indications": "Общее укрепление",
+    "location": "Нога",
+    "en": "Six Complete",
+    "pinyin": "Liu Wan"
+  },
+  {
+    "id": "66.09",
+    "name": "Водный изгиб",
+    "indications": "Задержка мочи",
+    "location": "Нога",
+    "en": "Water Curve",
+    "pinyin": "Shui Qu"
+  },
+  {
+    "id": "66.1",
+    "name": "Огненная хризантема",
+    "indications": "Головная боль, жар",
+    "location": "Нога",
+    "en": "Fire Chrysanthemum",
+    "pinyin": "Huo Ju"
+  },
+  {
+    "id": "66.10",
+    "name": "Огненное соединение",
+    "indications": "Невралгия",
+    "location": "Нога",
+    "en": "Fire Connection",
+    "pinyin": "Huo Lian"
+  },
+  {
+    "id": "66.11",
+    "name": "Огненная хризантема",
+    "indications": "Конъюнктивит",
+    "location": "Нога",
+    "en": "Fire Chrysanthemum",
+    "pinyin": "Huo Ju"
+  },
+  {
+    "id": "66.12",
+    "name": "Огненное рассеивание",
+    "indications": "Жар, лихорадка",
+    "location": "Нога",
+    "en": "Fire Scatter",
+    "pinyin": "Huo San"
+  },
+  {
+    "id": "66.13",
+    "name": "Водный кристалл",
+    "indications": "Катаракта",
+    "location": "Нога",
+    "en": "Water Crystal",
+    "pinyin": "Shui Jing"
+  },
+  {
+    "id": "66.14",
+    "name": "Водная фаза",
+    "indications": "Отеки",
+    "location": "Нога",
+    "en": "Water Phase",
+    "pinyin": "Shui Xiang"
+  },
+  {
+    "id": "66.15",
+    "name": "Водный бессмертный",
+    "indications": "Заболевания почек",
+    "location": "Нога",
+    "en": "Water Immortal",
+    "pinyin": "Shui Xian"
+  },
+  {
+    "id": "77.01",
+    "name": "Восстановление сухожилий один",
+    "indications": "Растяжение связок",
+    "location": "Нога",
+    "en": "Restore Sinew One",
+    "pinyin": "Fu Jin Yi"
+  },
+  {
+    "id": "77.02",
+    "name": "Восстановление сухожилий два",
+    "indications": "Разрыв связок",
+    "location": "Нога",
+    "en": "Restore Sinew Two",
+    "pinyin": "Fu Jin Er"
+  },
+  {
+    "id": "77.03",
+    "name": "Восстановление сухожилий три",
+    "indications": "Тендинит",
+    "location": "Нога",
+    "en": "Restore Sinew Three",
+    "pinyin": "Fu Jin San"
+  },
+  {
+    "id": "77.04",
+    "name": "Шар сухожилий",
+    "indications": "Грыжа, опущение",
+    "location": "Нога",
+    "en": "Sinew Ball",
+    "pinyin": "Jin Qiu"
+  },
+  {
+    "id": "77.05",
+    "name": "Первый слой",
+    "indications": "Заболевания кожи",
+    "location": "Нога",
+    "en": "First Layer",
+    "pinyin": "Di Yi Ceng"
+  },
+  {
+    "id": "77.06",
+    "name": "Второй слой",
+    "indications": "Заболевания мышц",
+    "location": "Нога",
+    "en": "Second Layer",
+    "pinyin": "Di Er Ceng"
+  },
+  {
+    "id": "77.07",
+    "name": "Третий слой",
+    "indications": "Заболевания костей",
+    "location": "Нога",
+    "en": "Third Layer",
+    "pinyin": "Di San Ceng"
+  },
+  {
+    "id": "77.08",
+    "name": "Четыре цветка верхний",
+    "indications": "Астма",
+    "location": "Нога",
+    "en": "Four Flower Upper",
+    "pinyin": "Si Hua Shang"
+  },
+  {
+    "id": "77.09",
+    "name": "Четыре цветка центр",
+    "indications": "Бронхит",
+    "location": "Нога",
+    "en": "Four Flower Center",
+    "pinyin": "Si Hua Zhong"
+  },
+  {
+    "id": "77.1",
+    "name": "Четыре цветка медиальный",
+    "indications": "Пневмония",
+    "location": "Нога",
+    "en": "Four Flower Medial",
+    "pinyin": "Si Hua Nei"
+  },
+  {
+    "id": "77.10",
+    "name": "Четыре цветка квази",
+    "indications": "Туберкулез легких",
+    "location": "Нога",
+    "en": "Four Flower Quasi",
+    "pinyin": "Si Hua Zhun"
+  },
+  {
+    "id": "77.11",
+    "name": "Четыре цветка нижний",
+    "indications": "Кашель",
+    "location": "Нога",
+    "en": "Four Flower Lower",
+    "pinyin": "Si Hua Xia"
+  },
+  {
+    "id": "77.12",
+    "name": "Кишечник",
+    "indications": "Энтерит, колит",
+    "location": "Нога",
+    "en": "Bowel Intestine",
+    "pinyin": "Chang Wei"
+  },
+  {
+    "id": "77.13",
+    "name": "Четыре цветка медиальный",
+    "indications": "Плеврит",
+    "location": "Нога",
+    "en": "Four Flower Medial",
+    "pinyin": "Si Hua Nei"
+  },
+  {
+    "id": "77.14",
+    "name": "Четыре цветка латеральный",
+    "indications": "Межреберная невралгия",
+    "location": "Нога",
+    "en": "Four Flower Lateral",
+    "pinyin": "Si Hua Wai"
+  },
+  {
+    "id": "77.15",
+    "name": "Верхняя губа",
+    "indications": "Герпес, стоматит",
+    "location": "Нога",
+    "en": "Upper Lip",
+    "pinyin": "Shang Chun"
+  },
+  {
+    "id": "77.16",
+    "name": "Нижняя губа",
+    "indications": "Паралич лицевого нерва",
+    "location": "Нога",
+    "en": "Lower Lip",
+    "pinyin": "Xia Chun"
+  },
+  {
+    "id": "77.17",
+    "name": "Небесный император",
+    "indications": "Гипертония",
+    "location": "Нога",
+    "en": "Heaven Emperor",
+    "pinyin": "Tian Huang"
+  },
+  {
+    "id": "77.18",
+    "name": "Ворота почек",
+    "indications": "Нефрит",
+    "location": "Нога",
+    "en": "Kidney Gate",
+    "pinyin": "Shen Men"
+  },
+  {
+    "id": "77.19",
+    "name": "Ворота почек и Огненная твердость",
+    "indications": "Гипертония (билатерально минимум 30 мин)",
+    "location": "Нога",
+    "en": "Kidney Gate & Fire Hardness",
+    "pinyin": "Shen Men / Huo Ying"
+  },
+  {
+    "id": "77.20",
+    "name": "Четыре конечности",
+    "indications": "Паралич конечностей",
+    "location": "Конечности",
+    "en": "Four Limbs",
+    "pinyin": "Si Zhi"
+  },
+  {
+    "id": "77.21",
+    "name": "Человеческий император",
+    "indications": "Гипотония",
+    "location": "Нога",
+    "en": "Human Emperor",
+    "pinyin": "Ren Huang"
+  },
+  {
+    "id": "77.22",
+    "name": "Рядом с 3 ли",
+    "indications": "Боль в колене",
+    "location": "Нога",
+    "en": "Beside 3 Miles",
+    "pinyin": "Ce San Li"
+  },
+  {
+    "id": "77.23",
+    "name": "Нижний рядом с 3 ли",
+    "indications": "Артрит колена",
+    "location": "Нога",
+    "en": "Lower Beside 3 Miles",
+    "pinyin": "Ce Xia San Li"
+  },
+  {
+    "id": "77.24",
+    "name": "Нога Тысяча Металла",
+    "indications": "Заболевания легких",
+    "location": "Нога",
+    "en": "Leg Thousand Metal",
+    "pinyin": "Tui Qian Jin"
+  },
+  {
+    "id": "77.25",
+    "name": "Нога Пять Металла",
+    "indications": "Астма",
+    "location": "Нога",
+    "en": "Leg Five Metal",
+    "pinyin": "Tui Wu Jin"
+  },
+  {
+    "id": "77.26",
+    "name": "Семь тигров",
+    "indications": "Паралич ног",
+    "location": "Нога",
+    "en": "Seven Tigers",
+    "pinyin": "Qi Hu"
+  },
+  {
+    "id": "77.27",
+    "name": "Внешние три ворота",
+    "indications": "Запор",
+    "location": "Нога",
+    "en": "Exterior Three Gates",
+    "pinyin": "Wai San Men"
+  },
+  {
+    "id": "77.28",
+    "name": "Яркий свет",
+    "indications": "Глазные болезни",
+    "location": "Нога",
+    "en": "Bright Light",
+    "pinyin": "Ming Guang"
+  },
+  {
+    "id": "88.01",
+    "name": "Открытые ворота",
+    "indications": "Головная боль",
+    "location": "Голова",
+    "en": "Open Gate",
+    "pinyin": "Kai Men"
+  },
+  {
+    "id": "88.02",
+    "name": "Открытая гора",
+    "indications": "Головокружение",
+    "location": "Голова",
+    "en": "Open Mountain",
+    "pinyin": "Kai Shan"
+  },
+  {
+    "id": "88.03",
+    "name": "Открытое небо",
+    "indications": "Мигрень",
+    "location": "Голова",
+    "en": "Open Heaven",
+    "pinyin": "Kai Tian"
+  },
+  {
+    "id": "88.04",
+    "name": "Сестра один",
+    "indications": "Гинекология",
+    "location": "Голова",
+    "en": "Sister One",
+    "pinyin": "Jie Yi"
+  },
+  {
+    "id": "88.05",
+    "name": "Сестра два",
+    "indications": "Маточные кровотечения",
+    "location": "Голова",
+    "en": "Sister Two",
+    "pinyin": "Jie Er"
+  },
+  {
+    "id": "88.06",
+    "name": "Сестра три",
+    "indications": "Бесплодие",
+    "location": "Голова",
+    "en": "Sister Three",
+    "pinyin": "Jie San"
+  },
+  {
+    "id": "88.07",
+    "name": "Простуда один",
+    "indications": "Простуда",
+    "location": "Голова",
+    "en": "Common Cold One",
+    "pinyin": "Gan Mao Yi"
+  },
+  {
+    "id": "88.08",
+    "name": "Простуда два",
+    "indications": "Грипп",
+    "location": "Голова",
+    "en": "Common Cold Two",
+    "pinyin": "Gan Mao Er"
+  },
+  {
+    "id": "88.09",
+    "name": "Открытые почки",
+    "indications": "Нефрит",
+    "location": "Голова",
+    "en": "Open Kidney",
+    "pinyin": "Kai Shen"
+  },
+  {
+    "id": "88.1",
+    "name": "Открытая спина",
+    "indications": "Боль в спине",
+    "location": "Голова",
+    "en": "Open Back",
+    "pinyin": "Kai Bei"
+  },
+  {
+    "id": "88.10",
+    "name": "Открытый желудок",
+    "indications": "Гастрит",
+    "location": "Голова",
+    "en": "Open Stomach",
+    "pinyin": "Kai Wei"
+  },
+  {
+    "id": "88.11",
+    "name": "Открытая спина",
+    "indications": "Поясничная боль",
+    "location": "Голова",
+    "en": "Open Back",
+    "pinyin": "Kai Bei"
+  },
+  {
+    "id": "88.12",
+    "name": "Ярко-желтый",
+    "indications": "Желтуха",
+    "location": "Голова",
+    "en": "Bright Yellow",
+    "pinyin": "Ming Huang"
+  },
+  {
+    "id": "88.13",
+    "name": "Небесно-желтый",
+    "indications": "Гепатит",
+    "location": "Голова",
+    "en": "Heaven Yellow",
+    "pinyin": "Tian Huang"
+  },
+  {
+    "id": "88.14",
+    "name": "Этот желтый",
+    "indications": "Цирроз печени",
+    "location": "Голова",
+    "en": "This Yellow",
+    "pinyin": "Ci Huang"
+  },
+  {
+    "id": "88.15",
+    "name": "Огненная ветвь",
+    "indications": "Лихорадка",
+    "location": "Голова",
+    "en": "Fire Branch",
+    "pinyin": "Huo Zhi"
+  },
+  {
+    "id": "88.16",
+    "name": "Огненное завершение",
+    "indications": "Воспаление",
+    "location": "Голова",
+    "en": "Fire Complete",
+    "pinyin": "Huo Wan"
+  },
+  {
+    "id": "88.17",
+    "name": "Четыре коня центр",
+    "indications": "Астма",
+    "location": "Голова",
+    "en": "Four Horses Center",
+    "pinyin": "Si Ma Zhong"
+  },
+  {
+    "id": "88.18",
+    "name": "Четыре коня верх",
+    "indications": "Бронхит",
+    "location": "Голова",
+    "en": "Four Horses Upper",
+    "pinyin": "Si Ma Shang"
+  },
+  {
+    "id": "88.19",
+    "name": "Четыре коня низ",
+    "indications": "Кашель",
+    "location": "Голова",
+    "en": "Four Horses Lower",
+    "pinyin": "Si Ma Xia"
+  },
+  {
+    "id": "88.20",
+    "name": "Нижний родник",
+    "indications": "Гипотония",
+    "location": "Голова",
+    "en": "Lower Spring",
+    "pinyin": "Xia Quan"
+  },
+  {
+    "id": "88.21",
+    "name": "Центральный родник",
+    "indications": "Головокружение",
+    "location": "Голова",
+    "en": "Central Spring",
+    "pinyin": "Zhong Quan"
+  },
+  {
+    "id": "88.22",
+    "name": "Верхний родник",
+    "indications": "Гипертония",
+    "location": "Голова",
+    "en": "Upper Spring",
+    "pinyin": "Shang Quan"
+  },
+  {
+    "id": "88.23",
+    "name": "Нижний металл передний",
+    "indications": "Заболевания легких",
+    "location": "Голова",
+    "en": "Lower Metal Anterior",
+    "pinyin": "Xia Jin Qian"
+  },
+  {
+    "id": "88.24",
+    "name": "Верхний металл передний",
+    "indications": "Астма",
+    "location": "Голова",
+    "en": "Upper Metal Anterior",
+    "pinyin": "Shang Jin Qian"
+  },
+  {
+    "id": "88.25",
+    "name": "Центральные девять миль",
+    "indications": "Боль в шее",
+    "location": "Голова",
+    "en": "Central Nine Miles",
+    "pinyin": "Zhong Jiu Li"
+  },
+  {
+    "id": "88.26",
+    "name": "Верхние девять миль",
+    "indications": "Головная боль",
+    "location": "Голова",
+    "en": "Upper Nine Miles",
+    "pinyin": "Shang Jiu Li"
+  },
+  {
+    "id": "88.27",
+    "name": "Нижние девять миль",
+    "indications": "Боль в плече",
+    "location": "Голова",
+    "en": "Lower Nine Miles",
+    "pinyin": "Xia Jiu Li"
+  },
+  {
+    "id": "88.28",
+    "name": "Освобождение",
+    "indications": "Спазмы",
+    "location": "Голова",
+    "en": "Release",
+    "pinyin": "Jie Fang"
+  },
+  {
+    "id": "88.29",
+    "name": "Внутренние открытые ворота",
+    "indications": "Мигрень",
+    "location": "Голова",
+    "en": "Inner Open Gate",
+    "pinyin": "Nei Kai Men"
+  },
+  {
+    "id": "88.30",
+    "name": "Внутренняя открытая гора",
+    "indications": "Головокружение",
+    "location": "Голова",
+    "en": "Inner Open Mountain",
+    "pinyin": "Nei Kai Shan"
+  },
+  {
+    "id": "88.31",
+    "name": "Внутреннее открытое небо",
+    "indications": "Гипертония",
+    "location": "Голова",
+    "en": "Inner Open Heaven",
+    "pinyin": "Nei Kai Tian"
+  },
+  {
+    "id": "88.32",
+    "name": "Потерянный голос",
+    "indications": "Афония, ларингит",
+    "location": "Голова",
+    "en": "Lost Voice",
+    "pinyin": "Shi Yin"
+  },
+  {
+    "id": "99.01",
+    "name": "Ушное кольцо",
+    "indications": "Шум в ушах",
+    "location": "Ухо",
+    "en": "Ear Ring",
+    "pinyin": "Er Huan"
+  },
+  {
+    "id": "99.02",
+    "name": "Деревянное ухо",
+    "indications": "Глухота",
+    "location": "Ухо",
+    "en": "Wood Ear",
+    "pinyin": "Mu Er"
+  },
+  {
+    "id": "99.03",
+    "name": "Огненное ухо",
+    "indications": "Отит",
+    "location": "Ухо",
+    "en": "Fire Ear",
+    "pinyin": "Huo Er"
+  },
+  {
+    "id": "99.04",
+    "name": "Земляное ухо",
+    "indications": "Головокружение",
+    "location": "Ухо",
+    "en": "Earth Ear",
+    "pinyin": "Di Er"
+  },
+  {
+    "id": "99.05",
+    "name": "Металлическое ухо",
+    "indications": "Болезнь Меньера",
+    "location": "Ухо",
+    "en": "Metal Ear",
+    "pinyin": "Jin Er"
+  },
+  {
+    "id": "99.06",
+    "name": "Водяное ухо",
+    "indications": "Экзема уха",
+    "location": "Ухо",
+    "en": "Water Ear",
+    "pinyin": "Shui Er"
+  },
+  {
+    "id": "99.07",
+    "name": "За ухом",
+    "indications": "Невралгия тройничного нерва",
+    "location": "Ухо",
+    "en": "Ear Back",
+    "pinyin": "Er Bei"
+  },
+  {
+    "id": "99.08",
+    "name": "Ухо три",
+    "indications": "Звон в ушах",
+    "location": "Ухо",
+    "en": "Ear Three",
+    "pinyin": "Er San"
+  },
+  {
+    "id": "VT.01",
+    "name": "Хоуэцзю",
+    "indications": "Кровопускание при вентральных проблемах",
+    "location": "Вентральное туловище",
+    "en": "Houejiu",
+    "pinyin": "Hòu È Jiǔ"
+  },
+  {
+    "id": "VT.02",
+    "name": "Шиэрхоу",
+    "indications": "Заболевания горла",
+    "location": "Вентральное туловище",
+    "en": "Shierhou",
+    "pinyin": "Shí Èr Hóu"
+  },
+  {
+    "id": "VT.03",
+    "name": "Цзиньу",
+    "indications": "Проблемы грудной клетки",
+    "location": "Вентральное туловище",
+    "en": "Jinwu",
+    "pinyin": "Jīn Wū"
+  },
+  {
+    "id": "VT.04",
+    "name": "Вэймаоци",
+    "indications": "Проблемы желудка",
+    "location": "Вентральное туловище",
+    "en": "Weimaoqi",
+    "pinyin": "Wèi Máo Qì"
+  },
+  {
+    "id": "VT.05",
+    "name": "Фучаоэршисань",
+    "indications": "Кровопускание, 23 точки",
+    "location": "Вентральное туловище",
+    "en": "Fuchaoershisan",
+    "pinyin": "Fù Cháo Èr Shí Sān"
+  },
+  {
+    "id": "DT.01",
+    "name": "Фэньчжишан",
+    "indications": "Боли в спине",
+    "location": "Дорсальное туловище",
+    "en": "Fenzhishang",
+    "pinyin": "Fēn Zhī Shàng"
+  },
+  {
+    "id": "DT.02",
+    "name": "Фэньчжися",
+    "indications": "Боли в спине",
+    "location": "Дорсальное туловище",
+    "en": "Fenzhixia",
+    "pinyin": "Fēn Zhī Xià"
+  },
+  {
+    "id": "DT.03",
+    "name": "Цисин",
+    "indications": "Семь точек на спине",
+    "location": "Дорсальное туловище",
+    "en": "Qixing",
+    "pinyin": "Qī Xīng"
+  },
+  {
+    "id": "DT.04",
+    "name": "Улин",
+    "indications": "Пять точек на позвоночнике",
+    "location": "Дорсальное туловище",
+    "en": "Wuling",
+    "pinyin": "Wǔ Líng"
+  },
+  {
+    "id": "DT.05",
+    "name": "Шуанфэн",
+    "indications": "Двойная точка",
+    "location": "Дорсальное туловище",
+    "en": "Shuangfeng",
+    "pinyin": "Shuāng Fēng"
+  },
+  {
+    "id": "DT.06",
+    "name": "Цзюхоу",
+    "indications": "Девять задних точек",
+    "location": "Дорсальное туловище",
+    "en": "Jiuhou",
+    "pinyin": "Jiǔ Hòu"
+  },
+  {
+    "id": "DT.07",
+    "name": "Саньцзинь",
+    "indications": "Три золотые точки",
+    "location": "Дорсальное туловище",
+    "en": "Sanjin",
+    "pinyin": "Sān Jīn"
+  },
+  {
+    "id": "DT.08",
+    "name": "Цзинчжи",
+    "indications": "Кровопускание",
+    "location": "Дорсальное туловище",
+    "en": "Jingzhi",
+    "pinyin": "Jīng Zhì"
+  },
+  {
+    "id": "DT.09",
+    "name": "Цзиньлинь",
+    "indications": "Кровопускание",
+    "location": "Дорсальное туловище",
+    "en": "Jinlin",
+    "pinyin": "Jīn Lín"
+  },
+  {
+    "id": "DT.10",
+    "name": "Динчжу",
+    "indications": "Фиксация",
+    "location": "Дорсальное туловище",
+    "en": "Dingzhu",
+    "pinyin": "Dìng Zhū"
+  },
+  {
+    "id": "DT.11",
+    "name": "Хоусинь",
+    "indications": "Задняя часть сердца",
+    "location": "Дорсальное туловище",
+    "en": "Houxin",
+    "pinyin": "Hòu Xīn"
+  },
+  {
+    "id": "DT.12",
+    "name": "Ганьмаосань",
+    "indications": "Простуда",
+    "location": "Дорсальное туловище",
+    "en": "Ganmaosan",
+    "pinyin": "Gǎn Mào Sān"
+  },
+  {
+    "id": "DT.13",
+    "name": "Шуйчжун",
+    "indications": "Водный баланс",
+    "location": "Дорсальное туловище",
+    "en": "Shuizhong",
+    "pinyin": "Shuǐ Zhōng"
+  },
+  {
+    "id": "DT.14",
+    "name": "Шуйфу",
+    "indications": "Водный метаболизм",
+    "location": "Дорсальное туловище",
+    "en": "Shuifu",
+    "pinyin": "Shuǐ Fǔ"
+  },
+  {
+    "id": "DT.15",
+    "name": "Саньцзян",
+    "indications": "Три реки",
+    "location": "Дорсальное туловище",
+    "en": "Sanjiang",
+    "pinyin": "Sān Jiāng"
+  },
+  {
+    "id": "DT.16",
+    "name": "Шуанхэ",
+    "indications": "Двойная река",
+    "location": "Дорсальное туловище",
+    "en": "Shuanghe",
+    "pinyin": "Shuāng Hé"
+  },
+  {
+    "id": "DT.17",
+    "name": "Чунсяо",
+    "indications": "Пронзающая точка",
+    "location": "Дорсальное туловище",
+    "en": "Chongxiao",
+    "pinyin": "Chōng Xiāo"
+  },
+  {
+    "id": "11.03",
+    "name": "Тыльный поток",
+    "indications": "Боль в пальцах, артрит",
+    "location": "Пальцы рук",
+    "en": "Back Stream",
+    "pinyin": "Hou Xi"
+  },
+  {
+    "id": "11.04",
+    "name": "Ветвь потока",
+    "indications": "Боль в пальцах, невралгия",
+    "location": "Пальцы рук",
+    "en": "Branch Stream",
+    "pinyin": "Zhi Xi"
+  },
+  {
+    "id": "11.07",
+    "name": "Палец колено",
+    "indications": "Боль в колене, артрит колена",
+    "location": "Пальцы рук",
+    "en": "Finger Knee",
+    "pinyin": "Zhi Xi"
+  },
+  {
+    "id": "10.01",
+    "name": "Мозг единица 1",
+    "indications": "Головная боль, головокружение, бессонница, эпилепсия",
+    "location": "Голова",
+    "en": "Brain Unit One",
+    "pinyin": "Nao Dan Yi"
+  },
+  {
+    "id": "10.02",
+    "name": "Мозг единица 2",
+    "indications": "Головная боль, мигрень, напряжение шеи",
+    "location": "Голова",
+    "en": "Brain Unit Two",
+    "pinyin": "Nao Dan Er"
+  },
+  {
+    "id": "10.03",
+    "name": "Мозг единица 3",
+    "indications": "Головная боль, проблемы со зрением",
+    "location": "Голова",
+    "en": "Brain Unit Three",
+    "pinyin": "Nao Dan San"
+  },
+  {
+    "id": "10.04",
+    "name": "Мозг единица 4",
+    "indications": "Головная головная боль, проблемы с пазухами",
+    "location": "Голова",
+    "en": "Brain Unit Four",
+    "pinyin": "Nao Dan Si"
+  },
+  {
+    "id": "10.05",
+    "name": "Мозг единица 5",
+    "indications": "Головная боль, головокружение",
+    "location": "Голова",
+    "en": "Brain Unit Five",
+    "pinyin": "Nao Dan Wu"
+  },
+  {
+    "id": "10.06",
+    "name": "Мозг единица 6",
+    "indications": "Головная боль, онемение лица",
+    "location": "Голова",
+    "en": "Brain Unit Six",
+    "pinyin": "Nao Dan Liu"
+  },
+  {
+    "id": "10.07",
+    "name": "Мозг единица 7",
+    "indications": "Головная боль, паралич лица",
+    "location": "Голова",
+    "en": "Brain Unit Seven",
+    "pinyin": "Nao Dan Qi"
+  },
+  {
+    "id": "10.08",
+    "name": "Мозг единица 8",
+    "indications": "Головная боль, эпилепсия",
+    "location": "Голова",
+    "en": "Brain Unit Eight",
+    "pinyin": "Nao Dan Ba"
+  },
+  {
+    "id": "10.09",
+    "name": "Мозг единица 9",
+    "indications": "Головная боль, бессонница",
+    "location": "Голова",
+    "en": "Brain Unit Nine",
+    "pinyin": "Nao Dan Jiu"
+  },
+  {
+    "id": "10.10",
+    "name": "Мозг единица 10",
+    "indications": "Головная боль, головокружение",
+    "location": "Голова",
+    "en": "Brain Unit Ten",
+    "pinyin": "Nao Dan Shi"
+  },
+  {
+    "id": "10.11",
+    "name": "Лицо единица 1",
+    "indications": "Паралич лица, онемение, тик",
+    "location": "Лицо",
+    "en": "Face Unit One",
+    "pinyin": "Mian Dan Yi"
+  },
+  {
+    "id": "10.12",
+    "name": "Лицо единица 2",
+    "indications": "Боль в лице, невралгия тройничного нерва",
+    "location": "Лицо",
+    "en": "Face Unit Two",
+    "pinyin": "Mian Dan Er"
+  },
+  {
+    "id": "10.13",
+    "name": "Лицо единица 3",
+    "indications": "Боль в зубах, отёк лица",
+    "location": "Лицо",
+    "en": "Face Unit Three",
+    "pinyin": "Mian Dan San"
+  },
+  {
+    "id": "10.14",
+    "name": "Лицо единица 4",
+    "indications": "Боль в челюсти, тризм",
+    "location": "Лицо",
+    "en": "Face Unit Four",
+    "pinyin": "Mian Dan Si"
+  },
+  {
+    "id": "10.15",
+    "name": "Лицо единица 5",
+    "indications": "Боль в глазах, покраснение",
+    "location": "Лицо",
+    "en": "Face Unit Five",
+    "pinyin": "Mian Dan Wu"
+  },
+  {
+    "id": "10.16",
+    "name": "Лицо единица 6",
+    "indications": "Боль в носу, ринит",
+    "location": "Лицо",
+    "en": "Face Unit Six",
+    "pinyin": "Mian Dan Liu"
+  },
+  {
+    "id": "10.17",
+    "name": "Лицо единица 7",
+    "indications": "Боль в ушах, тиннитус",
+    "location": "Лицо",
+    "en": "Face Unit Seven",
+    "pinyin": "Mian Dan Qi"
+  },
+  {
+    "id": "10.18",
+    "name": "Лицо единица 8",
+    "indications": "Боль в горле, ангина",
+    "location": "Лицо",
+    "en": "Face Unit Eight",
+    "pinyin": "Mian Dan Ba"
+  },
+  {
+    "id": "10.19",
+    "name": "Лицо единица 9",
+    "indications": "Боль в языке, затруднение речи",
+    "location": "Лицо",
+    "en": "Face Unit Nine",
+    "pinyin": "Mian Dan Jiu"
+  },
+  {
+    "id": "10.20",
+    "name": "Лицо единица 10",
+    "indications": "Боль в шеи, ригидность",
+    "location": "Лицо",
+    "en": "Face Unit Ten",
+    "pinyin": "Mian Dan Shi"
+  },
+  {
+    "id": "10.21",
+    "name": "Макушка единица 1",
+    "indications": "Головная боль на макушке, выпадение волос",
+    "location": "Макушка",
+    "en": "Crown Unit One",
+    "pinyin": "Ding Dan Yi"
+  },
+  {
+    "id": "10.22",
+    "name": "Макушка единица 2",
+    "indications": "Головная боль, головокружение",
+    "location": "Макушка",
+    "en": "Crown Unit Two",
+    "pinyin": "Ding Dan Er"
+  },
+  {
+    "id": "10.23",
+    "name": "Макушка единица 3",
+    "indications": "Головная боль, бессонница",
+    "location": "Макушка",
+    "en": "Crown Unit Three",
+    "pinyin": "Ding Dan San"
+  },
+  {
+    "id": "10.24",
+    "name": "Макушка единица 4",
+    "indications": "Головная боль, эпилепсия",
+    "location": "Макушка",
+    "en": "Crown Unit Four",
+    "pinyin": "Ding Dan Si"
+  },
+  {
+    "id": "10.25",
+    "name": "Макушка единица 5",
+    "indications": "Головная головная боль, мигрень",
+    "location": "Макушка",
+    "en": "Crown Unit Five",
+    "pinyin": "Ding Dan Wu"
+  }
+]
