@@ -1,6 +1,29 @@
 {
-  "source": "Advanced_Tung_Style_Acupuncture_Vol_3_Nephrology,_Urology_&_Andrology.pdf",
-  "title": "1. Le Bai2, Yun2 Bai2, Fu2 Jian\\ and Wai4 Jian4 (MC):",
-  "text": "•\nLe Bai2: This point is located 2 cun distal and slightly dorsal to Yun2 Bai2• Needle 0.3 to\n0.5 cun. {Kidney Auxiliary and Lung Branch Reaction Areas}\n•\nYun2 Bai2: This point is located with the arm hanging naturally down by the side, and lies\n2.0 cun obliquely anterodistal (towards the chest) from the point Bei1 Mian4• (Bei1 Mian4\nlies in the center of a depression found immediately lateral to the acromion process with the\narm abducted to 90°.) Needle 0.3 to 0.5 cun. {Six Bowels and Lung Auxiliary Reaction\nAreas} Alternately, one may locate this point by proceeding 1 cun anterior and 1 cun\nproximal to Jian1 Zhong1. (Jian1 Zhong1 is found with the arm hanging loosely down by the\nside and is located in the center of the deltoid muscle, 3 cun distal to the space between the\nacromion process and the humerus.)\n•\nFu2 Jian4: This point is on the anterior surface of the middle phalanx of the 2nd digit (index\nfinger) on anterior digit line B. The proximal to distal location of this point is found by\ndividing the distance from the anterior proximal interphalangeal skin crease to the anterior\ndistal interphalangeal skin crease along anterior digit line B into thirds. The point is found\nat the demarcation between the middle and distal thirds on anterior digit line B. Needle 0.1\nto 0.2 cun - BILATERAL NEEDliNG CONTRAINDICATED. {Heart and Six Bowels\nReaction Areas}\n•\nWai4 Jian1: This point is on the anterior surface of the middle phalanx of the 2nd digit\n(index finger) on anterior digit line B. The proximal to distallocation of this point is found\nby dividing the distance from the anterior proximal interphalangeal skin crease to the\nanterior distal interphalangeal skin crease along anterior digit line B into thirds. The point is\nfound at the demarcation between the proximal and middle thirds on digit line B. Needle\n0.1 to 0.2 cun - BILATERAL NEEDliNG CONTRAINDICATED. {Heart and Six Bowels\nReaction Areas}\nFu2 Jian4\nWai4 Jian4\nA-P view of the RIGHT Index Finger\n239\nUrethralgia (MC-2)",
-  "category": "tung"
+  "id": "bb4bc2a1-3408-4e25-aa0d-b3fb7999469e",
+  "object": "chat.completion",
+  "created": 1782906327,
+  "model": "deepseek-v4-flash",
+  "choices": [
+    {
+      "index": 0,
+      "message": {
+        "role": "assistant",
+        "content": "•\nLe Bai2 (乐白): Точка расположена на 2 цуня дистальнее и слегка дорсальнее точки Yun2 Bai2 (云白). Глубина иглоукалывания: 0,3–0,5 цуня. {Реактивные зоны вспомогательной точки почек и ответвления легких}\n•\nYun2 Bai2 (云白): Точка определяется при свободно опущенной вдоль тела руке. Расположена на 2,0 цуня косо-переднедистально (в направлении грудной клетки) от точки Bei1 Mian4 (背面). (Bei1 Mian4 находится в центре углубления, расположенного непосредственно латеральнее акромиального отростка при отведении руки на 90°.) Глубина иглоукалывания: 0,3–0,5 цуня. {Реактивные зоны шести органов фу и вспомогательной точки легких} Альтернативный метод локализации: отступить 1 цунь кпереди и 1 цунь проксимальнее от точки Jian1 Zhong1 (肩中). (Jian1 Zhong1 определяется при свободно опущенной руке в центре дельтовидной мышцы, на 3 цуня дистальнее промежутка между акромиальным отростком и плечевой костью.)\n•\nFu2 Jian4 (浮间): Точка расположена на передней поверхности средней фаланги II пальца (указательного) на передней пальцевой линии B. Проксимально-дистальное расположение определяется делением расстояния от передней проксимальной межфаланговой кожной складки до передней дистальной межфаланговой кожной складки по передней пальцевой линии B на три части. Точка находится на границе средней и дистальной третей по передней пальцевой линии B. Глубина иглоукалывания: 0,1–0,2 цуня — ДВУСТОРОННЕЕ ИГЛОУКАЛЫВАНИЕ ПРОТИВОПОКАЗАНО. {Реактивные зоны сердца и шести органов фу}\n•\nWai4 Jian1 (外间): Точка расположена на передней поверхности средней фаланги II пальца (указательного) на передней пальцевой"
+      },
+      "logprobs": null,
+      "finish_reason": "stop"
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 453,
+    "completion_tokens": 549,
+    "total_tokens": 1002,
+    "prompt_tokens_details": {
+      "cached_tokens": 0
+    },
+    "prompt_cache_hit_tokens": 0,
+    "prompt_cache_miss_tokens": 453
+  },
+  "system_fingerprint": "fp_8b330d02d0_prod0820_fp8_kvcache_20260402",
+  "text_ru": "•\nLe Bai2 (乐白): Точка расположена на 2 цуня дистальнее и слегка дорсальнее точки Yun2 Bai2 (云白). Глубина иглоукалывания: 0,3–0,5 цуня. {Реактивные зоны вспомогательной точки почек и ответвления легких}\n•\nYun2 Bai2 (云白): Точка определяется при свободно опущенной вдоль тела руке. Расположена на 2,0 цуня косо-переднедистально (в направлении грудной клетки) от точки Bei1 Mian4 (背面). (Bei1 Mian4 находится в центре углубления, расположенного непосредственно латеральнее акромиального отростка при отведении руки на 90°.) Глубина иглоукалывания: 0,3–0,5 цуня. {Реактивные зоны шести органов фу и вспомогательной точки легких} Альтернативный метод локализации: отступить 1 цунь кпереди и 1 цунь проксимальнее от точки Jian1 Zhong1 (肩中). (Jian1 Zhong1 определяется при свободно опущенной руке в центре дельтовидной мышцы, на 3 цуня дистальнее промежутка между акромиальным отростком и плечевой костью.)\n•\nFu2 Jian4 (浮间): Точка расположена на передней поверхности средней фаланги II пальца (указательного) на передней пальцевой линии B. Проксимально-дистальное расположение определяется делением расстояния от передней проксимальной межфаланговой кожной складки до передней дистальной межфаланговой кожной складки по передней пальцевой линии B на три части. Точка находится на границе средней и дистальной третей по передней пальцевой линии B. Глубина иглоукалывания: 0,1–0,2 цуня — ДВУСТОРОННЕЕ ИГЛОУКАЛЫВАНИЕ ПРОТИВОПОКАЗАНО. {Реактивные зоны сердца и шести органов фу}\n•\nWai4 Jian1 (外间): Точка расположена на передней поверхности средней фаланги II пальца (указательного) на передней пальцевой"
 }

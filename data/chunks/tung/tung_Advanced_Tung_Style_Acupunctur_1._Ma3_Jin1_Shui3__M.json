@@ -1,6 +1,29 @@
 {
-  "source": "Advanced_Tung_Style_Acupuncture_Vol_3_Nephrology,_Urology_&_Andrology.pdf",
-  "title": "1. Ma3 Jin1 Shui3, Ma3 Kuai4 Shui3, Liu4 Kuai4, and Qi1 Kuai4 (MC):",
-  "text": "•\nMa3 Jin1 Shui3: This point is found on the face in the depression located along the inferior\nborder of the zygomatic bone at the medial-to-laterallevel of the lateral canthus. Needle 0.1\nto 0.3 cun. {Kidney and Lung Auxiliary Reaction Areas}\n•\nMa3 Kuai4 Shui3: This point is 0.4 cun immediately inferior to Ma3 Jin1 Shui3\napproximately at the most caudal level of the nose. Needle 0.1 to 0.3 cun. {Kidney and\nBladder Reaction Areas}\n•\nLiu4 Kuai4: This point is located on the face, 1.4 cun lateral to the center of the philtrum\n(GV-26WH0 ). Needle 0.1 to 0.3 cun. {Endocrine Reaction Area} To locate the center of the\nphiltrum, bisect the distance from the extraorallabial-cutaneous junction to the base of the\nnose between the nostrils.\n• Qi1 Kuai4: This point is located on the face, 0.5 cun lateral to the commissure of the lips at\nthe angle of the mouth. Needle obliquely from medial to lateral 0.5 to 1.5 cun. {Lung\nReaction Area}\n265\nUroschesis (LKC-1)",
-  "category": "tung"
+  "id": "e34d2252-0c03-4bf6-8ec0-41d4c70a9547",
+  "object": "chat.completion",
+  "created": 1782906359,
+  "model": "deepseek-v4-flash",
+  "choices": [
+    {
+      "index": 0,
+      "message": {
+        "role": "assistant",
+        "content": "•\n**Ma3 Jin1 Shui3 (麻筋水)**: 位于面部，颧骨下缘凹陷处，平外眦内侧至外侧水平。针刺0.1–0.3寸。{肾与肺辅助反应区}\n•\n**Ma3 Kuai4 Shui3 (麻块水)**: 位于Ma3 Jin1 Shui3正下方0.4寸，约平鼻部最尾端水平。针刺0.1–0.3寸。{肾与膀胱反应区}\n•\n**Liu4 Kuai4 (六块)**: 位于面部，人中（GV-26WH0）中心外侧1.4寸。针刺0.1–0.3寸。{内分泌反应区} 定位人中中心时，取口外唇-皮肤交界处至鼻孔间鼻基底距离的中点。\n•\n**Qi1 Kuai4 (七块)**: 位于面部，口角唇联合外侧0.5寸。由内向外斜刺0.5–1.5寸。{肺反应区}\n265\n尿潴留 (LKC-1)"
+      },
+      "logprobs": null,
+      "finish_reason": "stop"
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 340,
+    "completion_tokens": 237,
+    "total_tokens": 577,
+    "prompt_tokens_details": {
+      "cached_tokens": 0
+    },
+    "prompt_cache_hit_tokens": 0,
+    "prompt_cache_miss_tokens": 340
+  },
+  "system_fingerprint": "fp_8b330d02d0_prod0820_fp8_kvcache_20260402",
+  "text_ru": "•\n**Ma3 Jin1 Shui3 (麻筋水)**: 位于面部，颧骨下缘凹陷处，平外眦内侧至外侧水平。针刺0.1–0.3寸。{肾与肺辅助反应区}\n•\n**Ma3 Kuai4 Shui3 (麻块水)**: 位于Ma3 Jin1 Shui3正下方0.4寸，约平鼻部最尾端水平。针刺0.1–0.3寸。{肾与膀胱反应区}\n•\n**Liu4 Kuai4 (六块)**: 位于面部，人中（GV-26WH0）中心外侧1.4寸。针刺0.1–0.3寸。{内分泌反应区} 定位人中中心时，取口外唇-皮肤交界处至鼻孔间鼻基底距离的中点。\n•\n**Qi1 Kuai4 (七块)**: 位于面部，口角唇联合外侧0.5寸。由内向外斜刺0.5–1.5寸。{肺反应区}\n265\n尿潴留 (LKC-1)"
 }

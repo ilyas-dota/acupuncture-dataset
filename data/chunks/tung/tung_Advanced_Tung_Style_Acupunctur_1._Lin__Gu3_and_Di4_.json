@@ -1,6 +1,29 @@
 {
-  "source": "Advanced_Tung_Style_Acupuncture_Vol_3_Nephrology,_Urology_&_Andrology.pdf",
-  "title": "1. Lin~ Gu3 and Di4 Huan~ (HPC):",
-  "text": "•\nLin~ Gu3: This point is located on the dorsum of the hand, immediately distal to the\narticulation of the bases of the 1st and 2nd metacarpal bones - the point communicates with\nthe palmar point Chong2 Xian1• Needle 1.5 to 2.0 cun i.e. one may needle through to\nconnect with Chong2 Xian1• CONTRAINDICATED IN PREGNANCY. {Lung Branch\nReaction Area}\n•\nDi4 Huan~: This point is located 7 cun proximal to the medial malleolus along the medial\nborder of the tibia. Needle inferior to superior at a 45° angle 1.0 to 1.8 cun.\nCONTRAINDICATED IN PREGNANCY. {Kidney Reaction Area}\nOveractive Bladder (HPC-2)",
-  "category": "tung"
+  "id": "f0cc7e23-dc9d-4397-99e7-22fede9fa7ca",
+  "object": "chat.completion",
+  "created": 1782906333,
+  "model": "deepseek-v4-flash",
+  "choices": [
+    {
+      "index": 0,
+      "message": {
+        "role": "assistant",
+        "content": "•\nLin~ Gu3: Точка расположена на тыльной стороне кисти, дистальнее сочленения оснований I и II пястных костей — сообщается с ладонной точкой Chong2 Xian1. Глубина иглы 1,5–2,0 цуня, допускается сквозное иглоукалывание до соединения с Chong2 Xian1. ПРОТИВОПОКАЗАНО ПРИ БЕРЕМЕННОСТИ. {Зона реакции легочной ветви}\n•\nDi4 Huan~: Точка расположена на 7 цуней проксимальнее медиальной лодыжки по медиальному краю большеберцовой кости. Иглу вводят снизу вверх под углом 45° на глубину 1,0–1,8 цуня. ПРОТИВОПОКАЗАНО ПРИ БЕРЕМЕННОСТИ. {Зона реакции почек}\nГиперактивный мочевой пузырь (HPC-2)"
+      },
+      "logprobs": null,
+      "finish_reason": "stop"
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 223,
+    "completion_tokens": 243,
+    "total_tokens": 466,
+    "prompt_tokens_details": {
+      "cached_tokens": 0
+    },
+    "prompt_cache_hit_tokens": 0,
+    "prompt_cache_miss_tokens": 223
+  },
+  "system_fingerprint": "fp_8b330d02d0_prod0820_fp8_kvcache_20260402",
+  "text_ru": "•\nLin~ Gu3: Точка расположена на тыльной стороне кисти, дистальнее сочленения оснований I и II пястных костей — сообщается с ладонной точкой Chong2 Xian1. Глубина иглы 1,5–2,0 цуня, допускается сквозное иглоукалывание до соединения с Chong2 Xian1. ПРОТИВОПОКАЗАНО ПРИ БЕРЕМЕННОСТИ. {Зона реакции легочной ветви}\n•\nDi4 Huan~: Точка расположена на 7 цуней проксимальнее медиальной лодыжки по медиальному краю большеберцовой кости. Иглу вводят снизу вверх под углом 45° на глубину 1,0–1,8 цуня. ПРОТИВОПОКАЗАНО ПРИ БЕРЕМЕННОСТИ. {Зона реакции почек}\nГиперактивный мочевой пузырь (HPC-2)"
 }

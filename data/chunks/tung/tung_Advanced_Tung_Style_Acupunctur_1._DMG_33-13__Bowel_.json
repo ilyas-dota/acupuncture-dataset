@@ -1,6 +1,29 @@
 {
-  "source": "Advanced_Tung_Style_Acupuncture_Vol_3_Nephrology,_Urology_&_Andrology.pdf",
-  "title": "1. DMG 33-13 'Bowel Division 3 Needles', Linl( Gu3, Di4 Huang2, Ren2 Huanl(, Wan",
-  "text": "Yi1, and 'Let' the Occipital Region of the lower extremity - treat daily and within 2 weeks\nthere should be a clear improvement in the clinical picture (HPC):\n•\nDMG 33-13 'Bowel Division Three Needles':\ni. Fu3 Ge2 Er4: This point is located on the posterior surface of the proximal\nantebrachium, 0.8 cun distal to LI-11 WHO' on the Hand Y ang2 Ming2 Large Intestine\nChannel. Needle 0.5 to 0.8 cun. {Heart and Lung Branch Reaction Areas}\nii. Fu3 Ge2 Yi1: This point is located 8 fen radial to Fu3 Ge2 Er4. Needle 0.5 to 0.8 cun.\n{Heart and Lung Branch Reaction Areas}\niii. Fu3 Ge2 San1: This point is located 8 fen medial (ulnar) to Fu3 Ge2 Er4• Needle 0.5\nto 0.8 cun. {Heart and Lung Branch Reaction Areas}\n•\nLinlf Gu3: This point is found on the dorsum of the hand, immediately distal to the\narticulation of the bases of the 1st and 2nd metacarpals; have the patient make a loose fist to\nfacilitate point location- this point communicates with the palmar point Zhong4 Xian1 Cfl\n{UJ a.k.a. Chong2 Xian1). Needle with a 1.5 - 2.0 cun needle; puncture through to connect\nwith Zhong4 Xian1 CmfliJ a.k.a. Chong2 Xian1). CONTRAINDICATED IN PREGNANCY.\n{Lung Branch Reaction Area}\n•\nDi4 Huanl(: This point is located 7 cun proximal to the medial malleolus along the medial\nborder of the tibia. Needle inferior to superior at a 45° angle 1.0 to 1.8 cun.\nCONTRAINDICATED IN PREGNANCY. {Kidney Branch Reaction Area}\n•\nRen2 Huanl(: This point is located 3 cun proximal to the medial malleolus along the\nmedial border of the tibia. Needle 0.6 to 1.2 cun. CONTRAINDICATED IN PREGNANCY.\n{Kidney Branch Reaction Area}\n•\nWan4 Shun4 Yi1: This point is located 2.5 cun distal to the anterior distal transverse wrist\ncrease, anterior to the 5th metacarpal bone, at the junction of the 'red and white skin'.\nNeedle 0.2 to 0.4 cun. {Kidney Branch Reaction Area}\nLI-llWHO\nr-e\nDMG 33-13 'Bowel Division 3 Needles'\n261\nUrolithiasis (HPC-2)\n262\nUrolithiasis (LCH)",
-  "category": "tung"
+  "id": "8f8e9a90-06f5-490c-a655-a964f984830a",
+  "object": "chat.completion",
+  "created": 1782906177,
+  "model": "deepseek-v4-flash",
+  "choices": [
+    {
+      "index": 0,
+      "message": {
+        "role": "assistant",
+        "content": "Yi1, и «Пусть» затылочная область нижней конечности — проводить лечение ежедневно, в течение 2 недель должно наблюдаться четкое улучшение клинической картины (HPC):\n\n• DMG 33-13 «Три иглы кишечного отдела»:\n   i. Fu3 Ge2 Er4: Точка расположена на задней поверхности проксимального отдела предплечья, на 0,8 цуня дистальнее LI-11 (по ВОЗ) на канале толстой кишки Hand Yang2 Ming2. Глубина иглы 0,5–0,8 цуня. {Реакционные зоны ветвей сердца и легких}\n   ii. Fu3 Ge2 Yi1: Точка расположена на 8 фэней радиально от Fu3 Ge2 Er4. Глубина иглы 0,5–0,8 цуня. {Реакционные зоны ветвей сердца и легких}\n   iii. Fu3 Ge2 San1: Точка расположена на 8 фэней медиально (локтевой край) от Fu3 Ge2 Er4. Глубина иглы 0,5–0,8 цуня. {Реакционные зоны ветвей сердца и легких}\n\n• Linlf Gu3: Точка находится на тыльной стороне кисти, сразу дистальнее сочленения оснований 1-й и 2-й пястных костей; попросите пациента сжать руку в неплотный кулак для облегчения локализации точки — эта точка сообщается с ладонной точкой Zhong4 Xian1 (также известной как Chong2 Xian1). Используйте иглу длиной 1,5–2,0 цуня; прокол насквозь для соединения с Zhong4 Xian1 (Chong2 Xian1). ПРОТИВОПОКАЗАНО ПРИ БЕРЕМЕННОСТИ. {Реакционная зона ветви легких}\n\n• Di4 Huanl: Точка расположена на 7 цуней проксимальнее медиальной лодыжки по медиальному краю большеберцовой кости. Вводите иглу снизу вверх под углом 45° на глубину 1,0–1,8 цуня. ПРОТИВОПОКАЗАНО ПРИ БЕРЕМЕННОСТИ. {Реакционная зона ветви почек}\n\n• Ren2 Huanl: Точка расположена на 3 цуня проксимальнее медиальной лодыжки по медиальному краю"
+      },
+      "logprobs": null,
+      "finish_reason": "stop"
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 505,
+    "completion_tokens": 600,
+    "total_tokens": 1105,
+    "prompt_tokens_details": {
+      "cached_tokens": 0
+    },
+    "prompt_cache_hit_tokens": 0,
+    "prompt_cache_miss_tokens": 505
+  },
+  "system_fingerprint": "fp_8b330d02d0_prod0820_fp8_kvcache_20260402",
+  "text_ru": "Yi1, и «Пусть» затылочная область нижней конечности — проводить лечение ежедневно, в течение 2 недель должно наблюдаться четкое улучшение клинической картины (HPC):\n\n• DMG 33-13 «Три иглы кишечного отдела»:\n   i. Fu3 Ge2 Er4: Точка расположена на задней поверхности проксимального отдела предплечья, на 0,8 цуня дистальнее LI-11 (по ВОЗ) на канале толстой кишки Hand Yang2 Ming2. Глубина иглы 0,5–0,8 цуня. {Реакционные зоны ветвей сердца и легких}\n   ii. Fu3 Ge2 Yi1: Точка расположена на 8 фэней радиально от Fu3 Ge2 Er4. Глубина иглы 0,5–0,8 цуня. {Реакционные зоны ветвей сердца и легких}\n   iii. Fu3 Ge2 San1: Точка расположена на 8 фэней медиально (локтевой край) от Fu3 Ge2 Er4. Глубина иглы 0,5–0,8 цуня. {Реакционные зоны ветвей сердца и легких}\n\n• Linlf Gu3: Точка находится на тыльной стороне кисти, сразу дистальнее сочленения оснований 1-й и 2-й пястных костей; попросите пациента сжать руку в неплотный кулак для облегчения локализации точки — эта точка сообщается с ладонной точкой Zhong4 Xian1 (также известной как Chong2 Xian1). Используйте иглу длиной 1,5–2,0 цуня; прокол насквозь для соединения с Zhong4 Xian1 (Chong2 Xian1). ПРОТИВОПОКАЗАНО ПРИ БЕРЕМЕННОСТИ. {Реакционная зона ветви легких}\n\n• Di4 Huanl: Точка расположена на 7 цуней проксимальнее медиальной лодыжки по медиальному краю большеберцовой кости. Вводите иглу снизу вверх под углом 45° на глубину 1,0–1,8 цуня. ПРОТИВОПОКАЗАНО ПРИ БЕРЕМЕННОСТИ. {Реакционная зона ветви почек}\n\n• Ren2 Huanl: Точка расположена на 3 цуня проксимальнее медиальной лодыжки по медиальному краю"
 }

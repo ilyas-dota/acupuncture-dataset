@@ -1,6 +1,29 @@
 {
-  "source": "Cosmetic Acu_Eng_kindle.pdf",
-  "title": "1. White balance",
-  "text": "Skin tone (color) can be greatly affected by\nenvironmental lighting. To compare photos\ntaken at different times, you need to set up\nthe white balance correctly. The best way is to\ntake photo in a completely white room with\nlight source. Block the natural light as much\nas  possible  and  use  the  strobe  as  a  light\nsource. Ring ﬂash is good enough and if you\nhave enough space, a small soft box helps to\nreduce reﬂection of the skin.\nSet  the  white  balance  manually  with  a\n50% gray card. If the room condition is the\nsame all the time, you do not have to re-set\nthe  white  balance  again.  Including  a  50%\ngray card inside the frame is a good idea; by\ndoing that, you can get a perfectly matching\nskin tone even after the shot.\nDIGITAL PHOTOGRAPHY TECHNIQUES\nIN COSMETIC ACUPUNCTURE\nPhotos can add a certain amount of objectivity. Digital photography is an\nessential  tool  for  cosmetic  acupuncture  practice.  You  can  discuss\ntreatment  goals  and  problems  with  objective  photos  and  assess  the\ntreatment result by comparing the before and after treatment photos. It\nwill be instant (fast) and useful if you set these up properly.\nFacial  Cosmetic Acupuncture\n~ !\n~\n112",
-  "category": "general"
+  "id": "cc3b28ae-e557-4371-b58b-adba62c9f10e",
+  "object": "chat.completion",
+  "created": 1782905699,
+  "model": "deepseek-v4-flash",
+  "choices": [
+    {
+      "index": 0,
+      "message": {
+        "role": "assistant",
+        "content": "Цвет кожи может значительно изменяться под воздействием окружающего освещения. Для сравнения фотографий, сделанных в разное время, необходимо правильно настроить баланс белого. Оптимальный способ — фотографировать в полностью белом помещении с источником света. Максимально блокируйте естественный свет и используйте стробоскоп в качестве источника освещения. Кольцевая вспышка подойдет, а при наличии достаточного пространства небольшая софт-бокс поможет уменьшить отражение от кожи.\n\nУстановите баланс белого вручную с помощью 50% серой карты. Если условия в помещении остаются неизменными, повторная настройка баланса белого не требуется. Рекомендуется включать 50% серую карту в кадр — это позволит добиться идеального соответствия оттенка кожи даже после съемки.\n\nТЕХНИКИ ЦИФРОВОЙ ФОТОГРАФИИ В КОСМЕТИЧЕСКОЙ АКУПУНКТУРЕ\n\nФотографии могут добавить определенную степень объективности. Цифровая фотография является незаменимым инструментом в практике косметической акупунктуры. Вы можете обсуждать цели лечения и проблемы с помощью объективных снимков, а также оценивать результаты терапии, сравнивая фотографии «до» и «после». При правильной настройке этот метод будет быстрым и полезным.\n\nКосметическая акупунктура лица\n~ !\n~\n112"
+      },
+      "logprobs": null,
+      "finish_reason": "stop"
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 344,
+    "completion_tokens": 350,
+    "total_tokens": 694,
+    "prompt_tokens_details": {
+      "cached_tokens": 0
+    },
+    "prompt_cache_hit_tokens": 0,
+    "prompt_cache_miss_tokens": 344
+  },
+  "system_fingerprint": "fp_8b330d02d0_prod0820_fp8_kvcache_20260402",
+  "text_ru": "Цвет кожи может значительно изменяться под воздействием окружающего освещения. Для сравнения фотографий, сделанных в разное время, необходимо правильно настроить баланс белого. Оптимальный способ — фотографировать в полностью белом помещении с источником света. Максимально блокируйте естественный свет и используйте стробоскоп в качестве источника освещения. Кольцевая вспышка подойдет, а при наличии достаточного пространства небольшая софт-бокс поможет уменьшить отражение от кожи.\n\nУстановите баланс белого вручную с помощью 50% серой карты. Если условия в помещении остаются неизменными, повторная настройка баланса белого не требуется. Рекомендуется включать 50% серую карту в кадр — это позволит добиться идеального соответствия оттенка кожи даже после съемки.\n\nТЕХНИКИ ЦИФРОВОЙ ФОТОГРАФИИ В КОСМЕТИЧЕСКОЙ АКУПУНКТУРЕ\n\nФотографии могут добавить определенную степень объективности. Цифровая фотография является незаменимым инструментом в практике косметической акупунктуры. Вы можете обсуждать цели лечения и проблемы с помощью объективных снимков, а также оценивать результаты терапии, сравнивая фотографии «до» и «после». При правильной настройке этот метод будет быстрым и полезным.\n\nКосметическая акупунктура лица\n~ !\n~\n112"
 }

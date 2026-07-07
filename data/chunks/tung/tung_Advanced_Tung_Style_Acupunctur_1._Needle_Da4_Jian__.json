@@ -1,6 +1,29 @@
 {
-  "source": "Advanced_Tung_Style_Acupuncture_Vol_3_Nephrology,_Urology_&_Andrology.pdf",
-  "title": "1. Needle Da4 Jian\\ Xiao3 Jian4, Wai4 Jian\\ and Fu2 Jian4; additionally, one may",
-  "text": "'Malign-Blood' from Da4 Jian4, Xiao3 Jian4, Wai4 Jian4, and Fu2 Jian4 - treat daily (HPC):\n•\nDa4 Jian4: This point is located on the anterior surface of the proximal phalanx of the index\nfinger, 0.3 cun radial (lateral) to the exact center of said phalanx. Needle 0.2 to 0.3 cun.\nBILATERAL NEEDLING CONTRAINDICATED. {Heart Organ and Six Bowels Branch\nReaction Areas} (This point is located at the proximal-to-distal center of digit line B; to\nlocate the center of digit line B, simply bisect the distance from the anterior\nmetacarpophalangeal skin crease to the anterior proximal interphalangeal skin crease along\nthe course of digit line B.)\n•\nXiao3 Jian4: This point is located 0.2 cun distal to Da4 Jian4• Needle 0.2 to 0.3 cun.\nBILATERAL NEEDLING CONTRAINDICATED. {Lung Branch, Heart Organ, and Six\nBowels Branch Reaction Areas}\n•\nWai4 Jian4: This point is located on the anterior surface of the middle phalanx of the index\nfinger, 0.2 cun radial (lateral) to the median plane of said phalanx, and one third the\ndistance from the proximal interphalangeal skin crease to the distal interphalangeal skin\ncrease. Needle 0.2 cun. BILATERAL NEEDLING CONTRAINDICATED. {Heart Organ and\nSix Bowels Branch Reaction Areas} (This point is located one third the distance from the\nproximal interphalangeal skin crease to the distal interphalangeal skin crease, along the\ncourse of digit line B.)\n•\nFu2 Jian4: This point is located on the anterior surface of the middle phalanx of the index\nfinger, 0.2 cun radial (lateral) to the median plane of said phalanx, and two thirds the\ndistance from the proximal interphalangeal skin crease to the distal interphalangeal skin\ncrease. Needle 0.2 cun. BILATERAL NEEDLING CONTRAINDICATED. {Heart Organ and\nSix Bowels Branch Reaction Areas} (This point is located two thirds the distance from the\nproximal interphalangeal skin crease to the distal interphalangeal skin crease, along the\ncourse of digit line B.)\nPalmar surface LEFf Index\nPalmar surface RIGHT Index\n334\nSeminoma (LKC-1)",
-  "category": "tung"
+  "id": "8dcd5322-02d6-43d9-ad79-7a236b52a2b9",
+  "object": "chat.completion",
+  "created": 1782906389,
+  "model": "deepseek-v4-flash",
+  "choices": [
+    {
+      "index": 0,
+      "message": {
+        "role": "assistant",
+        "content": "'恶血'来自大间、小间、外间、浮间——每日治疗（HPC）：\n•\n大间：此穴位于食指近节指骨前侧面，距该指骨正中点桡侧（外侧）0.3寸。针刺0.2至0.3寸。禁止双侧针刺。{心脏及六腑支反应区}（此穴位于指线B的近端至远端中点；定位指线B中点时，只需沿指线B路径，将掌指前侧皮纹至近端指间前侧皮纹的距离平分即可。）\n•\n小间：此穴位于大间远端0.2寸处。针刺0.2至0.3寸。禁止双侧针刺。{肺支、心脏及六腑支反应区}\n•\n外间：此穴位于食指中节指骨前侧面，距该指骨正中平面桡侧（外侧）0.2寸，位于近端指间皮纹至远端指间皮纹距离的三分之一处。针刺0.2寸。禁止双侧针刺。{心脏及六腑支反应区}（此穴位于沿指线B路径，近端指间皮纹至远端指间皮纹距离的三分之一处。）\n•\n浮间：此穴位于食指中节指骨前侧面，桡侧0.2寸处。"
+      },
+      "logprobs": null,
+      "finish_reason": "stop"
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 476,
+    "completion_tokens": 285,
+    "total_tokens": 761,
+    "prompt_tokens_details": {
+      "cached_tokens": 0
+    },
+    "prompt_cache_hit_tokens": 0,
+    "prompt_cache_miss_tokens": 476
+  },
+  "system_fingerprint": "fp_8b330d02d0_prod0820_fp8_kvcache_20260402",
+  "text_ru": "'恶血'来自大间、小间、外间、浮间——每日治疗（HPC）：\n•\n大间：此穴位于食指近节指骨前侧面，距该指骨正中点桡侧（外侧）0.3寸。针刺0.2至0.3寸。禁止双侧针刺。{心脏及六腑支反应区}（此穴位于指线B的近端至远端中点；定位指线B中点时，只需沿指线B路径，将掌指前侧皮纹至近端指间前侧皮纹的距离平分即可。）\n•\n小间：此穴位于大间远端0.2寸处。针刺0.2至0.3寸。禁止双侧针刺。{肺支、心脏及六腑支反应区}\n•\n外间：此穴位于食指中节指骨前侧面，距该指骨正中平面桡侧（外侧）0.2寸，位于近端指间皮纹至远端指间皮纹距离的三分之一处。针刺0.2寸。禁止双侧针刺。{心脏及六腑支反应区}（此穴位于沿指线B路径，近端指间皮纹至远端指间皮纹距离的三分之一处。）\n•\n浮间：此穴位于食指中节指骨前侧面，桡侧0.2寸处。"
 }

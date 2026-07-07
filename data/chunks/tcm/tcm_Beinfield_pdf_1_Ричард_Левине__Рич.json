@@ -1,6 +1,29 @@
 {
-  "source": "Beinfield.pdf",
-  "title": "1 Ричард Левине, Ричард Левонтин, «Диалектическая биология»/",
-  "text": "Richard Levins & Richard Lewontin, The Dialectical Biologist (Cambridge:\nHarvard University Press, 1985), 3, 136, 179.",
-  "category": "tcm"
+  "id": "842f6fa6-d0a1-4c48-b4d6-297cd9a513b2",
+  "object": "chat.completion",
+  "created": 1782905940,
+  "model": "deepseek-v4-flash",
+  "choices": [
+    {
+      "index": 0,
+      "message": {
+        "role": "assistant",
+        "content": "Richard Levins & Richard Lewontin, The Dialectical Biologist (Cambridge: Harvard University Press, 1985), 3, 136, 179."
+      },
+      "logprobs": null,
+      "finish_reason": "stop"
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 70,
+    "completion_tokens": 35,
+    "total_tokens": 105,
+    "prompt_tokens_details": {
+      "cached_tokens": 0
+    },
+    "prompt_cache_hit_tokens": 0,
+    "prompt_cache_miss_tokens": 70
+  },
+  "system_fingerprint": "fp_8b330d02d0_prod0820_fp8_kvcache_20260402",
+  "text_ru": "Richard Levins & Richard Lewontin, The Dialectical Biologist (Cambridge: Harvard University Press, 1985), 3, 136, 179."
 }

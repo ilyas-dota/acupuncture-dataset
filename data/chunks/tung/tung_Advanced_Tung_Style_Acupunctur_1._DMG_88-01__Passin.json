@@ -1,6 +1,29 @@
 {
-  "source": "Advanced_Tung_Style_Acupuncture_Vol_3_Nephrology,_Urology_&_Andrology.pdf",
-  "title": "1. DMG 88-01 'Passing Through the Kidney Three Needles', Liu4 Kuai4, and Qi1 Kua",
-  "text": "•\nDMG 88-01 'Passin.r Through the Kidney Three Needles':\ni. Tong1 Shen : This point is located in the depression found at the superomedial\nangle of the latella. Needle 0.3 to 0.5 cun. {Kidney Reaction Area}\nn. Tong1 Wei : This point is located 2.0 cun immediately proximal to Tong1 Shen4.\nNeedle 0.5 to 1.0 cun. {Kidney Reaction Area}\niii. Tong1 Bei4: This point is located 4.0 cun immediately proximal to Tong1 Shen4•\nNeedle 0.5 to 1.0 cun. {Kidney Reaction Area}\n•\nLiu4 Kuai4: This point is located on the face, 1.4 cun lateral to the center of the philtrum\n(GV-26WH0 ). Needle 0.1 to 0.3 cun. {Endocrine Reaction Area} To locate the center of the\nphiltrum, bisect the distance from the extraorallabial-cutaneous junction to the base of the\nnose between the nostrils.\n•\nQi1 Kuai4: This point is located on the face, 0.5 cun lateral to the commissure of the lips at\nthe angle of the mouth. Needle obliquely from medial to lateral 0.5 to 1.5 cun. {Lung\nReaction Area}\nDMG 88-01 'Passing Through\nthe Kidney 3 Needles'\nUrethritis (MC-2)\n[Non-specific, Non-gonococcal]",
-  "category": "tung"
+  "id": "969ce5f0-1b60-4184-af04-4508cc94feaf",
+  "object": "chat.completion",
+  "created": 1782906208,
+  "model": "deepseek-v4-flash",
+  "choices": [
+    {
+      "index": 0,
+      "message": {
+        "role": "assistant",
+        "content": "DMG 88-01 «Прохождение через три иглы почки»:\n\ni. Тун1 Шэнь: Точка расположена в углублении у верхнемедиального угла надколенника. Глубина иглы 0,3–0,5 цуня. {Зона реакции почек}\nii. Тун1 Вэй: Точка расположена на 2,0 цуня проксимальнее Тун1 Шэнь4. Глубина иглы 0,5–1,0 цуня. {Зона реакции почек}\niii. Тун1 Бэй4: Точка расположена на 4,0 цуня проксимальнее Тун1 Шэнь4. Глубина иглы 0,5–1,0 цуня. {Зона реакции почек}\n\n• Лю4 Куай4: Точка расположена на лице, на 1,4 цуня латеральнее центра фильтрума (GV-26WH0). Глубина иглы 0,1–0,3 цуня. {Зона реакции эндокринной системы} Для определения центра фильтрума разделите пополам расстояние от наружной кожно-губной границы до основания носа между ноздрями.\n\n• Ци1 Куай4: Точка расположена на лице, на 0,5 цуня латеральнее спайки губ в углу рта. Иглу вводят косо с медиальной стороны в латеральную на глубину 0,5–1,5 цуня. {Зона реакции легких}\n\nDMG 88-01 «Прохождение через три иглы почки»\nУретрит (MC-2)\n[Неспецифический, негонорейный]"
+      },
+      "logprobs": null,
+      "finish_reason": "stop"
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 383,
+    "completion_tokens": 408,
+    "total_tokens": 791,
+    "prompt_tokens_details": {
+      "cached_tokens": 0
+    },
+    "prompt_cache_hit_tokens": 0,
+    "prompt_cache_miss_tokens": 383
+  },
+  "system_fingerprint": "fp_8b330d02d0_prod0820_fp8_kvcache_20260402",
+  "text_ru": "DMG 88-01 «Прохождение через три иглы почки»:\n\ni. Тун1 Шэнь: Точка расположена в углублении у верхнемедиального угла надколенника. Глубина иглы 0,3–0,5 цуня. {Зона реакции почек}\nii. Тун1 Вэй: Точка расположена на 2,0 цуня проксимальнее Тун1 Шэнь4. Глубина иглы 0,5–1,0 цуня. {Зона реакции почек}\niii. Тун1 Бэй4: Точка расположена на 4,0 цуня проксимальнее Тун1 Шэнь4. Глубина иглы 0,5–1,0 цуня. {Зона реакции почек}\n\n• Лю4 Куай4: Точка расположена на лице, на 1,4 цуня латеральнее центра фильтрума (GV-26WH0). Глубина иглы 0,1–0,3 цуня. {Зона реакции эндокринной системы} Для определения центра фильтрума разделите пополам расстояние от наружной кожно-губной границы до основания носа между ноздрями.\n\n• Ци1 Куай4: Точка расположена на лице, на 0,5 цуня латеральнее спайки губ в углу рта. Иглу вводят косо с медиальной стороны в латеральную на глубину 0,5–1,5 цуня. {Зона реакции легких}\n\nDMG 88-01 «Прохождение через три иглы почки»\nУретрит (MC-2)\n[Неспецифический, негонорейный]"
 }

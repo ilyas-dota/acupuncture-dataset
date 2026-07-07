@@ -1,6 +1,29 @@
 {
-  "source": "AL_Introduction_to_Tung's_Acupuncture.pdf",
-  "title": "7 Point Unit",
-  "text": "Location: Seven-point group. Median line: the uppermost point is located just inferior to\nthe tip of the xiphoid. The other two points on this line are locate 1 & 2 cun inferior.\nTung's Five Zang Channel: heart, stomach\nIndications: goat's hair malignant, gastric disorder, various types of cholera, heart palpita­\ntions, gastric hemorrhage.\nNeedle Technique: Prick the points with three-edged needle. In the treatment of goat's\nhair malignant, the wool-like hair is removed firstly.\n218\nMaster Tung' s Unique Points / Area DT and VT\nVT.05 Bowel Nest Twenty Three\n(Fu Chao Er Shi San) 11.fll=+\n_",
-  "category": "tung"
+  "id": "1690b773-6c0f-4e0d-a8d5-ddea9935d41a",
+  "object": "chat.completion",
+  "created": 1782906122,
+  "model": "deepseek-v4-flash",
+  "choices": [
+    {
+      "index": 0,
+      "message": {
+        "role": "assistant",
+        "content": "Расположение: Группа из семи точек. Срединная линия: самая верхняя точка расположена непосредственно ниже\nверхушки мечевидного отростка. Две другие точки на этой линии находятся на 1 и 2 цуня ниже.\nПять Цзан-каналов Мастера Туна: сердце, желудок\nПоказания: злокачественное заболевание «козья шерсть», желудочное расстройство, различные виды холеры, сердцебиение,\nжелудочное кровотечение.\nТехника иглоукалывания: Проколоть точки трехгранной иглой. При лечении злокачественного заболевания «козья шерсть» сначала удаляется шерстеподобный волос.\n218\nУникальные точки Мастера Туна / Область DT и VT\nVT.05 Гнездо кишечника двадцать три\n(Fu Chao Er Shi San) 11.fll=+"
+      },
+      "logprobs": null,
+      "finish_reason": "stop"
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 187,
+    "completion_tokens": 218,
+    "total_tokens": 405,
+    "prompt_tokens_details": {
+      "cached_tokens": 0
+    },
+    "prompt_cache_hit_tokens": 0,
+    "prompt_cache_miss_tokens": 187
+  },
+  "system_fingerprint": "fp_8b330d02d0_prod0820_fp8_kvcache_20260402",
+  "text_ru": "Расположение: Группа из семи точек. Срединная линия: самая верхняя точка расположена непосредственно ниже\nверхушки мечевидного отростка. Две другие точки на этой линии находятся на 1 и 2 цуня ниже.\nПять Цзан-каналов Мастера Туна: сердце, желудок\nПоказания: злокачественное заболевание «козья шерсть», желудочное расстройство, различные виды холеры, сердцебиение,\nжелудочное кровотечение.\nТехника иглоукалывания: Проколоть точки трехгранной иглой. При лечении злокачественного заболевания «козья шерсть» сначала удаляется шерстеподобный волос.\n218\nУникальные точки Мастера Туна / Область DT и VT\nVT.05 Гнездо кишечника двадцать три\n(Fu Chao Er Shi San) 11.fll=+"
 }

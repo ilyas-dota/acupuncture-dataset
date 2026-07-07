@@ -1,6 +1,29 @@
 {
-  "source": "Cosmetic Acu_Eng_kindle.pdf",
-  "title": "1. Background and History of Cosmetics in TCM",
-  "text": "The history of cosmetics in TCM is as long as the history of TCM itself. China’s oldest\nmedical text, Huangdi Neijing (黃帝內經), records foods and herbs for cosmetic purposes and\nelaborates on our aging process was as well. Shennong Bencaojing (神農本草經: c. A.D. 200)\nintroduced over 30 herbs for cosmetic uses. Sun Simiao introduced cosmetic acupuncture\nand more than 100 herbs for cosmetic purposes in his book Qianjin Yaofang (千金要方: c. A.D.\n700). Heo Jun in Korea even wrote a 'cosmetic mask pack' made of herbs, along with other\nvarious cosmetic interventions in his book, Dongui Bogam (東醫寶鑑: A.D. 1600). Korean\ncosmetic mask packs are gaining popularity even in the West nowadays.\nConsidering nature of TCM, this kind of development of cosmetic treatment is very\nnatural. TCM does not differentiate between cosmetic treatment and ailment treatment. They\nare divided only by purpose. A change of complexion in the face is an important tool of\ndiagnosis  for  internal  organs.  The  TCM  term,  Gwanhyungchalsaek  (觀形察色)  means\n'observing the ﬁgure and color of the face'. Therefore, restoring the complexion of face right\nis a part of treatment. On the other hand, healing the internal organs is a part of cosmetic\ntreatment. In conclusion, cosmetic treatment and regular treatment are actually one thing.",
-  "category": "general"
+  "id": "e4fd62ae-882a-45d9-8a7d-cd9a87987d60",
+  "object": "chat.completion",
+  "created": 1782905681,
+  "model": "deepseek-v4-flash",
+  "choices": [
+    {
+      "index": 0,
+      "message": {
+        "role": "assistant",
+        "content": "中医美容的历史与中医本身的历史一样悠久。中国最古老的医学典籍《黄帝内经》记载了具有美容功效的食物和草药，并详细阐述了人体的衰老过程。《神农本草经》（约公元200年）收录了30余种用于美容的草药。孙思邈在其著作《千金要方》（约公元700年）中介绍了美容针灸及100多种美容草药。朝鲜的许浚在《东医宝鉴》（公元1600年）中记载了草药制成的\"美容面膜\"及其他多种美容疗法。如今，韩式美容面膜在西方也日益流行。\n\n从中医的特性来看，这种美容疗法的发展十分自然。中医并不区分美容治疗与疾病治疗，二者仅因目的不同而有所区别。面部气色的变化是诊断内脏功能的重要依据。中医术语\"观形察色\"即指\"观察面部形态与色泽\"。因此，恢复面部正常气色本身就是治疗的一部分。反之，调理内脏也是美容治疗的组成部分。总而言之，美容治疗与常规治疗实为一体。"
+      },
+      "logprobs": null,
+      "finish_reason": "stop"
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 370,
+    "completion_tokens": 210,
+    "total_tokens": 580,
+    "prompt_tokens_details": {
+      "cached_tokens": 0
+    },
+    "prompt_cache_hit_tokens": 0,
+    "prompt_cache_miss_tokens": 370
+  },
+  "system_fingerprint": "fp_8b330d02d0_prod0820_fp8_kvcache_20260402",
+  "text_ru": "中医美容的历史与中医本身的历史一样悠久。中国最古老的医学典籍《黄帝内经》记载了具有美容功效的食物和草药，并详细阐述了人体的衰老过程。《神农本草经》（约公元200年）收录了30余种用于美容的草药。孙思邈在其著作《千金要方》（约公元700年）中介绍了美容针灸及100多种美容草药。朝鲜的许浚在《东医宝鉴》（公元1600年）中记载了草药制成的\"美容面膜\"及其他多种美容疗法。如今，韩式美容面膜在西方也日益流行。\n\n从中医的特性来看，这种美容疗法的发展十分自然。中医并不区分美容治疗与疾病治疗，二者仅因目的不同而有所区别。面部气色的变化是诊断内脏功能的重要依据。中医术语\"观形察色\"即指\"观察面部形态与色泽\"。因此，恢复面部正常气色本身就是治疗的一部分。反之，调理内脏也是美容治疗的组成部分。总而言之，美容治疗与常规治疗实为一体。"
 }

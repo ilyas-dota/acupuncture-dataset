@@ -1,6 +1,29 @@
 {
-  "source": "Cosmetic Acu_Eng_kindle.pdf",
-  "title": "5. Points for Nasolabial Folds and Marionette Lines",
-  "text": "Area around the mouth and the nose\n~ !  ~\n87\nFacial  Cosmetic Acupuncture\n~ !  ~\n88\nMuscles pulling upper lips up\n①Levator Labii Superioris *2\n②Levator Anguli Oris *2\nMuscles pulling lower lips down\n③Depressor Labii Inferioris *2\n④Depressor Anguli Oris *2\n⓶\n⓷\n⓸\n⓵\nMUSCLES RELATED TO\nNASOLABIAL FOLDS,\nMARIONETTE LINES, AND CHIN LINES\nThere  are  four  muscles  (eight  when  both  sides\ncombined)  around  the  lips.  Two  muscles  with  the\nlevator~,  which  elevate  the  upper  lips,  and  two\nmuscles with the depressor~, which pull the lower\nlips down. Each pair of muscles are doing the same\nwork.\nThe  muscles  with  the  anguli~  (angle)  are\nconnected to the end of lips, and the muscles with\nlabii~ are connected to the upper/lower lips.\nWhen  the  muscles  with  “the  levator  labii\n(mouth)~” are contracted, your mouth will be shaped\nlike below.\nWhen  the  muscles  with  “the  levator  anguli\n(angle)~\" are contracted, your mouth will be shaped\nlike below.\nFacial  Cosmetic Acupuncture\n~ !  ~\n89\n⓵ Zygomaticus Major *2\n⓶ Zygomaticus Minor *2\n⓵\n⓶\nMUSCLES RELATED TO\nNASOLABIAL FOLDS\nThe zygomaticus major and minor are other\nmuscles that elevate the end of lips like the\nlevator anguli oris and of the upper lip like the\nlevator  labii  superioris.  But  the  direction  is\ndifferent.  These  muscles  start  from  the\nzygomatic  bone,  and  the  zygomaticus  major\nﬁnishes at the end of lip while the zygomaticus\nminor ﬁnishes at the skin of the upper lip. A\ncontraction  of  the  zygomaticus  major  and\nminor pulls the end of lips to up and away from\nthe mouth, making a happy smile. Therefore,\nthe  zygomaticus  major  and  minor  are  also\ncalled as the smiling muscles.\nMany  other  muscles  like  the  levator  labii\nsuperioris,  the  levator  anguli  oris,  and  the\nrisorius are involved in smiling as well.\nFacial  Cosmetic Acupuncture\nNasolabial folds\nThe contraction of the levator labii superioris alaeque nasi, the levator labii superioris,\nand the zygomaticus minor make the nasolabial folds, and the nasolabial folds us look\ncynical. Cynical expression makes the nasolabial folds, and the nasolabial folds make us look\nmore cynical. It is a vicious cycle. Right, these wrinkles are deeply related to habitual facial\nexpression. Patients with deep nasolabial folds have tightened those muscles.  LI-20 and ST-3\nare very good points to release the muscles and help circulation around the wrinkle lines.\nTherefore, insert the needles at these points with perpendicular angle targeting the tightened\nmuscles, and insert the needles on the site of nasolabial folds with transverse angle making\nmicro trauma under the wrinkles which are already formed.",
-  "category": "general"
+  "id": "747f8a40-9740-44cb-9f7e-3a888002ae41",
+  "object": "chat.completion",
+  "created": 1782905890,
+  "model": "deepseek-v4-flash",
+  "choices": [
+    {
+      "index": 0,
+      "message": {
+        "role": "assistant",
+        "content": "Область вокруг рта и носа\n~ ! ~\n87\nКосметическая акупунктура лица\n~ ! ~\n88\nМышцы, поднимающие верхнюю губу\n① Мышца, поднимающая верхнюю губу *2\n② Мышца, поднимающая угол рта *2\nМышцы, опускающие нижнюю губу\n③ Мышца, опускающая нижнюю губу *2\n④ Мышца, опускающая угол рта *2\n⓶\n⓷\n⓸\n⓵\nМЫШЦЫ, СВЯЗАННЫЕ С\nНОСОГУБНЫМИ СКЛАДКАМИ,\nМАРИОНЕТОЧНЫМИ ЛИНИЯМИ И ЛИНИЯМИ ПОДБОРОДКА\nВокруг губ расположены четыре мышцы (восемь при учете обеих сторон). Две мышцы с приставкой \"леватор~\" (поднимающие), которые поднимают верхнюю губу, и две мышцы с приставкой \"депрессор~\" (опускающие), которые опускают нижнюю губу. Каждая пара мышц выполняет одинаковую работу.\nМышцы с приставкой \"ангули~\" (угол) прикрепляются к углам губ, а мышцы с приставкой \"лабии~\" прикрепляются к верхней/нижней губе.\nПри сокращении мышц с приставкой \"леватор лабии (рта)~\" рот принимает форму, показанную ниже.\nПри сокращении мышц с приставкой \"леватор ангули (угла)~\" рот принимает форму, показанную ниже.\nКосметическая акупунктура лица\n~ ! ~\n89\n⓵ Большая скуловая мышца *2\n⓶ Малая скуловая мышца *2\n⓵\n⓶\nМЫШЦЫ, СВЯЗАННЫЕ С\nНОСОГУБНЫМИ СКЛАДКАМИ\nБольшая и малая скуловые мышцы — это другие мышцы, которые поднимают уголки губ, подобно мышце, поднимающей угол рта, и верхнюю губу, подобно мышце, поднимающей верхнюю губу. Однако направление их действия различается. Эти мышцы начинаются от скуловой кости, причем большая скуловая мышца заканчивается у угла рта, а малая скуловая мышца заканчивается в коже верхней губы. Сокращение скуловых"
+      },
+      "logprobs": null,
+      "finish_reason": "stop"
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 537,
+    "completion_tokens": 601,
+    "total_tokens": 1138,
+    "prompt_tokens_details": {
+      "cached_tokens": 0
+    },
+    "prompt_cache_hit_tokens": 0,
+    "prompt_cache_miss_tokens": 537
+  },
+  "system_fingerprint": "fp_8b330d02d0_prod0820_fp8_kvcache_20260402",
+  "text_ru": "Область вокруг рта и носа\n~ ! ~\n87\nКосметическая акупунктура лица\n~ ! ~\n88\nМышцы, поднимающие верхнюю губу\n① Мышца, поднимающая верхнюю губу *2\n② Мышца, поднимающая угол рта *2\nМышцы, опускающие нижнюю губу\n③ Мышца, опускающая нижнюю губу *2\n④ Мышца, опускающая угол рта *2\n⓶\n⓷\n⓸\n⓵\nМЫШЦЫ, СВЯЗАННЫЕ С\nНОСОГУБНЫМИ СКЛАДКАМИ,\nМАРИОНЕТОЧНЫМИ ЛИНИЯМИ И ЛИНИЯМИ ПОДБОРОДКА\nВокруг губ расположены четыре мышцы (восемь при учете обеих сторон). Две мышцы с приставкой \"леватор~\" (поднимающие), которые поднимают верхнюю губу, и две мышцы с приставкой \"депрессор~\" (опускающие), которые опускают нижнюю губу. Каждая пара мышц выполняет одинаковую работу.\nМышцы с приставкой \"ангули~\" (угол) прикрепляются к углам губ, а мышцы с приставкой \"лабии~\" прикрепляются к верхней/нижней губе.\nПри сокращении мышц с приставкой \"леватор лабии (рта)~\" рот принимает форму, показанную ниже.\nПри сокращении мышц с приставкой \"леватор ангули (угла)~\" рот принимает форму, показанную ниже.\nКосметическая акупунктура лица\n~ ! ~\n89\n⓵ Большая скуловая мышца *2\n⓶ Малая скуловая мышца *2\n⓵\n⓶\nМЫШЦЫ, СВЯЗАННЫЕ С\nНОСОГУБНЫМИ СКЛАДКАМИ\nБольшая и малая скуловые мышцы — это другие мышцы, которые поднимают уголки губ, подобно мышце, поднимающей угол рта, и верхнюю губу, подобно мышце, поднимающей верхнюю губу. Однако направление их действия различается. Эти мышцы начинаются от скуловой кости, причем большая скуловая мышца заканчивается у угла рта, а малая скуловая мышца заканчивается в коже верхней губы. Сокращение скуловых"
 }

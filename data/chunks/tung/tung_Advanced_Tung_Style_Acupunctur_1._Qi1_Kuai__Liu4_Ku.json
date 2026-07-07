@@ -1,6 +1,29 @@
 {
-  "source": "Advanced_Tung_Style_Acupuncture_Vol_3_Nephrology,_Urology_&_Andrology.pdf",
-  "title": "1. Qi1 Kuai\\ Liu4 Kuai4, and Xia4 Bai2 (LKC):",
-  "text": "•\nQi1 Kuai4: This point is located on the face, 1.0 cun lateral to the commissure of the lips at\nthe angle of the mouth. Needle perpendicularly 0.2 to 0.3 cun or obliquely, from medial to\nlateral, 0.5 to 1.5 cun. {Endocrine Reaction Area}\n•\nLiu4 Kuai4: This point is located on the face, 1.4 cun lateral to the center of the philtrum.\nNeedle 0.1 to 0.3 cun. {Endocrine Reaction Area} To locate the center of the philtrum,\nbisect the distance from the extraoral labial-cutaneous junction to the base of the nose\nbetween the nostrils.\n•\nXia4 Bai2: This point is located on the dorsum of the hand between the 4th and 5th\nmetacarpal bones, 1.5 cun proximal to the metacarpophalangeal joints. Needle 0.3 to 0.8\ncun. {Liver and Kidney Confluent Reaction Area} (Xia4 Bai2 lies 1.0 cun proximal to\nZhong1 Bai2, and is located in the depression immediately distal to the articulation of the\nbases of the 4th and 5th metacarpal bones on the dorsum of the hand - have the patient make\na loose fist to facilitate locating this point.)\nCystitis (LKC-3)",
-  "category": "tung"
+  "id": "d0df3efd-6825-4576-851c-082607d09c0c",
+  "object": "chat.completion",
+  "created": 1782906393,
+  "model": "deepseek-v4-flash",
+  "choices": [
+    {
+      "index": 0,
+      "message": {
+        "role": "assistant",
+        "content": "•\n气快：位于面部，口角外侧旁开1.0寸。直刺0.2-0.3寸，或从内向外斜刺0.5-1.5寸。{内分泌反应区}\n•\n六快：位于面部，人中沟中点旁开1.4寸。刺0.1-0.3寸。{内分泌反应区} 定位人中沟中点时，取口唇皮肤与黏膜交界处至鼻基底（两鼻孔之间）连线的中点。\n•\n下白：位于手背第4、5掌骨之间，掌指关节近端1.5寸。刺0.3-0.8寸。{肝肾合流反应区}（下白位于中白近端1.0寸，在手背第4、5掌骨基底关节远端的凹陷处——嘱患者轻握拳以利定位。）\n膀胱炎（LKC-3）"
+      },
+      "logprobs": null,
+      "finish_reason": "stop"
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 360,
+    "completion_tokens": 194,
+    "total_tokens": 554,
+    "prompt_tokens_details": {
+      "cached_tokens": 0
+    },
+    "prompt_cache_hit_tokens": 0,
+    "prompt_cache_miss_tokens": 360
+  },
+  "system_fingerprint": "fp_8b330d02d0_prod0820_fp8_kvcache_20260402",
+  "text_ru": "•\n气快：位于面部，口角外侧旁开1.0寸。直刺0.2-0.3寸，或从内向外斜刺0.5-1.5寸。{内分泌反应区}\n•\n六快：位于面部，人中沟中点旁开1.4寸。刺0.1-0.3寸。{内分泌反应区} 定位人中沟中点时，取口唇皮肤与黏膜交界处至鼻基底（两鼻孔之间）连线的中点。\n•\n下白：位于手背第4、5掌骨之间，掌指关节近端1.5寸。刺0.3-0.8寸。{肝肾合流反应区}（下白位于中白近端1.0寸，在手背第4、5掌骨基底关节远端的凹陷处——嘱患者轻握拳以利定位。）\n膀胱炎（LKC-3）"
 }

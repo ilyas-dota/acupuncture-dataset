@@ -1,6 +1,29 @@
 {
-  "source": "Cosmetic Acu_Eng_kindle.pdf",
-  "title": "2) Acupressure points",
-  "text": "• BL-10\n• GB-12\n• CV-23\n• CV-22",
-  "category": "general"
+  "id": "950a6142-2fc9-4bf5-9ee2-9d9a8406f6d1",
+  "object": "chat.completion",
+  "created": 1782905750,
+  "model": "deepseek-v4-flash",
+  "choices": [
+    {
+      "index": 0,
+      "message": {
+        "role": "assistant",
+        "content": "• BL-10 (膀胱经-天柱穴)\n• GB-12 (胆经-完骨穴)\n• CV-23 (任脉-廉泉穴)\n• CV-22 (任脉-天突穴)"
+      },
+      "logprobs": null,
+      "finish_reason": "stop"
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 54,
+    "completion_tokens": 48,
+    "total_tokens": 102,
+    "prompt_tokens_details": {
+      "cached_tokens": 0
+    },
+    "prompt_cache_hit_tokens": 0,
+    "prompt_cache_miss_tokens": 54
+  },
+  "system_fingerprint": "fp_8b330d02d0_prod0820_fp8_kvcache_20260402",
+  "text_ru": "• BL-10 (膀胱经-天柱穴)\n• GB-12 (胆经-完骨穴)\n• CV-23 (任脉-廉泉穴)\n• CV-22 (任脉-天突穴)"
 }

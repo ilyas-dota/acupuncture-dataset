@@ -1,48 +1,67 @@
 # 🏯 Acupuncture Dataset
 
-**Open-source база знаний по акупунктуре — Мастер Тун, ТКМ, WAA, Три Иглы Цзиня.**
+**Open-source structured knowledge base for acupuncture: Master Tung, TCM, WAA, Jin's Three Needles.**
 
-📊 **10 332 чанка** из **162 книг**, структурированных для AI-агентов и MCP серверов.
+## 📊 Stats
 
-## Структура
+| Metric | Value |
+|--------|-------|
+| 📚 Books | 162 |
+| 📄 Chunks | 9 903 |
+| 📝 Points | 590+ |
+| 📦 Size | 51 MB |
+| 🌍 Languages | Russian, English, Portuguese |
+
+## Structure
 
 ```
 data/
-  chunks/          — чанки текста
-    tung/  (1348)  — Мастер Тун
-    tcm/   (4773)  — ТКМ
-    waa/    (42)   — WAA
-    jin/   (840)   — Три Иглы Цзиня
-    ear/    (20)   — Аурикулотерапия
-    manual/(524)   — Мануальная терапия
-    psyche/(119)   — Психоэмоциональные
-    general/(2603) — Общие материалы
-  tung-points.json  — 212 точек Туна
-  tcm-points.json   — 346 точек ТКМ
-  dao-ma.json       — 11 Dao Ma комбинаций
-  waa-protocols.json— 22 протокола WAA
+  chunks/          — text chunks from books
+    tung/  (1348)  — Master Tung
+    tcm/   (4773)  — TCM
+    waa/    (42)   — Wrist-Ankle
+    jin/   (840)   — Jin's Three Needles
+    ear/    (20)   — Auriculotherapy
+    manual/(524)   — Manual therapy
+    psyche/(119)   — Psycho-emotional
+    general/(2603) — General materials
+  tung-points.json  — 212 Master Tung points
+  tcm-points.json   — 346 TCM points
+  dao-ma.json       — 11 Dao Ma combinations
+  waa-protocols.json— 22 WAA protocols
 ```
 
-## Формат чанка
+## Chunk Format
 
 ```json
 {
   "source": "Robert_Chu_Master_Tung's_Acupuncture.pdf",
-  "title": "22.05 Ling Gu — локация и показания",
-  "text": "Описание точки на русском или английском...",
+  "title": "22.05 Ling Gu — location and indications",
+  "text": "Point description (Russian or English)...",
   "category": "tung"
 }
 ```
 
-## MCP сервер
-
-В папке `server/` — MCP сервер для Claude/GPT:
+## MCP Server
 
 ```bash
 pip install mcp requests
 python server/server.py
 ```
 
-## Лицензия
+## Books included
 
-MIT
+| Category | Books | Key titles |
+|----------|-------|------------|
+| 🏯 **Master Tung** | 50 | Master TUNG Tech, TUNG BOOK 2, Robert Chu, Nelson Beloto, Brad Wisnant |
+| 🏛 **TCM** | 16 | Maciocia, Falev, Maciocia, Schnorrenberger |
+| 🌿 **WAA** | 6 | WAA Atlas, WAA Book, Heart of WAA |
+| 🪡 **Jin's Needles** | 9 | Jin's Three Needles protocols |
+| 👂 **Auriculotherapy** | 7 | Pesikov, Hijama atlas |
+| 💆 **Manual therapy** | 7 | Myofascial pain, manual medicine |
+| 🧠 **Psycho-emotional** | 1 | Emotions in TCM |
+| 📦 **General** | 66 | Li Yun pain management, 6 Elements, Cosmetic acupuncture |
+
+## License
+
+MIT — free to use, study, and modify.

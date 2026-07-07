@@ -1,6 +1,29 @@
 {
-  "source": "Cosmetic Acu_Eng_kindle.pdf",
-  "title": "4) Post acupuncture care",
-  "text": "Maintain focus to the end, even after the treatment is over. Observe bleeding or bruising\nand palpate every point with a sterile dry cotton ball in order to not miss any bleeding or\nbruising. Press ﬁrmly if bleeding or bruising is found, and check again. Don’t rub!\n4C - Count",
-  "category": "general"
+  "id": "c6740d20-cb62-47db-ae91-f1dbd51197c7",
+  "object": "chat.completion",
+  "created": 1782905880,
+  "model": "deepseek-v4-flash",
+  "choices": [
+    {
+      "index": 0,
+      "message": {
+        "role": "assistant",
+        "content": "Сохраняйте концентрацию до самого конца, даже после завершения процедуры. Следите за кровотечением или образованием гематом, пальпируйте каждую точку стерильным сухим ватным шариком, чтобы не пропустить кровотечение или гематому. При обнаружении кровотечения или гематомы плотно прижмите и проверьте повторно. Не растирайте!\n\n4C - Подсчёт"
+      },
+      "logprobs": null,
+      "finish_reason": "stop"
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 103,
+    "completion_tokens": 99,
+    "total_tokens": 202,
+    "prompt_tokens_details": {
+      "cached_tokens": 0
+    },
+    "prompt_cache_hit_tokens": 0,
+    "prompt_cache_miss_tokens": 103
+  },
+  "system_fingerprint": "fp_8b330d02d0_prod0820_fp8_kvcache_20260402",
+  "text_ru": "Сохраняйте концентрацию до самого конца, даже после завершения процедуры. Следите за кровотечением или образованием гематом, пальпируйте каждую точку стерильным сухим ватным шариком, чтобы не пропустить кровотечение или гематому. При обнаружении кровотечения или гематомы плотно прижмите и проверьте повторно. Не растирайте!\n\n4C - Подсчёт"
 }

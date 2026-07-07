@@ -1,6 +1,29 @@
 {
-  "source": "AL_Introduction_to_Tung's_Acupuncture.pdf",
-  "title": "14 Point Unit",
-  "text": "3QI\nɫo:\nc10:\n'IU;\\\n1rn\n'104\n04\nIndications: hand pain, foot pain,\nhands numbness, feet numbness,\narteriosclerosis of the hands & feet.\n:!05\nº'\nDTOI\n.:in·\nro::\nNeedle Technique: use a three-edged needle to prick blood.\nDT.06 Nine Monkey (Jiu Hou) j¡,JI",
-  "category": "tung"
+  "id": "3de27be4-6521-4271-b88a-4168083edb41",
+  "object": "chat.completion",
+  "created": 1782905963,
+  "model": "deepseek-v4-flash",
+  "choices": [
+    {
+      "index": 0,
+      "message": {
+        "role": "assistant",
+        "content": "3QI\nɫo:\nc10:\n'IU;\\\n1rn\n'104\n04\nПоказания: боль в руках, боль в ногах,\nонемение рук, онемение ног,\nартериосклероз рук и ног.\n:!05\nº'\nDTOI\n.:in·\nro::\nТехника иглоукалывания: использовать трехгранную иглу для кровопускания.\nDT.06 Девять Обезьян (Цзю Хоу) j¡,JI"
+      },
+      "logprobs": null,
+      "finish_reason": "stop"
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 122,
+    "completion_tokens": 119,
+    "total_tokens": 241,
+    "prompt_tokens_details": {
+      "cached_tokens": 0
+    },
+    "prompt_cache_hit_tokens": 0,
+    "prompt_cache_miss_tokens": 122
+  },
+  "system_fingerprint": "fp_8b330d02d0_prod0820_fp8_kvcache_20260402",
+  "text_ru": "3QI\nɫo:\nc10:\n'IU;\\\n1rn\n'104\n04\nПоказания: боль в руках, боль в ногах,\nонемение рук, онемение ног,\nартериосклероз рук и ног.\n:!05\nº'\nDTOI\n.:in·\nro::\nТехника иглоукалывания: использовать трехгранную иглу для кровопускания.\nDT.06 Девять Обезьян (Цзю Хоу) j¡,JI"
 }

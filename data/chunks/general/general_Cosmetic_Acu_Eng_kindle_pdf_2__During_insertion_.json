@@ -1,6 +1,29 @@
 {
-  "source": "Cosmetic Acu_Eng_kindle.pdf",
-  "title": "2) During insertion of needles",
-  "text": "Concentrate  on  each  needle  because  the  practitioner  is  inserting  many  needles  per\nsession. Insertion should be brief and exact and the progressing of needles should be steady\nat same speed. Do not be distracted with planning or thinking about the next insertion; focus\non the needle you are holding now.",
-  "category": "general"
+  "id": "62ce8202-e42f-48e3-b64a-20045bba11f1",
+  "object": "chat.completion",
+  "created": 1782905762,
+  "model": "deepseek-v4-flash",
+  "choices": [
+    {
+      "index": 0,
+      "message": {
+        "role": "assistant",
+        "content": "Сосредоточьтесь на каждой игле, так как практикующий вводит много игл за один сеанс. Введение должно быть быстрым и точным, а продвижение игл — равномерным, с одинаковой скоростью. Не отвлекайтесь на планирование или размышления о следующем введении; сосредоточьтесь на игле, которую вы держите в данный момент."
+      },
+      "logprobs": null,
+      "finish_reason": "stop"
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 106,
+    "completion_tokens": 94,
+    "total_tokens": 200,
+    "prompt_tokens_details": {
+      "cached_tokens": 0
+    },
+    "prompt_cache_hit_tokens": 0,
+    "prompt_cache_miss_tokens": 106
+  },
+  "system_fingerprint": "fp_8b330d02d0_prod0820_fp8_kvcache_20260402",
+  "text_ru": "Сосредоточьтесь на каждой игле, так как практикующий вводит много игл за один сеанс. Введение должно быть быстрым и точным, а продвижение игл — равномерным, с одинаковой скоростью. Не отвлекайтесь на планирование или размышления о следующем введении; сосредоточьтесь на игле, которую вы держите в данный момент."
 }

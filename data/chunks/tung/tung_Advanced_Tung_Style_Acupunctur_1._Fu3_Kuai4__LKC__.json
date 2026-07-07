@@ -1,6 +1,29 @@
 {
-  "source": "Advanced_Tung_Style_Acupuncture_Vol_3_Nephrology,_Urology_&_Andrology.pdf",
-  "title": "1. Fu3 Kuai4 (LKC):",
-  "text": "•\nFu3 Kuai4: This point is located by coursing 0.5 cun lateral to the inferolateral border of the\nnares, then 0.5 cun superior. Needle 0.1 to 0.3 cun. {Kidney and Six Bowels Reaction\nAreas} [This point is 0.5 cun directly superior to LI-20WH0 .]\nCystitis (LKC-2)",
-  "category": "tung"
+  "id": "f62938c9-7041-44e3-a6fa-f5477e535752",
+  "object": "chat.completion",
+  "created": 1782906275,
+  "model": "deepseek-v4-flash",
+  "choices": [
+    {
+      "index": 0,
+      "message": {
+        "role": "assistant",
+        "content": "•\nFu3 Kuai4: Точка расположена на 0,5 цуня латеральнее нижнелатерального края ноздри, затем на 0,5 цуня выше. Иглу вводят на глубину от 0,1 до 0,3 цуня. {Зоны реакции почек и шести органов-фу} [Данная точка находится на 0,5 цуня непосредственно выше GI-20WH0.]\nЦистит (LKC-2)"
+      },
+      "logprobs": null,
+      "finish_reason": "stop"
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 131,
+    "completion_tokens": 116,
+    "total_tokens": 247,
+    "prompt_tokens_details": {
+      "cached_tokens": 0
+    },
+    "prompt_cache_hit_tokens": 0,
+    "prompt_cache_miss_tokens": 131
+  },
+  "system_fingerprint": "fp_8b330d02d0_prod0820_fp8_kvcache_20260402",
+  "text_ru": "•\nFu3 Kuai4: Точка расположена на 0,5 цуня латеральнее нижнелатерального края ноздри, затем на 0,5 цуня выше. Иглу вводят на глубину от 0,1 до 0,3 цуня. {Зоны реакции почек и шести органов-фу} [Данная точка находится на 0,5 цуня непосредственно выше GI-20WH0.]\nЦистит (LKC-2)"
 }

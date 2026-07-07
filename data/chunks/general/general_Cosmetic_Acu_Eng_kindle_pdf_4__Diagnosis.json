@@ -1,6 +1,29 @@
 {
-  "source": "Cosmetic Acu_Eng_kindle.pdf",
-  "title": "4) Diagnosis",
-  "text": "• First, check the position of the patient's neck and shoulders. They can give you a lot of\ninformation, like the examples below.\n①Neck is forwarded - Potential forward head and ﬂattened neck.\n②C-curve of neck is not preserved - Flattened neck.\n③One side of shoulder is elevated toward head - Tightened trapezius.\n④One side of shoulder is elevated from the bed - Tightened pectoralis.\n⑤Palpation of thickness and tightness of left and right SCM - Asymmetry.\n⑥Palpation of thickness and tightness of  left and right trapezius  - Asymmetry.\n~ !  ~\n71\nFacial  Cosmetic Acupuncture\n• These are possible common causes, but nothing decisive. Usually, causes are complex\ninvolving at least a couple of factors. Carefully perform visual and tactile inspection of\nthe neck and shoulder. Also, you need to ask patients if they have pain or tension in\ncertain areas.",
-  "category": "general"
+  "id": "6fe1fedd-e940-4325-a274-af2da90a7b34",
+  "object": "chat.completion",
+  "created": 1782905877,
+  "model": "deepseek-v4-flash",
+  "choices": [
+    {
+      "index": 0,
+      "message": {
+        "role": "assistant",
+        "content": "• 首先，检查患者颈部和肩部的位置。这些部位能提供大量信息，示例如下：\n① 颈部前倾——可能存在头部前伸及颈椎变直。\n② 颈部C形曲度消失——颈椎变直。\n③ 单侧肩部向头部抬高——斜方肌紧张。\n④ 单侧肩部抬离床面——胸肌紧张。\n⑤ 触诊左右胸锁乳突肌的厚度与紧张度——不对称。\n⑥ 触诊左右斜方肌的厚度与紧张度——不对称。\n~ ! ~\n71\n面部美容针灸\n• 以上为可能的常见原因，但并非决定性因素。通常，病因复杂，至少涉及多个因素。需仔细进行颈肩部的视诊与触诊检查。同时，应询问患者特定区域是否存在疼痛或紧张感。"
+      },
+      "logprobs": null,
+      "finish_reason": "stop"
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 239,
+    "completion_tokens": 174,
+    "total_tokens": 413,
+    "prompt_tokens_details": {
+      "cached_tokens": 0
+    },
+    "prompt_cache_hit_tokens": 0,
+    "prompt_cache_miss_tokens": 239
+  },
+  "system_fingerprint": "fp_8b330d02d0_prod0820_fp8_kvcache_20260402",
+  "text_ru": "• 首先，检查患者颈部和肩部的位置。这些部位能提供大量信息，示例如下：\n① 颈部前倾——可能存在头部前伸及颈椎变直。\n② 颈部C形曲度消失——颈椎变直。\n③ 单侧肩部向头部抬高——斜方肌紧张。\n④ 单侧肩部抬离床面——胸肌紧张。\n⑤ 触诊左右胸锁乳突肌的厚度与紧张度——不对称。\n⑥ 触诊左右斜方肌的厚度与紧张度——不对称。\n~ ! ~\n71\n面部美容针灸\n• 以上为可能的常见原因，但并非决定性因素。通常，病因复杂，至少涉及多个因素。需仔细进行颈肩部的视诊与触诊检查。同时，应询问患者特定区域是否存在疼痛或紧张感。"
 }

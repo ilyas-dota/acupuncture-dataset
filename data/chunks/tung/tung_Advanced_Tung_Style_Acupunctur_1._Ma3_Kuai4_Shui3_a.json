@@ -1,6 +1,29 @@
 {
-  "source": "Advanced_Tung_Style_Acupuncture_Vol_3_Nephrology,_Urology_&_Andrology.pdf",
-  "title": "1. Ma3 Kuai4 Shui3 and Zhong1 Bai2 (HPC):",
-  "text": "•\nMa3 Kuai4 Shui3: This point is 0.4 cun immediately inferior to Ma3 Jin1 Shue. Needle 0.1\nto 0.3 cun. {Kidney and Bladder Reaction Areas} (Ma3 Jin1 Shui3 is found on the face in\nthe depression located along the inferior border of the zygomatic bone at the medial-to-\nlateral level of the lateral canthus)\n•\nZhong1 Bai2: This point is located on the dorsum of the hand between the 4th and 5th\nmetacarpal bones, 0.5 cun proximal to the metacarpophalangeal joints - make a loose fist to\nfacilitate locating the point. Needle 0.3 to 0.5 cun. {Kidney Branch Reaction Area} (Zhong1\nBai2 is found in the depression located at the junctions of the shafts and heads of the 4th and\n5th metacarpal bones on the dorsum of the hand.)\n260\nUrolithiasis (HPC-2)",
-  "category": "tung"
+  "id": "6d2328ef-2f9a-449c-a828-8d5b4533ce6f",
+  "object": "chat.completion",
+  "created": 1782906373,
+  "model": "deepseek-v4-flash",
+  "choices": [
+    {
+      "index": 0,
+      "message": {
+        "role": "assistant",
+        "content": "•\n马快水：此穴位于马金水穴直下0.4寸。针深0.1至0.3寸。{肾与膀胱反应区}（马金水穴位于面部，颧骨下缘凹陷处，平外眼角内侧至外侧水平线上。）\n•\n中白穴：此穴位于手背第4、5掌骨之间，距掌指关节近端0.5寸——取穴时宜轻握拳。针深0.3至0.5寸。{肾分支反应区}（中白穴位于手背第4、5掌骨骨干与掌骨头连接处的凹陷中。）\n260\n尿路结石（HPC-2）"
+      },
+      "logprobs": null,
+      "finish_reason": "stop"
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 269,
+    "completion_tokens": 149,
+    "total_tokens": 418,
+    "prompt_tokens_details": {
+      "cached_tokens": 0
+    },
+    "prompt_cache_hit_tokens": 0,
+    "prompt_cache_miss_tokens": 269
+  },
+  "system_fingerprint": "fp_8b330d02d0_prod0820_fp8_kvcache_20260402",
+  "text_ru": "•\n马快水：此穴位于马金水穴直下0.4寸。针深0.1至0.3寸。{肾与膀胱反应区}（马金水穴位于面部，颧骨下缘凹陷处，平外眼角内侧至外侧水平线上。）\n•\n中白穴：此穴位于手背第4、5掌骨之间，距掌指关节近端0.5寸——取穴时宜轻握拳。针深0.3至0.5寸。{肾分支反应区}（中白穴位于手背第4、5掌骨骨干与掌骨头连接处的凹陷中。）\n260\n尿路结石（HPC-2）"
 }

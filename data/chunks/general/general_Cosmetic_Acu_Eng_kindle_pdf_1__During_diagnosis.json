@@ -1,6 +1,29 @@
 {
-  "source": "Cosmetic Acu_Eng_kindle.pdf",
-  "title": "1) During diagnosis",
-  "text": "Palpate muscles on the neck and face again before insertion. The shape and location of the\nmuscles can vary based on the patient's posture. Remember that facial muscles are very tiny\n~ !  ~\n59\nFacial  Cosmetic Acupuncture\nand the dermis is really thin, and that the practitioner is handling those small parts on the\nsensitive face. Therefore, you should concentrate on every step.",
-  "category": "general"
+  "id": "8f6ec80f-93ba-4c67-8032-404021a523d1",
+  "object": "chat.completion",
+  "created": 1782905718,
+  "model": "deepseek-v4-flash",
+  "choices": [
+    {
+      "index": 0,
+      "message": {
+        "role": "assistant",
+        "content": "Перед введением игл снова пропальпируйте мышцы шеи и лица. Форма и расположение мышц могут варьироваться в зависимости от позы пациента. Помните, что лицевые мышцы очень малы, ~ ! ~ 59 Косметическая акупунктура лица а дерма очень тонкая, и специалист работает с этими мелкими участками на чувствительном лице. Поэтому следует сосредотачиваться на каждом шаге."
+      },
+      "logprobs": null,
+      "finish_reason": "stop"
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 122,
+    "completion_tokens": 105,
+    "total_tokens": 227,
+    "prompt_tokens_details": {
+      "cached_tokens": 0
+    },
+    "prompt_cache_hit_tokens": 0,
+    "prompt_cache_miss_tokens": 122
+  },
+  "system_fingerprint": "fp_8b330d02d0_prod0820_fp8_kvcache_20260402",
+  "text_ru": "Перед введением игл снова пропальпируйте мышцы шеи и лица. Форма и расположение мышц могут варьироваться в зависимости от позы пациента. Помните, что лицевые мышцы очень малы, ~ ! ~ 59 Косметическая акупунктура лица а дерма очень тонкая, и специалист работает с этими мелкими участками на чувствительном лице. Поэтому следует сосредотачиваться на каждом шаге."
 }

@@ -1,0 +1,120 @@
+#!/usr/bin/env python3
+"""MCP-over-HTTP server for acupuncture dataset. Port 3469."""
+import json, os, glob, time
+from http.server import HTTPServer, BaseHTTPRequestHandler
+
+CHUNKS = "/root/acupuncture-dataset/data/chunks"
+INDEX = None
+
+def load_index():
+    global INDEX
+    if INDEX is not None:
+        return
+    t = time.time()
+    INDEX = []
+    for f in glob.glob(f"{CHUNKS}/**/*.json", recursive=True):
+        try:
+            with open(f) as fp:
+                c = json.load(fp)
+            txt = (c.get("text", "") + " " + c.get("text_ru", "")).lower()[:2000]
+            INDEX.append({"source":c.get("source",""),"title":c.get("title",""),
+                          "text":c.get("text_ru","") or c.get("text",""),
+                          "cat":f.split("/")[-2],"key":txt})
+        except:
+            pass
+    print(f"Loaded {len(INDEX)} chunks in {time.time()-t:.1f}s")
+
+def search(q, cat=None, limit=5):
+    load_index()
+    q = q.lower()
+    r = []
+    for c in INDEX:
+        if cat and c["cat"] != cat:
+            continue
+        if q in c["key"]:
+            r.append({"source":c["source"],"title":c["title"],"text":c["text"][:600],"cat":c["cat"]})
+            if len(r) >= limit:
+                break
+    return r
+
+class H(BaseHTTPRequestHandler):
+    def _json(self, data, code=200):
+        self.send_response(code)
+        self.send_header("Content-Type", "application/json")
+        self.send_header("Access-Control-Allow-Origin", "*")
+        self.end_headers()
+        self.wfile.write(json.dumps(data, ensure_ascii=False).encode())
+    
+    def do_POST(self):
+        length = int(self.headers.get("Content-Length", 0))
+        body = json.loads(self.rfile.read(length)) if length else {}
+        
+        if self.path == "/mcp":
+            method = body.get("method", "")
+            mid = body.get("id")
+            params = body.get("params", {})
+            
+            if method == "tools/list":
+                self._json({
+                    "jsonrpc": "2.0", "id": mid,
+                    "result": {
+                        "tools": [{
+                            "name": "search",
+                            "description": "Search acupuncture knowledge base by symptom or point name. Returns relevant chunks from 162 books.",
+                            "inputSchema": {
+                                "type": "object",
+                                "properties": {
+                                    "query": {"type": "string", "description": "Symptom, condition or point name"},
+                                    "category": {"type": "string", "enum": ["tung","tcm","waa","jin","ear","manual","psyche","general"]},
+                                    "limit": {"type": "integer", "default": 5}
+                                },
+                                "required": ["query"]
+                            }
+                        }, {
+                            "name": "get_stats",
+                            "description": "Get dataset statistics",
+                            "inputSchema": {"type": "object", "properties": {}}
+                        }]
+                    }
+                })
+            
+            elif method == "tools/call":
+                tool = params.get("name", "")
+                args = params.get("arguments", {})
+                if tool == "search":
+                    results = search(args.get("query",""), args.get("category"), args.get("limit",5))
+                    text = "Nothing found." if not results else "\n\n---\n\n".join(
+                        f"📖 {r['source']} — {r['title']}\n{r['text']}" for r in results)
+                    self._json({"jsonrpc":"2.0","id":mid,"result":{"content":[{"type":"text","text":text}]}})
+                elif tool == "get_stats":
+                    load_index()
+                    self._json({"jsonrpc":"2.0","id":mid,"result":{"content":[{"type":"text","text":json.dumps({"chunks":len(INDEX)})}]}})
+                else:
+                    self._json({"jsonrpc":"2.0","id":mid,"error":{"code":-32601,"message":"not found"}})
+            
+            elif method == "initialize":
+                self._json({
+                    "jsonrpc":"2.0","id":mid,
+                    "result":{"protocolVersion":"2024-11-05","serverInfo":{"name":"acupuncture","version":"1.0"},"capabilities":{"tools":{}}}
+                })
+            else:
+                self._json({"jsonrpc":"2.0","id":mid,"error":{"code":-32601,"message":"not found"}})
+        
+        elif self.path == "/search":
+            data = body
+            results = search(data.get("q",""), data.get("cat"), data.get("limit",5))
+            self._json({"results": results, "total": len(results)})
+        
+        else:
+            self._json({"error":"not found"}, 404)
+    
+    def do_GET(self):
+        if self.path == "/health":
+            load_index()
+            self._json({"ok":True,"chunks":len(INDEX)})
+        else:
+            self._json({"error":"not found"}, 404)
+
+if __name__ == "__main__":
+    print("MCP HTTP server on port 3469")
+    HTTPServer(("127.0.0.1", 3469), H).serve_forever()

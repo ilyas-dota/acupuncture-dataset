@@ -1,6 +1,29 @@
 {
-  "source": "Advanced_Tung_Style_Acupuncture_Vol_3_Nephrology,_Urology_&_Andrology.pdf",
-  "title": "1. Jian1 Zhong1, Li3 Bai1, Yun1 Bai1, and Xia4 Qu1 (MC):",
-  "text": "•\nJian1 Zhong1: This point is located 2.5 cun immediately distal to the space between the\nacromion process and the head of the humerus (locate with arm hanging naturally down by\nthe side). Needle 0.5 to 1.0 cun. {Heart Branch Reaction Area}\n•\nLi3 Bai1: This point is located 2 cun distal and slightly dorsal to Yun2 Bai2. Needle 0.3 to\n0.5 cun. {Kidney Auxiliary and Lung Branch Reaction Areas}\n•\nYun1 Bai1: This point is located with the arm hanging naturally down by the side, and lies\n2.0 cun obliquely anterodistal (towards the chest) from the point Bei1 Mian4. (Bei1 Mian4\nlies in the center of a depression found immediately lateral to the acromion process with the\narm abducted to 90°.) Needle 0.3 to 0.5 cun. {Six Bowels and Lung Auxiliary Reaction\nAreas} Alternately, one may locate this point by proceeding 1 cun anterior and 1 cun\nproximal to Jian 1 Zhong1•\n•\nXia4 Qu1: This point is located on the posteromedial aspect of the proximal brachium, 8.0\ncun proximal to the level of the transverse cubital crease and 1.0 cun medial to Hou4 Zhi1•\nNeedle 0.6 to 1.0 cun. {Lung Branch and Liver Branch Reaction Areas} (Hou4 Zhi1 is\nlocated on the Hand Shao4 Yang2 San Jiao Channel, 8.0 cun proximal to the level of the\ntransverse cubital crease.)\n269\nUroschesis (MC-2)",
-  "category": "tung"
+  "id": "6c487be2-e3f3-4465-b6de-d23e30834b99",
+  "object": "chat.completion",
+  "created": 1782906313,
+  "model": "deepseek-v4-flash",
+  "choices": [
+    {
+      "index": 0,
+      "message": {
+        "role": "assistant",
+        "content": "•\n肩中 (Jian1 Zhong1): 此穴位于肩峰与肱骨头之间间隙（手臂自然下垂于体侧时定位）远端2.5寸。针刺0.5至1.0寸。{心支反应区}\n•\n里白 (Li3 Bai1): 此穴位于云白 (Yun2 Bai2) 远端2寸，稍向背侧。针刺0.3至0.5寸。{肾辅支与肺支反应区}\n•\n云白 (Yun1 Bai1): 手臂自然下垂于体侧时，此穴位于背面 (Bei1 Mian4) 斜向前远端（朝向胸部）2.0寸处。（背面位于肩峰外侧，手臂外展90°时凹陷中心。）针刺0.3至0.5寸。{六腑与肺辅支反应区} 亦可从肩中 (Jian1 Zhong1) 向前1寸、近端1寸定位。\n•\n下曲 (Xia4 Qu1): 此穴位于上臂近端后内侧，肘横纹水平近端8.0寸，后枝 (Hou4 Zhi1) 内侧1.0寸。针刺0.6至1.0寸。{肺支与肝支反应区}（后枝位于手少阳三焦经，肘横纹水平近端8.0寸。）\n269\n尿潴留 (MC-2)"
+      },
+      "logprobs": null,
+      "finish_reason": "stop"
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 428,
+    "completion_tokens": 305,
+    "total_tokens": 733,
+    "prompt_tokens_details": {
+      "cached_tokens": 0
+    },
+    "prompt_cache_hit_tokens": 0,
+    "prompt_cache_miss_tokens": 428
+  },
+  "system_fingerprint": "fp_8b330d02d0_prod0820_fp8_kvcache_20260402",
+  "text_ru": "•\n肩中 (Jian1 Zhong1): 此穴位于肩峰与肱骨头之间间隙（手臂自然下垂于体侧时定位）远端2.5寸。针刺0.5至1.0寸。{心支反应区}\n•\n里白 (Li3 Bai1): 此穴位于云白 (Yun2 Bai2) 远端2寸，稍向背侧。针刺0.3至0.5寸。{肾辅支与肺支反应区}\n•\n云白 (Yun1 Bai1): 手臂自然下垂于体侧时，此穴位于背面 (Bei1 Mian4) 斜向前远端（朝向胸部）2.0寸处。（背面位于肩峰外侧，手臂外展90°时凹陷中心。）针刺0.3至0.5寸。{六腑与肺辅支反应区} 亦可从肩中 (Jian1 Zhong1) 向前1寸、近端1寸定位。\n•\n下曲 (Xia4 Qu1): 此穴位于上臂近端后内侧，肘横纹水平近端8.0寸，后枝 (Hou4 Zhi1) 内侧1.0寸。针刺0.6至1.0寸。{肺支与肝支反应区}（后枝位于手少阳三焦经，肘横纹水平近端8.0寸。）\n269\n尿潴留 (MC-2)"
 }

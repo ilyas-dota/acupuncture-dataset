@@ -1,6 +1,29 @@
 {
-  "source": "Cosmetic Acu_Eng_kindle.pdf",
-  "title": "4.  The  Ultimate  Secret  Book  of  Acupuncture  and  Moxibustion:  An",
-  "text": "Annotated Translation of Japanese Acupuncture Classic (2019)\nHYUNGSUK CHOI, OMD, LAC, PHD\nDr. Choi is a top acupuncture clinician with over 24 years of experience\nspecializing in musculoskeletal pain disorders. He started his medical career\nin Seoul, Korea after graduating from the school of Oriental Medicine in\nKyunghee University and got a PhD in Complementary and Alternative\nMedicine from Cha University. As a practitioner in S. Korea, he mainly\ncared for patients with musculoskeletal disorders.\nIn  2008,  he  moved  to  LA and  worked  as  a  professor  at  Samra\nUniversity and president of Samra Spinal Center. Since then, he has been\nteaching acupuncture at Dongguk University in LA, and publishing many\narticles in peer-reviewed medical journals.\nOther TCM books by Hyung Suk Choi:",
-  "category": "general"
+  "id": "b188b439-44f0-419d-b2b9-4268acad7e9b",
+  "object": "chat.completion",
+  "created": 1782905871,
+  "model": "deepseek-v4-flash",
+  "choices": [
+    {
+      "index": 0,
+      "message": {
+        "role": "assistant",
+        "content": "Аннотированный перевод японского классического текста по акупунктуре (2019)\nХЁНСУК ЧОЙ, OMD, LAC, PhD\n\nДоктор Чой — ведущий клиницист-акупунктурист с более чем 24-летним опытом, специализирующийся на болевых расстройствах опорно-двигательного аппарата. Он начал свою медицинскую карьеру в Сеуле, Корея, после окончания Школы восточной медицины Университета Кёнхи и получил степень PhD в области комплементарной и альтернативной медицины в Университете Ча. В качестве практикующего врача в Южной Корее он в основном занимался лечением пациентов с нарушениями опорно-двигательного аппарата.\n\nВ 2008 году он переехал в Лос-Анджелес и работал профессором в Университете Самра, а также президентом Центра позвоночника Самра. С тех пор он преподает акупунктуру в Университете Донгук в Лос-Анджелесе и публикует множество статей в рецензируемых медицинских журналах.\n\nДругие книги по традиционной китайской медицине, автором которых является Хёнсук Чой:"
+      },
+      "logprobs": null,
+      "finish_reason": "stop"
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 219,
+    "completion_tokens": 307,
+    "total_tokens": 526,
+    "prompt_tokens_details": {
+      "cached_tokens": 0
+    },
+    "prompt_cache_hit_tokens": 0,
+    "prompt_cache_miss_tokens": 219
+  },
+  "system_fingerprint": "fp_8b330d02d0_prod0820_fp8_kvcache_20260402",
+  "text_ru": "Аннотированный перевод японского классического текста по акупунктуре (2019)\nХЁНСУК ЧОЙ, OMD, LAC, PhD\n\nДоктор Чой — ведущий клиницист-акупунктурист с более чем 24-летним опытом, специализирующийся на болевых расстройствах опорно-двигательного аппарата. Он начал свою медицинскую карьеру в Сеуле, Корея, после окончания Школы восточной медицины Университета Кёнхи и получил степень PhD в области комплементарной и альтернативной медицины в Университете Ча. В качестве практикующего врача в Южной Корее он в основном занимался лечением пациентов с нарушениями опорно-двигательного аппарата.\n\nВ 2008 году он переехал в Лос-Анджелес и работал профессором в Университете Самра, а также президентом Центра позвоночника Самра. С тех пор он преподает акупунктуру в Университете Донгук в Лос-Анджелесе и публикует множество статей в рецензируемых медицинских журналах.\n\nДругие книги по традиционной китайской медицине, автором которых является Хёнсук Чой:"
 }

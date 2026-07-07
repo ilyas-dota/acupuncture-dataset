@@ -1,6 +1,29 @@
 {
-  "source": "Cosmetic Acu_Eng_kindle.pdf",
-  "title": "1) Treatment room",
-  "text": "The treatment room should be cozy and clean. Also, equipment should be well organized.",
-  "category": "general"
+  "id": "9e41891f-e02d-4ad0-8e26-9b3af4fc0aa6",
+  "object": "chat.completion",
+  "created": 1782905733,
+  "model": "deepseek-v4-flash",
+  "choices": [
+    {
+      "index": 0,
+      "message": {
+        "role": "assistant",
+        "content": "治疗室应保持舒适整洁。此外，设备应摆放整齐有序。"
+      },
+      "logprobs": null,
+      "finish_reason": "stop"
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 52,
+    "completion_tokens": 15,
+    "total_tokens": 67,
+    "prompt_tokens_details": {
+      "cached_tokens": 0
+    },
+    "prompt_cache_hit_tokens": 0,
+    "prompt_cache_miss_tokens": 52
+  },
+  "system_fingerprint": "fp_8b330d02d0_prod0820_fp8_kvcache_20260402",
+  "text_ru": "治疗室应保持舒适整洁。此外，设备应摆放整齐有序。"
 }

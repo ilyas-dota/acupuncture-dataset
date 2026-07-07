@@ -1,6 +1,29 @@
 {
-  "source": "Beinfield.pdf",
-  "title": "622 Broadway",
-  "text": "San Francisco, California 94133\n(415) 788-3646\nNorth-South China Herbs",
-  "category": "tcm"
+  "id": "59e3a47c-3136-4a80-ac41-19a6bc352ffd",
+  "object": "chat.completion",
+  "created": 1782905947,
+  "model": "deepseek-v4-flash",
+  "choices": [
+    {
+      "index": 0,
+      "message": {
+        "role": "assistant",
+        "content": "旧金山，加利福尼亚州 94133\n电话：(415) 788-3646\n南北中国草药"
+      },
+      "logprobs": null,
+      "finish_reason": "stop"
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 58,
+    "completion_tokens": 24,
+    "total_tokens": 82,
+    "prompt_tokens_details": {
+      "cached_tokens": 0
+    },
+    "prompt_cache_hit_tokens": 0,
+    "prompt_cache_miss_tokens": 58
+  },
+  "system_fingerprint": "fp_8b330d02d0_prod0820_fp8_kvcache_20260402",
+  "text_ru": "旧金山，加利福尼亚州 94133\n电话：(415) 788-3646\n南北中国草药"
 }

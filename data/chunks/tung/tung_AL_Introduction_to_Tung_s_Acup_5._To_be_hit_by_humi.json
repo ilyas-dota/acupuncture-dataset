@@ -1,6 +1,29 @@
 {
-  "source": "AL_Introduction_to_Tung's_Acupuncture.pdf",
-  "title": "5. To be hit by humidity. Humidity pertains to the kidney. The kidney rules liqu",
-  "text": "For example, heart disease. How can one know this was caused by being hit by wind?\nl. The complexion should be red.",
-  "category": "tung"
+  "id": "d10b6ff3-8eb4-4386-b3cb-7f32d637746f",
+  "object": "chat.completion",
+  "created": 1782906094,
+  "model": "deepseek-v4-flash",
+  "choices": [
+    {
+      "index": 0,
+      "message": {
+        "role": "assistant",
+        "content": "例如，心脏病。如何知道这是由风邪侵袭所致？\n一、面色应为红色。"
+      },
+      "logprobs": null,
+      "finish_reason": "stop"
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 62,
+    "completion_tokens": 19,
+    "total_tokens": 81,
+    "prompt_tokens_details": {
+      "cached_tokens": 0
+    },
+    "prompt_cache_hit_tokens": 0,
+    "prompt_cache_miss_tokens": 62
+  },
+  "system_fingerprint": "fp_8b330d02d0_prod0820_fp8_kvcache_20260402",
+  "text_ru": "例如，心脏病。如何知道这是由风邪侵袭所致？\n一、面色应为红色。"
 }

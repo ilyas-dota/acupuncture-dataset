@@ -1,6 +1,29 @@
 {
-  "source": "Beinfield.pdf",
-  "title": "2425 Porter Street, Suite 18",
-  "text": "Soquel, California 95073\nHealth Concerns",
-  "category": "tcm"
+  "id": "3af0ead8-6490-4128-aeff-d9d1341243f3",
+  "object": "chat.completion",
+  "created": 1782905944,
+  "model": "deepseek-v4-flash",
+  "choices": [
+    {
+      "index": 0,
+      "message": {
+        "role": "assistant",
+        "content": "Соскел, Калифорния 95073  \nПроблемы со здоровьем"
+      },
+      "logprobs": null,
+      "finish_reason": "stop"
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 45,
+    "completion_tokens": 20,
+    "total_tokens": 65,
+    "prompt_tokens_details": {
+      "cached_tokens": 0
+    },
+    "prompt_cache_hit_tokens": 0,
+    "prompt_cache_miss_tokens": 45
+  },
+  "system_fingerprint": "fp_8b330d02d0_prod0820_fp8_kvcache_20260402",
+  "text_ru": "Соскел, Калифорния 95073  \nПроблемы со здоровьем"
 }

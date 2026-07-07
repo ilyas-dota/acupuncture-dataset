@@ -1,6 +1,29 @@
 {
-  "source": "Cosmetic Acu_Eng_kindle.pdf",
-  "title": "1. Differences in __________ decide the color of the face and affect the aging p",
-  "text": "well.\n2. __________ in our skin works like a building block giving skin rigidity.",
-  "category": "general"
+  "id": "7150ba35-20b6-450a-8a3a-8dfe316ab1ed",
+  "object": "chat.completion",
+  "created": 1782905685,
+  "model": "deepseek-v4-flash",
+  "choices": [
+    {
+      "index": 0,
+      "message": {
+        "role": "assistant",
+        "content": "2. __________ в нашей коже работает как строительный блок, придающий коже упругость."
+      },
+      "logprobs": null,
+      "finish_reason": "stop"
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 52,
+    "completion_tokens": 23,
+    "total_tokens": 75,
+    "prompt_tokens_details": {
+      "cached_tokens": 0
+    },
+    "prompt_cache_hit_tokens": 0,
+    "prompt_cache_miss_tokens": 52
+  },
+  "system_fingerprint": "fp_8b330d02d0_prod0820_fp8_kvcache_20260402",
+  "text_ru": "2. __________ в нашей коже работает как строительный блок, придающий коже упругость."
 }

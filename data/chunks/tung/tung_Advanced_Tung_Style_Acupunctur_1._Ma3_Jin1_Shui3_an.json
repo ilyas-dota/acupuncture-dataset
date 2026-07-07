@@ -1,6 +1,29 @@
 {
-  "source": "Advanced_Tung_Style_Acupuncture_Vol_3_Nephrology,_Urology_&_Andrology.pdf",
-  "title": "1. Ma3 Jin1 Shui3 and Zhong1 Bai1 (HPC):",
-  "text": "•\nMa3 Jin1 Shui3: This point is found on the face in the depression located along the inferior\nborder of the zygomatic bone at the medial-to-laterallevel of the lateral canthus. Needle 0.1\nto 0.3 cun. {Kidney and Lung Auxiliary Reaction Areas}\n•\nZhong1 Bai1: This point is located on the dorsum of the hand between the 4th and 5th\nmetacarpal bones, 0.5 cun proximal to the metacarpophalangeal joints - make a loose fist to\nfacilitate locating the point. Needle 0.3 to 0.5 cun. {Kidney Branch Reaction Area} (Zhong1\nBai2 is found in the depression located at the junctions of the shafts and heads of the 4th and\n5th metacarpal bones on the dorsum of the hand.)\n152\nNephrolithiasis (HPC-2)",
-  "category": "tung"
+  "id": "d9833bcc-eeec-4603-9862-3278dd90bd50",
+  "object": "chat.completion",
+  "created": 1782906363,
+  "model": "deepseek-v4-flash",
+  "choices": [
+    {
+      "index": 0,
+      "message": {
+        "role": "assistant",
+        "content": "•\nМа3 Цзинь1 Шуй3: Точка расположена на лице в углублении по нижнему краю скуловой кости на уровне от медиального к латеральному краю наружного угла глаза. Глубина иглоукалывания 0,1–0,3 цуня. {Вспомогательные зоны реакции почек и легких}\n•\nЧжун1 Бай2: Точка находится на тыльной стороне кисти между IV и V пястными костями, проксимальнее пястно-фаланговых суставов на 0,5 цуня — для облегчения поиска точки сожмите кисть в неплотный кулак. Глубина иглоукалывания 0,3–0,5 цуня. {Зона реакции ветви почек} (Чжун1 Бай2 определяется в углублении на стыке тела и головки IV и V пястных костей на тыльной стороне кисти.)\n152\nНефролитиаз (HPC-2)"
+      },
+      "logprobs": null,
+      "finish_reason": "stop"
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 245,
+    "completion_tokens": 244,
+    "total_tokens": 489,
+    "prompt_tokens_details": {
+      "cached_tokens": 0
+    },
+    "prompt_cache_hit_tokens": 0,
+    "prompt_cache_miss_tokens": 245
+  },
+  "system_fingerprint": "fp_8b330d02d0_prod0820_fp8_kvcache_20260402",
+  "text_ru": "•\nМа3 Цзинь1 Шуй3: Точка расположена на лице в углублении по нижнему краю скуловой кости на уровне от медиального к латеральному краю наружного угла глаза. Глубина иглоукалывания 0,1–0,3 цуня. {Вспомогательные зоны реакции почек и легких}\n•\nЧжун1 Бай2: Точка находится на тыльной стороне кисти между IV и V пястными костями, проксимальнее пястно-фаланговых суставов на 0,5 цуня — для облегчения поиска точки сожмите кисть в неплотный кулак. Глубина иглоукалывания 0,3–0,5 цуня. {Зона реакции ветви почек} (Чжун1 Бай2 определяется в углублении на стыке тела и головки IV и V пястных костей на тыльной стороне кисти.)\n152\nНефролитиаз (HPC-2)"
 }

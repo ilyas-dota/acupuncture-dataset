@@ -1,6 +1,29 @@
 {
-  "source": "Cosmetic Acu_Eng_kindle.pdf",
-  "title": "4. Points for Crow's Feet and Lip Lines",
-  "text": "Area around the eyes and the lips\n~ !  ~\n80\nFacial  Cosmetic Acupuncture\n~ !  ~\n81\n⓵ Orbicularis Oculi *2 (eyes)\n⓶ Orbicularis Oris *1 (mouth)\n⓵\n⓶\nMUSCLES RELATED TO\nCROW'S FEET AND LIP LINES\nThere are three orbicularis muscles on the\nface. They are the landmarks of facial muscles.\nTwo  are  around  the  eyes,  and  the  other  is\naround  the  mouth.   The  function  is  quite\nstraight-forward. These muscles surround the\neyes  and  mouth,  which  are  round  shaped\nholes. When these muscles contract, the holes\nget smaller. These movements like squinting\nmakes many small wrinkles.\nThe  contraction  of  the  orbicularis  oris\nmakes the smoker's lines, and the orbicularis\noculi’s contraction makes the crow's feet.\nFacial  Cosmetic Acupuncture\nCrow’s feet\nCrow’s feet are related to facial expression and loss of fat pad by aging. Therefore,\nincreasing the circulation around the whole eye socket is a\nkey of treatment. Also, needling on the site of wrinkles\nhelps reduce the wrinkle formation.",
-  "category": "general"
+  "id": "71849065-85a0-468d-a29a-5809d9a3e1e5",
+  "object": "chat.completion",
+  "created": 1782905851,
+  "model": "deepseek-v4-flash",
+  "choices": [
+    {
+      "index": 0,
+      "message": {
+        "role": "assistant",
+        "content": "Область вокруг глаз и губ\n~ !  ~\n80\nКосметическая акупунктура лица\n~ !  ~\n81\n⓵ Круговая мышца глаза *2 (глаза)\n⓶ Круговая мышца рта *1 (рот)\n⓵\n⓶\nМЫШЦЫ, СВЯЗАННЫЕ С\nГУСИНЫМИ ЛАПКАМИ И МОРЩИНАМИ ВОКРУГ ГУБ\nНа лице расположены три круговые мышцы.\nОни являются ориентирами лицевых мышц.\nДве из них находятся вокруг глаз,\nа третья — вокруг рта. Их функция\nдостаточно очевидна. Эти мышцы окружают\nглаза и рот, которые представляют собой\nотверстия круглой формы. При сокращении этих мышц\nотверстия уменьшаются. Такие движения, как прищуривание,\nобразуют множество мелких морщин.\nСокращение круговой мышцы рта\nприводит к появлению морщин курильщика, а сокращение\nкруговой мышцы глаза — к образованию гусиных лапок.\nКосметическая акупунктура лица\nГусиные лапки\nГусиные лапки связаны с мимикой и потерей жировой клетчатки с возрастом. Поэтому\nключом к лечению является улучшение\nкровообращения вокруг всей глазницы. Также\nиглоукалывание в области морщин\nпомогает уменьшить их образование."
+      },
+      "logprobs": null,
+      "finish_reason": "stop"
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 326,
+    "completion_tokens": 360,
+    "total_tokens": 686,
+    "prompt_tokens_details": {
+      "cached_tokens": 0
+    },
+    "prompt_cache_hit_tokens": 0,
+    "prompt_cache_miss_tokens": 326
+  },
+  "system_fingerprint": "fp_8b330d02d0_prod0820_fp8_kvcache_20260402",
+  "text_ru": "Область вокруг глаз и губ\n~ !  ~\n80\nКосметическая акупунктура лица\n~ !  ~\n81\n⓵ Круговая мышца глаза *2 (глаза)\n⓶ Круговая мышца рта *1 (рот)\n⓵\n⓶\nМЫШЦЫ, СВЯЗАННЫЕ С\nГУСИНЫМИ ЛАПКАМИ И МОРЩИНАМИ ВОКРУГ ГУБ\nНа лице расположены три круговые мышцы.\nОни являются ориентирами лицевых мышц.\nДве из них находятся вокруг глаз,\nа третья — вокруг рта. Их функция\nдостаточно очевидна. Эти мышцы окружают\nглаза и рот, которые представляют собой\nотверстия круглой формы. При сокращении этих мышц\nотверстия уменьшаются. Такие движения, как прищуривание,\nобразуют множество мелких морщин.\nСокращение круговой мышцы рта\nприводит к появлению морщин курильщика, а сокращение\nкруговой мышцы глаза — к образованию гусиных лапок.\nКосметическая акупунктура лица\nГусиные лапки\nГусиные лапки связаны с мимикой и потерей жировой клетчатки с возрастом. Поэтому\nключом к лечению является улучшение\nкровообращения вокруг всей глазницы. Также\nиглоукалывание в области морщин\nпомогает уменьшить их образование."
 }

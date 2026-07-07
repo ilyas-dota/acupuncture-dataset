@@ -1,6 +1,29 @@
 {
-  "source": "Advanced_Tung_Style_Acupuncture_Vol_3_Nephrology,_Urology_&_Andrology.pdf",
-  "title": "1. Fu2 Jian\\ Wai4 Jian4, and DMG 77-12 'Lower Three Emperors' (LCH):",
-  "text": "244\n•\nFu2 Jian4: This point is located on the anterior surface of the middle phalanx of the index\nfinger, 0.2 cun radial (lateral) to the median plane of said phalanx, and one third the\ndistance from the distal interphalangeal skin crease to the proximal interphalangeal skin\ncrease. Needle 0.2 cun. BILATERAL NEEDliNG CONTRAINDICATED. {Heart Organ and\nSix Bowels Branch Reaction Areas} (This point is located two thirds the distance from the\nproximal interphalangeal skin crease to the distal interphalangeal skin crease, along the\ncourse of digit line B.)\n•\nWai4 Jian4: This point is located on the anterior surface of the middle phalanx of the index\nfinger, 0.2 cun radial (lateral) to the median plane of said phalanx, and two thirds the\ndistance from the distal interphalangeal skin crease to the proximal interphalangeal skin\ncrease. Needle 0.2 cun. BILATERAL NEEDliNG CONTRAINDICATED. {Heart Organ and\nSix Bowels Branch Reaction Areas} (This point is located one third the distance from the\nproximal interphalangeal skin crease to the distal interphalangeal skin crease, along the\ncourse of digit line B.)\n•\nDMG 77-12 'Lower Three Emperors':\ni. Tian1 Huan~: This point is found in the depression immediately distal to the\nmedial tibial condyle, and lies 2.5 cun distal to the articular surface of the medial\ntibial condyle. Needle 0.5 to 1.0 cun. {Kidney, Six Bowels, and Heart Branch\nReaction Areas}\nii. Di4 Huang2: This point is located 7.0 cun proximal to the medial malleolus along\nthe medial border of the tibia. Needle inferior to superior at a 45° angle 1.0 to 1.8\ncun. CONTRAINDICATED IN PREGNANCY. {Kidney Branch Reaction Area}\niii. Ren2 Huan~: This point is located 3.0 cun proximal to the medial malleolus along\nthe medial border of the tibia. Needle 0.6 to 1.2 cun. CONTRAINDICATED IN\nPREGNANCY. {Kidney Branch Reaction Area}\nA-P view of the LEFT index finger.\nA-P view of the RIGHT index finger.\nDMG 77-12 'Lower 3 Emperors'\nUrethritis (LCH-2)\n[Non-specific, Non-gonococcal]",
-  "category": "tung"
+  "id": "ea0281fb-9c1b-4e12-9a24-f089b755b0fb",
+  "object": "chat.completion",
+  "created": 1782906270,
+  "model": "deepseek-v4-flash",
+  "choices": [
+    {
+      "index": 0,
+      "message": {
+        "role": "assistant",
+        "content": "244\n•\nFu2 Jian4: Точка расположена на передней поверхности средней фаланги указательного пальца, на 0,2 цуня радиально (латерально) от срединной плоскости указанной фаланги, на расстоянии одной трети от дистальной межфаланговой кожной складки до проксимальной межфаланговой кожной складки. Иглу вводить на 0,2 цуня. ДВУСТОРОННЕЕ ИГЛОУКАЛЫВАНИЕ ПРОТИВОПОКАЗАНО. {Зоны реакции ответвлений органа Сердце и шести органов фу} (Точка расположена на расстоянии двух третей от проксимальной межфаланговой кожной складки до дистальной межфаланговой кожной складки по ходу линии пальца B.)\n•\nWai4 Jian4: Точка расположена на передней поверхности средней фаланги указательного пальца, на 0,2 цуня радиально (латерально) от срединной плоскости указанной фаланги, на расстоянии двух третей от дистальной межфаланговой кожной складки до проксимальной межфаланговой кожной складки. Иглу вводить на 0,2 цуня. ДВУСТОРОННЕЕ ИГЛОУКАЛЫВАНИЕ ПРОТИВОПОКАЗАНО. {Зоны реакции ответвлений органа Сердце и шести органов фу} (Точка расположена на расстоянии одной трети от проксимальной межфаланговой кожной складки до дистальной межфаланговой кожной складки по ходу линии пальца B.)\n•\nDMG 77-12 «Три нижних императора»:\ni. Tian1 Huan~: Точка находится в углублении сразу дистальнее медиального мыщелка большеберцовой кости и расположена на 2,5 цуня дистальнее суставной поверхности медиального мыщелка большеберцовой кости. Иглу вводить на 0,5–1,0 цуня. {Зоны реакции ответвлений Почек, шести органов фу и Сердца}\nii. Di4 Huang2: Точка расположена на 7,0 цуня проксимальнее медиальной лодыжки по медиальной"
+      },
+      "logprobs": null,
+      "finish_reason": "stop"
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 459,
+    "completion_tokens": 560,
+    "total_tokens": 1019,
+    "prompt_tokens_details": {
+      "cached_tokens": 0
+    },
+    "prompt_cache_hit_tokens": 0,
+    "prompt_cache_miss_tokens": 459
+  },
+  "system_fingerprint": "fp_8b330d02d0_prod0820_fp8_kvcache_20260402",
+  "text_ru": "244\n•\nFu2 Jian4: Точка расположена на передней поверхности средней фаланги указательного пальца, на 0,2 цуня радиально (латерально) от срединной плоскости указанной фаланги, на расстоянии одной трети от дистальной межфаланговой кожной складки до проксимальной межфаланговой кожной складки. Иглу вводить на 0,2 цуня. ДВУСТОРОННЕЕ ИГЛОУКАЛЫВАНИЕ ПРОТИВОПОКАЗАНО. {Зоны реакции ответвлений органа Сердце и шести органов фу} (Точка расположена на расстоянии двух третей от проксимальной межфаланговой кожной складки до дистальной межфаланговой кожной складки по ходу линии пальца B.)\n•\nWai4 Jian4: Точка расположена на передней поверхности средней фаланги указательного пальца, на 0,2 цуня радиально (латерально) от срединной плоскости указанной фаланги, на расстоянии двух третей от дистальной межфаланговой кожной складки до проксимальной межфаланговой кожной складки. Иглу вводить на 0,2 цуня. ДВУСТОРОННЕЕ ИГЛОУКАЛЫВАНИЕ ПРОТИВОПОКАЗАНО. {Зоны реакции ответвлений органа Сердце и шести органов фу} (Точка расположена на расстоянии одной трети от проксимальной межфаланговой кожной складки до дистальной межфаланговой кожной складки по ходу линии пальца B.)\n•\nDMG 77-12 «Три нижних императора»:\ni. Tian1 Huan~: Точка находится в углублении сразу дистальнее медиального мыщелка большеберцовой кости и расположена на 2,5 цуня дистальнее суставной поверхности медиального мыщелка большеберцовой кости. Иглу вводить на 0,5–1,0 цуня. {Зоны реакции ответвлений Почек, шести органов фу и Сердца}\nii. Di4 Huang2: Точка расположена на 7,0 цуня проксимальнее медиальной лодыжки по медиальной"
 }

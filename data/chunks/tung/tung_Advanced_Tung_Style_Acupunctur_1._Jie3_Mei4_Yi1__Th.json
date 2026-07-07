@@ -1,6 +1,29 @@
 {
-  "source": "Advanced_Tung_Style_Acupuncture_Vol_3_Nephrology,_Urology_&_Andrology.pdf",
-  "title": "1. Jie3 Mei4 Yi1: This point lies 1 cun medial and 1 cun proximal to Tong1 Shan1",
-  "text": "Needle 1.5 to 3.0 cun. {Six Bowel and Kidney Branch Reaction Areas} (Tong1\nShan1 is found on the median plane (midsagittal plane) of the anterior thigh, 7 cun\nproximal to the center of the superior edge of the patella.)\nii. Jie3 Mei4 Er4: This point lies 2.5 cun immediately proximal to Jie3 Mei4 Yi 1•\nNeedle 1.5 to 3.0 cun. {Six Bowel and Kidney Branch Reaction Areas} (Ergo, Jie3\nMei4 Er4 is found 1 cun medial to the median plane (midsagittal plane) at a point\n10.5 cun proximal to the center of the superior edge of the patella.)\niii. Jie3 Mei4 San1: This point lies 2.5 cun immediately proximal to Jie3 Mei4 Er4•\nNeedle 1.5 to 3.0 cun. {Six Bowel and Kidney Branch Reaction Areas} (Ergo, Jie3\nMei4 San 1 is found 1 cun medial to the median plane (midsagittal plane) at a point\n13 cun proximal to the center of the superior edge of the patella.)\n• Gan3 Mao4 Yi1: This point lies 1.0 cun immediately medial to Jie3 Mei4 Er4• Needle 1.0\nto 2.0 cun. {Six Bowels and Lung Branch Reaction Areas} (Jie3 Mei4 Er4 is found 1 cun\nmedial to the median plane (midsagittal plane) at a point 10.5 cun proximal to the center of\nthe superior edge of the patella.)\n• Gan3 Mao4 Er4: This point lies 1.0 cun immediately medial to Jie3 Mei4 San1• Needle\n1.0 to 2.0 cun. {Six Bowels and Lung Branch Reaction Areas} (Jie3 Mei4 San1 is found 1\ncun medial to the median plane (midsagittal plane) at a point 13 cun proximal to the center\nof the superior edge of the patella.)\n• Ren2 Huang2: This point is located 3.5 cun proximal to the apex of (as viewed from\nposterior to anterior) the medial malleolus on the Foot Tai4 Yin1 Spleen Channel; i.e. Ren2\nHuang2 is located 0.5 cun proximal to Sp-6wHo. Needle 0.6 to 1.5 cun. {Kidney\nBranch and Lung Branch Reaction Areas}\n•\nCV-4WH0 (RN 4): On the lower abdomen and on the anterior midline, 3 cun below (inferior\nto) the centre of the umbilicus.\n•\nCV-3WH0 (RN 3): On the lower abdomen and on the anterior midline, 4 cun below (inferior\nto) the centre of the umbilicus.\n325\nPremature Ejaculation (LKC-2)\nDMG 88-10 '3 Sisters 3 Needles'\nCV-4WHO\n•\n•\n1\nCV-3WHO\n326\nPremature Ejaculation (LKC-3)",
-  "category": "tung"
+  "id": "fa761c85-d7cd-45d9-b9ce-ae9f7fa442bb",
+  "object": "chat.completion",
+  "created": 1782906322,
+  "model": "deepseek-v4-flash",
+  "choices": [
+    {
+      "index": 0,
+      "message": {
+        "role": "assistant",
+        "content": "Игла 1,5–3,0 цуня. {Зоны реакции шести кишечников и почечной ветви} (Тун1 Шань1 находится на срединной плоскости (сагиттальной плоскости) передней поверхности бедра, на 7 цуней проксимальнее центра верхнего края надколенника.)\n\nii. Цзе3 Мэй4 Эр4: Эта точка расположена на 2,5 цуня непосредственно проксимальнее Цзе3 Мэй4 И1. Игла 1,5–3,0 цуня. {Зоны реакции шести кишечников и почечной ветви} (Следовательно, Цзе3 Мэй4 Эр4 находится на 1 цунь медиальнее срединной плоскости (сагиттальной плоскости) в точке на 10,5 цуня проксимальнее центра верхнего края надколенника.)\n\niii. Цзе3 Мэй4 Сань1: Эта точка расположена на 2,5 цуня непосредственно проксимальнее Цзе3 Мэй4 Эр4. Игла 1,5–3,0 цуня. {Зоны реакции шести кишечников и почечной ветви} (Следовательно, Цзе3 Мэй4 Сань1 находится на 1 цунь медиальнее срединной плоскости (сагиттальной плоскости) в точке на 13 цуней проксимальнее центра верхнего края надколенника.)\n\n• Гань3 Мао4 И1: Эта точка расположена на 1,0 цунь непосредственно медиальнее Цзе3 Мэй4 Эр4. Игла 1,0–2,0 цуня. {Зоны реакции шести кишечников и легочной ветви} (Цзе3 Мэй4 Эр4 находится на 1 цунь медиальнее срединной плоскости (сагиттальной плоскости) в точке на 10,5 цуня проксимальнее центра верхнего края надколенника.)\n\n• Гань3 Мао4 Эр4: Эта точка расположена на 1,0 цунь непосредственно медиальнее Цзе3 Мэй4 Сань1. Игла 1,0–2,0 цуня. {Зоны реакции шести кишечников и легочной ветви} (Цзе3 Мэй4 Сань1 находится на 1 цунь медиальнее срединной плоскости (сагиттальной плоскости) в точке на 13 цуней проксимальнее центра верхнего края надколенника.)\n\n• Жэнь2 Хуан2: Эта точка расположена на 3,5 цуня"
+      },
+      "logprobs": null,
+      "finish_reason": "stop"
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 538,
+    "completion_tokens": 610,
+    "total_tokens": 1148,
+    "prompt_tokens_details": {
+      "cached_tokens": 0
+    },
+    "prompt_cache_hit_tokens": 0,
+    "prompt_cache_miss_tokens": 538
+  },
+  "system_fingerprint": "fp_8b330d02d0_prod0820_fp8_kvcache_20260402",
+  "text_ru": "Игла 1,5–3,0 цуня. {Зоны реакции шести кишечников и почечной ветви} (Тун1 Шань1 находится на срединной плоскости (сагиттальной плоскости) передней поверхности бедра, на 7 цуней проксимальнее центра верхнего края надколенника.)\n\nii. Цзе3 Мэй4 Эр4: Эта точка расположена на 2,5 цуня непосредственно проксимальнее Цзе3 Мэй4 И1. Игла 1,5–3,0 цуня. {Зоны реакции шести кишечников и почечной ветви} (Следовательно, Цзе3 Мэй4 Эр4 находится на 1 цунь медиальнее срединной плоскости (сагиттальной плоскости) в точке на 10,5 цуня проксимальнее центра верхнего края надколенника.)\n\niii. Цзе3 Мэй4 Сань1: Эта точка расположена на 2,5 цуня непосредственно проксимальнее Цзе3 Мэй4 Эр4. Игла 1,5–3,0 цуня. {Зоны реакции шести кишечников и почечной ветви} (Следовательно, Цзе3 Мэй4 Сань1 находится на 1 цунь медиальнее срединной плоскости (сагиттальной плоскости) в точке на 13 цуней проксимальнее центра верхнего края надколенника.)\n\n• Гань3 Мао4 И1: Эта точка расположена на 1,0 цунь непосредственно медиальнее Цзе3 Мэй4 Эр4. Игла 1,0–2,0 цуня. {Зоны реакции шести кишечников и легочной ветви} (Цзе3 Мэй4 Эр4 находится на 1 цунь медиальнее срединной плоскости (сагиттальной плоскости) в точке на 10,5 цуня проксимальнее центра верхнего края надколенника.)\n\n• Гань3 Мао4 Эр4: Эта точка расположена на 1,0 цунь непосредственно медиальнее Цзе3 Мэй4 Сань1. Игла 1,0–2,0 цуня. {Зоны реакции шести кишечников и легочной ветви} (Цзе3 Мэй4 Сань1 находится на 1 цунь медиальнее срединной плоскости (сагиттальной плоскости) в точке на 13 цуней проксимальнее центра верхнего края надколенника.)\n\n• Жэнь2 Хуан2: Эта точка расположена на 3,5 цуня"
 }

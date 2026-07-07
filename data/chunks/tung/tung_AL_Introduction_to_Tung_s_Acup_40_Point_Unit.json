@@ -1,6 +1,29 @@
 {
-  "source": "AL_Introduction_to_Tung's_Acupuncture.pdf",
-  "title": "40 Point Unit",
-  "text": "Location: the following points are arranged into five longitudinal lines on the back.\nFirstline (10 points): Begins at T2, at the median. 102 - 111, 102 is the mouth of the river,\n103 -108 are ali fire points. 109-111 are earth points.\nSecondline (16 points): Begins at T2, 3 cun lateral from the firstline, bilateral 2 lines. 302 -\n309, 8 points in oneline. 302 - 306 are metal points, 307 - 309 are wood points.\nThirdline (14 points): Begins at T2, 6 cun lateral from the firstline, bilateral 2 lines. 402-408,\n7 points in one line. 402 - 404 are metal points. 405 - 408 are wood points.\nTung's Five Zang Channel: 103-108: heart. 109-111: spleen. 302-306: heart, lung.\n307-309: left, lung; right, liver. 402-404: lung. 405-408: left, lung & spleen. right, liver &\nlung.\n204\nMaster Tung's Unique Points / Area DT and VT\nl 01\n301\n:!O:!\n. 30'.!\n• 402\n203\n. 303\n• 403\n'.!04\n• 304\n404\n'.!05\n305\ne4o5\n'.!06\n. 306\n:!O\"'\n307\n'.!08\n• 308\n309\nIndications: high blood pressure, severe common cold, high fever, acute headache leading\nto dizziness, headache, high blood pressure leading to numbness of the hands and feet,\nhemiplegia, yang cholera, yin cholera, vomiting and various sha syndromes, low back pain\ndue to arteriosclerosis, liver cholera, yin and yang cholera, acute stomach pain.\nNeedle Techique: Using a three-edged needle, prick to exit blood. When pricking the\npoints on the dorsal trunk, wipe with alcohol to clean the area first. Then use the thumb to\npress the point before bleeding.\n205\nIntroduction to Tung's Acupuncture\nDT.05 Pair Phoenix (Shuang Feng) 11•\nLocation: 1.5 cun lateral from the\nspinous processes T2 - T8. 202 -\n208, 7 points in one line. All points\nbelong to the element of fire.\nTung's Five Zang Channel: heart\n• DTOS",
-  "category": "tung"
+  "id": "65e21582-1a33-497d-b962-0e76ef6c6421",
+  "object": "chat.completion",
+  "created": 1782906079,
+  "model": "deepseek-v4-flash",
+  "choices": [
+    {
+      "index": 0,
+      "message": {
+        "role": "assistant",
+        "content": "Расположение: следующие точки расположены в пять продольных линий на спине.\n\nПервая линия (10 точек): Начинается на уровне T2, по срединной линии. 102–111, 102 — устье реки,  \n103–108 — точки огня али. 109–111 — точки земли.\n\nВторая линия (16 точек): Начинается на уровне T2, на 3 цуня латеральнее первой линии, билатерально по 2 линии. 302–309, по 8 точек на одной линии. 302–306 — точки металла, 307–309 — точки дерева.\n\nТретья линия (14 точек): Начинается на уровне T2, на 6 цуней латеральнее первой линии, билатерально по 2 линии. 402–408, по 7 точек на одной линии. 402–404 — точки металла. 405–408 — точки дерева.\n\nКанал пяти плотных органов по Туну: 103–108: сердце. 109–111: селезенка. 302–306: сердце, легкие.  \n307–309: слева — легкие; справа — печень. 402–404: легкие. 405–408: слева — легкие и селезенка; справа — печень и легкие.\n\n204  \nУникальные точки Мастера Туна / Область DT и VT  \nl 01  \n301  \n:!O:!  \n. 30'.!  \n• 402  \n203  \n. 303  \n• 403  \n'.!04  \n• 304  \n404  \n'.!05  \n305  \ne4o5  \n'.!06  \n. 306  \n:!O\"'  \n307  \n'.!08  \n• 308  \n309  \n\nПоказания: повышенное артериальное давление, тяжелая простуда, высокая температура, острая головная боль, приводящая к головокружению, головная боль, повышенное артериальное давление, приводящее к онемению рук и ног, гемиплегия, ян-холера, инь-холера, рвота и различные ша-синдромы, боль в пояснице вследствие атеросклероза, печеночная холера, инь- и ян-холера, острая боль в желудке.\n\nТехника иглоукалывания: Используя трехгранную иглу, сделать прокол для выпуска крови. При прокалывании точек на дорсальной части туловища сначала протереть область спиртом для очистки. Затем надавить большим пальцем на точку перед кровопусканием.\n\n205  \nВведение"
+      },
+      "logprobs": null,
+      "finish_reason": "stop"
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 493,
+    "completion_tokens": 614,
+    "total_tokens": 1107,
+    "prompt_tokens_details": {
+      "cached_tokens": 0
+    },
+    "prompt_cache_hit_tokens": 0,
+    "prompt_cache_miss_tokens": 493
+  },
+  "system_fingerprint": "fp_8b330d02d0_prod0820_fp8_kvcache_20260402",
+  "text_ru": "Расположение: следующие точки расположены в пять продольных линий на спине.\n\nПервая линия (10 точек): Начинается на уровне T2, по срединной линии. 102–111, 102 — устье реки,  \n103–108 — точки огня али. 109–111 — точки земли.\n\nВторая линия (16 точек): Начинается на уровне T2, на 3 цуня латеральнее первой линии, билатерально по 2 линии. 302–309, по 8 точек на одной линии. 302–306 — точки металла, 307–309 — точки дерева.\n\nТретья линия (14 точек): Начинается на уровне T2, на 6 цуней латеральнее первой линии, билатерально по 2 линии. 402–408, по 7 точек на одной линии. 402–404 — точки металла. 405–408 — точки дерева.\n\nКанал пяти плотных органов по Туну: 103–108: сердце. 109–111: селезенка. 302–306: сердце, легкие.  \n307–309: слева — легкие; справа — печень. 402–404: легкие. 405–408: слева — легкие и селезенка; справа — печень и легкие.\n\n204  \nУникальные точки Мастера Туна / Область DT и VT  \nl 01  \n301  \n:!O:!  \n. 30'.!  \n• 402  \n203  \n. 303  \n• 403  \n'.!04  \n• 304  \n404  \n'.!05  \n305  \ne4o5  \n'.!06  \n. 306  \n:!O\"'  \n307  \n'.!08  \n• 308  \n309  \n\nПоказания: повышенное артериальное давление, тяжелая простуда, высокая температура, острая головная боль, приводящая к головокружению, головная боль, повышенное артериальное давление, приводящее к онемению рук и ног, гемиплегия, ян-холера, инь-холера, рвота и различные ша-синдромы, боль в пояснице вследствие атеросклероза, печеночная холера, инь- и ян-холера, острая боль в желудке.\n\nТехника иглоукалывания: Используя трехгранную иглу, сделать прокол для выпуска крови. При прокалывании точек на дорсальной части туловища сначала протереть область спиртом для очистки. Затем надавить большим пальцем на точку перед кровопусканием.\n\n205  \nВведение"
 }

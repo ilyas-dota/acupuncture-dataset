@@ -1,6 +1,29 @@
 {
-  "source": "AL_Introduction_to_Tung's_Acupuncture.pdf",
-  "title": "3 Point Unit",
-  "text": "Location: 120 -122, (3 water points) at the midline staring at S3.\nTung's Five Zang Channel: cerebellum\nIndications: cerebellar pain, cerebellar distention, pain in the median of the nape, car­\nbuncle on the nape.\nNeedle Technique: Use a three-edged needle to prick out blood.\n•\nDT1 7\n215\n319\nIntroduction to Tung' s Acupuncture\nVENTRAL TRUNK AREA JRrliftBi.u\nVT.01 Throat Moth 9 (Hou E Jiu) llill1L",
-  "category": "tung"
+  "id": "c0049585-3a35-49b5-b380-595436802d1f",
+  "object": "chat.completion",
+  "created": 1782906053,
+  "model": "deepseek-v4-flash",
+  "choices": [
+    {
+      "index": 0,
+      "message": {
+        "role": "assistant",
+        "content": "Расположение: 120–122 (3 водные точки) на срединной линии, на уровне S3.\nПятицанный канал Туна: мозжечок.\nПоказания: боль в мозжечке, распирание в мозжечке, боль в срединной области затылка, карбункул на затылке.\nТехника иглоукалывания: Использовать трёхгранную иглу для кровопускания.\n•\nDT1 7\n215\n319\nВведение в акупунктуру Туна\nОБЛАСТЬ ВЕНТРАЛЬНОЙ ЧАСТИ ТУЛОВИЩА (VT)\nVT.01 Горловая моль 9 (Hou E Jiu)"
+      },
+      "logprobs": null,
+      "finish_reason": "stop"
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 159,
+    "completion_tokens": 171,
+    "total_tokens": 330,
+    "prompt_tokens_details": {
+      "cached_tokens": 0
+    },
+    "prompt_cache_hit_tokens": 0,
+    "prompt_cache_miss_tokens": 159
+  },
+  "system_fingerprint": "fp_8b330d02d0_prod0820_fp8_kvcache_20260402",
+  "text_ru": "Расположение: 120–122 (3 водные точки) на срединной линии, на уровне S3.\nПятицанный канал Туна: мозжечок.\nПоказания: боль в мозжечке, распирание в мозжечке, боль в срединной области затылка, карбункул на затылке.\nТехника иглоукалывания: Использовать трёхгранную иглу для кровопускания.\n•\nDT1 7\n215\n319\nВведение в акупунктуру Туна\nОБЛАСТЬ ВЕНТРАЛЬНОЙ ЧАСТИ ТУЛОВИЩА (VT)\nVT.01 Горловая моль 9 (Hou E Jiu)"
 }

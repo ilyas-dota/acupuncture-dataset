@@ -1,6 +1,29 @@
 {
-  "source": "Advanced_Tung_Style_Acupuncture_Vol_3_Nephrology,_Urology_&_Andrology.pdf",
-  "title": "1. Ren2 Huan~, Shen4 Guan\\ and Tong1 Shen4 the moxa from CV-3WH0 to CV-4 WHO (LK",
-  "text": "•\nRen2 Huan~: This point is located 3.5 cun proximal to the apex of (as viewed from\nposterior to anterior) the medial malleolus on the Foot Tai4 Yin1 Spleen Channel; i.e. Ren2\nHuang2 is located 0.5 cun proximal to Sp-6WH0 . Needle 0.6 to 1.5 cun. {Kidney Branch and\nLung Branch Reaction Areas}\n•\nShen4 Guan1: This point is located 1.5 cun distal to Tian1 Huang2 on the medial side of the\nproximal leg. Needle 0.5 to 2.0 cun. {Six Bowel Reaction Area} (Tian1 Huang2 is located\n1.0 cun distal to Sp-9 WHO, on the medial aspect of the proximal leg, between the medial\nborder of the tibia and the medial head of the gastrocnemius muscle, ergo, Shen4 Guan1 is\nlocated 2.5 cun distal to Sp-9 WHO)\n•\nTong1 Shen4: This point is located in the depression found immediately proximal and\nmedial to the superomedial angle of the patella. To locate the point, draw a transverse line\ntangent to the superior margin of the patella and a vertical line tangent to the medial margin\nof the patella - where the two lines intersect is the location of the point. Needle 0.5 to 1.0\ncun. {Kidney Reaction Area}\n•\nCV-4WH0 (RN 4): On the lower abdomen and on the anterior midline, 3 cun below (inferior\nto) the centre of the umbilicus.\n•\nCV-3WH0 (RN 3): On the lower abdomen and on the anterior midline, 4 cun below (inferior\nto) the centre of the umbilicus.\nCV-4WH0 • •\nCV-3WHO\n344\nSpermatorrhea (LKC-4)",
-  "category": "tung"
+  "id": "214c00a7-613b-4f61-821e-89d88a8ced51",
+  "object": "chat.completion",
+  "created": 1782906396,
+  "model": "deepseek-v4-flash",
+  "choices": [
+    {
+      "index": 0,
+      "message": {
+        "role": "assistant",
+        "content": "•\nRen2 Huan~: 此穴位于足太阴脾经内踝尖（从后向前视）近心端3.5寸处；即Ren2 Huang2位于SP-6WHO近心端0.5寸处。针刺0.6至1.5寸。{肾支与肺支反应区}\n•\nShen4 Guan1: 此穴位于小腿近端内侧，Tian1 Huang2远心端1.5寸处。针刺0.5至2.0寸。{六腑反应区}（Tian1 Huang2位于SP-9WHO远心端1.0寸处，在小腿近端内侧，胫骨内侧缘与腓肠肌内侧头之间；因此Shen4 Guan1位于SP-9WHO远心端2.5寸处）\n•\nTong1 Shen4: 此穴位于髌骨上内角近心端及内侧的凹陷处。取穴时，画一条与髌骨上缘相切的水平线，以及一条与髌骨内侧缘相切的垂直线——两线相交处即为穴位所在。针刺0.5至1.0寸。{肾反应区}\n•\nCV-4WHO (RN 4): 位于下腹部，前正中线上，脐中央下方（远心端）3寸处。\n•\nCV-3WHO (RN 3): 位于下腹部，前正中线上，脐中央下方（远心端）4寸处。\nCV-4WHO • •\nCV-3WHO\n344\n遗精 (LKC-4)"
+      },
+      "logprobs": null,
+      "finish_reason": "stop"
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 473,
+    "completion_tokens": 338,
+    "total_tokens": 811,
+    "prompt_tokens_details": {
+      "cached_tokens": 0
+    },
+    "prompt_cache_hit_tokens": 0,
+    "prompt_cache_miss_tokens": 473
+  },
+  "system_fingerprint": "fp_8b330d02d0_prod0820_fp8_kvcache_20260402",
+  "text_ru": "•\nRen2 Huan~: 此穴位于足太阴脾经内踝尖（从后向前视）近心端3.5寸处；即Ren2 Huang2位于SP-6WHO近心端0.5寸处。针刺0.6至1.5寸。{肾支与肺支反应区}\n•\nShen4 Guan1: 此穴位于小腿近端内侧，Tian1 Huang2远心端1.5寸处。针刺0.5至2.0寸。{六腑反应区}（Tian1 Huang2位于SP-9WHO远心端1.0寸处，在小腿近端内侧，胫骨内侧缘与腓肠肌内侧头之间；因此Shen4 Guan1位于SP-9WHO远心端2.5寸处）\n•\nTong1 Shen4: 此穴位于髌骨上内角近心端及内侧的凹陷处。取穴时，画一条与髌骨上缘相切的水平线，以及一条与髌骨内侧缘相切的垂直线——两线相交处即为穴位所在。针刺0.5至1.0寸。{肾反应区}\n•\nCV-4WHO (RN 4): 位于下腹部，前正中线上，脐中央下方（远心端）3寸处。\n•\nCV-3WHO (RN 3): 位于下腹部，前正中线上，脐中央下方（远心端）4寸处。\nCV-4WHO • •\nCV-3WHO\n344\n遗精 (LKC-4)"
 }

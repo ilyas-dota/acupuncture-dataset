@@ -1,6 +1,29 @@
 {
-  "source": "Advanced_Tung_Style_Acupuncture_Vol_3_Nephrology,_Urology_&_Andrology.pdf",
-  "title": "1. Fu2 Jian4 and DMG 77-12 'Lower Three Emperors' (LKC):",
-  "text": "• Fu2 Jian4: This point is located on the anterior surface of the middle phalanx of the index\nfinger, 0.3 cun radial (lateral) and 0.15 cun distal to the center of the phalanx. Needle 0.2 to\n0.3 cun or 'let'. BILATERAL NEEDLING CONTRAINDICATED. {Heart Organ, Six\nBowels, and Liver Branch Reaction Areas}\n• DMG 77-12 'Lower Three Emperors':\ni. Tian1 Huang2: This point is located 1.0 cun distal to Sp-9WH0 , on the medial aspect\nof the proximal leg, between the medial border of the tibia and the medial head of\nthe gastrocnemius muscle. Needle 0.5 to 1.5 cun. {Kidney, Six Bowels, and Heart\nBranch Reaction Areas}\nii. Ren2 Huan~: This point is located 3.5 cun proximal to the apex of (as viewed from\nposterior to anterior) the medial malleolus on the Foot Tai4 Yin1 Spleen Channel; i.e.\nRen2 Huang2 is located 0.5 cun proximal to Sp-6WH0 • Needle 0.6 to 1.5 cun.\n{Kidney Branch and Lung Branch Reaction Areas}\niii. Di4 Huan~: This point is located 4.0 cun immediately proximal to Ren2 Huang2•\nNeedle 1.0 to 2.0 cun. {Kidney Reaction Area} (Di4 Huang2 is located 7.5 cun\nproximal to the apex of (as viewed from posterior to anterior) the medial malleolus.)\nDMG 77-12 'Lower 3 Emperors'\n312\nOrchitis (LKC-2)",
-  "category": "tung"
+  "id": "b046c597-7552-4c40-9432-f71e7b8bde19",
+  "object": "chat.completion",
+  "created": 1782906266,
+  "model": "deepseek-v4-flash",
+  "choices": [
+    {
+      "index": 0,
+      "message": {
+        "role": "assistant",
+        "content": "• 浮间穴 (Fu2 Jian4)：位于食指中节指骨前面，距指骨中心桡侧（外侧）0.3寸、远端0.15寸。针刺深度0.2至0.3寸，或点刺放血。**禁止双侧同时针刺**。{心脏、六腑及肝经反应区}\n• DMG 77-12 '下三皇'：\ni. 天皇穴 (Tian1 Huang2)：位于阴陵泉穴 (Sp-9WH0) 远端1.0寸，小腿内侧，胫骨内侧缘与腓肠肌内侧头之间。针刺深度0.5至1.5寸。{肾脏、六腑及心经反应区}\nii. 人皇穴 (Ren2 Huang2)：位于足太阴脾经内踝尖（从后向前视）近端3.5寸；即人皇穴位于三阴交穴 (Sp-6WH0) 近端0.5寸。针刺深度0.6至1.5寸。{肾经及肺经反应区}\niii. 地皇穴 (Di4 Huang2)：位于人皇穴 (Ren2 Huang2) 正上方近端4.0寸。针刺深度1.0至2.0寸。{肾脏反应区}（地皇穴位于内踝尖（从后向前视）近端7.5寸。）\n\nDMG 77-12 '下三皇'\n312\n睾丸炎 (LKC-2)"
+      },
+      "logprobs": null,
+      "finish_reason": "stop"
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 434,
+    "completion_tokens": 323,
+    "total_tokens": 757,
+    "prompt_tokens_details": {
+      "cached_tokens": 0
+    },
+    "prompt_cache_hit_tokens": 0,
+    "prompt_cache_miss_tokens": 434
+  },
+  "system_fingerprint": "fp_8b330d02d0_prod0820_fp8_kvcache_20260402",
+  "text_ru": "• 浮间穴 (Fu2 Jian4)：位于食指中节指骨前面，距指骨中心桡侧（外侧）0.3寸、远端0.15寸。针刺深度0.2至0.3寸，或点刺放血。**禁止双侧同时针刺**。{心脏、六腑及肝经反应区}\n• DMG 77-12 '下三皇'：\ni. 天皇穴 (Tian1 Huang2)：位于阴陵泉穴 (Sp-9WH0) 远端1.0寸，小腿内侧，胫骨内侧缘与腓肠肌内侧头之间。针刺深度0.5至1.5寸。{肾脏、六腑及心经反应区}\nii. 人皇穴 (Ren2 Huang2)：位于足太阴脾经内踝尖（从后向前视）近端3.5寸；即人皇穴位于三阴交穴 (Sp-6WH0) 近端0.5寸。针刺深度0.6至1.5寸。{肾经及肺经反应区}\niii. 地皇穴 (Di4 Huang2)：位于人皇穴 (Ren2 Huang2) 正上方近端4.0寸。针刺深度1.0至2.0寸。{肾脏反应区}（地皇穴位于内踝尖（从后向前视）近端7.5寸。）\n\nDMG 77-12 '下三皇'\n312\n睾丸炎 (LKC-2)"
 }

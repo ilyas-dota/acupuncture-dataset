@@ -1,6 +1,29 @@
 {
-  "source": "Cosmetic Acu_Eng_kindle.pdf",
-  "title": "6. Post-treatment care",
-  "text": "• Assess the result periodically with photos objectively.\n• Check that the result is on track in the big picture.\n• Modify the treatment plan as needed.\n~ !\n~\n110\nFacial  Cosmetic Acupuncture\n~ !\n~\n111",
-  "category": "general"
+  "id": "41246c3e-40bf-4015-a384-2b4e6550a01c",
+  "object": "chat.completion",
+  "created": 1782905919,
+  "model": "deepseek-v4-flash",
+  "choices": [
+    {
+      "index": 0,
+      "message": {
+        "role": "assistant",
+        "content": "• Периодически объективно оценивайте результат с помощью фотографий.\n• Проверяйте, что результат соответствует общей картине.\n• При необходимости корректируйте план лечения.\n~ !\n~\n110\nКосметическая акупунктура лица\n~ !\n~\n111"
+      },
+      "logprobs": null,
+      "finish_reason": "stop"
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 82,
+    "completion_tokens": 58,
+    "total_tokens": 140,
+    "prompt_tokens_details": {
+      "cached_tokens": 0
+    },
+    "prompt_cache_hit_tokens": 0,
+    "prompt_cache_miss_tokens": 82
+  },
+  "system_fingerprint": "fp_8b330d02d0_prod0820_fp8_kvcache_20260402",
+  "text_ru": "• Периодически объективно оценивайте результат с помощью фотографий.\n• Проверяйте, что результат соответствует общей картине.\n• При необходимости корректируйте план лечения.\n~ !\n~\n110\nКосметическая акупунктура лица\n~ !\n~\n111"
 }

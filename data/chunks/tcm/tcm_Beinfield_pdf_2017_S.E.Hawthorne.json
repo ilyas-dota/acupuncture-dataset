@@ -1,6 +1,29 @@
 {
-  "source": "Beinfield.pdf",
-  "title": "2017 S.E.Hawthorne",
-  "text": "Portland, Oregon 97214\nMeridian",
-  "category": "tcm"
+  "id": "82b10ff0-896e-41d7-b2e6-6a4319b63d8a",
+  "object": "chat.completion",
+  "created": 1782905942,
+  "model": "deepseek-v4-flash",
+  "choices": [
+    {
+      "index": 0,
+      "message": {
+        "role": "assistant",
+        "content": "Портленд, Орегон 97214\nМеридиан"
+      },
+      "logprobs": null,
+      "finish_reason": "stop"
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 45,
+    "completion_tokens": 16,
+    "total_tokens": 61,
+    "prompt_tokens_details": {
+      "cached_tokens": 0
+    },
+    "prompt_cache_hit_tokens": 0,
+    "prompt_cache_miss_tokens": 45
+  },
+  "system_fingerprint": "fp_8b330d02d0_prod0820_fp8_kvcache_20260402",
+  "text_ru": "Портленд, Орегон 97214\nМеридиан"
 }

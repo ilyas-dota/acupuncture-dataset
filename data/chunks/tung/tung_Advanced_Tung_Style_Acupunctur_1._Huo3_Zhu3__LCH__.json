@@ -1,6 +1,29 @@
 {
-  "source": "Advanced_Tung_Style_Acupuncture_Vol_3_Nephrology,_Urology_&_Andrology.pdf",
-  "title": "1. Huo3 Zhu3 (LCH):",
-  "text": "Urethralgia (LCH)\n[Aseptic]\n237\n•\nHuo3 Zhu3: This point is located on the dorsum of the foot, immediately distal to the\narticulation of the bases of the 1st and 2nd metatarsal bones. Needle 0.3 to 0.8 cun.\nCONTRAINDICATED IN PREGNANCY; MOXABUSTION CONTRAINDICATED. {Heart\nOrgan Branch Reaction Area} [Huo3 Zhu3 is described as being 1.0 cun proximal to Huo3\nYing4• Huo3 Ying4 is located on the dorsum of the foot, in the interosseous space between\nthe 1st and 2nd metatarsal bones, 0.5 cun proximal to the level of the metatarsophalangeal\njoints.]\nHuo3 Zhu3\nHuo3 Ying4\n238\nUrethralgia (MC-1)",
-  "category": "tung"
+  "id": "6cc84b55-582e-415b-b6e0-5d4e3662e67a",
+  "object": "chat.completion",
+  "created": 1782906310,
+  "model": "deepseek-v4-flash",
+  "choices": [
+    {
+      "index": 0,
+      "message": {
+        "role": "assistant",
+        "content": "Уретралгия (LCH)\n[Асептический]\n237\n•\nХо Чжу (Huo3 Zhu3): Точка расположена на тыльной стороне стопы, дистальнее сочленения оснований 1-й и 2-й плюсневых костей. Иглу вводят на глубину от 0,3 до 0,8 цуня.\nПРОТИВОПОКАЗАНО ПРИ БЕРЕМЕННОСТИ; ПРИЖИГАНИЕ ПРОТИВОПОКАЗАНО. {Зона реакции ответвления органа Сердца} [Хо Чжу описывается как точка, расположенная на 1,0 цунь проксимальнее Хо Ин (Huo3 Ying4). Хо Ин находится на тыльной стороне стопы, в межкостном пространстве между 1-й и 2-й плюсневыми костями, на 0,5 цуня проксимальнее уровня плюснефаланговых суставов.]\nХо Чжу\nХо Ин\n238\nУретралгия (MC-1)"
+      },
+      "logprobs": null,
+      "finish_reason": "stop"
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 243,
+    "completion_tokens": 270,
+    "total_tokens": 513,
+    "prompt_tokens_details": {
+      "cached_tokens": 0
+    },
+    "prompt_cache_hit_tokens": 0,
+    "prompt_cache_miss_tokens": 243
+  },
+  "system_fingerprint": "fp_8b330d02d0_prod0820_fp8_kvcache_20260402",
+  "text_ru": "Уретралгия (LCH)\n[Асептический]\n237\n•\nХо Чжу (Huo3 Zhu3): Точка расположена на тыльной стороне стопы, дистальнее сочленения оснований 1-й и 2-й плюсневых костей. Иглу вводят на глубину от 0,3 до 0,8 цуня.\nПРОТИВОПОКАЗАНО ПРИ БЕРЕМЕННОСТИ; ПРИЖИГАНИЕ ПРОТИВОПОКАЗАНО. {Зона реакции ответвления органа Сердца} [Хо Чжу описывается как точка, расположенная на 1,0 цунь проксимальнее Хо Ин (Huo3 Ying4). Хо Ин находится на тыльной стороне стопы, в межкостном пространстве между 1-й и 2-й плюсневыми костями, на 0,5 цуня проксимальнее уровня плюснефаланговых суставов.]\nХо Чжу\nХо Ин\n238\nУретралгия (MC-1)"
 }

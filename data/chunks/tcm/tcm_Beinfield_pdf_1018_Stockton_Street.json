@@ -1,6 +1,29 @@
 {
-  "source": "Beinfield.pdf",
-  "title": "1018 Stockton Street",
-  "text": "San Francisco, California 94108\nFAX (415) 981-2032\n(415) 981-5364\nMayway Trading Co",
-  "category": "tcm"
+  "id": "f2b309c9-e4c6-4120-90ae-cc5008a37a73",
+  "object": "chat.completion",
+  "created": 1782905935,
+  "model": "deepseek-v4-flash",
+  "choices": [
+    {
+      "index": 0,
+      "message": {
+        "role": "assistant",
+        "content": "Сан-Франциско, Калифорния 94108\nФАКС (415) 981-2032\n(415) 981-5364\nMayway Trading Co"
+      },
+      "logprobs": null,
+      "finish_reason": "stop"
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 67,
+    "completion_tokens": 42,
+    "total_tokens": 109,
+    "prompt_tokens_details": {
+      "cached_tokens": 0
+    },
+    "prompt_cache_hit_tokens": 0,
+    "prompt_cache_miss_tokens": 67
+  },
+  "system_fingerprint": "fp_8b330d02d0_prod0820_fp8_kvcache_20260402",
+  "text_ru": "Сан-Франциско, Калифорния 94108\nФАКС (415) 981-2032\n(415) 981-5364\nMayway Trading Co"
 }

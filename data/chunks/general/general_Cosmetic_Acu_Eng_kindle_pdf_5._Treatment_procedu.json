@@ -1,6 +1,29 @@
 {
-  "source": "Cosmetic Acu_Eng_kindle.pdf",
-  "title": "5. Treatment procedure",
-  "text": "• Acupuncture is applied in consideration of three principles;\ntraditional/ dermal/ muscular approach.\n• Consider other options like herbs, cupping, moxibustion, massage, e-stim, etc\n• Instruct patients with modiﬁcation of daily living: diet, sleep, exercise, posture, etc.",
-  "category": "general"
+  "id": "b02e225a-6296-45ad-8ade-495bbf2ac4e5",
+  "object": "chat.completion",
+  "created": 1782905895,
+  "model": "deepseek-v4-flash",
+  "choices": [
+    {
+      "index": 0,
+      "message": {
+        "role": "assistant",
+        "content": "• Иглоукалывание применяется с учетом трех принципов:\nтрадиционный / дермальный / мышечный подход.\n• Рассмотрите другие варианты: травы, банки, мокса-терапия, массаж, электростимуляция и т.д.\n• Дайте пациентам рекомендации по коррекции образа жизни: диета, сон, физические упражнения, осанка и т.д."
+      },
+      "logprobs": null,
+      "finish_reason": "stop"
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 97,
+    "completion_tokens": 97,
+    "total_tokens": 194,
+    "prompt_tokens_details": {
+      "cached_tokens": 0
+    },
+    "prompt_cache_hit_tokens": 0,
+    "prompt_cache_miss_tokens": 97
+  },
+  "system_fingerprint": "fp_8b330d02d0_prod0820_fp8_kvcache_20260402",
+  "text_ru": "• Иглоукалывание применяется с учетом трех принципов:\nтрадиционный / дермальный / мышечный подход.\n• Рассмотрите другие варианты: травы, банки, мокса-терапия, массаж, электростимуляция и т.д.\n• Дайте пациентам рекомендации по коррекции образа жизни: диета, сон, физические упражнения, осанка и т.д."
 }

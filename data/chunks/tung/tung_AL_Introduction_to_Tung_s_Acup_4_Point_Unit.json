@@ -1,6 +1,29 @@
 {
-  "source": "AL_Introduction_to_Tung's_Acupuncture.pdf",
-  "title": "4 Point Unit",
-  "text": "Location: 6 cun lateral from the midline at T2 and T3, 402 - 403, (2 metal points in one line).\nTung's Five Zang Channel: lung, kidney\nIndications: lower leg tight and distended, lower leg pain.\nNeedle Technique: use three-edged needle to prick blood ipsilaterally.\nDT.09 Metal Forest (Jin Lin) 0˰\nLocation: 6 cun lateral from the midline of T4, TS and T6.\n404 - 406, 1 metal point and 2 wood points in oneline.\nTung's Five Zang Channel: right-liver, kidney; left-spleen, kidney.\nIndications: sciatica due to arteriosclerosis.\nNeedle Technique: use a three-edged needle to prick blood ipsilaterally.\n208",
-  "category": "tung"
+  "id": "8e7a1eb9-00d0-4875-8c72-835f16bebaaa",
+  "object": "chat.completion",
+  "created": 1782906084,
+  "model": "deepseek-v4-flash",
+  "choices": [
+    {
+      "index": 0,
+      "message": {
+        "role": "assistant",
+        "content": "位置：T2、T3棘突旁开6寸，402-403（2个金点呈一线排列）。\n\n董氏五脏经：肺、肾。\n\n主治：小腿紧绷胀痛、小腿疼痛。\n\n针法：用三棱针同侧点刺放血。\n\nDT.09 金林穴 0˰\n\n位置：T4、T5、T6棘突旁开6寸。\n\n404-406（1个金点与2个木点呈一线排列）。\n\n董氏五脏经：右侧——肝、肾；左侧——脾、肾。\n\n主治：动脉硬化性坐骨神经痛。\n\n针法：用三棱针同侧点刺放血。"
+      },
+      "logprobs": null,
+      "finish_reason": "stop"
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 208,
+    "completion_tokens": 146,
+    "total_tokens": 354,
+    "prompt_tokens_details": {
+      "cached_tokens": 0
+    },
+    "prompt_cache_hit_tokens": 0,
+    "prompt_cache_miss_tokens": 208
+  },
+  "system_fingerprint": "fp_8b330d02d0_prod0820_fp8_kvcache_20260402",
+  "text_ru": "位置：T2、T3棘突旁开6寸，402-403（2个金点呈一线排列）。\n\n董氏五脏经：肺、肾。\n\n主治：小腿紧绷胀痛、小腿疼痛。\n\n针法：用三棱针同侧点刺放血。\n\nDT.09 金林穴 0˰\n\n位置：T4、T5、T6棘突旁开6寸。\n\n404-406（1个金点与2个木点呈一线排列）。\n\n董氏五脏经：右侧——肝、肾；左侧——脾、肾。\n\n主治：动脉硬化性坐骨神经痛。\n\n针法：用三棱针同侧点刺放血。"
 }

@@ -1,6 +1,29 @@
 {
-  "source": "Advanced_Tung_Style_Acupuncture_Vol_3_Nephrology,_Urology_&_Andrology.pdf",
-  "title": "1. Fen1 Zhi1 Shang4, Fen1 Zhi1 Zhong\\ Ren2 Huang2, Shui3 Qu\\ and Liu4 Wan2 (LKC)",
-  "text": "•\nFen1 Zhi1 Shang4: This point is located inferior to the 'fork' formed between the axillary\nborder of the scapula and the humerus. It lies in proximity to the posterior axillary fold,\ndirectly inferior to the posterior aspect of the acromion process, 1 cun inferior to the most\ncaudal aspect of the glenohumeral articulation. Needle 1.0 to 1.5 cun. {Endocrine and Liver\nReaction Areas}\n•\nFen1 Zhi1 Zhong1: This point is located by coursing 1.5 cun immediately inferior, then 0.6\ncun medial to Fen1 Zhi1 Shang4• Needle 1.0 to 1.5 cun. {Endocrine, Lung Branch, and\nBreast Reaction Areas}\n•\nRen2 Huang2: This point is located 3.5 cun proximal to the apex of (as viewed from\nposterior to anterior) the medial malleolus on the Foot Tai4 Yin1 Spleen Channel; i.e. Ren2\nHuang2 is located 0.5\ncun proximal to\nSp-6WH0 • Needle 0.6 to\n1.5\ncun.\nCONTRAINDICATED IN PREGNANCY. {Kidney Branch and Lung Branch Reaction\nAreas}\n•\nShue Qu1: This point is located on the dorsum of the foot, immediately distal to the\narticulation of the bases of the 4th and 5th metatarsal bones. Needle 0.3 to 0.5 cun. {Lung\nBranch and Kidney Branch Reaction Areas}\n•\nLiu4 Wan2: This point is located on the dorsum of the foot between the 4th and 5th\nmetatarsal bones, 0.5 cun proximal to GB-43WH0 • Needle with a 36 Gauge needle 0.3 to 0.5\ncun - CONTRAINDICATED IN PATIENTS WITH ASTHMA, PULMONARY DISEASES,\nEXCESSIVE PHLEGM, OR WHO ARE WEAK/FRAIL. {Lung Branch and Kidney Branch}\n(GB-43WH0 is located 0.5 unit posterior to (proximal to) the web between the 4th and 5th\ntoes, ergo, Liu4 Wan2 is located 1.0 cun proximal to the interdigital web between said\ndigits.)\n259\nUrolithiasis (HPC-1)",
-  "category": "tung"
+  "id": "fe4cdbed-02e2-440e-9f11-ede0b1829f36",
+  "object": "chat.completion",
+  "created": 1782906251,
+  "model": "deepseek-v4-flash",
+  "choices": [
+    {
+      "index": 0,
+      "message": {
+        "role": "assistant",
+        "content": "•\nFen1 Zhi1 Shang4: Точка расположена ниже «развилки», образованной подмышечным краем лопатки и плечевой костью. Находится вблизи задней подмышечной складки, непосредственно ниже заднего аспекта акромиона, на 1 цунь ниже самой каудальной части плечелопаточного сочленения. Иглу вводят на глубину 1,0–1,5 цуня. {Реакционные зоны эндокринной системы и печени}\n•\nFen1 Zhi1 Zhong1: Точка расположена на 1,5 цуня непосредственно ниже, а затем на 0,6 цуня медиальнее точки Fen1 Zhi1 Shang4. Иглу вводят на глубину 1,0–1,5 цуня. {Реакционные зоны эндокринной системы, легочной ветви и молочной железы}\n•\nRen2 Huang2: Точка расположена на 3,5 цуня проксимальнее верхушки (при виде сзади вперед) медиальной лодыжки на канале селезенки Foot Tai4 Yin1; т.е. Ren2 Huang2 находится на 0,5 цуня проксимальнее точки Sp-6WH0. Иглу вводят на глубину 0,6–1,5 цуня. ПРОТИВОПОКАЗАНО ПРИ БЕРЕМЕННОСТИ. {Реакционные зоны почечной ветви и легочной ветви}\n•\nShue Qu1: Точка расположена на тыльной стороне стопы, непосредственно дистальнее сочленения оснований 4-й и 5-й плюсневых костей. Иглу вводят на глубину 0,3–0,5 цуня. {Реакционные зоны легочной ветви и почечной ветви}\n•\nLiu4 Wan2: Точка расположена на тыльной стороне стопы между 4-й и 5-й плюсневыми костями, на 0,5 цуня проксимальнее точки GB-43WH0. Иглу вводят иглой 36-го калибра на глубину 0,3–0,5 цуня — ПРОТИВОПОКАЗАНО ПАЦИЕНТАМ С АСТМОЙ, ЗАБОЛЕВАНИЯМИ ЛЕГКИХ, ИЗБЫТОЧНОЙ МОКРОТОЙ ИЛИ ОСЛАБЛЕННЫМ/ХИЛЫМ ПАЦИЕНТАМ. {Легочная ветвь и почечная ветвь} (Точка GB-43WH0 расположена на 0,5 единицы кзади (проксимальнее)"
+      },
+      "logprobs": null,
+      "finish_reason": "stop"
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 525,
+    "completion_tokens": 667,
+    "total_tokens": 1192,
+    "prompt_tokens_details": {
+      "cached_tokens": 0
+    },
+    "prompt_cache_hit_tokens": 0,
+    "prompt_cache_miss_tokens": 525
+  },
+  "system_fingerprint": "fp_8b330d02d0_prod0820_fp8_kvcache_20260402",
+  "text_ru": "•\nFen1 Zhi1 Shang4: Точка расположена ниже «развилки», образованной подмышечным краем лопатки и плечевой костью. Находится вблизи задней подмышечной складки, непосредственно ниже заднего аспекта акромиона, на 1 цунь ниже самой каудальной части плечелопаточного сочленения. Иглу вводят на глубину 1,0–1,5 цуня. {Реакционные зоны эндокринной системы и печени}\n•\nFen1 Zhi1 Zhong1: Точка расположена на 1,5 цуня непосредственно ниже, а затем на 0,6 цуня медиальнее точки Fen1 Zhi1 Shang4. Иглу вводят на глубину 1,0–1,5 цуня. {Реакционные зоны эндокринной системы, легочной ветви и молочной железы}\n•\nRen2 Huang2: Точка расположена на 3,5 цуня проксимальнее верхушки (при виде сзади вперед) медиальной лодыжки на канале селезенки Foot Tai4 Yin1; т.е. Ren2 Huang2 находится на 0,5 цуня проксимальнее точки Sp-6WH0. Иглу вводят на глубину 0,6–1,5 цуня. ПРОТИВОПОКАЗАНО ПРИ БЕРЕМЕННОСТИ. {Реакционные зоны почечной ветви и легочной ветви}\n•\nShue Qu1: Точка расположена на тыльной стороне стопы, непосредственно дистальнее сочленения оснований 4-й и 5-й плюсневых костей. Иглу вводят на глубину 0,3–0,5 цуня. {Реакционные зоны легочной ветви и почечной ветви}\n•\nLiu4 Wan2: Точка расположена на тыльной стороне стопы между 4-й и 5-й плюсневыми костями, на 0,5 цуня проксимальнее точки GB-43WH0. Иглу вводят иглой 36-го калибра на глубину 0,3–0,5 цуня — ПРОТИВОПОКАЗАНО ПАЦИЕНТАМ С АСТМОЙ, ЗАБОЛЕВАНИЯМИ ЛЕГКИХ, ИЗБЫТОЧНОЙ МОКРОТОЙ ИЛИ ОСЛАБЛЕННЫМ/ХИЛЫМ ПАЦИЕНТАМ. {Легочная ветвь и почечная ветвь} (Точка GB-43WH0 расположена на 0,5 единицы кзади (проксимальнее)"
 }

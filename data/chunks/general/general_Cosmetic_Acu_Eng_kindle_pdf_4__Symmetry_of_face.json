@@ -1,6 +1,29 @@
 {
-  "source": "Cosmetic Acu_Eng_kindle.pdf",
-  "title": "4) Symmetry of face",
-  "text": "Starting with the neck and shoulder and other facial muscles, you need to check for size\nand tightness by comparing the left and right side.\n~ !\n~\n108\nFacial  Cosmetic Acupuncture",
-  "category": "general"
+  "id": "77aa4905-02ca-428a-b6a8-e0924a43aeec",
+  "object": "chat.completion",
+  "created": 1782905884,
+  "model": "deepseek-v4-flash",
+  "choices": [
+    {
+      "index": 0,
+      "message": {
+        "role": "assistant",
+        "content": "Начиная с шеи, плеч и других лицевых мышц, необходимо проверить их размер и напряжённость, сравнивая левую и правую стороны.\n~ !\n~\n108\nКосметическая акупунктура лица"
+      },
+      "logprobs": null,
+      "finish_reason": "stop"
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 76,
+    "completion_tokens": 53,
+    "total_tokens": 129,
+    "prompt_tokens_details": {
+      "cached_tokens": 0
+    },
+    "prompt_cache_hit_tokens": 0,
+    "prompt_cache_miss_tokens": 76
+  },
+  "system_fingerprint": "fp_8b330d02d0_prod0820_fp8_kvcache_20260402",
+  "text_ru": "Начиная с шеи, плеч и других лицевых мышц, необходимо проверить их размер и напряжённость, сравнивая левую и правую стороны.\n~ !\n~\n108\nКосметическая акупунктура лица"
 }

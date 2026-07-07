@@ -1,6 +1,29 @@
 {
-  "source": "Cosmetic Acu_Eng_kindle.pdf",
-  "title": "1) Patient",
-  "text": "Cosmetic acupuncture is all about caring. Patients should feel comfortable and cared for.\nAny complaints or bleeding/bruising should not be ignored or neglected. After removing the\nneedles, check every point needled not only with the eyes, but with a sterile dry cotton ball\nto not miss any bleeding or bruising. Most of all, do not ignore the patient’s complaint about\npain. Pain is very subjective; there is no one-size-ﬁts-all method.",
-  "category": "general"
+  "id": "0cc8e0e9-acec-486e-8880-7d3b55418285",
+  "object": "chat.completion",
+  "created": 1782905724,
+  "model": "deepseek-v4-flash",
+  "choices": [
+    {
+      "index": 0,
+      "message": {
+        "role": "assistant",
+        "content": "美容针灸的核心在于关怀。患者应感到舒适与被呵护。任何不适或出血/瘀青都不应被忽视或置之不理。拔针后，不仅要通过目视检查每个针刺穴位，还需用无菌干棉球逐一按压，以防遗漏出血或瘀青。最重要的是，切勿忽视患者对疼痛的主诉。疼痛具有高度主观性，不存在放之四海而皆准的方法。"
+      },
+      "logprobs": null,
+      "finish_reason": "stop"
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 133,
+    "completion_tokens": 82,
+    "total_tokens": 215,
+    "prompt_tokens_details": {
+      "cached_tokens": 0
+    },
+    "prompt_cache_hit_tokens": 0,
+    "prompt_cache_miss_tokens": 133
+  },
+  "system_fingerprint": "fp_8b330d02d0_prod0820_fp8_kvcache_20260402",
+  "text_ru": "美容针灸的核心在于关怀。患者应感到舒适与被呵护。任何不适或出血/瘀青都不应被忽视或置之不理。拔针后，不仅要通过目视检查每个针刺穴位，还需用无菌干棉球逐一按压，以防遗漏出血或瘀青。最重要的是，切勿忽视患者对疼痛的主诉。疼痛具有高度主观性，不存在放之四海而皆准的方法。"
 }

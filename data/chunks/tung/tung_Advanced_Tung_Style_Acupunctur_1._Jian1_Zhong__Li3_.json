@@ -1,6 +1,29 @@
 {
-  "source": "Advanced_Tung_Style_Acupuncture_Vol_3_Nephrology,_Urology_&_Andrology.pdf",
-  "title": "1. Jian1 Zhong\\ Li3 Bai1, Yun1 Bai1, and Xia4 Qu1 (MC):",
-  "text": "•\nJian1 Zhong1: This point is located 2.5 cun immediately distal to the space between the\nacromion process and the head of the humerus (locate with arm hanging naturally down by\nthe side). Needle 0.5 to 1.0 cun. {Heart Branch Reaction Area}\n• Le Bai1: This point is located 2 cun distal and slightly dorsal to Yun2 Bae. Needle 0.3 to\n0.5 cun. {Kidney Auxiliary and Lung Branch Reaction Areas}\n•\nYun1 Bai1: This point is located with the arm hanging naturally down by the side, and lies\n2.0 cun obliquely anterodistal (towards the chest) from the point Bei1 Mian4• (Bei1 Mian4\nlies in the center of a depression found immediately lateral to the acromion process with the\narm abducted to 90°.) Needle 0.3 to 0.5 cun. {Six Bowels and Lung Auxiliary Reaction\nAreas} Alternately, one may locate this point by proceeding 1 cun anterior and 1 cun\nproximal to Jian1 Zhong1•\n•\nXia4 Qu1: This point is located on the posteromedial aspect of the proximal brachium, 8.0\ncun proximal to the level of the transverse cubital crease and 1.0 cun medial to Hou4 Zhi 1•\nNeedle 0.6 to 1.0 cun. {Lung Branch and Liver Branch Reaction Areas} (Hou4 Zhi1 is\nlocated on the Hand Shao4 Yang2 San Jiao Channel, 8.0 cun proximal to the level of the\ntransverse cubital crease.)\n15\nAnuria (MC-2)",
-  "category": "tung"
+  "id": "0f6f3539-5adb-4e61-9517-a3025d8ad5df",
+  "object": "chat.completion",
+  "created": 1782906317,
+  "model": "deepseek-v4-flash",
+  "choices": [
+    {
+      "index": 0,
+      "message": {
+        "role": "assistant",
+        "content": "•\nJian1 Zhong1: Точка расположена на 2,5 цуня дистальнее промежутка между акромиальным отростком и головкой плечевой кости (определяется при естественно опущенной вдоль тела руке). Иглу вводят на 0,5–1,0 цуня. {Реакционная зона сердечной ветви}\n• Le Bai1: Точка расположена на 2 цуня дистальнее и слегка дорсальнее Yun2 Bae. Иглу вводят на 0,3–0,5 цуня. {Реакционные зоны почечной вспомогательной и легочной ветвей}\n•\nYun1 Bai1: Точка определяется при естественно опущенной вдоль тела руке и находится на 2,0 цуня косо-переднедистальнее (по направлению к груди) от точки Bei1 Mian4• (Bei1 Mian4 расположена в центре углубления, находящегося непосредственно латеральнее акромиального отростка при отведении руки на 90°). Иглу вводят на 0,3–0,5 цуня. {Реакционные зоны шести органов фу и легочной вспомогательной ветви} Альтернативно, эту точку можно определить, отступив на 1 цунь кпереди и на 1 цунь проксимальнее от Jian1 Zhong1•\n•\nXia4 Qu1: Точка расположена на заднемедиальной поверхности проксимального отдела плеча, на 8,0 цуня проксимальнее уровня поперечной локтевой складки и на 1,0 цуня медиальнее Hou4 Zhi1• Иглу вводят на 0,6–1,0 цуня. {Реакционные зоны легочной ветви и печеночной ветви} (Hou4 Zhi1 находится на канале Ручного Шао-ян Сань-цзяо, на 8,0 цуня проксимальнее уровня поперечной локтевой складки.)\n15\nАнурия (MC-2)"
+      },
+      "logprobs": null,
+      "finish_reason": "stop"
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 424,
+    "completion_tokens": 503,
+    "total_tokens": 927,
+    "prompt_tokens_details": {
+      "cached_tokens": 0
+    },
+    "prompt_cache_hit_tokens": 0,
+    "prompt_cache_miss_tokens": 424
+  },
+  "system_fingerprint": "fp_8b330d02d0_prod0820_fp8_kvcache_20260402",
+  "text_ru": "•\nJian1 Zhong1: Точка расположена на 2,5 цуня дистальнее промежутка между акромиальным отростком и головкой плечевой кости (определяется при естественно опущенной вдоль тела руке). Иглу вводят на 0,5–1,0 цуня. {Реакционная зона сердечной ветви}\n• Le Bai1: Точка расположена на 2 цуня дистальнее и слегка дорсальнее Yun2 Bae. Иглу вводят на 0,3–0,5 цуня. {Реакционные зоны почечной вспомогательной и легочной ветвей}\n•\nYun1 Bai1: Точка определяется при естественно опущенной вдоль тела руке и находится на 2,0 цуня косо-переднедистальнее (по направлению к груди) от точки Bei1 Mian4• (Bei1 Mian4 расположена в центре углубления, находящегося непосредственно латеральнее акромиального отростка при отведении руки на 90°). Иглу вводят на 0,3–0,5 цуня. {Реакционные зоны шести органов фу и легочной вспомогательной ветви} Альтернативно, эту точку можно определить, отступив на 1 цунь кпереди и на 1 цунь проксимальнее от Jian1 Zhong1•\n•\nXia4 Qu1: Точка расположена на заднемедиальной поверхности проксимального отдела плеча, на 8,0 цуня проксимальнее уровня поперечной локтевой складки и на 1,0 цуня медиальнее Hou4 Zhi1• Иглу вводят на 0,6–1,0 цуня. {Реакционные зоны легочной ветви и печеночной ветви} (Hou4 Zhi1 находится на канале Ручного Шао-ян Сань-цзяо, на 8,0 цуня проксимальнее уровня поперечной локтевой складки.)\n15\nАнурия (MC-2)"
 }

@@ -1,6 +1,29 @@
 {
-  "source": "Cosmetic Acu_Eng_kindle.pdf",
-  "title": "4) Precaution",
-  "text": "For muscles here, even if it is a transverse insertion, the target is not the dermis, but the\nmuscles.",
-  "category": "general"
+  "id": "03da6140-42fe-4102-a6e1-0b68bf3e0766",
+  "object": "chat.completion",
+  "created": 1782905882,
+  "model": "deepseek-v4-flash",
+  "choices": [
+    {
+      "index": 0,
+      "message": {
+        "role": "assistant",
+        "content": "Для мышц в этой области, даже при поперечном введении, целью является не дерма, а\nмышцы."
+      },
+      "logprobs": null,
+      "finish_reason": "stop"
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 61,
+    "completion_tokens": 28,
+    "total_tokens": 89,
+    "prompt_tokens_details": {
+      "cached_tokens": 0
+    },
+    "prompt_cache_hit_tokens": 0,
+    "prompt_cache_miss_tokens": 61
+  },
+  "system_fingerprint": "fp_8b330d02d0_prod0820_fp8_kvcache_20260402",
+  "text_ru": "Для мышц в этой области, даже при поперечном введении, целью является не дерма, а\nмышцы."
 }

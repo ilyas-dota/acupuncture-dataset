@@ -1,6 +1,29 @@
 {
-  "source": "AL_Introduction_to_Tung's_Acupuncture.pdf",
-  "title": "2. Upper Three Yellows (88.12-14) treat Parkinson disease with Central Meeting",
-  "text": "(1010.01), and Calm Mind (1010.08). (Lai,1987) DU26 can be added to improve the\nblood circulation in the brain.\n3.\nUpper Three Yellows (88.12-14) with Kidney Gate (77.19) to treat hypoglycemia.\n(Lai,1987)\n4.\nAn emaciated man with tuberculosis and was cured by Master Tung after two\nmonths of treatment. However, he could not raise his arm due to severe shoulder\npain. Master Tung read his palm and found dark-greenish spot in the area of the\nliver/spleen channel. Then Master Tung needled the Upper Three Yellow Group\n(88.12-14) to relieve his shoulder pain. (Chen, 1964)\n5.\nMaster Tung said, \"Medical doctors always use surgery way to treat disc hemiation,\nbut even after surgery, additonal surguries may be needed. The root cause of disc\nherniation is liver disease. The majar liver point is Bright Yellow (88.12). Mr. Fan\ncommented that Master Tung always uses Bright Yellow (88.12) point with Hui Ma\nTechnique.\" (Chen, 1964)\n6.\nA man from Political Military College had lumbar disc herniation which pinched\nnerve root to have severe both legs pain. Master Tung uses the Upper Three Yellow\nGroup (88.12-14) [liver channel] and Open Kidney(88.09) [kidney channel] to treat\nhim, sometimes adds Open Heaven (88.03) [heart channel] (Chen, 1964)\n7.\nSkin itching: A lady's majar complaint was skin reddish and itching from both dorsal\nfeet to legs. Master Tung said, \"This condition belongs to liver and kidney, stick\nBright Yellow (88.12) of liver channel and Open Kidney(88.09) of kidney channel to\ncure it.\" (Chen, 1964)",
-  "category": "tung"
+  "id": "56e5df92-5fd3-42a2-ac5b-3135094f5a75",
+  "object": "chat.completion",
+  "created": 1782906007,
+  "model": "deepseek-v4-flash",
+  "choices": [
+    {
+      "index": 0,
+      "message": {
+        "role": "assistant",
+        "content": "(1010.01) и Успокоение Разума (1010.08). (Лай, 1987) Для улучшения мозгового кровообращения можно добавить точку DU26.\n\n3. Верхние Три Желтых (88.12-14) с Вратами Почек (77.19) для лечения гипогликемии. (Лай, 1987)\n\n4. Истощенный мужчина с туберкулезом был излечен мастером Туном после двух месяцев лечения. Однако он не мог поднять руку из-за сильной боли в плече. Мастер Тун прочитал его ладонь и обнаружил темно-зеленоватое пятно в области канала печени/селезенки. Затем мастер Тун провел иглоукалывание в группе Верхних Трех Желтых (88.12-14), чтобы облегчить боль в плече. (Чэнь, 1964)\n\n5. Мастер Тун сказал: «Врачи всегда используют хирургический метод для лечения грыжи диска, но даже после операции могут потребоваться дополнительные хирургические вмешательства. Коренная причина грыжи диска — заболевание печени. Главная точка печени — Ярко-Желтая (88.12). Г-н Фань отметил, что мастер Тун всегда использует точку Ярко-Желтая (88.12) с техникой Хуй Ма». (Чэнь, 1964)\n\n6. Мужчина из Военно-политического колледжа страдал грыжей поясничного диска, которая сдавливала корешок нерва, вызывая сильную боль в обеих ногах. Мастер Тун использовал группу Верхних Трех Желтых (88.12-14) [канал печени] и Открытие Почек (88.09) [канал почек] для его лечения, иногда добавляя Открытие Неба (88.03) [канал сердца] (Чэнь, 1964)\n\n7. Зуд кожи: Основной жалобой женщины было покраснение и зуд кожи от тыльной стороны стоп до ног. Мастер Тун сказал: «Это состояние относится к печени и почкам, приклейте Ярко-Желтую (88.12) канала печени и Открытие Почек (88.09) канала почек к банкам»."
+      },
+      "logprobs": null,
+      "finish_reason": "stop"
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 439,
+    "completion_tokens": 567,
+    "total_tokens": 1006,
+    "prompt_tokens_details": {
+      "cached_tokens": 0
+    },
+    "prompt_cache_hit_tokens": 0,
+    "prompt_cache_miss_tokens": 439
+  },
+  "system_fingerprint": "fp_8b330d02d0_prod0820_fp8_kvcache_20260402",
+  "text_ru": "(1010.01) и Успокоение Разума (1010.08). (Лай, 1987) Для улучшения мозгового кровообращения можно добавить точку DU26.\n\n3. Верхние Три Желтых (88.12-14) с Вратами Почек (77.19) для лечения гипогликемии. (Лай, 1987)\n\n4. Истощенный мужчина с туберкулезом был излечен мастером Туном после двух месяцев лечения. Однако он не мог поднять руку из-за сильной боли в плече. Мастер Тун прочитал его ладонь и обнаружил темно-зеленоватое пятно в области канала печени/селезенки. Затем мастер Тун провел иглоукалывание в группе Верхних Трех Желтых (88.12-14), чтобы облегчить боль в плече. (Чэнь, 1964)\n\n5. Мастер Тун сказал: «Врачи всегда используют хирургический метод для лечения грыжи диска, но даже после операции могут потребоваться дополнительные хирургические вмешательства. Коренная причина грыжи диска — заболевание печени. Главная точка печени — Ярко-Желтая (88.12). Г-н Фань отметил, что мастер Тун всегда использует точку Ярко-Желтая (88.12) с техникой Хуй Ма». (Чэнь, 1964)\n\n6. Мужчина из Военно-политического колледжа страдал грыжей поясничного диска, которая сдавливала корешок нерва, вызывая сильную боль в обеих ногах. Мастер Тун использовал группу Верхних Трех Желтых (88.12-14) [канал печени] и Открытие Почек (88.09) [канал почек] для его лечения, иногда добавляя Открытие Неба (88.03) [канал сердца] (Чэнь, 1964)\n\n7. Зуд кожи: Основной жалобой женщины было покраснение и зуд кожи от тыльной стороны стоп до ног. Мастер Тун сказал: «Это состояние относится к печени и почкам, приклейте Ярко-Желтую (88.12) канала печени и Открытие Почек (88.09) канала почек к банкам»."
 }

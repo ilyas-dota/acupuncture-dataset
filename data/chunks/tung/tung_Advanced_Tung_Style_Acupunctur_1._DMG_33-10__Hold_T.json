@@ -1,6 +1,29 @@
 {
-  "source": "Advanced_Tung_Style_Acupuncture_Vol_3_Nephrology,_Urology_&_Andrology.pdf",
-  "title": "1. DMG 33-10 'Hold Three This' (CCC):",
-  "text": "•\nDMG 33-10 'Hold Three This':\n240\ni. Qe Men2: This point is located on the dorsum of the distal antebrachium, 1.0 cun\nlateral (i.e. radial) to TB-5WH0 . Needle obliquely 15° from lateral to medial (i.e.\nradial to ulnar) 1.5 cun. {Lung Branch and Six Bowels Reaction Areas}\nii. Qi2 Jiao3: This point is located on the dorsum of the distal antebrachium, 2.0 cun\nproximal to Qi2 Men2• Needle obliquely 15° from lateral to medial (i.e. radial to\nulnar) 1.5 cun. {Lung Branch and Six Bowels Reaction Areas}\niii. Qi2 Zheng4: This point is located on the dorsum of the distal antebrachium, 2.0 cun\nproximal to Qe Jiao3• Needle obliquely l5°from lateral to medial (i.e. radial to ulnar)\n1.5 cun. {Lung Branch and Six Bowels Reaction Areas}\n......\nDMG 33-10 'Hold 3 This'\nUrethritis (HPC-1)\n[Non-specific, Non-gonococcal]",
-  "category": "tung"
+  "id": "c8b8395b-5074-4cd3-bd91-9d3f6ac897b0",
+  "object": "chat.completion",
+  "created": 1782906173,
+  "model": "deepseek-v4-flash",
+  "choices": [
+    {
+      "index": 0,
+      "message": {
+        "role": "assistant",
+        "content": "•\nDMG 33-10 «Удержать три этих»:\n240\ni. Ци Мэнь2: Точка расположена на тыльной поверхности дистального отдела предплечья, на 1,0 цунь латеральнее (т.е. радиально) от TB-5WH0. Иглу вводить под углом 15° от латеральной стороны к медиальной (т.е. от лучевой к локтевой) на глубину 1,5 цуня. {Зоны реакции легочной ветви и шести органов-накопителей}\nii. Ци Цзяо3: Точка расположена на тыльной поверхности дистального отдела предплечья, на 2,0 цуня проксимальнее Ци Мэнь2. Иглу вводить под углом 15° от латеральной стороны к медиальной (т.е. от лучевой к локтевой) на глубину 1,5 цуня. {Зоны реакции легочной ветви и шести органов-накопителей}\niii. Ци Чжэн4: Точка расположена на тыльной поверхности дистального отдела предплечья, на 2,0 цуня проксимальнее Ци Цзяо3. Иглу вводить под углом 15° от латеральной стороны к медиальной (т.е. от лучевой к локтевой) на глубину 1,5 цуня. {Зоны реакции легочной ветви и шести органов-накопителей}\n......\nDMG 33-10 «Удержать 3 этих»\nУретрит (HPC-1)\n[Неспецифический, негонорейный]"
+      },
+      "logprobs": null,
+      "finish_reason": "stop"
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 323,
+    "completion_tokens": 400,
+    "total_tokens": 723,
+    "prompt_tokens_details": {
+      "cached_tokens": 0
+    },
+    "prompt_cache_hit_tokens": 0,
+    "prompt_cache_miss_tokens": 323
+  },
+  "system_fingerprint": "fp_8b330d02d0_prod0820_fp8_kvcache_20260402",
+  "text_ru": "•\nDMG 33-10 «Удержать три этих»:\n240\ni. Ци Мэнь2: Точка расположена на тыльной поверхности дистального отдела предплечья, на 1,0 цунь латеральнее (т.е. радиально) от TB-5WH0. Иглу вводить под углом 15° от латеральной стороны к медиальной (т.е. от лучевой к локтевой) на глубину 1,5 цуня. {Зоны реакции легочной ветви и шести органов-накопителей}\nii. Ци Цзяо3: Точка расположена на тыльной поверхности дистального отдела предплечья, на 2,0 цуня проксимальнее Ци Мэнь2. Иглу вводить под углом 15° от латеральной стороны к медиальной (т.е. от лучевой к локтевой) на глубину 1,5 цуня. {Зоны реакции легочной ветви и шести органов-накопителей}\niii. Ци Чжэн4: Точка расположена на тыльной поверхности дистального отдела предплечья, на 2,0 цуня проксимальнее Ци Цзяо3. Иглу вводить под углом 15° от латеральной стороны к медиальной (т.е. от лучевой к локтевой) на глубину 1,5 цуня. {Зоны реакции легочной ветви и шести органов-накопителей}\n......\nDMG 33-10 «Удержать 3 этих»\nУретрит (HPC-1)\n[Неспецифический, негонорейный]"
 }

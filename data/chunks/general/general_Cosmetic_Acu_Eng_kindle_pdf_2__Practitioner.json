@@ -1,6 +1,29 @@
 {
-  "source": "Cosmetic Acu_Eng_kindle.pdf",
-  "title": "2) Practitioner",
-  "text": "As the practitioner, we should care for ourselves, especially when we remove needles\nfrom  patients.  You  remove  at  least  20-25  needles  each  session.  It  is  not  hard  to  lose\nconcentration and poke your ﬁngertips with the removed needles. Protect yourself with a\nmask and gloves. Additionally, you should be aware of any contagious diseases like HIV,\nhepatitis B/C, tuberculosis, etc., that the patient has. The CNT should be followed strictly.",
-  "category": "general"
+  "id": "46269e14-c92f-490f-aeaf-8cef3ead1566",
+  "object": "chat.completion",
+  "created": 1782905777,
+  "model": "deepseek-v4-flash",
+  "choices": [
+    {
+      "index": 0,
+      "message": {
+        "role": "assistant",
+        "content": "作为医师，我们应当注意自我防护，尤其是在为患者起针时。每次治疗至少需取出20-25根针，稍有不慎便可能因注意力分散而被取出的针尖刺伤指尖。请务必佩戴口罩和手套以保护自身。此外，需警惕患者可能携带的传染性疾病，如HIV、乙型/丙型肝炎、结核病等。必须严格遵守《针灸感染控制规范》（CNT）。"
+      },
+      "logprobs": null,
+      "finish_reason": "stop"
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 146,
+    "completion_tokens": 88,
+    "total_tokens": 234,
+    "prompt_tokens_details": {
+      "cached_tokens": 0
+    },
+    "prompt_cache_hit_tokens": 0,
+    "prompt_cache_miss_tokens": 146
+  },
+  "system_fingerprint": "fp_8b330d02d0_prod0820_fp8_kvcache_20260402",
+  "text_ru": "作为医师，我们应当注意自我防护，尤其是在为患者起针时。每次治疗至少需取出20-25根针，稍有不慎便可能因注意力分散而被取出的针尖刺伤指尖。请务必佩戴口罩和手套以保护自身。此外，需警惕患者可能携带的传染性疾病，如HIV、乙型/丙型肝炎、结核病等。必须严格遵守《针灸感染控制规范》（CNT）。"
 }

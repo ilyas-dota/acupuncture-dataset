@@ -1,6 +1,29 @@
 {
-  "source": "AL_Introduction_to_Tung's_Acupuncture.pdf",
-  "title": "2. When you want to use this technique, your patient must in good condition. Do ",
-  "text": "this technique on extremely weak patients.\n3.\nThe root cause of four extremities with numbness and aching is blood stagnation.\nPricking blood on the back can resolve the problem.\n4.\nAfter pricking more than 10 patients, the three edged needle must be sharpened.\n5.\nThe tip of three edged needle should be held obliquely, then use the \"bird-pecking\"\nmethod to prevent the mistake of pricking too deep. (Chen, 1964)\nTung's Bloodletting technique mostly pricks blood at yang channel or yang part of the\nbody. Only in rare condition to prick at yin channel or yin part of the body, because it is\ntoo easy to reduce the human yin and yang too much.\n227\nIntroduction to Tung' s Acupuncture\n228\n14\nDiagnosis and\nTreatment Strategy\n@)\nIntroduction to Tung' s Acupuncture\nThe Correspondence Law\nPick Tung's Unique Points by Correspondence Law\nThe diagrams below from the ancient Luo book show the correspondence of the eight\ntriagrams depicted on the back of a tortise. When the numbers of the eight diagrams are\nsuperimposed on the back of the human body, they illustrate a system of correspondence\nthat can be used when selecting acupuncture points.\nPrincipie of Correspondence: upper to lower, lower to upper, left to right, right to left.\nThe center of square 5 is the umbilicus of the whole body. The umbilicus is located at the\ncenter.\nLUO BOOK:\nSquare of 9 numbers:\nTOP: 9 BOTTOM: 1\nLEFT: 3 RIGHT: 7\n2 & 4 SHOULDER\n6 & 8 LEG (4 comers)",
-  "category": "tung"
+  "id": "d4bcfc2e-5859-4220-8048-1c9d6eedee61",
+  "object": "chat.completion",
+  "created": 1782906012,
+  "model": "deepseek-v4-flash",
+  "choices": [
+    {
+      "index": 0,
+      "message": {
+        "role": "assistant",
+        "content": "данная техника применяется у крайне ослабленных пациентов.\n3.\nОсновной причиной онемения и ломоты в четырех конечностях является застой крови.\nКровопускание на спине может решить эту проблему.\n4.\nПосле кровопускания более чем у 10 пациентов трехгранную иглу необходимо заточить.\n5.\nКончик трехгранной иглы следует держать под углом, затем использовать метод \"птичьего клевания\",\nчтобы избежать ошибки слишком глубокого прокола. (Chen, 1964)\nТехника кровопускания по Тунгу в основном выполняется на ян-каналах или ян-частях тела.\nЛишь в редких случаях проводится на инь-каналах или инь-частях тела, так как это слишком легко может чрезмерно истощить инь и ян человека.\n227\nВведение в акупунктуру Тунга\n228\n14\nДиагностика и\nСтратегия лечения\n@)\nВведение в акупунктуру Тунга\nЗакон соответствия\nВыбор уникальных точек Тунга по закону соответствия\nДиаграммы ниже из древней книги Ло показывают соответствие восьми триграмм, изображенных на спине черепахи. Когда числа восьми триграмм накладываются на спину человеческого тела, они иллюстрируют систему соответствия, которую можно использовать при выборе точек акупунктуры.\nПринцип соответствия: верх к низу, низ к верху, левое к правому, правое к левому.\nЦентр квадрата 5 — это пупок всего тела. Пупок расположен в центре.\nКНИГА ЛО:\nКвадрат из 9 чисел:\nВЕРХ: 9 НИЗ: 1\nЛЕВО: 3 ПРАВО: 7\n2 и 4 ПЛЕЧО\n6 и 8 НОГА (4 угла)"
+      },
+      "logprobs": null,
+      "finish_reason": "stop"
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 394,
+    "completion_tokens": 448,
+    "total_tokens": 842,
+    "prompt_tokens_details": {
+      "cached_tokens": 0
+    },
+    "prompt_cache_hit_tokens": 0,
+    "prompt_cache_miss_tokens": 394
+  },
+  "system_fingerprint": "fp_8b330d02d0_prod0820_fp8_kvcache_20260402",
+  "text_ru": "данная техника применяется у крайне ослабленных пациентов.\n3.\nОсновной причиной онемения и ломоты в четырех конечностях является застой крови.\nКровопускание на спине может решить эту проблему.\n4.\nПосле кровопускания более чем у 10 пациентов трехгранную иглу необходимо заточить.\n5.\nКончик трехгранной иглы следует держать под углом, затем использовать метод \"птичьего клевания\",\nчтобы избежать ошибки слишком глубокого прокола. (Chen, 1964)\nТехника кровопускания по Тунгу в основном выполняется на ян-каналах или ян-частях тела.\nЛишь в редких случаях проводится на инь-каналах или инь-частях тела, так как это слишком легко может чрезмерно истощить инь и ян человека.\n227\nВведение в акупунктуру Тунга\n228\n14\nДиагностика и\nСтратегия лечения\n@)\nВведение в акупунктуру Тунга\nЗакон соответствия\nВыбор уникальных точек Тунга по закону соответствия\nДиаграммы ниже из древней книги Ло показывают соответствие восьми триграмм, изображенных на спине черепахи. Когда числа восьми триграмм накладываются на спину человеческого тела, они иллюстрируют систему соответствия, которую можно использовать при выборе точек акупунктуры.\nПринцип соответствия: верх к низу, низ к верху, левое к правому, правое к левому.\nЦентр квадрата 5 — это пупок всего тела. Пупок расположен в центре.\nКНИГА ЛО:\nКвадрат из 9 чисел:\nВЕРХ: 9 НИЗ: 1\nЛЕВО: 3 ПРАВО: 7\n2 и 4 ПЛЕЧО\n6 и 8 НОГА (4 угла)"
 }

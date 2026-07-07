@@ -1,6 +1,29 @@
 {
-  "source": "AL_Introduction_to_Tung's_Acupuncture.pdf",
-  "title": "6 Point Unit",
-  "text": "Master Tung's Unique Points / Area DT and VT\nDT.10 Top Pillar (Ding Zhu) Jitt",
-  "category": "tung"
+  "id": "dc2b4015-429d-46d1-b4c2-be173693af6b",
+  "object": "chat.completion",
+  "created": 1782906110,
+  "model": "deepseek-v4-flash",
+  "choices": [
+    {
+      "index": 0,
+      "message": {
+        "role": "assistant",
+        "content": "Уникальные точки мастера Туна / Зоны DT и VT  \nDT.10 Верхний столб (Ding Zhu)"
+      },
+      "logprobs": null,
+      "finish_reason": "stop"
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 59,
+    "completion_tokens": 29,
+    "total_tokens": 88,
+    "prompt_tokens_details": {
+      "cached_tokens": 0
+    },
+    "prompt_cache_hit_tokens": 0,
+    "prompt_cache_miss_tokens": 59
+  },
+  "system_fingerprint": "fp_8b330d02d0_prod0820_fp8_kvcache_20260402",
+  "text_ru": "Уникальные точки мастера Туна / Зоны DT и VT  \nDT.10 Верхний столб (Ding Zhu)"
 }

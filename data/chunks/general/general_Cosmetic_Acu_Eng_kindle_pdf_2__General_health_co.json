@@ -1,6 +1,29 @@
 {
-  "source": "Cosmetic Acu_Eng_kindle.pdf",
-  "title": "2) General health condition",
-  "text": "Meticulous diagnosis including past history and family history should be done. Skin\ncondition is affected by various general health issues. Treatment is not only for the skin, but\nfor the whole body.\nHere are some red ﬂags to consider:\n• mental disorder including OCD, depression, and body image distortion\n• anti-coagulant usage\n• heavy smoking / alcohol\n• repetitive artiﬁcial sun tanning",
-  "category": "general"
+  "id": "121eadea-5792-4e10-bdcb-c75fbb38a1ec",
+  "object": "chat.completion",
+  "created": 1782905764,
+  "model": "deepseek-v4-flash",
+  "choices": [
+    {
+      "index": 0,
+      "message": {
+        "role": "assistant",
+        "content": "Тщательная диагностика, включающая сбор анамнеза жизни и семейного анамнеза, должна быть проведена. Состояние кожи зависит от различных общих проблем со здоровьем. Лечение направлено не только на кожу, но и на весь организм в целом.\n\nНиже приведены некоторые «красные флаги», которые следует учитывать:\n• психические расстройства, включая ОКР, депрессию и искажение образа тела\n• приём антикоагулянтов\n• злоупотребление курением / алкоголем\n• повторяющееся искусственное загорание"
+      },
+      "logprobs": null,
+      "finish_reason": "stop"
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 118,
+    "completion_tokens": 138,
+    "total_tokens": 256,
+    "prompt_tokens_details": {
+      "cached_tokens": 0
+    },
+    "prompt_cache_hit_tokens": 0,
+    "prompt_cache_miss_tokens": 118
+  },
+  "system_fingerprint": "fp_8b330d02d0_prod0820_fp8_kvcache_20260402",
+  "text_ru": "Тщательная диагностика, включающая сбор анамнеза жизни и семейного анамнеза, должна быть проведена. Состояние кожи зависит от различных общих проблем со здоровьем. Лечение направлено не только на кожу, но и на весь организм в целом.\n\nНиже приведены некоторые «красные флаги», которые следует учитывать:\n• психические расстройства, включая ОКР, депрессию и искажение образа тела\n• приём антикоагулянтов\n• злоупотребление курением / алкоголем\n• повторяющееся искусственное загорание"
 }

@@ -1,6 +1,29 @@
 {
-  "source": "Beinfield.pdf",
-  "title": "2236 Mariner Square Drive # 103",
-  "text": "Alameda, California 94501\n4 06\nМЕ ЖД У  Н Е Б О М  И З Е М Л Е Й\nSeven Forests",
-  "category": "tcm"
+  "id": "3eefd0c9-2f56-42d0-9105-7db7e9837735",
+  "object": "chat.completion",
+  "created": 1782905943,
+  "model": "deepseek-v4-flash",
+  "choices": [
+    {
+      "index": 0,
+      "message": {
+        "role": "assistant",
+        "content": "Аламеда, Калифорния 94501\n4 06\nМЕЖДУ НЕБОМ И ЗЕМЛЕЙ\nSeven Forests"
+      },
+      "logprobs": null,
+      "finish_reason": "stop"
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 71,
+    "completion_tokens": 37,
+    "total_tokens": 108,
+    "prompt_tokens_details": {
+      "cached_tokens": 0
+    },
+    "prompt_cache_hit_tokens": 0,
+    "prompt_cache_miss_tokens": 71
+  },
+  "system_fingerprint": "fp_8b330d02d0_prod0820_fp8_kvcache_20260402",
+  "text_ru": "Аламеда, Калифорния 94501\n4 06\nМЕЖДУ НЕБОМ И ЗЕМЛЕЙ\nSeven Forests"
 }

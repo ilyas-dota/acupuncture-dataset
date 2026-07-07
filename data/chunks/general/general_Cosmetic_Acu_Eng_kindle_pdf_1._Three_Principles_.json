@@ -1,6 +1,29 @@
 {
-  "source": "Cosmetic Acu_Eng_kindle.pdf",
-  "title": "1. Three Principles of Cosmetic Acupuncture",
-  "text": "Cosmetic acupuncture treatment consists of three principles.\n①Systematic effect with qi modulation (qi and Meridian)\n②Local effect with needle stimulation (Skin tissue)\n③Balancing with muscle release (Muscle/fascia)\nThe ﬁrst one is based on traditional Chinese medicinal theories. You are controlling the\nface by controlling the internal organs and meridian. Second, many treatment modalities use\nthe stimulation of the dermis itself. Roller needles, needling on the dermis at the wrinkle\nlocation,  and  transplant  needle  methods  fall  into  this  category.  The  third  principle  is\nbalancing face symmetry by adjusting muscle tensegrity. In the actual clinical ﬁeld, all of\nthese methods are used without much distinction.\nWhen you put the needles on ST-4, your purpose can be regulating the Stomach Meridian\n(the 1st principle), and you may have wanted to make an intentional small scar right under\nthe nasolabial fold (the 2nd principle). Or your intention was releasing the orbicularis oris or\nthe zygomaticus major (the 3rd principle). The same point can be used for all three reasons.\nWhat is really important is the way you are putting needles in that certain spot. If your\nintention is muscle releasing, the needle should be inserted deep enough to target the\nmuscle. If your intention is skin stimulation, inserting the needle at the dermis layer with\nhorizontal needling would be the best approach. The needling method, size of the needle,\nand manipulation can be different from what you intended, and a proper method can\nincrease the effectiveness of your treatment.\n~ !  ~\n39\nFacial  Cosmetic Acupuncture\n~ !  ~\n40\nExample : Three ways of insertion at ST-7\n①Systematic effect with qi modulation (qi and Meridian)\nIf you insert the needle in ST-7 for the regular channel stimulation, perpendicular\nangle with 10-15mm insertion depth with ﬁne needle is recommended.\n②Local effect with needle stimulation (Skin tissue)\nIf your purpose is increasing the circulation of the dermis for treating scar of acne,\ntransverse angle will be optimal, or you can use the roller needles to stimulate the\ndermis.\n③Balancing with muscle release (Muscle/ fascia)\nIf your purpose is releasing the lateral pterygoid muscle, perpendicular-oblique\nangle (about 70 degree toward the nose tip) with 30-40mm insertion depth is\nrecommended.\n* These three ways of insertion are used at the same point, ST-7, but the angle of\ninsertion, the insertion depth, and the size of needle can differ based on the\npurposes.\nFacial  Cosmetic Acupuncture",
-  "category": "general"
+  "id": "581a3cec-0bb7-4b72-b712-f5ff36012137",
+  "object": "chat.completion",
+  "created": 1782905694,
+  "model": "deepseek-v4-flash",
+  "choices": [
+    {
+      "index": 0,
+      "message": {
+        "role": "assistant",
+        "content": "Косметическая акупунктура основана на трех принципах:\n① Системное воздействие через регуляцию ци (ци и меридианы)\n② Локальное воздействие стимуляцией иглами (кожная ткань)\n③ Балансировка посредством расслабления мышц (мышцы/фасции)\n\nПервый принцип базируется на теориях традиционной китайской медицины. Контроль над лицом осуществляется через регуляцию внутренних органов и меридианов. Второй принцип включает множество методик, использующих стимуляцию дермы. Роллерные иглы, введение игл в дерму в области морщин, а также методы трансплантации игл относятся к этой категории. Третий принцип заключается в балансировке симметрии лица путем коррекции мышечного напряжения (тенсегрити). В реальной клинической практике все эти методы применяются без строгого разграничения.\n\nПри установке игл в точку ST-4 (Чэнцзян) цель может заключаться в регуляции меридиана желудка (первый принцип), создании намеренного небольшого рубца непосредственно под носогубной складкой (второй принцип) или расслаблении круговой мышцы рта и большой скуловой мышцы (третий принцип). Одна и та же точка может использоваться для всех трех целей.\n\nКлючевое значение имеет способ введения иглы в конкретную точку. Если цель — расслабление мышц, иглу следует вводить достаточно глубоко для воздействия на мышцу. Если цель — стимуляция кожи, оптимальным подходом будет введение иглы в слой дермы с горизонтальным направлением. Методика введения, размер иглы и манипуляции могут различаться в зависимости от поставленной задачи."
+      },
+      "logprobs": null,
+      "finish_reason": "stop"
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 367,
+    "completion_tokens": 417,
+    "total_tokens": 784,
+    "prompt_tokens_details": {
+      "cached_tokens": 0
+    },
+    "prompt_cache_hit_tokens": 0,
+    "prompt_cache_miss_tokens": 367
+  },
+  "system_fingerprint": "fp_8b330d02d0_prod0820_fp8_kvcache_20260402",
+  "text_ru": "Косметическая акупунктура основана на трех принципах:\n① Системное воздействие через регуляцию ци (ци и меридианы)\n② Локальное воздействие стимуляцией иглами (кожная ткань)\n③ Балансировка посредством расслабления мышц (мышцы/фасции)\n\nПервый принцип базируется на теориях традиционной китайской медицины. Контроль над лицом осуществляется через регуляцию внутренних органов и меридианов. Второй принцип включает множество методик, использующих стимуляцию дермы. Роллерные иглы, введение игл в дерму в области морщин, а также методы трансплантации игл относятся к этой категории. Третий принцип заключается в балансировке симметрии лица путем коррекции мышечного напряжения (тенсегрити). В реальной клинической практике все эти методы применяются без строгого разграничения.\n\nПри установке игл в точку ST-4 (Чэнцзян) цель может заключаться в регуляции меридиана желудка (первый принцип), создании намеренного небольшого рубца непосредственно под носогубной складкой (второй принцип) или расслаблении круговой мышцы рта и большой скуловой мышцы (третий принцип). Одна и та же точка может использоваться для всех трех целей.\n\nКлючевое значение имеет способ введения иглы в конкретную точку. Если цель — расслабление мышц, иглу следует вводить достаточно глубоко для воздействия на мышцу. Если цель — стимуляция кожи, оптимальным подходом будет введение иглы в слой дермы с горизонтальным направлением. Методика введения, размер иглы и манипуляции могут различаться в зависимости от поставленной задачи."
 }

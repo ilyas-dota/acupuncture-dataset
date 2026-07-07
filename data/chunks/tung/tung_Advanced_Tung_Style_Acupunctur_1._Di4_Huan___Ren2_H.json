@@ -1,6 +1,29 @@
 {
-  "source": "Advanced_Tung_Style_Acupuncture_Vol_3_Nephrology,_Urology_&_Andrology.pdf",
-  "title": "1. Di4 Huan~, Ren2 Huang2, Wan4 Shun4 Yi\\ and Zhong1 Bai2 - treat thusly until s",
-  "text": "fully resolve: daily for 2 weeks, 1 week ofT, daily for 2 weeks, 1 week ofT, etc. (HPC):\n•\nDi4 Huan~: This point is located 7 cun proximal to the medial malleolus along the medial\nborder of the tibia. Needle inferior to superior at a 45° angle 1.0 to 1.8 cun.\nCONTRAINDICATED IN PREGNANCY. {Kidney Branch Reaction Area}\n•\nRen2 Huan~: This point is located 3 cun proximal to the medial malleolus along the\nmedial border of the tibia. Needle 0.6 to 1.2 cun. CONTRAINDICATED IN PREGNANCY.\n{Kidney Branch Reaction Area}\n•\nWan4 Shun4 Yi1: This point is located 2.5 cun distal to the anterior distal transverse wrist\ncrease, anterior to the 5th metacarpal bone, at the junction of the 'red and white skin'.\nNeedle 0.2 to 0.4 cun. {Kidney Branch Reaction Area}\n•\nZhong1 Bai2: This point is located on the dorsum of the hand between the 4th and 5th\nmetacarpal bones, 0.5 cun proximal to the metacarpophalangeal joints - make a loose fist to\nfacilitate locating the point. Needle 0.3 to 0.5 cun. {Kidney Branch Reaction Area} (Zhong1\nBae is found in the depression located at the junctions of the shafts and heads of the 4th and\n5th metacarpal bones on the dorsum of the hand.)\n186\nPolyuria (HPC)",
-  "category": "tung"
+  "id": "36a387ef-7a90-4405-afd3-9d20fd387660",
+  "object": "chat.completion",
+  "created": 1782906233,
+  "model": "deepseek-v4-flash",
+  "choices": [
+    {
+      "index": 0,
+      "message": {
+        "role": "assistant",
+        "content": "полное разрешение: ежедневно в течение 2 недель, 1 неделя перерыва, ежедневно в течение 2 недель, 1 неделя перерыва и т.д. (HPC):\n•\nDi4 Huan~: Точка расположена на 7 цуней проксимальнее медиальной лодыжки по медиальному краю большеберцовой кости. Иглу вводить снизу вверх под углом 45° на глубину от 1,0 до 1,8 цуня. ПРОТИВОПОКАЗАНО ПРИ БЕРЕМЕННОСТИ. {Реактивная зона ветви Почек}\n•\nRen2 Huan~: Точка расположена на 3 цуня проксимальнее медиальной лодыжки по медиальному краю большеберцовой кости. Иглу вводить на глубину от 0,6 до 1,2 цуня. ПРОТИВОПОКАЗАНО ПРИ БЕРЕМЕННОСТИ. {Реактивная зона ветви Почек}\n•\nWan4 Shun4 Yi1: Точка расположена на 2,5 цуня дистальнее передней дистальной поперечной складки запястья, кпереди от 5-й пястной кости, на границе «красной и белой кожи». Иглу вводить на глубину от 0,2 до 0,4 цуня. {Реактивная зона ветви Почек}\n•\nZhong1 Bai2: Точка расположена на тыльной стороне кисти между 4-й и 5-й пястными костями, на 0,5 цуня проксимальнее пястно-фаланговых суставов — для облегчения поиска точки слегка сжать кисть в кулак. Иглу вводить на глубину от 0,3 до 0,5 цуня. {Реактивная зона ветви Почек} (Zhong1 Bai2 находится в углублении на стыке диафизов и головок 4-й и 5-й пястных костей на тыльной стороне кисти.)\n186\nПолиурия (HPC)"
+      },
+      "logprobs": null,
+      "finish_reason": "stop"
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 412,
+    "completion_tokens": 525,
+    "total_tokens": 937,
+    "prompt_tokens_details": {
+      "cached_tokens": 0
+    },
+    "prompt_cache_hit_tokens": 0,
+    "prompt_cache_miss_tokens": 412
+  },
+  "system_fingerprint": "fp_8b330d02d0_prod0820_fp8_kvcache_20260402",
+  "text_ru": "полное разрешение: ежедневно в течение 2 недель, 1 неделя перерыва, ежедневно в течение 2 недель, 1 неделя перерыва и т.д. (HPC):\n•\nDi4 Huan~: Точка расположена на 7 цуней проксимальнее медиальной лодыжки по медиальному краю большеберцовой кости. Иглу вводить снизу вверх под углом 45° на глубину от 1,0 до 1,8 цуня. ПРОТИВОПОКАЗАНО ПРИ БЕРЕМЕННОСТИ. {Реактивная зона ветви Почек}\n•\nRen2 Huan~: Точка расположена на 3 цуня проксимальнее медиальной лодыжки по медиальному краю большеберцовой кости. Иглу вводить на глубину от 0,6 до 1,2 цуня. ПРОТИВОПОКАЗАНО ПРИ БЕРЕМЕННОСТИ. {Реактивная зона ветви Почек}\n•\nWan4 Shun4 Yi1: Точка расположена на 2,5 цуня дистальнее передней дистальной поперечной складки запястья, кпереди от 5-й пястной кости, на границе «красной и белой кожи». Иглу вводить на глубину от 0,2 до 0,4 цуня. {Реактивная зона ветви Почек}\n•\nZhong1 Bai2: Точка расположена на тыльной стороне кисти между 4-й и 5-й пястными костями, на 0,5 цуня проксимальнее пястно-фаланговых суставов — для облегчения поиска точки слегка сжать кисть в кулак. Иглу вводить на глубину от 0,3 до 0,5 цуня. {Реактивная зона ветви Почек} (Zhong1 Bai2 находится в углублении на стыке диафизов и головок 4-й и 5-й пястных костей на тыльной стороне кисти.)\n186\nПолиурия (HPC)"
 }

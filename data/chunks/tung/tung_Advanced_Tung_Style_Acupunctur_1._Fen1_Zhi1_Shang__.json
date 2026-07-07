@@ -1,6 +1,29 @@
 {
-  "source": "Advanced_Tung_Style_Acupuncture_Vol_3_Nephrology,_Urology_&_Andrology.pdf",
-  "title": "1. Fen1 Zhi1 Shang\\ Fen1 Zhi1 Xia4, and 'let' the venule at Huo3 Ying4 (LCH):",
-  "text": "•\nFen1 Zhi1 Shang4: This point is located inferior to the 'fork' formed between the axillary\nborder of the scapula and the humerus. It lies in proximity to the posterior axillary fold\ndirectly inferior to the posterior aspect of the acromion process, 1.0 cun inferior to the most\ncaudal aspect of the glenohumeral articulation. Needle 1.0 to 1.5 cun. {Endocrine Reaction\nArea}\n•\nFen1 Zhi1 Xia4: This point is located by proceeding 1.5 cun inferior, then 0.5 cun medial, to\nFen1 Zhi1 Shang4• Needle 0.5 to 1.0 cun. {Endocrine, Lung Branch, and Breast Reaction\nAreas}\n•\nHuo3 Ying4: This point is located on the dorsum of the foot between the first and second\nmetatarsal bones, 0.5 cun proximal to the level of the metatarsophalangeal joints. 'Let' any\nvenules visible around this point. CONTRAINDICATED IN PREGNANCY; MOXA ALSO\nPROHIBITED. {Liver Auxiliary and Heart Organ Branch Reaction Areas}\n221\nStrangury (LKC-1)",
-  "category": "tung"
+  "id": "e63ad3ab-158b-4bf2-9a78-a9389c3addbc",
+  "object": "chat.completion",
+  "created": 1782906257,
+  "model": "deepseek-v4-flash",
+  "choices": [
+    {
+      "index": 0,
+      "message": {
+        "role": "assistant",
+        "content": "•\nFen1 Zhi1 Shang4: Точка расположена ниже «вилки», образованной подмышечным краем лопатки и плечевой костью. Находится вблизи задней подмышечной складки, непосредственно ниже заднего аспекта акромиона, на 1,0 цунь ниже самой каудальной части плече-лопаточного сочленения. Иглу вводят на глубину 1,0–1,5 цуня. {Зона эндокринных реакций}\n•\nFen1 Zhi1 Xia4: Точка расположена на 1,5 цуня ниже и на 0,5 цуня медиальнее точки Fen1 Zhi1 Shang4. Иглу вводят на глубину 0,5–1,0 цуня. {Зоны эндокринных реакций, легочной ветви и молочной железы}\n•\nHuo3 Ying4: Точка расположена на тыльной стороне стопы между первой и второй плюсневыми костями, на 0,5 цуня проксимальнее уровня плюснефаланговых суставов. «Выпустить» любые видимые венулы вокруг этой точки. ПРОТИВОПОКАЗАНО ПРИ БЕРЕМЕННОСТИ; ПРИЖИГАНИЕ ТАКЖЕ ЗАПРЕЩЕНО. {Зоны вспомогательной реакции печени и органной ветви сердца}\n221\nСтрангурия (LKC-1)"
+      },
+      "logprobs": null,
+      "finish_reason": "stop"
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 312,
+    "completion_tokens": 363,
+    "total_tokens": 675,
+    "prompt_tokens_details": {
+      "cached_tokens": 0
+    },
+    "prompt_cache_hit_tokens": 0,
+    "prompt_cache_miss_tokens": 312
+  },
+  "system_fingerprint": "fp_8b330d02d0_prod0820_fp8_kvcache_20260402",
+  "text_ru": "•\nFen1 Zhi1 Shang4: Точка расположена ниже «вилки», образованной подмышечным краем лопатки и плечевой костью. Находится вблизи задней подмышечной складки, непосредственно ниже заднего аспекта акромиона, на 1,0 цунь ниже самой каудальной части плече-лопаточного сочленения. Иглу вводят на глубину 1,0–1,5 цуня. {Зона эндокринных реакций}\n•\nFen1 Zhi1 Xia4: Точка расположена на 1,5 цуня ниже и на 0,5 цуня медиальнее точки Fen1 Zhi1 Shang4. Иглу вводят на глубину 0,5–1,0 цуня. {Зоны эндокринных реакций, легочной ветви и молочной железы}\n•\nHuo3 Ying4: Точка расположена на тыльной стороне стопы между первой и второй плюсневыми костями, на 0,5 цуня проксимальнее уровня плюснефаланговых суставов. «Выпустить» любые видимые венулы вокруг этой точки. ПРОТИВОПОКАЗАНО ПРИ БЕРЕМЕННОСТИ; ПРИЖИГАНИЕ ТАКЖЕ ЗАПРЕЩЕНО. {Зоны вспомогательной реакции печени и органной ветви сердца}\n221\nСтрангурия (LKC-1)"
 }

@@ -1,6 +1,29 @@
 {
-  "source": "Cosmetic Acu_Eng_kindle.pdf",
-  "title": "3)  Check lists before treatment",
-  "text": "• (Female only) Period and premenstrual symptoms.\n• Excessive Starvation or dehydration, too much fatigue.\n• Any active inﬂammatory region or open wound on face, or systemic rashes.\n• Any ongoing symptoms from diseases like ﬂu.\n• Any other ongoing or recent medical intervention.\n• Too emotional a mental state.\n~ !\n~\n109\nFacial  Cosmetic Acupuncture",
-  "category": "general"
+  "id": "d0e58d2a-eae9-4e0c-a639-1720ea015bf1",
+  "object": "chat.completion",
+  "created": 1782905829,
+  "model": "deepseek-v4-flash",
+  "choices": [
+    {
+      "index": 0,
+      "message": {
+        "role": "assistant",
+        "content": "• (Только для женщин) Менструальные и предменструальные симптомы.\n• Чрезмерное голодание или обезвоживание, сильное переутомление.\n• Любая активная зона воспаления или открытая рана на лице, а также системные высыпания.\n• Любые текущие симптомы заболеваний, например, гриппа.\n• Любые другие текущие или недавние медицинские вмешательства.\n• Слишком эмоциональное психическое состояние.\n~ !\n~\n109\nКосметическая акупунктура лица"
+      },
+      "logprobs": null,
+      "finish_reason": "stop"
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 116,
+    "completion_tokens": 125,
+    "total_tokens": 241,
+    "prompt_tokens_details": {
+      "cached_tokens": 0
+    },
+    "prompt_cache_hit_tokens": 0,
+    "prompt_cache_miss_tokens": 116
+  },
+  "system_fingerprint": "fp_8b330d02d0_prod0820_fp8_kvcache_20260402",
+  "text_ru": "• (Только для женщин) Менструальные и предменструальные симптомы.\n• Чрезмерное голодание или обезвоживание, сильное переутомление.\n• Любая активная зона воспаления или открытая рана на лице, а также системные высыпания.\n• Любые текущие симптомы заболеваний, например, гриппа.\n• Любые другие текущие или недавние медицинские вмешательства.\n• Слишком эмоциональное психическое состояние.\n~ !\n~\n109\nКосметическая акупунктура лица"
 }

@@ -1,6 +1,29 @@
 {
-  "source": "Advanced_Tung_Style_Acupuncture_Vol_3_Nephrology,_Urology_&_Andrology.pdf",
-  "title": "1. DMG 22-05 'Control the Spine Three Needles' and DMG 33-11 'Hold Three Fires'(",
-  "text": "alternate with Pyelonephritis CCC-2 (follows):\n•\nDMG 22-05 'Control the Spine Three Needles':\ni. Wan4 Shun4 Yi1: This point is located 1.5 cun distal to the anterior distal transverse\nwrist crease, anterior to the 5th metacarpal bone at the junction of the ~almar and\ndorsal ('red and white') skin; the point lies 1.5 cun proximal to SI-3 °. Needle\nperpendicularly 0.5 cun to 1.0 cun keeping the shaft of the needles in proximity to\nthe anterior surface of the 5th metacarpal bone. {Kidney Branch Reaction Area}\nii. Wan4 Shun4 Er4: This point is located 2.5 cun distal to the anterior distal transverse\nwrist crease, anterior to the 5th metacarpal bone at the junction of the~almar and\ndorsal ('red and white') skin; the point lies 0.5 cun proximal to SI-3 °. Needle\nperpendicularly 0.5 cun to 1.0 cun keeping the shaft of the needles in proximity to\nthe anterior surface of the 5th metacarpal bone. {Kidney Branch Reaction Area}\niii. Wan4 Shun4 San1: This point is located 3.5 cun distal to the anterior distal\ntransverse wrist crease, anterior to the 5th metacarpal bone at the junction of the\npalmar and dorsal ('red and white') skin; the point lies 0.5 cun distal to SI-3 WHo.\nNeedle perpendicularly 0.5 cun to 1.0 cun keeping the shaft of the needles in\nproximity to the anterior surface of the 5th metacarpal bone. {Kidney Branch\nReaction Area}\n•\nDMG 33-11 'Hold Three Fires':\ni. Huo3 Chuan4: This point is located 2.5 cun proximal to TB-4WH0 on the Hand\nShao4 Yang2 Triple Burner Channel, in the interosseous space between the ulna and\nradius bones, on the posterior surface of the antebrachium. Needle perpendicularly\n1.0 to 1.5 cun. {Lung Branch and Heart Auxiliary Reaction Areas}\nii. Huo3 Ling2: This point is located 4.5 cun proximal to TB-4WH0 on the Hand Shao4\nY ang2 Triple Burner Channel, in the interosseous space between the ulna and radius\nbones, on the posterior surface of the antebrachium. Needle perpendicularly 1.0 to\n1.5 cun. {Lung Branch and Heart Auxiliary Reaction Areas}\niii. Huo3 Shan1: This point is located 6.0 cun proximal to TB-4WH0 on the Hand Shao4\nY ang2 Triple Burner Channel, in the interosseous space between the ulna and radius\nbones, on the posterior surface of the antebrachium. Needle perpendicularly 1.0 to\n1.5 cun. {Lung Branch and Heart Auxiliary Reaction Areas}\n205\nPyelonephritis (CCC-1)\nDMG 22-05 'Control the Spine 3 Needles'\n--\nDMG 33-11 'Hold 3 Fires'\n206\nPyelonephritis (CCC-2)",
-  "category": "tung"
+  "id": "7f2ff416-94c9-4fd3-854d-9f24f994bcb1",
+  "object": "chat.completion",
+  "created": 1782906158,
+  "model": "deepseek-v4-flash",
+  "choices": [
+    {
+      "index": 0,
+      "message": {
+        "role": "assistant",
+        "content": "交替使用肾盂肾炎CCC-2（后续）：\n•\nDMG 22-05 \"控脊三针\"：\ni. 腕顺一：此穴位于腕前远端横纹远侧1.5寸，第五掌骨前方，掌侧与背侧（\"红白\"）皮肤交界处；该穴位于SI-3°近侧1.5寸。直刺0.5至1.0寸，针身紧贴第五掌骨前表面。{肾支反应区}\nii. 腕顺二：此穴位于腕前远端横纹远侧2.5寸，第五掌骨前方，掌侧与背侧（\"红白\"）皮肤交界处；该穴位于SI-3°近侧0.5寸。直刺0.5至1.0寸，针身紧贴第五掌骨前表面。{肾支反应区}\niii. 腕顺三：此穴位于腕前远端横纹远侧3.5寸，第五掌骨前方，掌侧与背侧（\"红白\"）皮肤交界处；该穴位于SI-3°远侧0.5寸。直刺0.5至1.0寸，针身紧贴第五掌骨前表面。{肾支反应区}\n•\nDMG 33-11 \"持三火\"：\ni. 火串：此穴位于手少阳三焦经TB-4°近侧2.5寸，在"
+      },
+      "logprobs": null,
+      "finish_reason": "stop"
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 500,
+    "completion_tokens": 314,
+    "total_tokens": 814,
+    "prompt_tokens_details": {
+      "cached_tokens": 0
+    },
+    "prompt_cache_hit_tokens": 0,
+    "prompt_cache_miss_tokens": 500
+  },
+  "system_fingerprint": "fp_8b330d02d0_prod0820_fp8_kvcache_20260402",
+  "text_ru": "交替使用肾盂肾炎CCC-2（后续）：\n•\nDMG 22-05 \"控脊三针\"：\ni. 腕顺一：此穴位于腕前远端横纹远侧1.5寸，第五掌骨前方，掌侧与背侧（\"红白\"）皮肤交界处；该穴位于SI-3°近侧1.5寸。直刺0.5至1.0寸，针身紧贴第五掌骨前表面。{肾支反应区}\nii. 腕顺二：此穴位于腕前远端横纹远侧2.5寸，第五掌骨前方，掌侧与背侧（\"红白\"）皮肤交界处；该穴位于SI-3°近侧0.5寸。直刺0.5至1.0寸，针身紧贴第五掌骨前表面。{肾支反应区}\niii. 腕顺三：此穴位于腕前远端横纹远侧3.5寸，第五掌骨前方，掌侧与背侧（\"红白\"）皮肤交界处；该穴位于SI-3°远侧0.5寸。直刺0.5至1.0寸，针身紧贴第五掌骨前表面。{肾支反应区}\n•\nDMG 33-11 \"持三火\"：\ni. 火串：此穴位于手少阳三焦经TB-4°近侧2.5寸，在"
 }

@@ -1,6 +1,29 @@
 {
-  "source": "Cosmetic Acu_Eng_kindle.pdf",
-  "title": "1) Age",
-  "text": "Age is an essential comparative measure in diagnosis of facial skin condition. Cosmetic\nacupuncture is not a reversal of the clock of aging, but following the natural healthy aging\nprocess. Therefore, assessing a patient with the age in mind is essential.\nNobody can ignore the natural aging process; what we are doing is restoring the healthy\naging process. Same wrinkles are interpreted differently by age. Our goal is preventing early\nwrinkles and untimely aging. Mid 40s to mid 50s is especially an essential time period\nbecause skin aging is accelerated.",
-  "category": "general"
+  "id": "cdd68190-2eaf-4191-9658-3897f18e4773",
+  "object": "chat.completion",
+  "created": 1782905703,
+  "model": "deepseek-v4-flash",
+  "choices": [
+    {
+      "index": 0,
+      "message": {
+        "role": "assistant",
+        "content": "Возраст является важным сравнительным показателем при диагностике состояния кожи лица. Косметическая акупунктура не обращает время вспять, а следует естественному процессу здорового старения. Поэтому оценка пациента с учетом возраста имеет первостепенное значение.\n\nНикто не может игнорировать естественный процесс старения; наша задача — восстановить здоровый процесс старения. Одни и те же морщины интерпретируются по-разному в зависимости от возраста. Наша цель — предотвращение ранних морщин и преждевременного старения. Период от 40 до 55 лет особенно важен, поскольку старение кожи ускоряется."
+      },
+      "logprobs": null,
+      "finish_reason": "stop"
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 149,
+    "completion_tokens": 148,
+    "total_tokens": 297,
+    "prompt_tokens_details": {
+      "cached_tokens": 0
+    },
+    "prompt_cache_hit_tokens": 0,
+    "prompt_cache_miss_tokens": 149
+  },
+  "system_fingerprint": "fp_8b330d02d0_prod0820_fp8_kvcache_20260402",
+  "text_ru": "Возраст является важным сравнительным показателем при диагностике состояния кожи лица. Косметическая акупунктура не обращает время вспять, а следует естественному процессу здорового старения. Поэтому оценка пациента с учетом возраста имеет первостепенное значение.\n\nНикто не может игнорировать естественный процесс старения; наша задача — восстановить здоровый процесс старения. Одни и те же морщины интерпретируются по-разному в зависимости от возраста. Наша цель — предотвращение ранних морщин и преждевременного старения. Период от 40 до 55 лет особенно важен, поскольку старение кожи ускоряется."
 }

@@ -1,6 +1,29 @@
 {
-  "source": "Cosmetic Acu_Eng_kindle.pdf",
-  "title": "3. Shading and wrinkles",
-  "text": "Shading from light is another factor that affects the\nwrinkles  visible  in  a  photo.  If  the  patient’s  head  is\nslightly facing sideways, up, or down, different wrinkles\ncan be more vivid or less visible. Therefore, the patient's\nnose should be perfectly aligned to the middle of the\nframe.  Activate  the  grid  when  you  take  a  shot.  The\ncamera should not be tilted to locate the nose on the\nmiddle of the frame. It should be always perpendicular\nwith the patient’s face. Do not tilt, adjust the height of\nthe camera on the tripod, or use a height adjustable bar\nstool for patients. Ring ﬂash and indirect lighting with a\nsoft box can help minimize shading.",
-  "category": "general"
+  "id": "bb52b65b-54ca-4f15-887e-ba54b8d4fd70",
+  "object": "chat.completion",
+  "created": 1782905803,
+  "model": "deepseek-v4-flash",
+  "choices": [
+    {
+      "index": 0,
+      "message": {
+        "role": "assistant",
+        "content": "Затенение от света — еще один фактор, влияющий на видимость морщин на фотографии. Если голова пациента слегка повернута в сторону, вверх или вниз, различные морщины могут становиться более или менее заметными. Поэтому нос пациента должен быть идеально выровнен по центру кадра. При съемке активируйте сетку. Камера не должна быть наклонена для размещения носа в центре кадра. Она всегда должна располагаться перпендикулярно лицу пациента. Не наклоняйте камеру — регулируйте ее высоту на штативе или используйте регулируемый по высоте стул для пациентов. Кольцевая вспышка и непрямое освещение с софтбоксом помогают минимизировать затенение."
+      },
+      "logprobs": null,
+      "finish_reason": "stop"
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 207,
+    "completion_tokens": 182,
+    "total_tokens": 389,
+    "prompt_tokens_details": {
+      "cached_tokens": 0
+    },
+    "prompt_cache_hit_tokens": 0,
+    "prompt_cache_miss_tokens": 207
+  },
+  "system_fingerprint": "fp_8b330d02d0_prod0820_fp8_kvcache_20260402",
+  "text_ru": "Затенение от света — еще один фактор, влияющий на видимость морщин на фотографии. Если голова пациента слегка повернута в сторону, вверх или вниз, различные морщины могут становиться более или менее заметными. Поэтому нос пациента должен быть идеально выровнен по центру кадра. При съемке активируйте сетку. Камера не должна быть наклонена для размещения носа в центре кадра. Она всегда должна располагаться перпендикулярно лицу пациента. Не наклоняйте камеру — регулируйте ее высоту на штативе или используйте регулируемый по высоте стул для пациентов. Кольцевая вспышка и непрямое освещение с софтбоксом помогают минимизировать затенение."
 }

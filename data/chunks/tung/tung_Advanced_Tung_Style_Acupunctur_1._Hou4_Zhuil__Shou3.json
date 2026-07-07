@@ -1,6 +1,29 @@
 {
-  "source": "Advanced_Tung_Style_Acupuncture_Vol_3_Nephrology,_Urology_&_Andrology.pdf",
-  "title": "1. Hou4 Zhuil, Shou3 Yingl, DMG 88-01 'Passing Through the Kidney Three Needles'",
-  "text": "Jin1 Shui3 (LCH):\n•\nHou4 Zhui1: This point is located on the posterior aspect of the brachium, 2.5 cun proximal\nto the level of the transverse cubital crease (the point is on the Hand Shao 4 Y ang2 San 1 Jiao 1\nChannel). Needle 0.3 to 0.5 cun. {Liver Auxiliary, Heart Auxiliary Confluent, and\nVertebral Reaction Areas}\n•\nShou3 Ying1: This point is located on the posterior aspect of the brachium, 4.5 cun\nproximal to the level of the transverse cubital crease (the point is on the Hand Shao4 Yang2\nSan1 Jiao1 Channel, 2.0 cun proximal to Hou4 Zhui1). Needle 0.3 to 0.5 cun. {Liver\nAuxiliary, Heart Auxiliary Confluent, and Vertebral Reaction Areas}\n•\nDMG 88-01 'Passin,r Through the Kidney Three Needles':\ni. Tong1 Shen : This point is located in the depression found at the superomedial\nangle of the patella. Needle 0.3 to 0.5 cun. {Kidney Reaction Area}\nii. Tong1 Wei4: This point is located 2.0 cun immediately proximal to Tong1 Shen4.\nNeedle 0.5 to 1.0 cun. {Kidney Reaction Area}\niii. Tong1 Bei4: This point is located 4.0 cun immediately proximal to Tong1 Shen4•\nNeedle 0.5 to 1.0 cun. {Kidney Reaction Area}\n•\nMa3 Jin1 Shui3: This point is found on the face in the depression located along the inferior\nborder of the zygomatic bone at the medial-to-laterallevel of the lateral canthus. Needle 0.1\nto 0.3 cun. {Kidney and Lung Auxiliary Reaction Areas}\nDMG 88-01 'Passing Through\nthe Kidney 3 Needles'\n141\nNephritis (LCH-3)",
-  "category": "tung"
+  "id": "07080d2f-8c68-4896-8f6a-aa5260d9909c",
+  "object": "chat.completion",
+  "created": 1782906299,
+  "model": "deepseek-v4-flash",
+  "choices": [
+    {
+      "index": 0,
+      "message": {
+        "role": "assistant",
+        "content": "金水（李氏头针）：\n•\n后椎：此穴位于臂后侧，距肘横纹水平近端2.5寸（穴位位于手少阳三焦经）。针刺深度0.3至0.5寸。{肝辅、心辅会、椎反应区}\n•\n手英：此穴位于臂后侧，距肘横纹水平近端4.5寸（穴位位于手少阳三焦经，距后椎近端2.0寸）。针刺深度0.3至0.5寸。{肝辅、心辅会、椎反应区}\n•\n董氏奇穴 88-01 '通肾三针'：\ni. 通肾：此穴位于髌骨内上角凹陷处。针刺深度0.3至0.5寸。{肾反应区}\nii. 通胃：此穴位于通肾正上方近端2.0寸。针刺深度0.5至1.0寸。{肾反应区}\niii. 通背：此穴位于通肾正上方近端4.0寸。针刺深度0.5至1.0寸。{肾反应区}\n•\n马金水：此穴位于面部，颧骨下缘凹陷处，平外眼角内侧至外侧水平。针刺深度0.1至0.3寸。{肾、肺辅反应区}\n董氏奇穴 88-01 '通肾三针'\n141\n肾炎（李氏头针-3）"
+      },
+      "logprobs": null,
+      "finish_reason": "stop"
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 503,
+    "completion_tokens": 317,
+    "total_tokens": 820,
+    "prompt_tokens_details": {
+      "cached_tokens": 0
+    },
+    "prompt_cache_hit_tokens": 0,
+    "prompt_cache_miss_tokens": 503
+  },
+  "system_fingerprint": "fp_8b330d02d0_prod0820_fp8_kvcache_20260402",
+  "text_ru": "金水（李氏头针）：\n•\n后椎：此穴位于臂后侧，距肘横纹水平近端2.5寸（穴位位于手少阳三焦经）。针刺深度0.3至0.5寸。{肝辅、心辅会、椎反应区}\n•\n手英：此穴位于臂后侧，距肘横纹水平近端4.5寸（穴位位于手少阳三焦经，距后椎近端2.0寸）。针刺深度0.3至0.5寸。{肝辅、心辅会、椎反应区}\n•\n董氏奇穴 88-01 '通肾三针'：\ni. 通肾：此穴位于髌骨内上角凹陷处。针刺深度0.3至0.5寸。{肾反应区}\nii. 通胃：此穴位于通肾正上方近端2.0寸。针刺深度0.5至1.0寸。{肾反应区}\niii. 通背：此穴位于通肾正上方近端4.0寸。针刺深度0.5至1.0寸。{肾反应区}\n•\n马金水：此穴位于面部，颧骨下缘凹陷处，平外眼角内侧至外侧水平。针刺深度0.1至0.3寸。{肾、肺辅反应区}\n董氏奇穴 88-01 '通肾三针'\n141\n肾炎（李氏头针-3）"
 }

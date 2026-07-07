@@ -1,6 +1,29 @@
 {
-  "source": "Advanced_Tung_Style_Acupuncture_Vol_3_Nephrology,_Urology_&_Andrology.pdf",
-  "title": "1. Liu4 Kuai4 (LCH):",
-  "text": "•\nLiu4 Kuai4: This point lies 1.4 cun lateral to the center of the philtrum (i.e. 1.4 cun lateral\nto Ren2 Zhong1 or Du-24). Needle 0.1 to 0.3 cun. {Secretion/Excretion Reaction Area}\n318\nPhallalgia (LKC)",
-  "category": "tung"
+  "id": "71b62cd5-095e-4ac7-95b3-3c7aa96efa8a",
+  "object": "chat.completion",
+  "created": 1782906339,
+  "model": "deepseek-v4-flash",
+  "choices": [
+    {
+      "index": 0,
+      "message": {
+        "role": "assistant",
+        "content": "•\nЛю4 Куай4: Точка расположена на 1,4 цуня латеральнее центра носогубной борозды (т.е. на 1,4 цуня латеральнее точки Жэнь2 Чжун1 или Du-24). Глубина иглоукалывания: 0,1–0,3 цуня. {Зона реакции секреции/экскреции}\n318\nФаллалгия (боли в половом члене) (LKC)"
+      },
+      "logprobs": null,
+      "finish_reason": "stop"
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 115,
+    "completion_tokens": 119,
+    "total_tokens": 234,
+    "prompt_tokens_details": {
+      "cached_tokens": 0
+    },
+    "prompt_cache_hit_tokens": 0,
+    "prompt_cache_miss_tokens": 115
+  },
+  "system_fingerprint": "fp_8b330d02d0_prod0820_fp8_kvcache_20260402",
+  "text_ru": "•\nЛю4 Куай4: Точка расположена на 1,4 цуня латеральнее центра носогубной борозды (т.е. на 1,4 цуня латеральнее точки Жэнь2 Чжун1 или Du-24). Глубина иглоукалывания: 0,1–0,3 цуня. {Зона реакции секреции/экскреции}\n318\nФаллалгия (боли в половом члене) (LKC)"
 }

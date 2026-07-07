@@ -1,6 +1,29 @@
 {
-  "source": "Advanced_Tung_Style_Acupuncture_Vol_3_Nephrology,_Urology_&_Andrology.pdf",
-  "title": "1. Hua1 Gu3 Yi1 and Hua1 Gu3 Si4 (LKC):",
-  "text": "189\nDMG77-12\n•\nHua1 Gu3 Yi1: These four points are located on the plantar surface of the foot, between\nthe 1st and 2nd metatarsal bones, 0.5 cun, 1.0 cun, 1.5 cun, and 2.0 cun proximal to the\nintervening interdigital web separating the 1st and 2nd toes. Needle 0.5 to 1.0 cun (have the\npatient forcefully inhale while rapidly inserting needles). {Spleen, Lung, Kidney, and Liver\nReaction Areas}\n•\nHua1 Gu3 Si4: This point is located on the plantar surface of the foot between the 4th and 5th\nmetatarsal bones, 1.5 cun proximal to the interdigital web separating the 4th and 5th digits.\nNeedle 0.5 to 1.0 cun. {Lung and Kidney Reaction Areas}\n190\nPolyuria (LKC-5)",
-  "category": "tung"
+  "id": "e28fbf3f-e002-473c-871b-244cdf3ba71b",
+  "object": "chat.completion",
+  "created": 1782906303,
+  "model": "deepseek-v4-flash",
+  "choices": [
+    {
+      "index": 0,
+      "message": {
+        "role": "assistant",
+        "content": "189\nDMG77-12\n•\n华谷一：此四穴位于足底，第1、2跖骨之间，距第1、2趾间趾蹼缘近心端0.5寸、1.0寸、1.5寸及2.0寸处。针刺0.5至1.0寸（嘱患者用力吸气，同时快速进针）。{脾、肺、肾、肝反应区}\n•\n华谷四：此穴位于足底，第4、5跖骨之间，距第4、5趾间趾蹼缘近心端1.5寸处。针刺0.5至1.0寸。{肺、肾反应区}\n190\n多尿症（LKC-5）"
+      },
+      "logprobs": null,
+      "finish_reason": "stop"
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 261,
+    "completion_tokens": 163,
+    "total_tokens": 424,
+    "prompt_tokens_details": {
+      "cached_tokens": 0
+    },
+    "prompt_cache_hit_tokens": 0,
+    "prompt_cache_miss_tokens": 261
+  },
+  "system_fingerprint": "fp_8b330d02d0_prod0820_fp8_kvcache_20260402",
+  "text_ru": "189\nDMG77-12\n•\n华谷一：此四穴位于足底，第1、2跖骨之间，距第1、2趾间趾蹼缘近心端0.5寸、1.0寸、1.5寸及2.0寸处。针刺0.5至1.0寸（嘱患者用力吸气，同时快速进针）。{脾、肺、肾、肝反应区}\n•\n华谷四：此穴位于足底，第4、5跖骨之间，距第4、5趾间趾蹼缘近心端1.5寸处。针刺0.5至1.0寸。{肺、肾反应区}\n190\n多尿症（LKC-5）"
 }

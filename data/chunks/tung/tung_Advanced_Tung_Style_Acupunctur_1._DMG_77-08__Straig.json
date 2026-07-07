@@ -1,6 +1,29 @@
 {
-  "source": "Advanced_Tung_Style_Acupuncture_Vol_3_Nephrology,_Urology_&_Andrology.pdf",
-  "title": "1. DMG 77-08 'Straight Brain Three Needles' (CCC):",
-  "text": "•\nDMG 77-08 'Straight Brain Three Needles':\ni. Zheng4 Nao3 Yi1: This point is located 4.5 cun proximal to the plantar surface of\nthe heel on the tendo calcaneus (Achilles tendon) of the posterior aspect of the distal\nleg. It is found midway between Zheng4 Jin1 and Zheng4 Zong1 of the 77-09 'Leg\nSpine Three Needles' Dao3 Ma3 group. Needle perpendicular insertion 1 to 2 cun.\nThe best results are obtained if the tip of the needle reaches the tibia. {Brain\nReaction Area}\nii. Zheng4 Nao3 Er4: This point is located 2 cun proximal to Zheng4 Nao3 Yi 1 on the\ntendo calcaneus (Achilles tendon) of the posterior aspect of the distalleg. It is found\nmidway between Zheng4 Zong1 and Zheng4 Shi4 of the 77-09 'Leg Spine Three\nNeedles' Dao3 Ma3 group. Needle perpendicular insertion 1 to 2 cun. The best\nresults are obtained if the tip of the needle reaches the tibia. {Brain Reaction Area}\niii. Zheng4 Nao3 San1: This point is located 2 cun proximal to Zheng4 Nao3 Er4 on the\ntendo calcaneus (Achilles tendon) of the posterior aspect of the distalleg. It is found\n1 cun proximal to Zheng4 Shi4 of the 77-09 'Leg Spine Three Needles' Dao3 Ma3\ngroup. Needle perpendicular insertion 1 to 2 cun. The best results are obtained if the\ntip of the needle reaches the tibia. {Brain Reaction Area}\nDMG 77·08 'Straight Brain 3 Needles'\n17\nBack Sore/ Achy (LCH-1)",
-  "category": "tung"
+  "id": "03acf3a2-464e-408e-9fb5-83b7fdd7f7f4",
+  "object": "chat.completion",
+  "created": 1782906193,
+  "model": "deepseek-v4-flash",
+  "choices": [
+    {
+      "index": 0,
+      "message": {
+        "role": "assistant",
+        "content": "•\nDMG 77-08 «Прямые три иглы мозга»:\ni. Чжэн4 Нао3 И1: Точка расположена на 4,5 цуня проксимальнее подошвенной поверхности пятки на ахилловом сухожилии (tendo calcaneus) задней поверхности дистального отдела голени. Находится посередине между точками Чжэн4 Цзинь1 и Чжэн4 Цзун1 группы «Три иглы позвоночника ноги» 77-09 Dao3 Ma3. Введение иглы перпендикулярно на 1–2 цуня. Наилучшие результаты достигаются при достижении кончиком иглы большеберцовой кости. {Реактивная зона мозга}\nii. Чжэн4 Нао3 Эр4: Точка расположена на 2 цуня проксимальнее Чжэн4 Нао3 И1 на ахилловом сухожилии (tendo calcaneus) задней поверхности дистального отдела голени. Находится посередине между точками Чжэн4 Цзун1 и Чжэн4 Ши4 группы «Три иглы позвоночника ноги» 77-09 Dao3 Ma3. Введение иглы перпендикулярно на 1–2 цуня. Наилучшие результаты достигаются при достижении кончиком иглы большеберцовой кости. {Реактивная зона мозга}\niii. Чжэн4 Нао3 Сань1: Точка расположена на 2 цуня проксимальнее Чжэн4 Нао3 Эр4 на ахилловом сухожилии (tendo calcaneus) задней поверхности дистального отдела голени. Находится на 1 цунь проксимальнее точки Чжэн4 Ши4 группы «Три иглы позвоночника ноги» 77-09 Dao3 Ma3. Введение иглы перпендикулярно на 1–2 цуня. Наилучшие результаты достигаются при достижении кончиком иглы большеберцовой кости. {Реактивная зона мозга}\nDMG 77·08 «Прямые 3 иглы мозга»\n17\nБоль в спине/ломота (LCH-1)"
+      },
+      "logprobs": null,
+      "finish_reason": "stop"
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 440,
+    "completion_tokens": 526,
+    "total_tokens": 966,
+    "prompt_tokens_details": {
+      "cached_tokens": 0
+    },
+    "prompt_cache_hit_tokens": 0,
+    "prompt_cache_miss_tokens": 440
+  },
+  "system_fingerprint": "fp_8b330d02d0_prod0820_fp8_kvcache_20260402",
+  "text_ru": "•\nDMG 77-08 «Прямые три иглы мозга»:\ni. Чжэн4 Нао3 И1: Точка расположена на 4,5 цуня проксимальнее подошвенной поверхности пятки на ахилловом сухожилии (tendo calcaneus) задней поверхности дистального отдела голени. Находится посередине между точками Чжэн4 Цзинь1 и Чжэн4 Цзун1 группы «Три иглы позвоночника ноги» 77-09 Dao3 Ma3. Введение иглы перпендикулярно на 1–2 цуня. Наилучшие результаты достигаются при достижении кончиком иглы большеберцовой кости. {Реактивная зона мозга}\nii. Чжэн4 Нао3 Эр4: Точка расположена на 2 цуня проксимальнее Чжэн4 Нао3 И1 на ахилловом сухожилии (tendo calcaneus) задней поверхности дистального отдела голени. Находится посередине между точками Чжэн4 Цзун1 и Чжэн4 Ши4 группы «Три иглы позвоночника ноги» 77-09 Dao3 Ma3. Введение иглы перпендикулярно на 1–2 цуня. Наилучшие результаты достигаются при достижении кончиком иглы большеберцовой кости. {Реактивная зона мозга}\niii. Чжэн4 Нао3 Сань1: Точка расположена на 2 цуня проксимальнее Чжэн4 Нао3 Эр4 на ахилловом сухожилии (tendo calcaneus) задней поверхности дистального отдела голени. Находится на 1 цунь проксимальнее точки Чжэн4 Ши4 группы «Три иглы позвоночника ноги» 77-09 Dao3 Ma3. Введение иглы перпендикулярно на 1–2 цуня. Наилучшие результаты достигаются при достижении кончиком иглы большеберцовой кости. {Реактивная зона мозга}\nDMG 77·08 «Прямые 3 иглы мозга»\n17\nБоль в спине/ломота (LCH-1)"
 }

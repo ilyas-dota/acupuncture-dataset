@@ -1,6 +1,29 @@
 {
-  "source": "Cosmetic Acu_Eng_kindle.pdf",
-  "title": "3) Biohazardous materials",
-  "text": "Throw away needles after removal along with other biohazardous materials to the\nbiohazard container immediately.\n~ !  ~\n61\nFacial  Cosmetic Acupuncture\n* Fill in the blanks by choosing answers from the box.",
-  "category": "general"
+  "id": "679ea1db-1d03-4244-b558-3492a0a78c0f",
+  "object": "chat.completion",
+  "created": 1782905813,
+  "model": "deepseek-v4-flash",
+  "choices": [
+    {
+      "index": 0,
+      "message": {
+        "role": "assistant",
+        "content": "Иглы после удаления немедленно утилизируйте вместе с другими биологически опасными материалами в контейнер для биологических отходов.\n~ ! ~\n61\nКосметическая акупунктура лица\n* Заполните пропуски, выбрав ответы из рамки."
+      },
+      "logprobs": null,
+      "finish_reason": "stop"
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 84,
+    "completion_tokens": 68,
+    "total_tokens": 152,
+    "prompt_tokens_details": {
+      "cached_tokens": 0
+    },
+    "prompt_cache_hit_tokens": 0,
+    "prompt_cache_miss_tokens": 84
+  },
+  "system_fingerprint": "fp_8b330d02d0_prod0820_fp8_kvcache_20260402",
+  "text_ru": "Иглы после удаления немедленно утилизируйте вместе с другими биологически опасными материалами в контейнер для биологических отходов.\n~ ! ~\n61\nКосметическая акупунктура лица\n* Заполните пропуски, выбрав ответы из рамки."
 }

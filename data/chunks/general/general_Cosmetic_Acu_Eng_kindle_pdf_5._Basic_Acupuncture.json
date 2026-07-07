@@ -1,6 +1,29 @@
 {
-  "source": "Cosmetic Acu_Eng_kindle.pdf",
-  "title": "5. Basic Acupuncture Techniques: Photographic Guide (2019)",
-  "text": "Facial  Cosmetic Acupuncture\n~ ! ~\n6\nPREFACE\nAcupuncture  is  a  very  safe  and  cost-effective  cosmetic\nprocedure. It has more than two thousand years of history as a\nform of cosmetic treatment. Most of all, the cosmetic intervention\ninvolves not just skin care, but also general health care, because\nTCM does not see cosmetics and systemic health as separate.\nCosmetic acupuncture goes beyond conventional cosmetics and\nencompasses the patient's physical and mental health.\nCosmetic acupuncture has a good prospects and potential,\nboth academically and practically. More and more herb-derived\ncosmetic products have been coming in Korea, and such Korean\nproducts  are  becoming  popular  all  over  the  world.  Korean\ncosmetic acupuncture techniques are developing into a new ﬁeld\nwith  procedures  like  transplanting  a  surgical  thread  and  the\ninjection of herbal extracts. The publication of related articles is\nincreasing in peer-reviewed journals.\nI  have  spent  25  years  as  an  acupuncturist  and  OMD\nspecializing in women's health, obesity, infertility, menopausal\nsymptoms, and cosmetics. I loved introducing the techniques of\nKorean  cosmetic  acupuncture  in  this  book,  including\ncomprehensive approaches like diet, daily living modiﬁcation,\nand meditation. I only picked techniques already authorized in\nthe U.S. I tried my best to make this book practical and clinical.\nThe choice of acupuncture needles, depth of the needles, and\ninsertion techniques are described in as much detail as possible\nbecause there has been great deal of demand from my students\nand apprentices. Also, I included clinical issues like side-effects,\nthe  organization  of  treatment  sessions,  arranging  a  treatment\nroom, and handling of problems with patients in actual practice.\nI would like to emphasize that this book is the result of my\npersonal practice and experience, not general theories. I hope this\nbook guides you through your cosmetic acupuncture practice.\nThank you.\nFacial  Cosmetic Acupuncture\nCONTENTS\nCosmetics in TCM\n10\n..........................................................................................................................\nAnatomy and Physiology for Cosmetic Acupuncture\n20\n.....................................................................",
-  "category": "general"
+  "id": "6c3ed1cd-fb1e-40a9-af08-d6a96f768d5c",
+  "object": "chat.completion",
+  "created": 1782905886,
+  "model": "deepseek-v4-flash",
+  "choices": [
+    {
+      "index": 0,
+      "message": {
+        "role": "assistant",
+        "content": "Косметическая акупунктура лица\n~ ! ~\n6\nПРЕДИСЛОВИЕ\nАкупунктура является очень безопасной и экономически эффективной косметической процедурой. Она имеет более чем двухтысячелетнюю историю как форма косметического лечения. Самое главное, косметическое вмешательство включает не только уход за кожей, но и общее оздоровление организма, поскольку традиционная китайская медицина (ТКМ) не рассматривает косметологию и системное здоровье как отдельные понятия. Косметическая акупунктура выходит за рамки обычной косметологии и охватывает физическое и психическое здоровье пациента.\n\nКосметическая акупунктура имеет хорошие перспективы и потенциал как в академическом, так и в практическом плане. В Корее появляется все больше косметических продуктов на основе трав, и такие корейские продукты становятся популярными во всем мире. Корейские техники косметической акупунктуры развиваются в новое направление с такими процедурами, как имплантация хирургической нити и инъекции травяных экстрактов. Публикация соответствующих статей в рецензируемых журналах увеличивается.\n\nЯ провел 25 лет в качестве акупунктуриста и доктора восточной медицины (OMD), специализирующегося на женском здоровье, ожирении, бесплодии, симптомах менопаузы и косметологии. Мне понравилось представлять техники корейской косметической акупунктуры в этой книге, включая комплексные подходы, такие как диета, коррекция образа жизни и медитация. Я отобрал только те техники, которые уже одобрены в США. Я приложил все усилия, чтобы сделать эту книгу практичной и клинически ориентированной. Выбор игл для акупунктуры, глубина введения игл и техники введения описаны максимально подробно."
+      },
+      "logprobs": null,
+      "finish_reason": "stop"
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 380,
+    "completion_tokens": 457,
+    "total_tokens": 837,
+    "prompt_tokens_details": {
+      "cached_tokens": 0
+    },
+    "prompt_cache_hit_tokens": 0,
+    "prompt_cache_miss_tokens": 380
+  },
+  "system_fingerprint": "fp_8b330d02d0_prod0820_fp8_kvcache_20260402",
+  "text_ru": "Косметическая акупунктура лица\n~ ! ~\n6\nПРЕДИСЛОВИЕ\nАкупунктура является очень безопасной и экономически эффективной косметической процедурой. Она имеет более чем двухтысячелетнюю историю как форма косметического лечения. Самое главное, косметическое вмешательство включает не только уход за кожей, но и общее оздоровление организма, поскольку традиционная китайская медицина (ТКМ) не рассматривает косметологию и системное здоровье как отдельные понятия. Косметическая акупунктура выходит за рамки обычной косметологии и охватывает физическое и психическое здоровье пациента.\n\nКосметическая акупунктура имеет хорошие перспективы и потенциал как в академическом, так и в практическом плане. В Корее появляется все больше косметических продуктов на основе трав, и такие корейские продукты становятся популярными во всем мире. Корейские техники косметической акупунктуры развиваются в новое направление с такими процедурами, как имплантация хирургической нити и инъекции травяных экстрактов. Публикация соответствующих статей в рецензируемых журналах увеличивается.\n\nЯ провел 25 лет в качестве акупунктуриста и доктора восточной медицины (OMD), специализирующегося на женском здоровье, ожирении, бесплодии, симптомах менопаузы и косметологии. Мне понравилось представлять техники корейской косметической акупунктуры в этой книге, включая комплексные подходы, такие как диета, коррекция образа жизни и медитация. Я отобрал только те техники, которые уже одобрены в США. Я приложил все усилия, чтобы сделать эту книгу практичной и клинически ориентированной. Выбор игл для акупунктуры, глубина введения игл и техники введения описаны максимально подробно."
 }

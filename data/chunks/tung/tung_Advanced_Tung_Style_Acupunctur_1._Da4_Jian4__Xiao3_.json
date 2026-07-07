@@ -1,6 +1,29 @@
 {
-  "source": "Advanced_Tung_Style_Acupuncture_Vol_3_Nephrology,_Urology_&_Andrology.pdf",
-  "title": "1. Da4 Jian4, Xiao3 Jian4, Wai4 Jian4, and DMG 77-12 'Lower Three Emperors' (HPC",
-  "text": "• Da4 Jian4: This point is located on the anterior surface of the proximal phalanx of the index\nfinger, 0.3 cun radial (lateral) to the exact center of said phalanx. Needle 0.2 to 0.3 cun.\nBilATERAL NEEDliNG CONTRAINDICATED. {Heart Organ and Six Bowels Branch\nReaction Areas} (This point is located at the proximal-to-distal center of digit line B; to\nlocate the center of digit line B, simply bisect the distance from the anterior\nmetacarpophalangeal skin crease to the anterior proximal interphalangeal skin crease along\nthe course of digit line B.)\n•\nXiao3 Jian4: This point is located 0.2 cun distal to Da4 Jian4• Needle 0.2 to 0.3 cun.\nBilATERAL NEEDLING CONTRAINDICATED. {Lung Branch, Heart Organ, and Six\nBowels Branch Reaction Areas}\n• Wai4 Jian4: This point is located on the anterior surface of the middle phalanx of the index\nfinger, 0.2 cun radial (lateral) to the median plane of said phalanx, and one third the\ndistance from the proximal interphalangeal skin crease to the distal interphalangeal skin\ncrease. Needle 0.2 cun. BilATERAL NEEDliNG CONTRAINDICATED. {Heart Organ and\nSix Bowels Branch Reaction Areas} (This point is located one third the distance from the\nproximal interphalangeal skin crease to the distal interphalangeal skin crease, along the\ncourse of digit line B.)\n• DMG 77-12 'Lower Three Emperors':\ni. Tian1 Huan~: This point is found in the depression immediately distal to the\nmedial tibial condyle, and lies 2.5 cun distal to the articular surface of the medial\ntibial condyle. Needle 0.5 to 1.0 cun. MOXABUSTION CONTRAINDICATED.\n{Kidney, Six Bowels, and Heart Branch Reaction Areas}\nii. Di4 Huang2: This point is located 7 cun proximal to the medial malleolus along the\nmedial border of the tibia. Needle inferior to superior at a 45° angle 1.0 to 1.8 cun.\n{Kidney Branch Reaction Area}\niii. Ren2 Huan~: This point is located 3 cun proximal to the medial malleolus along\nthe medial border of the tibia. Needle 0.6 to 1.2 cun. {Kidney Branch Reaction Area}\nXiao3 Jian4\nDa4 Jian4\nRIGHT Index Finger\nLEFT Index Finger\nDMG 77-12 'Lower 3 Emperors'\n311\nOrchitis (LKC-1)",
-  "category": "tung"
+  "id": "eedaf29b-f3b2-4df2-94e4-7fe2e4080481",
+  "object": "chat.completion",
+  "created": 1782906229,
+  "model": "deepseek-v4-flash",
+  "choices": [
+    {
+      "index": 0,
+      "message": {
+        "role": "assistant",
+        "content": "• **大间 (Da4 Jian4)**: 位于食指近节指骨掌侧面，距该指骨正中点桡侧（外侧）0.3寸。针刺深度0.2至0.3寸。**禁止双侧同时针刺**。{心器与六腑支反应区}（此穴位于指线B近端至远端的中点；定位指线B中点时，只需沿指线B方向，将掌指横纹至近端指间横纹的距离平分即可。）\n\n• **小间 (Xiao3 Jian4)**: 位于大间穴远端0.2寸处。针刺深度0.2至0.3寸。**禁止双侧同时针刺**。{肺支、心器与六腑支反应区}\n\n• **外间 (Wai4 Jian4)**: 位于食指中节指骨掌侧面，距该指骨正中平面桡侧（外侧）0.2寸，且位于近端指间横纹至远端指间横纹距离的三分之一处。针刺深度0.2寸。**禁止双侧同时针刺**。{心器与六腑支反应区}（此穴位于指线B上，距近端指间横纹三分之一距离处。）\n\n• **DMG 77-12 '下三皇'**:\ni. **天皇 (Tian1 Huan~)**: 位于胫骨内侧髁远侧缘的凹陷中，距胫骨内侧髁关节面远端2.5寸。"
+      },
+      "logprobs": null,
+      "finish_reason": "stop"
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 466,
+    "completion_tokens": 320,
+    "total_tokens": 786,
+    "prompt_tokens_details": {
+      "cached_tokens": 0
+    },
+    "prompt_cache_hit_tokens": 0,
+    "prompt_cache_miss_tokens": 466
+  },
+  "system_fingerprint": "fp_8b330d02d0_prod0820_fp8_kvcache_20260402",
+  "text_ru": "• **大间 (Da4 Jian4)**: 位于食指近节指骨掌侧面，距该指骨正中点桡侧（外侧）0.3寸。针刺深度0.2至0.3寸。**禁止双侧同时针刺**。{心器与六腑支反应区}（此穴位于指线B近端至远端的中点；定位指线B中点时，只需沿指线B方向，将掌指横纹至近端指间横纹的距离平分即可。）\n\n• **小间 (Xiao3 Jian4)**: 位于大间穴远端0.2寸处。针刺深度0.2至0.3寸。**禁止双侧同时针刺**。{肺支、心器与六腑支反应区}\n\n• **外间 (Wai4 Jian4)**: 位于食指中节指骨掌侧面，距该指骨正中平面桡侧（外侧）0.2寸，且位于近端指间横纹至远端指间横纹距离的三分之一处。针刺深度0.2寸。**禁止双侧同时针刺**。{心器与六腑支反应区}（此穴位于指线B上，距近端指间横纹三分之一距离处。）\n\n• **DMG 77-12 '下三皇'**:\ni. **天皇 (Tian1 Huan~)**: 位于胫骨内侧髁远侧缘的凹陷中，距胫骨内侧髁关节面远端2.5寸。"
 }

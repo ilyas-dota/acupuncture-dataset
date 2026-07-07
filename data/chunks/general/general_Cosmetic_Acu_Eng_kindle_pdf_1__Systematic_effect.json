@@ -1,6 +1,29 @@
 {
-  "source": "Cosmetic Acu_Eng_kindle.pdf",
-  "title": "1) Systematic effect with qi modulation",
-  "text": "Internal organs and face\nThe practitioner can regulate energy ﬂow with various acupuncture techniques. Spleen-qi\ndeﬁciency makes the patient's face sallow. Too much ﬁre on the heart makes the whole face\nred, and ﬁre with Yin deﬁciency makes the cheek bone area red. Patients with Kidney\ndeﬁciency have a dark or swollen face.\nMeridian innervation\nThe Stomach Meridian covers the largest part of the face, so when a patient has digestive\nproblems, the negative responses are present on the face. The Large Intestine Meridian ﬂows\nin the middle part around the nose and mouth. Therefore, a problem of in the skin area can\nmean something like constipation or an irritable bowl. The Gall Bladder Meridian and the\nTriple Burner Meridian pass by the side of face, so when the patient has acne around ear,\nmigraines, or a tightened temporalis headache, we need to consider those two Meridians.\nChanges in speciﬁc parts of the skin such as pimples or eczema, change of complexion,\nand swelling are all connected to the internal organs. For beautiful skin and complexion, we\nshould treat the qi energy of internal organs ﬁrst.\n~ !  ~\n41\nNeedling by systemic effect with qi modulation\nNeedling at LI-20, ST-3, and CV-24\n• To regulate the channels\n• To vitalize the skin around the acupoints\nFacial  Cosmetic Acupuncture",
-  "category": "general"
+  "id": "3c1120d9-ae0f-4de7-8e4b-5f62b11682ba",
+  "object": "chat.completion",
+  "created": 1782905728,
+  "model": "deepseek-v4-flash",
+  "choices": [
+    {
+      "index": 0,
+      "message": {
+        "role": "assistant",
+        "content": "Внутренние органы и лицо\nПрактикующий может регулировать поток энергии с помощью различных методов акупунктуры. Дефицит ци селезенки придает лицу пациента землистый оттенок. Избыток огня в сердце вызывает покраснение всего лица, а огонь при дефиците инь приводит к покраснению скуловой области. У пациентов с дефицитом почек лицо темное или отечное.\n\nИннервация меридианов\nМеридиан желудка покрывает наибольшую часть лица, поэтому при проблемах с пищеварением на лице появляются негативные реакции. Меридиан толстого кишечника проходит в средней части вокруг носа и рта. Следовательно, проблема в этой области кожи может указывать на такие состояния, как запор или синдром раздраженного кишечника. Меридиан желчного пузыря и меридиан тройного обогревателя проходят по боковой стороне лица, поэтому при наличии у пациента акне вокруг уха, мигреней или напряжения височной мышцы с головной болью необходимо учитывать эти два меридиана.\n\nИзменения на отдельных участках кожи, такие как прыщи или экзема, изменение цвета лица и отеки, связаны с внутренними органами. Для красивой кожи и здорового цвета лица следует в первую очередь воздействовать на ци внутренних органов.\n\n~ ! ~\n41\n\nИглоукалывание с системным эффектом и модуляцией ци\nВоздействие на точки GI-20, E-3 и VC-24\n• Для регуляции каналов\n• Для активизации кожи вокруг акупунктурных точек\n\nКосметическая акупунктура лица"
+      },
+      "logprobs": null,
+      "finish_reason": "stop"
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 347,
+    "completion_tokens": 382,
+    "total_tokens": 729,
+    "prompt_tokens_details": {
+      "cached_tokens": 0
+    },
+    "prompt_cache_hit_tokens": 0,
+    "prompt_cache_miss_tokens": 347
+  },
+  "system_fingerprint": "fp_8b330d02d0_prod0820_fp8_kvcache_20260402",
+  "text_ru": "Внутренние органы и лицо\nПрактикующий может регулировать поток энергии с помощью различных методов акупунктуры. Дефицит ци селезенки придает лицу пациента землистый оттенок. Избыток огня в сердце вызывает покраснение всего лица, а огонь при дефиците инь приводит к покраснению скуловой области. У пациентов с дефицитом почек лицо темное или отечное.\n\nИннервация меридианов\nМеридиан желудка покрывает наибольшую часть лица, поэтому при проблемах с пищеварением на лице появляются негативные реакции. Меридиан толстого кишечника проходит в средней части вокруг носа и рта. Следовательно, проблема в этой области кожи может указывать на такие состояния, как запор или синдром раздраженного кишечника. Меридиан желчного пузыря и меридиан тройного обогревателя проходят по боковой стороне лица, поэтому при наличии у пациента акне вокруг уха, мигреней или напряжения височной мышцы с головной болью необходимо учитывать эти два меридиана.\n\nИзменения на отдельных участках кожи, такие как прыщи или экзема, изменение цвета лица и отеки, связаны с внутренними органами. Для красивой кожи и здорового цвета лица следует в первую очередь воздействовать на ци внутренних органов.\n\n~ ! ~\n41\n\nИглоукалывание с системным эффектом и модуляцией ци\nВоздействие на точки GI-20, E-3 и VC-24\n• Для регуляции каналов\n• Для активизации кожи вокруг акупунктурных точек\n\nКосметическая акупунктура лица"
 }

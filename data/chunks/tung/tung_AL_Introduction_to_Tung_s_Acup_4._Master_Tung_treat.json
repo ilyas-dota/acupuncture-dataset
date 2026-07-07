@@ -1,6 +1,29 @@
 {
-  "source": "AL_Introduction_to_Tung's_Acupuncture.pdf",
-  "title": "4. Master Tung treated esophageal cancer with Three Layers Group. He said, \"It i",
-  "text": "to treat cancer because it is difficult to determine how cancer moves through the\nchannels.\"\n5 .  Three Layers Group is very important point group which Master Tung uses to treat\nstroke condition. This group can relieve qi blockage and promote blood circulation,\nespecially in the brain. (Lai, 1987)",
-  "category": "tung"
+  "id": "12447800-0eaa-44eb-9e9d-53cccffabf76",
+  "object": "chat.completion",
+  "created": 1782906061,
+  "model": "deepseek-v4-flash",
+  "choices": [
+    {
+      "index": 0,
+      "message": {
+        "role": "assistant",
+        "content": "для лечения рака, поскольку сложно определить, как рак перемещается по каналам.\"\n\n5. Группа «Три слоя» — это очень важная группа точек, которую мастер Тунг использует для лечения инсульта. Эта группа может снимать застой ци и улучшать кровообращение, особенно в головном мозге. (Lai, 1987)"
+      },
+      "logprobs": null,
+      "finish_reason": "stop"
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 98,
+    "completion_tokens": 83,
+    "total_tokens": 181,
+    "prompt_tokens_details": {
+      "cached_tokens": 0
+    },
+    "prompt_cache_hit_tokens": 0,
+    "prompt_cache_miss_tokens": 98
+  },
+  "system_fingerprint": "fp_8b330d02d0_prod0820_fp8_kvcache_20260402",
+  "text_ru": "для лечения рака, поскольку сложно определить, как рак перемещается по каналам.\"\n\n5. Группа «Три слоя» — это очень важная группа точек, которую мастер Тунг использует для лечения инсульта. Эта группа может снимать застой ци и улучшать кровообращение, особенно в головном мозге. (Lai, 1987)"
 }

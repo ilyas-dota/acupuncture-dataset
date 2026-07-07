@@ -1,6 +1,29 @@
 {
-  "source": "Advanced_Tung_Style_Acupuncture_Vol_3_Nephrology,_Urology_&_Andrology.pdf",
-  "title": "1. Er4 Jiao3 Ming2, Shui3 Tong\\ Shue Jin\\ and San1 Jiang1 (LCH):",
-  "text": "• Er4 Jiao3 Min~: These two points are located along the midline (Posterior Midsagittal\nPlane) of the proximal phalanx on the dorsum of the 3rddigit (middle finger). The proximal\npoint is located one third the distance from the dorsal metacarpophalangeal skin crease to\nthe dorsal proximal interphalangeal skin crease, and the distal point is located two thirds the\ndistance from the dorsal metacarpophalangeal skin crease to the dorsal proximal\ninterphalangeal skin crease. Needle subcutaneously horizontal 0.05 cun (i.e. 0.5 fen).\n{Kidney Reaction Area}\n• Shui3 Tong1: This point is located 0.4 cun directly inferior to the labial commissure at the\ncorner of the mouth. Needle obliquely from medial to lateral 0.1 to 0.5 cun. {Kidney\nReaction Area}\n• Shui3 Jin1: This point is located 0.5 cun medial to Shui3 Tong1. Needle obliquely from\nmedial to lateral 0.1 to 0.5 cun. {Kidney Reaction Area}\n• San1 Jiang1: This group of points includes: 7 midline points, one each at the L1/L2\ninterspinous space,\nL2/L3 interspinous space,\nL3/L4 interspinous space,\nL4/L5\ninterspinous space, L5/Sl interspinous space, svs2 interspinous space, and S2/SJ. There\nare also 6 bilaterally paired sets of points with each set located 3.0 cun lateral to either side of\nthe aforementioned midline points, commencing from the L2IL3 interspinous space, for a\ngrand total of 19 points. 'Let'. {Kidney and Six Bowels Reaction Areas}\n-:::::::::::-..\nEr4 Jiao3 Ming2\nLumbar Sprain/Strain (LCH-2)",
-  "category": "tung"
+  "id": "f2d80f66-855e-4b7e-a283-0be764fcacc4",
+  "object": "chat.completion",
+  "created": 1782906247,
+  "model": "deepseek-v4-flash",
+  "choices": [
+    {
+      "index": 0,
+      "message": {
+        "role": "assistant",
+        "content": "• 耳角敏（Er4 Jiao3 Min~）：这两个穴位位于第三指（中指）背侧近节指骨中线（后矢状面）上。近端穴位位于手背掌指横纹至手背近侧指间横纹连线的上1/3处，远端穴位位于该连线的下2/3处。皮下水平进针0.05寸（即0.5分）。{肾脏反应区}\n• 水通（Shui3 Tong1）：此穴位位于口角唇联合处正下方0.4寸。从内侧向外侧斜刺0.1至0.5寸。{肾脏反应区}\n• 水金（Shui3 Jin1）：此穴位位于水通内侧0.5寸处。从内侧向外侧斜刺0.1至0.5寸。{肾脏反应区}\n• 三江（San1 Jiang1）：此组穴位包括：7个中线穴位，分别位于L1/L2棘突间隙、L2/L3棘突间隙、L3/L4棘突间隙、L4/L5棘突间隙、L5/S1棘突间隙、S1/S2棘突间隙及S2/S3棘突间隙。另有6对双侧对称穴位，每对位于上述中线穴位（从L2/L3棘突间隙开始）两侧旁开3.0寸处，共计19个穴位。采用“泻法”。{肾脏与六腑反应区}\n-:::::::::::-..\n耳角明（Er4 Jiao3 Ming2）\n腰扭伤/劳损（LCH-2）"
+      },
+      "logprobs": null,
+      "finish_reason": "stop"
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 475,
+    "completion_tokens": 343,
+    "total_tokens": 818,
+    "prompt_tokens_details": {
+      "cached_tokens": 0
+    },
+    "prompt_cache_hit_tokens": 0,
+    "prompt_cache_miss_tokens": 475
+  },
+  "system_fingerprint": "fp_8b330d02d0_prod0820_fp8_kvcache_20260402",
+  "text_ru": "• 耳角敏（Er4 Jiao3 Min~）：这两个穴位位于第三指（中指）背侧近节指骨中线（后矢状面）上。近端穴位位于手背掌指横纹至手背近侧指间横纹连线的上1/3处，远端穴位位于该连线的下2/3处。皮下水平进针0.05寸（即0.5分）。{肾脏反应区}\n• 水通（Shui3 Tong1）：此穴位位于口角唇联合处正下方0.4寸。从内侧向外侧斜刺0.1至0.5寸。{肾脏反应区}\n• 水金（Shui3 Jin1）：此穴位位于水通内侧0.5寸处。从内侧向外侧斜刺0.1至0.5寸。{肾脏反应区}\n• 三江（San1 Jiang1）：此组穴位包括：7个中线穴位，分别位于L1/L2棘突间隙、L2/L3棘突间隙、L3/L4棘突间隙、L4/L5棘突间隙、L5/S1棘突间隙、S1/S2棘突间隙及S2/S3棘突间隙。另有6对双侧对称穴位，每对位于上述中线穴位（从L2/L3棘突间隙开始）两侧旁开3.0寸处，共计19个穴位。采用“泻法”。{肾脏与六腑反应区}\n-:::::::::::-..\n耳角明（Er4 Jiao3 Ming2）\n腰扭伤/劳损（LCH-2）"
 }

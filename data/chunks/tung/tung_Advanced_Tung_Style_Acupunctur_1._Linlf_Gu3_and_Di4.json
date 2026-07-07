@@ -1,6 +1,29 @@
 {
-  "source": "Advanced_Tung_Style_Acupuncture_Vol_3_Nephrology,_Urology_&_Andrology.pdf",
-  "title": "1. Linlf Gu3 and Di4 Huanlf (MC):",
-  "text": "•\nLinlf Gu3: This point is located on the dorsum of the hand, immediately distal to the\narticulation of the bases of the 1st and 2nd metacarpal bones - the point communicates with\nthe palmar point Chong2 Xian1• Needle 1.5 to 2.0 cun i.e. one may needle through to\nconnect with Chong2 Xian1• CONTRAINDICATED IN PREGNANCY. {Lung Branch\nReaction Area}\n•\nDi4 Huanlf: This point is located 7 cun proximal to the medial malleolus along the medial\nborder of the tibia. Needle inferior to superior at a 45° angle 1.0 to 1.8 cun.\nCONTRAINDICATED IN PREGNANCY. {Kidney Reaction Area}\n192\nProteinuria (CCC)",
-  "category": "tung"
+  "id": "295358c8-c905-41bd-a85f-4c8cf7a78daf",
+  "object": "chat.completion",
+  "created": 1782906336,
+  "model": "deepseek-v4-flash",
+  "choices": [
+    {
+      "index": 0,
+      "message": {
+        "role": "assistant",
+        "content": "•\nLinlf Gu3: Точка расположена на тыльной стороне кисти, дистальнее сочленения оснований 1-й и 2-й пястных костей — сообщается с ладонной точкой Chong2 Xian1. Глубина иглоукалывания 1,5–2,0 цуня, допускается проведение иглы до соединения с Chong2 Xian1. ПРОТИВОПОКАЗАНО ПРИ БЕРЕМЕННОСТИ. {Зона реакции легочной ветви}\n•\nDi4 Huanlf: Точка расположена на 7 цуней проксимальнее медиальной лодыжки по медиальному краю большеберцовой кости. Иглу вводят снизу вверх под углом 45° на глубину 1,0–1,8 цуня. ПРОТИВОПОКАЗАНО ПРИ БЕРЕМЕННОСТИ. {Зона реакции почек}\n192\nПротеинурия (ХХХ)"
+      },
+      "logprobs": null,
+      "finish_reason": "stop"
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 220,
+    "completion_tokens": 243,
+    "total_tokens": 463,
+    "prompt_tokens_details": {
+      "cached_tokens": 0
+    },
+    "prompt_cache_hit_tokens": 0,
+    "prompt_cache_miss_tokens": 220
+  },
+  "system_fingerprint": "fp_8b330d02d0_prod0820_fp8_kvcache_20260402",
+  "text_ru": "•\nLinlf Gu3: Точка расположена на тыльной стороне кисти, дистальнее сочленения оснований 1-й и 2-й пястных костей — сообщается с ладонной точкой Chong2 Xian1. Глубина иглоукалывания 1,5–2,0 цуня, допускается проведение иглы до соединения с Chong2 Xian1. ПРОТИВОПОКАЗАНО ПРИ БЕРЕМЕННОСТИ. {Зона реакции легочной ветви}\n•\nDi4 Huanlf: Точка расположена на 7 цуней проксимальнее медиальной лодыжки по медиальному краю большеберцовой кости. Иглу вводят снизу вверх под углом 45° на глубину 1,0–1,8 цуня. ПРОТИВОПОКАЗАНО ПРИ БЕРЕМЕННОСТИ. {Зона реакции почек}\n192\nПротеинурия (ХХХ)"
 }

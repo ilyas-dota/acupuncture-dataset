@@ -1,6 +1,29 @@
 {
-  "source": "Cosmetic Acu_Eng_kindle.pdf",
-  "title": "2) Local points",
-  "text": "These are the 15 most used local points on the face. The Stomach channel covers the\nlargest space on the face. Also, the Large Intestine channel, Gallbladder channel, and Triple\nBurner channel also pass through each part of the face. The practitioner can use these points\nbased on the traditional channel theory, and additionally, as local points for skin tissue\ntreatment.\n~ !  ~\n55\nDU-24                        LI-20                        GB-1\nGB-14                        ST-4                         ST-7\nSJ-23                         Ex-HN-4                   ST-3\nST-1                           Ex-HN-3                   ST-6\nSI-19                          BL-1                         CV-24\nFacial  Cosmetic Acupuncture",
-  "category": "general"
+  "id": "168ca3fd-f9f9-4c3a-93fc-09ab8cb613dd",
+  "object": "chat.completion",
+  "created": 1782905774,
+  "model": "deepseek-v4-flash",
+  "choices": [
+    {
+      "index": 0,
+      "message": {
+        "role": "assistant",
+        "content": "Это 15 наиболее часто используемых локальных точек на лице. Канал желудка занимает наибольшую площадь на лице. Также каналы толстой кишки, желчного пузыря и тройного обогревателя проходят через различные участки лица. Практикующий может использовать эти точки на основе традиционной теории каналов, а также в качестве локальных точек для лечения тканей кожи.\n\n~ ! ~\n55\nDU-24                        LI-20                        GB-1\nGB-14                        ST-4                         ST-7\nSJ-23                         Ex-HN-4                   ST-3\nST-1                           Ex-HN-3                   ST-6\nSI-19                          BL-1                         CV-24\n\nКосметическая акупунктура лица"
+      },
+      "logprobs": null,
+      "finish_reason": "stop"
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 196,
+    "completion_tokens": 169,
+    "total_tokens": 365,
+    "prompt_tokens_details": {
+      "cached_tokens": 0
+    },
+    "prompt_cache_hit_tokens": 0,
+    "prompt_cache_miss_tokens": 196
+  },
+  "system_fingerprint": "fp_8b330d02d0_prod0820_fp8_kvcache_20260402",
+  "text_ru": "Это 15 наиболее часто используемых локальных точек на лице. Канал желудка занимает наибольшую площадь на лице. Также каналы толстой кишки, желчного пузыря и тройного обогревателя проходят через различные участки лица. Практикующий может использовать эти точки на основе традиционной теории каналов, а также в качестве локальных точек для лечения тканей кожи.\n\n~ ! ~\n55\nDU-24                        LI-20                        GB-1\nGB-14                        ST-4                         ST-7\nSJ-23                         Ex-HN-4                   ST-3\nST-1                           Ex-HN-3                   ST-6\nSI-19                          BL-1                         CV-24\n\nКосметическая акупунктура лица"
 }

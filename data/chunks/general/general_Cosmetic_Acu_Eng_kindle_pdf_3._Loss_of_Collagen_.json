@@ -1,6 +1,29 @@
 {
-  "source": "Cosmetic Acu_Eng_kindle.pdf",
-  "title": "3. Loss of Collagen, Elastin, and hyaluronic acid on the __________ layer of the",
-  "text": "contributes the visible aging of skin.",
-  "category": "general"
+  "id": "d1d9433e-95ea-4b44-b338-328c09bc27ed",
+  "object": "chat.completion",
+  "created": 1782905792,
+  "model": "deepseek-v4-flash",
+  "choices": [
+    {
+      "index": 0,
+      "message": {
+        "role": "assistant",
+        "content": "способствует видимому старению кожи."
+      },
+      "logprobs": null,
+      "finish_reason": "stop"
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 43,
+    "completion_tokens": 9,
+    "total_tokens": 52,
+    "prompt_tokens_details": {
+      "cached_tokens": 0
+    },
+    "prompt_cache_hit_tokens": 0,
+    "prompt_cache_miss_tokens": 43
+  },
+  "system_fingerprint": "fp_8b330d02d0_prod0820_fp8_kvcache_20260402",
+  "text_ru": "способствует видимому старению кожи."
 }

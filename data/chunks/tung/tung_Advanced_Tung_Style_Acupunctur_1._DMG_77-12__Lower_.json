@@ -1,6 +1,29 @@
 {
-  "source": "Advanced_Tung_Style_Acupuncture_Vol_3_Nephrology,_Urology_&_Andrology.pdf",
-  "title": "1. DMG 77-12 'Lower Three Emperors' and DMG 11-20 'Finger Kidney Three Needles' ",
-  "text": "•\nDMG 77-12 'Lower Three Emperors':\ni. Tian1 Huani: This point is found in the depression immediately distal to the\nmedial tibial condyle; it lies 2.5 cun distal to the articular surface of the medial tibial\ncondyle. Needle 0.5 to 1.0 cun - MOXA CONTRAINDICATED. {Kidney, Six\nBowels, and Heart Branch Reaction Areas}\nii. Di4 Huani: This point is located 7 cun proximal to the medial malleolus along the\nmedial border of the tibia. Needle inferior to superior at a 45° angle 1.0 to 1.8 cun.\n{Kidney Reaction Area}\niii. Ren2 Huani: This point is located 3 cun proximal to the medial malleolus along\nthe medial border of the tibia. Needle 0.6 to 1.2 cun. {Kidney Branch Reaction Area}\n•\nDMG 11-20 'Finger Kidney Three Needles':\ni. Zhe Shen4 Er4: This point is located at the midpoint of the ulnar digit line on the\ndorsal surface of the proximal phalanx of the ring finger. To determine the midpoint\nof the ulnar digit line on the proximal phalanx, bisect the distance from the base of\nthe web between the 4th and 5th digits to the dorsal proximal interphalangeal skin\ncrease along the course of the said line (make a loose fist to accentuate the base of\nthe web between the 4th and 5th digits). Needle perpendicular 0.1 to 0.2 cun, closely\nadjacent to the bone. {Liver Auxiliary and Kidney Auxiliary Reaction Areas}\nii. Zhe Shen4 Yi1: To locate this point, bisect the distance from Zhi3 Shen4 Er4 to the\nbase of the web between the 4th and 5th digits along the course of the ulnar digit line\n(make a loose fist to accentuate the base of the web between the 4th and 5th digits).\nNeedle perpendicular 0.1 to 0.2 cun, closely adjacent to the bone. {Liver Auxiliary\nand Kidney Auxiliary Reaction Areas}\niii. Zhi3 Shen4 San1: To locate this point bisect the distance from Zhi3 Shen4 Er4 to the\ndorsal proximal interphalangeal skin crease along the course of the ulnar digit line.\nNeedle perpendicular 0.1 to 0.2 cun, closely adjacent to the bone. {Liver Auxiliary\nand Kidney Auxiliary Reaction Areas}\nRIGHT Ring Finger\nDMG 11-20 'Finger Kidney 3 Needles'\nDMG 77-12 'Lower 3 Emperors'\n348\nTesticular Cancer (LKC-1)",
-  "category": "tung"
+  "id": "5b524010-d7d1-4d9d-9520-5e216ae85b90",
+  "object": "chat.completion",
+  "created": 1782906202,
+  "model": "deepseek-v4-flash",
+  "choices": [
+    {
+      "index": 0,
+      "message": {
+        "role": "assistant",
+        "content": "•\nDMG 77-12 «Нижние три императора»:\ni. Тянь1 Хуань1: Точка находится в углублении сразу дистальнее медиального мыщелка большеберцовой кости; расположена на 2,5 цуня дистальнее суставной поверхности медиального мыщелка большеберцовой кости. Иглу вводить на 0,5–1,0 цуня — МОКСА ПРОТИВОПОКАЗАНА. {Зоны реакции почек, шести органов фу и ветви сердца}\nii. Ди4 Хуань1: Точка расположена на 7 цуней проксимальнее медиальной лодыжки по медиальному краю большеберцовой кости. Иглу вводить снизу вверх под углом 45° на 1,0–1,8 цуня. {Зона реакции почек}\niii. Жэнь2 Хуань1: Точка расположена на 3 цуня проксимальнее медиальной лодыжки по медиальному краю большеберцовой кости. Иглу вводить на 0,6–1,2 цуня. {Зона реакции ветви почек}\n\n•\nDMG 11-20 «Три иглы пальца-почки»:\ni. Чжэ Шэнь4 Эр4: Точка находится на середине локтевой линии пальца на тыльной поверхности проксимальной фаланги безымянного пальца. Для определения середины локтевой линии пальца на проксимальной фаланге разделите пополам расстояние от основания межпальцевой складки между 4-м и 5-м пальцами до тыльной проксимальной межфаланговой кожной складки по ходу указанной линии (сожмите кисть в неплотный кулак, чтобы выделить основание межпальцевой складки между 4-м и 5-м пальцами). Иглу вводить перпендикулярно на 0,1–0,2 цуня, вплотную к кости. {Вспомогательные зоны реакции печени и почек}\nii. Чжэ Шэнь4 И1: Для локализации этой точки разделите пополам расстояние от Чжи3 Шэнь4 Эр4 до основания межпальцевой складки между 4-м и 5-м пальцами по ходу локтевой линии пальца (сожмите кисть в неплотный кулак)."
+      },
+      "logprobs": null,
+      "finish_reason": "stop"
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 471,
+    "completion_tokens": 593,
+    "total_tokens": 1064,
+    "prompt_tokens_details": {
+      "cached_tokens": 0
+    },
+    "prompt_cache_hit_tokens": 0,
+    "prompt_cache_miss_tokens": 471
+  },
+  "system_fingerprint": "fp_8b330d02d0_prod0820_fp8_kvcache_20260402",
+  "text_ru": "•\nDMG 77-12 «Нижние три императора»:\ni. Тянь1 Хуань1: Точка находится в углублении сразу дистальнее медиального мыщелка большеберцовой кости; расположена на 2,5 цуня дистальнее суставной поверхности медиального мыщелка большеберцовой кости. Иглу вводить на 0,5–1,0 цуня — МОКСА ПРОТИВОПОКАЗАНА. {Зоны реакции почек, шести органов фу и ветви сердца}\nii. Ди4 Хуань1: Точка расположена на 7 цуней проксимальнее медиальной лодыжки по медиальному краю большеберцовой кости. Иглу вводить снизу вверх под углом 45° на 1,0–1,8 цуня. {Зона реакции почек}\niii. Жэнь2 Хуань1: Точка расположена на 3 цуня проксимальнее медиальной лодыжки по медиальному краю большеберцовой кости. Иглу вводить на 0,6–1,2 цуня. {Зона реакции ветви почек}\n\n•\nDMG 11-20 «Три иглы пальца-почки»:\ni. Чжэ Шэнь4 Эр4: Точка находится на середине локтевой линии пальца на тыльной поверхности проксимальной фаланги безымянного пальца. Для определения середины локтевой линии пальца на проксимальной фаланге разделите пополам расстояние от основания межпальцевой складки между 4-м и 5-м пальцами до тыльной проксимальной межфаланговой кожной складки по ходу указанной линии (сожмите кисть в неплотный кулак, чтобы выделить основание межпальцевой складки между 4-м и 5-м пальцами). Иглу вводить перпендикулярно на 0,1–0,2 цуня, вплотную к кости. {Вспомогательные зоны реакции печени и почек}\nii. Чжэ Шэнь4 И1: Для локализации этой точки разделите пополам расстояние от Чжи3 Шэнь4 Эр4 до основания межпальцевой складки между 4-м и 5-м пальцами по ходу локтевой линии пальца (сожмите кисть в неплотный кулак)."
 }

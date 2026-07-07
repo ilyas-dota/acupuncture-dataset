@@ -1,6 +1,29 @@
 {
-  "source": "Cosmetic Acu_Eng_kindle.pdf",
-  "title": "2. Goal setting",
-  "text": "• A patient's goal can be very subjective. His/her biggest concern part may be the least\nproblematic  part  which  needs  intervention.  That  is  why  practitioner  needs  to\nunderstand his/her expectations clearly. Only enough communication can solve this\nproblem.\n• When you consult with a patient, use the photo taken in the clinic. Photo can make you\nand patient understand current condition and goal more clearly.\n• The actual treatment goal should be reasonable and realistic.",
-  "category": "general"
+  "id": "e90ebfc5-5bbc-4f0a-a5eb-d8741ec0f1a6",
+  "object": "chat.completion",
+  "created": 1782905743,
+  "model": "deepseek-v4-flash",
+  "choices": [
+    {
+      "index": 0,
+      "message": {
+        "role": "assistant",
+        "content": "• Цель пациента может быть весьма субъективной. Наиболее беспокоящая его/её часть тела может оказаться наименее проблемной зоной, требующей вмешательства. Именно поэтому практикующему специалисту необходимо чётко понимать ожидания пациента. Решить эту проблему может только достаточный уровень общения.\n• При консультации с пациентом используйте фотографию, сделанную в клинике. Фото позволяет вам и пациенту более наглядно понять текущее состояние и поставленную цель.\n• Фактическая цель лечения должна быть разумной и реалистичной."
+      },
+      "logprobs": null,
+      "finish_reason": "stop"
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 136,
+    "completion_tokens": 133,
+    "total_tokens": 269,
+    "prompt_tokens_details": {
+      "cached_tokens": 0
+    },
+    "prompt_cache_hit_tokens": 0,
+    "prompt_cache_miss_tokens": 136
+  },
+  "system_fingerprint": "fp_8b330d02d0_prod0820_fp8_kvcache_20260402",
+  "text_ru": "• Цель пациента может быть весьма субъективной. Наиболее беспокоящая его/её часть тела может оказаться наименее проблемной зоной, требующей вмешательства. Именно поэтому практикующему специалисту необходимо чётко понимать ожидания пациента. Решить эту проблему может только достаточный уровень общения.\n• При консультации с пациентом используйте фотографию, сделанную в клинике. Фото позволяет вам и пациенту более наглядно понять текущее состояние и поставленную цель.\n• Фактическая цель лечения должна быть разумной и реалистичной."
 }

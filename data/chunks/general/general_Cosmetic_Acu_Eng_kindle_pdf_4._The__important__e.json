@@ -1,6 +1,29 @@
 {
-  "source": "Cosmetic Acu_Eng_kindle.pdf",
-  "title": "4. The  important  extrinsic  factors  of  aging  are  smoking  and  __________,",
-  "text": "temperature.\nAnswers: 1.(5)   2.(1)   3.(4)   4.(8)\n~ !  ~\n24\nREVIEW\n(1) Collagen                                          (5) Pigmentation\n(2) Menopause                                     (6) Elastin\n(3) Epidermis                                       (7) UV exposure\n(4) Dermis                                             (8) Obesity\nFacial  Cosmetic Acupuncture\n~ !  ~\n25\nBASIC ANATOMY FOR\nCOSMETIC ACUPUNCTURE\nUnderstanding anatomy is an essential part\nof cosmetic acupuncture for both diagnosis and\ntreatment.  Dynamic  wrinkles  are  made  by\nrepeated  muscle  movements.  If  the  dynamic\nwrinkles get worse, especially unsymmetrically,\nwe  can  suspect  the  problem  is  with  muscle\nmovements,  as  with  a  TMJ  disorder,  tics,\ntwitching of the muscle, bad sleep posture, or\neven  a  certain  habit  or  a  certain,  prolonged\nmental  state.  Without  knowledge  of  muscle\nanatomy, we cannot ﬁgure out what is going on\nwith those problems.\nCosmetic acupuncture is a very meticulous\njob dealing with less than one inch of wrinkles\nand muscles. Skin thickness around the eyes is\njust around 2mm. The needle targets the dermis\nor muscles, depending on the conditions and\npurposes.  The  practitioner  should  be  able  to\ncontrol  the  acupuncture  needle's  depth  and\nlocation based on anatomy. A patient’s face is\nvery sensitive and just a tiny mistake can have a\nbig negative impact on the patient.\nFacial  Cosmetic Acupuncture",
-  "category": "general"
+  "id": "284d0564-daa2-4ed2-b513-fb3156dbca77",
+  "object": "chat.completion",
+  "created": 1782905861,
+  "model": "deepseek-v4-flash",
+  "choices": [
+    {
+      "index": 0,
+      "message": {
+        "role": "assistant",
+        "content": "температура.\nОтветы: 1.(5)   2.(1)   3.(4)   4.(8)\n~ !  ~\n24\nОБЗОР\n(1) Коллаген                                          (5) Пигментация\n(2) Менопауза                                     (6) Эластин\n(3) Эпидермис                                       (7) Воздействие УФ-излучения\n(4) Дерма                                             (8) Ожирение\nЛицевая косметическая акупунктура\n~ !  ~\n25\nОСНОВНАЯ АНАТОМИЯ ДЛЯ\nКОСМЕТИЧЕСКОЙ АКУПУНКТУРЫ\nПонимание анатомии является неотъемлемой частью\nкосметической акупунктуры как для диагностики, так и для\nлечения. Динамические морщины образуются\nв результате повторяющихся мышечных движений. Если\nдинамические морщины усиливаются, особенно асимметрично,\nможно заподозрить проблему с мышечными\nдвижениями, как при расстройстве ВНЧС, тиках,\nподергивании мышц, неправильной позе во сне или\nдаже определенной привычке или определенном,\nдлительном психическом состоянии. Без знания\nанатомии мышц невозможно разобраться, что происходит\nс этими проблемами.\nКосметическая акупунктура — это очень кропотливая\nработа с морщинами и мышцами размером менее дюйма.\nТолщина кожи вокруг глаз составляет\nвсего около 2 мм. Игла воздействует на дерму\nили мышцы, в зависимости от состояния и\nцелей. Практикующий специалист должен уметь\nконтролировать глубину и расположение\nакупунктурной иглы на основе анатомии. Лицо пациента\nочень чувствительно, и даже малейшая ошибка может оказать\nбольшое негативное влияние на пациента.\n\nЛицевая косметическая акупунктура"
+      },
+      "logprobs": null,
+      "finish_reason": "stop"
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 415,
+    "completion_tokens": 472,
+    "total_tokens": 887,
+    "prompt_tokens_details": {
+      "cached_tokens": 0
+    },
+    "prompt_cache_hit_tokens": 0,
+    "prompt_cache_miss_tokens": 415
+  },
+  "system_fingerprint": "fp_8b330d02d0_prod0820_fp8_kvcache_20260402",
+  "text_ru": "температура.\nОтветы: 1.(5)   2.(1)   3.(4)   4.(8)\n~ !  ~\n24\nОБЗОР\n(1) Коллаген                                          (5) Пигментация\n(2) Менопауза                                     (6) Эластин\n(3) Эпидермис                                       (7) Воздействие УФ-излучения\n(4) Дерма                                             (8) Ожирение\nЛицевая косметическая акупунктура\n~ !  ~\n25\nОСНОВНАЯ АНАТОМИЯ ДЛЯ\nКОСМЕТИЧЕСКОЙ АКУПУНКТУРЫ\nПонимание анатомии является неотъемлемой частью\nкосметической акупунктуры как для диагностики, так и для\nлечения. Динамические морщины образуются\nв результате повторяющихся мышечных движений. Если\nдинамические морщины усиливаются, особенно асимметрично,\nможно заподозрить проблему с мышечными\nдвижениями, как при расстройстве ВНЧС, тиках,\nподергивании мышц, неправильной позе во сне или\nдаже определенной привычке или определенном,\nдлительном психическом состоянии. Без знания\nанатомии мышц невозможно разобраться, что происходит\nс этими проблемами.\nКосметическая акупунктура — это очень кропотливая\nработа с морщинами и мышцами размером менее дюйма.\nТолщина кожи вокруг глаз составляет\nвсего около 2 мм. Игла воздействует на дерму\nили мышцы, в зависимости от состояния и\nцелей. Практикующий специалист должен уметь\nконтролировать глубину и расположение\nакупунктурной иглы на основе анатомии. Лицо пациента\nочень чувствительно, и даже малейшая ошибка может оказать\nбольшое негативное влияние на пациента.\n\nЛицевая косметическая акупунктура"
 }

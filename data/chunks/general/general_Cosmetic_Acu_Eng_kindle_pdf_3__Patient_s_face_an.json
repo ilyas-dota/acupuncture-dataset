@@ -1,6 +1,29 @@
 {
-  "source": "Cosmetic Acu_Eng_kindle.pdf",
-  "title": "3) Patient’s face and hands",
-  "text": "• The patient’s face should be without make-up and thoroughly cleaned.\n• The patient’s hair should tidy so as to fully expose the face. Prepare a hair band or\ntowel to hold the patient's hair.\n• The patient’s hands should be clean too, because they may touch their face often during\nthe treatment session.\n• I recommend sterile alcohol pads instead of sterile alcohol cotton balls for cleaning the\npatient’s face because the sterile alcohol pad is much thinner, meaning there is a smaller\nchance of alcohol spilling over to near the eyes, nose, or mouth.\n3C - Concentrate",
-  "category": "general"
+  "id": "49cea3fe-48a9-454e-b103-2fb66f2cdb9e",
+  "object": "chat.completion",
+  "created": 1782905823,
+  "model": "deepseek-v4-flash",
+  "choices": [
+    {
+      "index": 0,
+      "message": {
+        "role": "assistant",
+        "content": "• Лицо пациента должно быть без макияжа и тщательно очищено.\n• Волосы пациента должны быть аккуратно убраны, чтобы полностью открыть лицо. Приготовьте повязку для волос или полотенце, чтобы зафиксировать волосы пациента.\n• Руки пациента также должны быть чистыми, так как во время сеанса лечения они могут часто касаться лица.\n• Рекомендую использовать стерильные спиртовые салфетки вместо стерильных спиртовых ватных шариков для очищения лица пациента, так как стерильная спиртовая салфетка значительно тоньше, что снижает риск попадания спирта вблизи глаз, носа или рта.\n3C - Сосредоточьтесь"
+      },
+      "logprobs": null,
+      "finish_reason": "stop"
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 162,
+    "completion_tokens": 179,
+    "total_tokens": 341,
+    "prompt_tokens_details": {
+      "cached_tokens": 0
+    },
+    "prompt_cache_hit_tokens": 0,
+    "prompt_cache_miss_tokens": 162
+  },
+  "system_fingerprint": "fp_8b330d02d0_prod0820_fp8_kvcache_20260402",
+  "text_ru": "• Лицо пациента должно быть без макияжа и тщательно очищено.\n• Волосы пациента должны быть аккуратно убраны, чтобы полностью открыть лицо. Приготовьте повязку для волос или полотенце, чтобы зафиксировать волосы пациента.\n• Руки пациента также должны быть чистыми, так как во время сеанса лечения они могут часто касаться лица.\n• Рекомендую использовать стерильные спиртовые салфетки вместо стерильных спиртовых ватных шариков для очищения лица пациента, так как стерильная спиртовая салфетка значительно тоньше, что снижает риск попадания спирта вблизи глаз, носа или рта.\n3C - Сосредоточьтесь"
 }

@@ -1,6 +1,29 @@
 {
-  "source": "Cosmetic Acu_Eng_kindle.pdf",
-  "title": "3. Bones",
-  "text": "First, let's start with the bones. Understanding just the biggest structures is enough for\ncosmetic acupuncture. Most of muscles are attached to bones, and those attachments are\nsometimes the name of the muscle, zygomaticus, for example, so you can understand the\nphysiology and kinetics of muscles easily by studying the anatomy of bones. Many other\nexplanations of cosmetic acupuncture are based on the anatomical structure of bones. The\nmost important bones are written in bold in following tables.\nCranial bones\nRight lateral view8\nBones\nPosition\nFrontal *1\nForehead, roof of eye orbit\nParietal *2\nRoof and side walls of cranium\nTemporal *2\nSides and base of the cranium\nOccipital *1\nPosterior part of the cranium\nEthmoid *1\nPart of cranial base, eye orbits, nasal cavity\nSphenoid *1\nBase of cranium, hold cranial bones\nIllustration from  Anatomy & Physiology, created by OpenStax College.\n8\n~ !  ~\n26\nFacial  Cosmetic Acupuncture\nFront view8\nFacial bones\nBones\nPosition\nMandible *1\nLower jaw\nMaxilla *2\nUpper jaw, eye orbit, nasal cavity, hard palate\nZygomatic *2\nCheek, eye orbit\nNasal *2\nBridge of nose\nLacrimal *2\nMedial wall of eye orbit\nVomer *1\nNasal septum\nPalatine *2\nNasal cavity, eye orbit, hard palate\nInferior Nasal Concha *2\nNasal cavity\n~ !  ~\n27\nFacial  Cosmetic Acupuncture",
-  "category": "general"
+  "id": "1b99a314-c688-48c6-8b73-c9b3b4cc214f",
+  "object": "chat.completion",
+  "created": 1782905781,
+  "model": "deepseek-v4-flash",
+  "choices": [
+    {
+      "index": 0,
+      "message": {
+        "role": "assistant",
+        "content": "Начнем с костей. Для косметической акупунктуры достаточно понимания лишь самых крупных структур. Большинство мышц прикрепляются к костям, и эти точки прикрепления иногда дают название мышце (например, скуловая мышца), поэтому, изучая анатомию костей, можно легко понять физиологию и кинетику мышц. Многие другие объяснения косметической акупунктуры основаны на анатомическом строении костей. Наиболее важные кости выделены жирным шрифтом в следующих таблицах.\n\n**Кости черепа**\nВид справа⁸\n\n| Кости | Положение |\n|-------|-----------|\n| **Лобная кость** *1 | Лоб, крыша глазницы |\n| **Теменная кость** *2 | Крыша и боковые стенки черепа |\n| **Височная кость** *2 | Боковые отделы и основание черепа |\n| **Затылочная кость** *1 | Задняя часть черепа |\n| **Решетчатая кость** *1 | Часть основания черепа, глазницы, носовая полость |\n| **Клиновидная кость** *1 | Основание черепа, удерживает кости черепа |\n\nИллюстрация из *Anatomy & Physiology*, создано OpenStax College.  \n⁸\n\n~ ! ~  \n26  \n**Косметическая акупунктура лица**\n\nВид спереди⁸\n\n**Кости лица**\n\n| Кости | Положение |\n|-------|-----------|\n| **Нижняя челюсть** *1 | Нижняя челюсть |\n| **Верхняя челюсть** *2 | Верхняя челюсть, глазница, носовая полость, твердое небо |\n| **Скуловая кость** *2 | Щека, глазница |\n| **Носовая кость** *2 | Спинка носа |\n| **Слезная кость** *2 | Медиальная стенка глазницы |\n| **Сошник** *1 | Носовая перегородка |\n| **Небная кость** *2 | Носовая полость, глазница, твердое небо |\n| **Нижняя носовая раковина** *2 | Носовая полость |\n\n~ ! ~  \n27  \n**Косметическая акупунктура лица**"
+      },
+      "logprobs": null,
+      "finish_reason": "stop"
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 393,
+    "completion_tokens": 556,
+    "total_tokens": 949,
+    "prompt_tokens_details": {
+      "cached_tokens": 0
+    },
+    "prompt_cache_hit_tokens": 0,
+    "prompt_cache_miss_tokens": 393
+  },
+  "system_fingerprint": "fp_8b330d02d0_prod0820_fp8_kvcache_20260402",
+  "text_ru": "Начнем с костей. Для косметической акупунктуры достаточно понимания лишь самых крупных структур. Большинство мышц прикрепляются к костям, и эти точки прикрепления иногда дают название мышце (например, скуловая мышца), поэтому, изучая анатомию костей, можно легко понять физиологию и кинетику мышц. Многие другие объяснения косметической акупунктуры основаны на анатомическом строении костей. Наиболее важные кости выделены жирным шрифтом в следующих таблицах.\n\n**Кости черепа**\nВид справа⁸\n\n| Кости | Положение |\n|-------|-----------|\n| **Лобная кость** *1 | Лоб, крыша глазницы |\n| **Теменная кость** *2 | Крыша и боковые стенки черепа |\n| **Височная кость** *2 | Боковые отделы и основание черепа |\n| **Затылочная кость** *1 | Задняя часть черепа |\n| **Решетчатая кость** *1 | Часть основания черепа, глазницы, носовая полость |\n| **Клиновидная кость** *1 | Основание черепа, удерживает кости черепа |\n\nИллюстрация из *Anatomy & Physiology*, создано OpenStax College.  \n⁸\n\n~ ! ~  \n26  \n**Косметическая акупунктура лица**\n\nВид спереди⁸\n\n**Кости лица**\n\n| Кости | Положение |\n|-------|-----------|\n| **Нижняя челюсть** *1 | Нижняя челюсть |\n| **Верхняя челюсть** *2 | Верхняя челюсть, глазница, носовая полость, твердое небо |\n| **Скуловая кость** *2 | Щека, глазница |\n| **Носовая кость** *2 | Спинка носа |\n| **Слезная кость** *2 | Медиальная стенка глазницы |\n| **Сошник** *1 | Носовая перегородка |\n| **Небная кость** *2 | Носовая полость, глазница, твердое небо |\n| **Нижняя носовая раковина** *2 | Носовая полость |\n\n~ ! ~  \n27  \n**Косметическая акупунктура лица**"
 }

@@ -1,6 +1,29 @@
 {
-  "source": "Advanced_Tung_Style_Acupuncture_Vol_3_Nephrology,_Urology_&_Andrology.pdf",
-  "title": "1. DMG 11-20 'Finger Kidney Three Needles', Wan4 Shun4 Yi\\ and Wan4 Shun4 Er4 (L",
-  "text": "•\nDMG 11-20 'Finger Kidney Three Needles':\ni. Zhi3 Shen\" Er4: This point is located at the midpoint of the ulnar digit line on the\ndorsal surface of the proximal phalanx of the ring finger (the ulnar digit line lies 0.3\ncun ulnar to the posterior midsagittal line). To determine the midpoint of the ulnar\ndigit line on the proximal phalanx, bisect the distance from the base of the web\nbetween the 4th and 5th digits to the dorsal proximal interphalangeal skin crease,\nalong the course of the said line (make a loose fist to accentuate the base of the web\nbetween the 4th and 5th digits). Needle 0.1 to 0.2 cun. {Liver Auxiliary, Kidney\nAuxiliary, and Heart Reaction Areas}\nii. Zhi3 Shen4 Yi1: To locate this point, simply bisect the distance from Zhi3 Shen4 Er4\nto the base of the web between the 4th and 5th digits along the course of the ulnar\ndigit line (make a loose fist to accentuate the base of the web between the 4th and 5th\ndigits). Needle 0.1 to 0.2 cun. {Liver Auxiliary, Kidney Auxiliary, and Heart\nReaction Areas}\niii. Zhi3 Shen4 San1: To locate this point, simply bisect the distance from Zhi3 Shen4\nEr4 to the dorsal proximal interphalangeal skin crease along the course of the ulnar\ndigit line. Needle 0.1 to 0.2 cun. {Liver Auxiliary, Kidney Auxiliary, and Heart\nReaction Areas}\n•\nWan4 Shun4 Yi1: This point is located 1.5 cun distal to the anterior distal transverse wrist\ncrease, anterior to the 5th metacarpal bone, at the junction of the 'red and white skin'.\nNeedle 0.5 to 1.0 cun. {Kidney Branch Reaction Area}\n•\nWan4 Shun4 Er4: This point is located 2.5 cun distal to the anterior distal transverse wrist\ncrease, anterior to the 5th metacarpal bone, at the junction of the 'red and white skin'.\nNeedle 0.5 to 1.0 cun. {Kidney Branch Reaction Area}\nDMG 11-20 'Finger Kidney 3 Needles'\nj\nI\nWaJ~-.n4 Yi1\n'~4n'·\n304\nMale 'Kidney-Depletion' (LKC-2)",
-  "category": "tung"
+  "id": "75f3f6dc-2788-41c5-8723-7fe8dfc64bec",
+  "object": "chat.completion",
+  "created": 1782906152,
+  "model": "deepseek-v4-flash",
+  "choices": [
+    {
+      "index": 0,
+      "message": {
+        "role": "assistant",
+        "content": "•\nDMG 11-20 «Три иглы почки пальца»:\ni. Чжи3 Шэнь4 Эр4: Точка расположена на середине локтевой линии пальца на тыльной поверхности проксимальной фаланги безымянного пальца (локтевая линия пальца находится на 0,3 цуня локтевее задней срединно-сагиттальной линии). Для определения середины локтевой линии пальца на проксимальной фаланге разделите пополам расстояние от основания перепонки между 4-м и 5-м пальцами до тыльной проксимальной межфаланговой кожной складки вдоль указанной линии (слегка сожмите кулак, чтобы выделить основание перепонки между 4-м и 5-м пальцами). Глубина введения иглы: 0,1–0,2 цуня. {Вспомогательная зона печени, вспомогательная зона почек и зона реакции сердца}\nii. Чжи3 Шэнь4 И1: Для нахождения этой точки просто разделите пополам расстояние от Чжи3 Шэнь4 Эр4 до основания перепонки между 4-м и 5-м пальцами вдоль локтевой линии пальца (слегка сожмите кулак, чтобы выделить основание перепонки между 4-м и 5-м пальцами). Глубина введения иглы: 0,1–0,2 цуня. {Вспомогательная зона печени, вспомогательная зона почек и зона реакции сердца}\niii. Чжи3 Шэнь4 Сань1: Для нахождения этой точки просто разделите пополам расстояние от Чжи3 Шэнь4 Эр4 до тыльной проксимальной межфаланговой кожной складки вдоль локтевой линии пальца. Глубина введения иглы: 0,1–0,2 цуня. {Вспомогательная зона печени, вспомогательная зона почек и зона реакции сердца}\n•\nВань4 Шунь4 И1: Точка расположена на 1,5 цуня дистальнее передней дистальной поперечной складки запястья, кпереди от 5-й пястной кости, на границе «красной и белой кожи». Глубина введения иглы: 0,5–1,0 цуня."
+      },
+      "logprobs": null,
+      "finish_reason": "stop"
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 477,
+    "completion_tokens": 574,
+    "total_tokens": 1051,
+    "prompt_tokens_details": {
+      "cached_tokens": 0
+    },
+    "prompt_cache_hit_tokens": 0,
+    "prompt_cache_miss_tokens": 477
+  },
+  "system_fingerprint": "fp_8b330d02d0_prod0820_fp8_kvcache_20260402",
+  "text_ru": "•\nDMG 11-20 «Три иглы почки пальца»:\ni. Чжи3 Шэнь4 Эр4: Точка расположена на середине локтевой линии пальца на тыльной поверхности проксимальной фаланги безымянного пальца (локтевая линия пальца находится на 0,3 цуня локтевее задней срединно-сагиттальной линии). Для определения середины локтевой линии пальца на проксимальной фаланге разделите пополам расстояние от основания перепонки между 4-м и 5-м пальцами до тыльной проксимальной межфаланговой кожной складки вдоль указанной линии (слегка сожмите кулак, чтобы выделить основание перепонки между 4-м и 5-м пальцами). Глубина введения иглы: 0,1–0,2 цуня. {Вспомогательная зона печени, вспомогательная зона почек и зона реакции сердца}\nii. Чжи3 Шэнь4 И1: Для нахождения этой точки просто разделите пополам расстояние от Чжи3 Шэнь4 Эр4 до основания перепонки между 4-м и 5-м пальцами вдоль локтевой линии пальца (слегка сожмите кулак, чтобы выделить основание перепонки между 4-м и 5-м пальцами). Глубина введения иглы: 0,1–0,2 цуня. {Вспомогательная зона печени, вспомогательная зона почек и зона реакции сердца}\niii. Чжи3 Шэнь4 Сань1: Для нахождения этой точки просто разделите пополам расстояние от Чжи3 Шэнь4 Эр4 до тыльной проксимальной межфаланговой кожной складки вдоль локтевой линии пальца. Глубина введения иглы: 0,1–0,2 цуня. {Вспомогательная зона печени, вспомогательная зона почек и зона реакции сердца}\n•\nВань4 Шунь4 И1: Точка расположена на 1,5 цуня дистальнее передней дистальной поперечной складки запястья, кпереди от 5-й пястной кости, на границе «красной и белой кожи». Глубина введения иглы: 0,5–1,0 цуня."
 }

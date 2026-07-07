@@ -1,6 +1,29 @@
 {
-  "source": "AL_Introduction_to_Tung's_Acupuncture.pdf",
-  "title": "24. The curved bones below the cheeks: kneecaps.",
-  "text": "Five Zang Diseases by Themselves and Five Evils.\nThe forty-ninth and fiftieth difficulties are essential to understanding the relationship of\nthe generation and restriction of the five zang, five evils and five zang and the transfer of\nfive evils.\n240\nDiagnosis and Treatment Strategy\nFive zang channels become diseased by themselves:\nl.\nGrief, anxiety, thoughts and considerations damage the heart.\n2.\nA cold body and chilled drinks damage the lung.\n3.\nHate and angry qi counterflow and ascension without descension damage the liver.\n4.\nDrinking and eating without restraint, as well as weariness and exhaustion, damage\nthe spleen.\n5.\nEnduring sitting on damp place, or over exertion and going into water damage the\nkidney.\nFive evils:\nl. To be hit by wind. The wind pertains to the liver. The liver rules colors.",
-  "category": "tung"
+  "id": "86983f09-ab0e-4ea9-914c-c60314db6e13",
+  "object": "chat.completion",
+  "created": 1782906029,
+  "model": "deepseek-v4-flash",
+  "choices": [
+    {
+      "index": 0,
+      "message": {
+        "role": "assistant",
+        "content": "Пять заболеваний органов цзан, вызванных ими самими, и пять патогенных факторов.\nСорок девятый и пятидесятый трудные вопросы имеют ключевое значение для понимания взаимосвязи между порождением и угнетением пяти органов цзан, пяти патогенных факторов и пяти органов цзан, а также передачи пяти патогенных факторов.\n\n240  \nДиагностика и стратегия лечения  \n\nКаналы пяти органов цзан заболевают сами по себе:  \n1. Печаль, тревога, размышления и обдумывания повреждают сердце.  \n2. Холодное тело и охлажденные напитки повреждают легкие.  \n3. Гнев и ярость, при которых ци устремляется вверх и не опускается, повреждают печень.  \n4. Неумеренность в питье и еде, а также усталость и истощение повреждают селезенку.  \n5. Длительное сидение на сыром месте, чрезмерное напряжение или вхождение в воду повреждают почки.  \n\nПять патогенных факторов:  \n1. Поражение ветром. Ветер относится к печени. Печень управляет цветами."
+      },
+      "logprobs": null,
+      "finish_reason": "stop"
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 217,
+    "completion_tokens": 281,
+    "total_tokens": 498,
+    "prompt_tokens_details": {
+      "cached_tokens": 0
+    },
+    "prompt_cache_hit_tokens": 0,
+    "prompt_cache_miss_tokens": 217
+  },
+  "system_fingerprint": "fp_8b330d02d0_prod0820_fp8_kvcache_20260402",
+  "text_ru": "Пять заболеваний органов цзан, вызванных ими самими, и пять патогенных факторов.\nСорок девятый и пятидесятый трудные вопросы имеют ключевое значение для понимания взаимосвязи между порождением и угнетением пяти органов цзан, пяти патогенных факторов и пяти органов цзан, а также передачи пяти патогенных факторов.\n\n240  \nДиагностика и стратегия лечения  \n\nКаналы пяти органов цзан заболевают сами по себе:  \n1. Печаль, тревога, размышления и обдумывания повреждают сердце.  \n2. Холодное тело и охлажденные напитки повреждают легкие.  \n3. Гнев и ярость, при которых ци устремляется вверх и не опускается, повреждают печень.  \n4. Неумеренность в питье и еде, а также усталость и истощение повреждают селезенку.  \n5. Длительное сидение на сыром месте, чрезмерное напряжение или вхождение в воду повреждают почки.  \n\nПять патогенных факторов:  \n1. Поражение ветром. Ветер относится к печени. Печень управляет цветами."
 }

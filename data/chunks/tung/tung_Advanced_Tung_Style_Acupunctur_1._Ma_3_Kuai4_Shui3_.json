@@ -1,6 +1,29 @@
 {
-  "source": "Advanced_Tung_Style_Acupuncture_Vol_3_Nephrology,_Urology_&_Andrology.pdf",
-  "title": "1. Ma 3 Kuai4 Shui3, Liu4 Kuai4, Ling2 Gu3, and Huo3 Zhu3 (MC):",
-  "text": "•\nMa3 Kuai4 Shui3: This point is 0.4 cun immediately inferior to Ma3 Jin1 Shui3\napproximately at the most caudal level of the nose. Needle 0.1 to 0.3 cun. {Kidney and\nBladder Reaction Areas} [Ma3 Jin1 Shui3 is found on the face in the depression located\nalong the inferior border of the zygomatic bone, at the medial-to-lateral level of the lateral\ncanthus.]\n•\nLiu4 Kuai4: This point is located on the face, 1.4 cun lateral to the center of the philtrum\n(GV-26WH0 ). Needle 0.1 to 0.3 cun. {Endocrine Reaction Area} To locate the center of the\nphiltrum, bisect the distance from the extraoral labial-cutaneous junction to the base of the\nnose between the nostrils.\n•\nLing2 Gu3: This point is located on the dorsum of the hand, immediately distal to the\narticulation of the bases of the 1st and 2nd metacarpal bones - the point communicates with\nthe palmar point Chong2 Xian1• Needle 1.5 to 2.0 cun i.e. one may needle through to\nconnect with Chong2 Xian1• CONTRAINDICATED IN PREGNANCY. {Lung Branch\nReaction Area}\n•\nHuo3 Zhu3: This point is located on the dorsum of the foot, immediately distal to the\narticulation of the bases of the 1st and 2nd metatarsal bones. Needle 0.3 to 0.8 cun\nCONTRAINDICATED IN PREGNANCY; MOXABUSTION CONTRAINDICATED. {Heart\nBranch Reaction Area} (Huo3 Zhu3 is described as being 1.0 cun proximal to Huo3 Ying4\nwhich is located on the dorsum of the foot between the first and second metatarsal bones,\n0.5 cun proximal to the level of the metatarsophalangeal joints.)\nUrethritis (CCC)",
-  "category": "tung"
+  "id": "f522736c-eee5-42a2-a9c0-e6fe66fe07a8",
+  "object": "chat.completion",
+  "created": 1782906376,
+  "model": "deepseek-v4-flash",
+  "choices": [
+    {
+      "index": 0,
+      "message": {
+        "role": "assistant",
+        "content": "•\n**马快水 (Ma3 Kuai4 Shui3)**：此穴位于马金水 (Ma3 Jin1 Shui3) 直下0.4寸，约在鼻部最尾端水平。针刺0.1至0.3寸。{肾与膀胱反应区} [马金水位于面部，颧骨下缘凹陷处，约平外眼角内侧至外侧水平。]\n\n•\n**六快 (Liu4 Kuai4)**：此穴位于面部，人中沟（督脉GV-26WH0）中点旁开1.4寸。针刺0.1至0.3寸。{内分泌反应区} 定位人中沟中点时，取口外唇红与皮肤交界处至两鼻孔间鼻基底连线的中点。\n\n•\n**灵骨 (Ling2 Gu3)**：此穴位于手背，第一、二掌骨基底关节远侧端——本穴与手掌侧重仙 (Chong2 Xian1) 穴相通。针刺1.5至2.0寸，即透刺至重仙穴。**孕妇禁针**。{肺支反应区}\n\n•\n**火主 (Huo3 Zhu3)**：此穴位于足背，第一、二跖骨基底关节远侧端。针刺0.3至0.8寸。**孕妇禁针；禁灸**。{心支反应区} (火主穴描述为位于火硬 (Huo3 Ying4) 穴近心端1.0寸；火硬穴位于足背第一、二跖骨之间，约平跖趾关节近心端0.5寸。)"
+      },
+      "logprobs": null,
+      "finish_reason": "stop"
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 493,
+    "completion_tokens": 353,
+    "total_tokens": 846,
+    "prompt_tokens_details": {
+      "cached_tokens": 0
+    },
+    "prompt_cache_hit_tokens": 0,
+    "prompt_cache_miss_tokens": 493
+  },
+  "system_fingerprint": "fp_8b330d02d0_prod0820_fp8_kvcache_20260402",
+  "text_ru": "•\n**马快水 (Ma3 Kuai4 Shui3)**：此穴位于马金水 (Ma3 Jin1 Shui3) 直下0.4寸，约在鼻部最尾端水平。针刺0.1至0.3寸。{肾与膀胱反应区} [马金水位于面部，颧骨下缘凹陷处，约平外眼角内侧至外侧水平。]\n\n•\n**六快 (Liu4 Kuai4)**：此穴位于面部，人中沟（督脉GV-26WH0）中点旁开1.4寸。针刺0.1至0.3寸。{内分泌反应区} 定位人中沟中点时，取口外唇红与皮肤交界处至两鼻孔间鼻基底连线的中点。\n\n•\n**灵骨 (Ling2 Gu3)**：此穴位于手背，第一、二掌骨基底关节远侧端——本穴与手掌侧重仙 (Chong2 Xian1) 穴相通。针刺1.5至2.0寸，即透刺至重仙穴。**孕妇禁针**。{肺支反应区}\n\n•\n**火主 (Huo3 Zhu3)**：此穴位于足背，第一、二跖骨基底关节远侧端。针刺0.3至0.8寸。**孕妇禁针；禁灸**。{心支反应区} (火主穴描述为位于火硬 (Huo3 Ying4) 穴近心端1.0寸；火硬穴位于足背第一、二跖骨之间，约平跖趾关节近心端0.5寸。)"
 }

@@ -1,6 +1,29 @@
 {
-  "source": "Beinfield.pdf",
-  "title": "3 Натан Сайвин, «Традиционная медицина в современном Китае»/",
-  "text": "Nathan Sivin, Traditional Medicine in Contemporary China, 47—53.",
-  "category": "tcm"
+  "id": "3339727f-70c6-48bb-99b6-127aca50e114",
+  "object": "chat.completion",
+  "created": 1782905945,
+  "model": "deepseek-v4-flash",
+  "choices": [
+    {
+      "index": 0,
+      "message": {
+        "role": "assistant",
+        "content": "内森·席文，《当代中国传统医学》，第47—53页。"
+      },
+      "logprobs": null,
+      "finish_reason": "stop"
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 50,
+    "completion_tokens": 16,
+    "total_tokens": 66,
+    "prompt_tokens_details": {
+      "cached_tokens": 0
+    },
+    "prompt_cache_hit_tokens": 0,
+    "prompt_cache_miss_tokens": 50
+  },
+  "system_fingerprint": "fp_8b330d02d0_prod0820_fp8_kvcache_20260402",
+  "text_ru": "内森·席文，《当代中国传统医学》，第47—53页。"
 }

@@ -1,6 +1,29 @@
 {
-  "source": "Cosmetic Acu_Eng_kindle.pdf",
-  "title": "1) Clinical Features",
-  "text": "• It is a holistic approach. Cosmetic acupuncture restores systemic health to revitalize the\nskin.\n• It helps restore symmetry of the face by balancing muscles of the face and neck.\n• It is a safe and minimal invasive treatment.\n• It has a relatively short treatment time, and patient can return to daily living right after\ntreatment.\n• It is relatively reasonable in treatment cost.",
-  "category": "general"
+  "id": "ebe3956f-4052-42b3-9ade-45592888cf8a",
+  "object": "chat.completion",
+  "created": 1782905711,
+  "model": "deepseek-v4-flash",
+  "choices": [
+    {
+      "index": 0,
+      "message": {
+        "role": "assistant",
+        "content": "• Это целостный подход. Косметическая акупунктура восстанавливает системное здоровье для омоложения кожи.\n• Она помогает восстановить симметрию лица за счет балансировки мышц лица и шеи.\n• Это безопасный и минимально инвазивный метод лечения.\n• Относительно короткое время процедуры, пациент может вернуться к повседневной жизни сразу после лечения.\n• Стоимость лечения относительно приемлема."
+      },
+      "logprobs": null,
+      "finish_reason": "stop"
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 113,
+    "completion_tokens": 104,
+    "total_tokens": 217,
+    "prompt_tokens_details": {
+      "cached_tokens": 0
+    },
+    "prompt_cache_hit_tokens": 0,
+    "prompt_cache_miss_tokens": 113
+  },
+  "system_fingerprint": "fp_8b330d02d0_prod0820_fp8_kvcache_20260402",
+  "text_ru": "• Это целостный подход. Косметическая акупунктура восстанавливает системное здоровье для омоложения кожи.\n• Она помогает восстановить симметрию лица за счет балансировки мышц лица и шеи.\n• Это безопасный и минимально инвазивный метод лечения.\n• Относительно короткое время процедуры, пациент может вернуться к повседневной жизни сразу после лечения.\n• Стоимость лечения относительно приемлема."
 }

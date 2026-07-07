@@ -1,6 +1,29 @@
 {
-  "source": "Beinfield.pdf",
-  "title": "17 St. Saveur Court",
-  "text": "Cambridge, Massachusetts 02138\nPlanetary Herbs\nBox 533\nSoquel, California 95073\nZand\nP.O. Box 5312\nSanta Monica, California 90 405\nBrion\n12020-B Centralia Road\nHawaiian Gardens, California\n90716\nTea Garden Herb Emporium",
-  "category": "tcm"
+  "id": "96f83ee4-3543-4405-919a-a2c24c4ca7a5",
+  "object": "chat.completion",
+  "created": 1782905938,
+  "model": "deepseek-v4-flash",
+  "choices": [
+    {
+      "index": 0,
+      "message": {
+        "role": "assistant",
+        "content": "Кембридж, Массачусетс 02138  \nPlanetary Herbs  \nБокс 533  \nСоквел, Калифорния 95073  \nZand  \nП.О. Бокс 5312  \nСанта-Моника, Калифорния 90405  \nBrion  \n12020-B Centralia Road  \nХавайан-Гарденс, Калифорния 90716  \nTea Garden Herb Emporium"
+      },
+      "logprobs": null,
+      "finish_reason": "stop"
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 106,
+    "completion_tokens": 104,
+    "total_tokens": 210,
+    "prompt_tokens_details": {
+      "cached_tokens": 0
+    },
+    "prompt_cache_hit_tokens": 0,
+    "prompt_cache_miss_tokens": 106
+  },
+  "system_fingerprint": "fp_8b330d02d0_prod0820_fp8_kvcache_20260402",
+  "text_ru": "Кембридж, Массачусетс 02138  \nPlanetary Herbs  \nБокс 533  \nСоквел, Калифорния 95073  \nZand  \nП.О. Бокс 5312  \nСанта-Моника, Калифорния 90405  \nBrion  \n12020-B Centralia Road  \nХавайан-Гарденс, Калифорния 90716  \nTea Garden Herb Emporium"
 }

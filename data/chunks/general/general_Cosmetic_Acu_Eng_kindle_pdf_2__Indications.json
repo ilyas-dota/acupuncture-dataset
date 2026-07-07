@@ -1,6 +1,29 @@
 {
-  "source": "Cosmetic Acu_Eng_kindle.pdf",
-  "title": "2) Indications",
-  "text": "• Cosmetic issues like wrinkles, droopy skin, bad complexion, and swelling of the face.\n• Motor weakness and asymmetry of the face from Bell’s palsy or hemiplegia.\n• Neuropathy of the face.\n• Tension-type headaches.\n• TMJ disorders.",
-  "category": "general"
+  "id": "4f11a37d-d10b-4cc0-b74c-055dd466771e",
+  "object": "chat.completion",
+  "created": 1782905766,
+  "model": "deepseek-v4-flash",
+  "choices": [
+    {
+      "index": 0,
+      "message": {
+        "role": "assistant",
+        "content": "• Косметические проблемы, такие как морщины, обвисшая кожа, нездоровый цвет лица и отечность.\n• Двигательная слабость и асимметрия лица при параличе Белла или гемиплегии.\n• Невропатия лица.\n• Головные боли напряжения.\n• Дисфункция височно-нижнечелюстного сустава (ВНЧС)."
+      },
+      "logprobs": null,
+      "finish_reason": "stop"
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 91,
+    "completion_tokens": 99,
+    "total_tokens": 190,
+    "prompt_tokens_details": {
+      "cached_tokens": 0
+    },
+    "prompt_cache_hit_tokens": 0,
+    "prompt_cache_miss_tokens": 91
+  },
+  "system_fingerprint": "fp_8b330d02d0_prod0820_fp8_kvcache_20260402",
+  "text_ru": "• Косметические проблемы, такие как морщины, обвисшая кожа, нездоровый цвет лица и отечность.\n• Двигательная слабость и асимметрия лица при параличе Белла или гемиплегии.\n• Невропатия лица.\n• Головные боли напряжения.\n• Дисфункция височно-нижнечелюстного сустава (ВНЧС)."
 }

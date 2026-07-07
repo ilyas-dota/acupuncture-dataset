@@ -1,6 +1,29 @@
 {
-  "source": "AL_Introduction_to_Tung's_Acupuncture.pdf",
-  "title": "1990. In 2004, 1 received the Humanitarian Physician Award from Buddhist Compass",
-  "text": "Relief Tzu Chi Foundation for my volunteering works.\nDr. Chuan-Min Wang, D.C., L.Ac.\n15\nIntroduction to Tung' s Acupuncture\n16\nPreface\nIntroduction to Tung' s Acupuncture\nChinese acupuncture has a long history that easily spans over 2500 years. Over the years,\nthere were many remarkable saints and masters who made written contributions or wrote\nentire texts on the subject. But the words in the dassics are often difficult to understand\nbecause they were written in a laconic and cryptic manner. The key to understanding the\ncomplete picture implicit within these writings, could only be obtained through continued\npractice and supervision by the master teacher within their respective systems. Face to face\nand \"mouth to ear\" instruction from master to disciple was an essential part of transmitting\nof knowledge from generation to generation. Master Tung however felt that this secretive\nand selective way of transmitting knowledge hindered the development of acupuncture,\nand that many profound medical theories failed to be handed down from past generations.\nIn the preface of his textbook Master Tung dearly states that his family system developed\nseparately from traditional Chinese Acupuncture and had its own traditions.\nThe channel system used by my ancestors is different from 14 channels\nsystem. The location of Tung' s points are different from the 365 points\nof traditional acupuncture. It focuses on the acupuncture more than the\nmoxibustion. The technique of Tung's acupuncture is very simple and\nvery effective. A lot of difficult diseases were cured very quickly by my\nfamily's system of acupuncture. Tung's family acupuncture has its own\norigin, and has its own traditions.\nMaster Tung\nAlthough there were written works left behind by Master Tung's ancestors, none of them\nhave survived to the present day. If not far Master Tung's relentless effort and lifelong\ndedication, the Tung system may have also suffered the fate of many other schools of tra­\nditional Chinese wisdom, now extinct.\n18\nPre fa ce\nIt is very sad that the original Tung' s Acupuncture textbooks were de­\nstroyed during war in my ancestor's era. Fortunately, I have memorized\nthe secret key in rhymes that were passed down in my family by oral\ntradition. After more than three hundred thousand clinical cases, the ef­\nfectiveness of Tung' s Acupuncture is confirmed completely.\nMaster Tung\nEven though Master Tung had an exceptional memory, the secret key in rhymes was not\nthe whole of Tung' s acupuncture. Only after Master Tung treated more than three hundred\nthousand clinical cases, was he able to fully re-build his family's system.\nMaster Tung did not want his family acupuncture tradition to fail to history again, so he\nmade the decision teach his family secret and began accepting disciples in 1962. When\nteaching, Master Tung decided to use modern western medical terminology rather than\ntraditional Chinese concepts, because western medicine was more influential and readily\naccepted during those times. In a document published by Master Tung in 1968, he states, \"I\nmade use of modern language to write this book to advocate the quintessence of Chinese\nculture and treat more severe and lingering illnesses.\" This is the reason Master Tung used\nthe term \"nerve\" to relate information regarding the five zang channel system in the anat­\nomy section of his 1973 book. Although he did also incorporate actual western anatomical\nterminology such as muscle, nerve, and bone; these designations can only be found up to\nthe Area 5 points. After Area 5, he almost exclusively used five zang nerve designations\nand not actual western anatomy.\nAlthough Master Tung' s specialized in his family' s acupuncture, he also studied, com­\npared and incorporated traditional acupuncture in practice. In the appendix of his book\nhe documented his usage of the traditional acupuncture points based on his own research\nand clinical experience. I have included these indications in the therapeutics section of this\nbook.\n19\nIntroduction to Tung' s Acupuncture\nMaster Tung's Unique Points and Locations\nAccording to the preface of Master Tung' s textbook, there are 7 40 unique points located on\nthe hand, arm, foot, leg, ear, face, head and torso. He divided them to 10 areas and plus\nanother 2 areas:\nArea 1: Finger area.\nArea 2: Hand (palm and dorsum) area.\nArea 3: Forearm area.\nArea 4: Arm area.\nArea 5: Sole area.\nArea 6: Dorsal foot area.\nArea 7: Crus area.\nArea 8: Thigh area.\nArea 9: Ear area.\nArea 10: Face & Head area.\nArea Dorsal Trunk.\nArea Ventral Trunk.\nMaster Tung's point groupings are different from traditional acupuncture because they\nare not necessarily located or grouped in the same format as the traditional 14 channels.\nThere location is however similar to the point groupings depicted in the Systematic Clas­\nsic of Acupuncture and Moxibustion (Zhen Jiu Jia Yi Jing) written by Huangfu Mi circa\n256-260 AD. Huangfu Mi located ali 349 acupuncture points within 11 areas: head, back,\nface, ear, n",
-  "category": "tung"
+  "id": "f72cf2c2-cb85-4c86-9d5b-f6ab92fcd822",
+  "object": "chat.completion",
+  "created": 1782905975,
+  "model": "deepseek-v4-flash",
+  "choices": [
+    {
+      "index": 0,
+      "message": {
+        "role": "assistant",
+        "content": "慈济基金会对我志愿工作的支持。\n\n王传敏博士，脊骨神经医师，持照针灸师\n15\n董氏针灸概论\n16\n前言\n董氏针灸概论\n\n中国针灸历史悠久，可追溯至2500多年前。千百年来，众多圣贤与大师著书立说，为针灸学留下了宝贵的文字贡献。然而，经典中的文字往往因言简意赅、晦涩难懂而难以理解。要完整领悟这些著作中隐含的深意，唯有通过持续实践并在各自体系内接受导师的指导。师徒之间面对面、\"口传耳授\"的教导方式，是知识代代相传的关键环节。然而，董氏大师认为，这种秘传且选择性的知识传授方式阻碍了针灸的发展，导致许多深奥的医学理论未能从先辈手中完整传承下来。在其教材的前言中，董氏大师明确指出，其家族体系独立于传统中国针灸发展，并拥有自身的传承传统。\n\n\"我祖先所用的经络系统与十四经络系统不同。董氏穴位的定位与传统针灸的365个穴位不同。其更侧重于针刺而非艾灸。董氏针灸的技法非常...\""
+      },
+      "logprobs": null,
+      "finish_reason": "stop"
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 332,
+    "completion_tokens": 241,
+    "total_tokens": 573,
+    "prompt_tokens_details": {
+      "cached_tokens": 0
+    },
+    "prompt_cache_hit_tokens": 0,
+    "prompt_cache_miss_tokens": 332
+  },
+  "system_fingerprint": "fp_8b330d02d0_prod0820_fp8_kvcache_20260402",
+  "text_ru": "慈济基金会对我志愿工作的支持。\n\n王传敏博士，脊骨神经医师，持照针灸师\n15\n董氏针灸概论\n16\n前言\n董氏针灸概论\n\n中国针灸历史悠久，可追溯至2500多年前。千百年来，众多圣贤与大师著书立说，为针灸学留下了宝贵的文字贡献。然而，经典中的文字往往因言简意赅、晦涩难懂而难以理解。要完整领悟这些著作中隐含的深意，唯有通过持续实践并在各自体系内接受导师的指导。师徒之间面对面、\"口传耳授\"的教导方式，是知识代代相传的关键环节。然而，董氏大师认为，这种秘传且选择性的知识传授方式阻碍了针灸的发展，导致许多深奥的医学理论未能从先辈手中完整传承下来。在其教材的前言中，董氏大师明确指出，其家族体系独立于传统中国针灸发展，并拥有自身的传承传统。\n\n\"我祖先所用的经络系统与十四经络系统不同。董氏穴位的定位与传统针灸的365个穴位不同。其更侧重于针刺而非艾灸。董氏针灸的技法非常...\""
 }

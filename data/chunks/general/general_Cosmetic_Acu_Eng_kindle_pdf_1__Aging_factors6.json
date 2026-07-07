@@ -1,6 +1,29 @@
 {
-  "source": "Cosmetic Acu_Eng_kindle.pdf",
-  "title": "1) Aging factors6",
-  "text": "Intrinsic aging factors\nEthnicity is the most important aging factor. Differences in pigmentation decide the color\nof the face and affect the aging process. High levels of pigmentation are protective with\nregard to the cumulative effects of photo-aging. Anatomical variations like skin thickness,\nlipid composition, and skin rigidity are also intrinsic aging factors. Also, hormonal changes\nsuch as in the estrogen level during menopause are one of the intrinsic aging factors.\nExtrinsic aging factors\nHigh temperature is the most important extrinsic aging factor. Smoking and exposure to\nUV light are important  as well. Smoking  causes skin damage primarily by decreasing\ncapillary blood ﬂow to the skin. The effects of sunlight on the skin are profound, and are\nestimated to account for up to 90% of visible skin aging.",
-  "category": "general"
+  "id": "cff2e1d2-a768-465d-9ea7-0e2dc750638b",
+  "object": "chat.completion",
+  "created": 1782905706,
+  "model": "deepseek-v4-flash",
+  "choices": [
+    {
+      "index": 0,
+      "message": {
+        "role": "assistant",
+        "content": "Внутренние факторы старения\nЭтническая принадлежность является наиболее важным фактором старения. Различия в пигментации определяют цвет лица и влияют на процесс старения. Высокий уровень пигментации оказывает защитное действие в отношении кумулятивных эффектов фотостарения. Анатомические особенности, такие как толщина кожи, липидный состав и жесткость кожи, также являются внутренними факторами старения. Кроме того, гормональные изменения, например, уровень эстрогена в период менопаузы, относятся к внутренним факторам старения.\n\nВнешние факторы старения\nВысокая температура является наиболее важным внешним фактором старения. Курение и воздействие ультрафиолетового излучения также имеют значение. Курение вызывает повреждение кожи главным образом за счет снижения капиллярного кровотока в коже. Воздействие солнечного света на кожу является значительным и, по оценкам, обусловливает до 90% видимого старения кожи."
+      },
+      "logprobs": null,
+      "finish_reason": "stop"
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 201,
+    "completion_tokens": 233,
+    "total_tokens": 434,
+    "prompt_tokens_details": {
+      "cached_tokens": 0
+    },
+    "prompt_cache_hit_tokens": 0,
+    "prompt_cache_miss_tokens": 201
+  },
+  "system_fingerprint": "fp_8b330d02d0_prod0820_fp8_kvcache_20260402",
+  "text_ru": "Внутренние факторы старения\nЭтническая принадлежность является наиболее важным фактором старения. Различия в пигментации определяют цвет лица и влияют на процесс старения. Высокий уровень пигментации оказывает защитное действие в отношении кумулятивных эффектов фотостарения. Анатомические особенности, такие как толщина кожи, липидный состав и жесткость кожи, также являются внутренними факторами старения. Кроме того, гормональные изменения, например, уровень эстрогена в период менопаузы, относятся к внутренним факторам старения.\n\nВнешние факторы старения\nВысокая температура является наиболее важным внешним фактором старения. Курение и воздействие ультрафиолетового излучения также имеют значение. Курение вызывает повреждение кожи главным образом за счет снижения капиллярного кровотока в коже. Воздействие солнечного света на кожу является значительным и, по оценкам, обусловливает до 90% видимого старения кожи."
 }

@@ -1,6 +1,29 @@
 {
-  "source": "Cosmetic Acu_Eng_kindle.pdf",
-  "title": "2007. She has been running her unique Yangsung program, which combines",
-  "text": "TCM  and  psychiatry  for  obesity  patients,  and  practicing  facial  cosmetic\nacupuncture techniques based on muscle/fascia tensegrity.\nOther TCM books by Seung Choi:",
-  "category": "general"
+  "id": "32f2b25b-1a68-4cbf-96b8-93c96fddd2c7",
+  "object": "chat.completion",
+  "created": 1782905748,
+  "model": "deepseek-v4-flash",
+  "choices": [
+    {
+      "index": 0,
+      "message": {
+        "role": "assistant",
+        "content": "ТКМ и психиатрия для пациентов с ожирением, а также практическое применение техник косметической акупунктуры лица на основе тенсегрити мышц/фасций.\nДругие книги по ТКМ автора Сын Чхве:"
+      },
+      "logprobs": null,
+      "finish_reason": "stop"
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 79,
+    "completion_tokens": 60,
+    "total_tokens": 139,
+    "prompt_tokens_details": {
+      "cached_tokens": 0
+    },
+    "prompt_cache_hit_tokens": 0,
+    "prompt_cache_miss_tokens": 79
+  },
+  "system_fingerprint": "fp_8b330d02d0_prod0820_fp8_kvcache_20260402",
+  "text_ru": "ТКМ и психиатрия для пациентов с ожирением, а также практическое применение техник косметической акупунктуры лица на основе тенсегрити мышц/фасций.\nДругие книги по ТКМ автора Сын Чхве:"
 }

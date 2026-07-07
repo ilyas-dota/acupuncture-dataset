@@ -1,6 +1,29 @@
 {
-  "source": "Advanced_Tung_Style_Acupuncture_Vol_3_Nephrology,_Urology_&_Andrology.pdf",
-  "title": "1. DMG 22-06 'Control Three Needles', DMG 33-11 'Hold Three Fires', and DMG 33-0",
-  "text": "'Posterior Antebrachial Scholar Three Needles' (CCC):\n•\nDMG 22-06 'Control Three Needles':\nt. Zhong4 Kui2: This point is located in the depression at the junction of the shaft and\nthe head of the second metacarpal bone. Commencing at the base of the second\nmetacarpal bone in the first dorsal interosseous space, slide distally along its radial\nshaft until you encounter the junction of the shaft and the head of this metacarpal.\nNeedle, closely adherent to the 2nd metacarpal bone, 0.2 to 0.5 cun. {Heart Branch\nand Lung Branch Reaction Areas}\nii. Lin( Gu3: This point is located on the dorsum of the hand in an area known as the\n'Hu Kou3'; i.e., the region between the first and second metacarpal bones. The\npoint is found at the articulation of the bases of the first and second metacarpal\nbones, proximal to LI-4WH0 . Needle 1.0 to 2.0 cun. {Lung Branch, Heart, and\nKidney Reaction Areas}\niii. Da4 Bai2: This point may be found by ftrst locating Ling2 Gu3 and Zhong4 Kui2;\nbisect the distance between these two points to locate Da4 Bai2, the point lies 1.0 cun\ndistal to Ling2 Gu3• Needle 0.5 to 1.5 cun. {Lung Branch Reaction Area}\n•\nDMG 33-11 'Hold Three Fires':\ni. Huo3 Chuan4: This point is located 2.5 cun proximal to TB-4WH0 on the Hand\nShao4 Yang2 Triple Burner Channel, in the interosseous space between the ulna and\nradius bones, on the posterior surface of the antebrachium. Needle perpendicularly\n1.0 to 1.5 cun. {Lung Branch and Heart Auxiliary Reaction Areas}\nii. Huo3 Lini: This point is located 4.5 cun proximal to TB-4WH0 on the Hand Shao4\nY ang2 Triple Burner Channel, in the interosseous space between the ulna and radius\nbones, on the posterior surface of the antebrachium. Needle perpendicularly 1.0 to\n1.5 cun. {Lung Branch and Heart Auxiliary Reaction Areas}\niii. Huo3 Shan1: This point is located 6.0 cun proximal to TB-4WH0 on the Hand Shao4\nY ang2 Triple Burner Channel, in the interosseous space between the ulna and radius\nbones, on the posterior surface of the antebrachium. Needle perpendicularly 1.0 to\n1.5 cun. {Lung Branch and Heart Auxiliary Reaction Areas}\n•\nDMG 33-09 'Posterior Antebrachial Scholar Three Needles':\ni. Shang4 Shi4: This point is located on the dorsum of the antebrachium 1 cun\nproximal to the level of SI-6WH0 . It lies immediately radial to the ulna bone,\nbetween the tendons of the extensor carpi ulnaris muscle (ulnar) and the extensor\ndigiti minimi muscle (radial). One can readily locate the extensor digiti minimi\nmuscle by extending and flexing the 5th digit; needle immediately ulnar to this\nmuscle. Needle oblique insertion from ulnar to radial 1.5 cun to treat lumbalgia.\n{Heart and Kidney Reaction Areas}\nii. Zhong1 Shi4: This point is located on the dorsum of the antebrachium 2 cun\nproximal to Shang4 Shi4• It lies immediately radial to the ulna bone, between the\ntendons of the extensor carpi ulnaris muscle (ulnar) and the extensor digiti minimi\nmuscle (radial). One can readily locate the extensor digiti minimi muscle by\nextending and flexing the 5th digit; needle immediately ulnar to this muscle. Needle\noblique insertion from ulnar to radial 1.5 cun to treat lumbalgia. {Heart and Kidney\nReaction Areas}\n117\nm. Xia4 Shi4: This point is located on the dorsum of the antebrachium 2 cun proximal\nto Zhong1 Shi4, i.e. 4 cun proximal to Shang4 Shi4• It lies immediately radial to the\nulna bone, between the tendons of the extensor carpi ulnaris muscle (ulnar) and the\nextensor digiti minimi muscle (radial). One can readily locate the extensor digiti\nminimi muscle by extending and flexing the 5th digit; needle immediately ulnar to\nthis muscle. Needle oblique insertion from ulnar to radial 1.5 cun to treat lumbalgia.\n{Heart and Kidney Reaction Areas}\n.._\nDMG 22-06 'Control3 Needles'\nDMG 33-11 'Hold 3 Fires'\n-\nZhong1 Slu\"' _\nDMG 33-09 'Post. Antebrachial Scholar 3 Needles'\nLumbalgia (LCH-1)\n[2° to 'Kidney Depletion']\n118",
-  "category": "tung"
+  "id": "ba295d2a-7e87-492c-b271-442c106bfc67",
+  "object": "chat.completion",
+  "created": 1782906161,
+  "model": "deepseek-v4-flash",
+  "choices": [
+    {
+      "index": 0,
+      "message": {
+        "role": "assistant",
+        "content": "'后臂三针' (CCC):\n•\nDMG 22-06 '控三针':\ni. 中魁: 此穴位于第二掌骨体与头部连接处的凹陷中。从第二掌骨基底第一背侧骨间肌起始处开始，沿其桡侧骨干向远端滑动，直至触及该掌骨体与头部的连接处。针刺时紧贴第二掌骨，深度0.2至0.5寸。{心支与肺支反应区}\nii. 灵骨: 此穴位于手背虎口区，即第一、第二掌骨之间的区域。穴位位于第一、第二掌骨基底连接处，近心端距合谷穴(LI-4)。针刺深度1.0至2.0寸。{肺支、心与肾反应区}\niii. 大白: 先定位灵骨与中魁，取两穴连线的中点即为大白穴，该穴位于灵骨远端1.0寸处。针刺深度0.5至1.5寸。{肺支反应区}\n•\nDMG 33-11 '持三火':\ni. 火串: 此穴位于手少阳三焦经上，距阳池穴(TB-4)近心端2.5寸处，在前臂后侧尺骨与桡骨之间的骨间隙中。直刺1.0至1.5寸。{肺支与心辅反应区}\nii. 火陵: 此穴"
+      },
+      "logprobs": null,
+      "finish_reason": "stop"
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 483,
+    "completion_tokens": 317,
+    "total_tokens": 800,
+    "prompt_tokens_details": {
+      "cached_tokens": 0
+    },
+    "prompt_cache_hit_tokens": 0,
+    "prompt_cache_miss_tokens": 483
+  },
+  "system_fingerprint": "fp_8b330d02d0_prod0820_fp8_kvcache_20260402",
+  "text_ru": "'后臂三针' (CCC):\n•\nDMG 22-06 '控三针':\ni. 中魁: 此穴位于第二掌骨体与头部连接处的凹陷中。从第二掌骨基底第一背侧骨间肌起始处开始，沿其桡侧骨干向远端滑动，直至触及该掌骨体与头部的连接处。针刺时紧贴第二掌骨，深度0.2至0.5寸。{心支与肺支反应区}\nii. 灵骨: 此穴位于手背虎口区，即第一、第二掌骨之间的区域。穴位位于第一、第二掌骨基底连接处，近心端距合谷穴(LI-4)。针刺深度1.0至2.0寸。{肺支、心与肾反应区}\niii. 大白: 先定位灵骨与中魁，取两穴连线的中点即为大白穴，该穴位于灵骨远端1.0寸处。针刺深度0.5至1.5寸。{肺支反应区}\n•\nDMG 33-11 '持三火':\ni. 火串: 此穴位于手少阳三焦经上，距阳池穴(TB-4)近心端2.5寸处，在前臂后侧尺骨与桡骨之间的骨间隙中。直刺1.0至1.5寸。{肺支与心辅反应区}\nii. 火陵: 此穴"
 }

@@ -1,6 +1,29 @@
 {
-  "source": "Cosmetic Acu_Eng_kindle.pdf",
-  "title": "1. Distal Points",
-  "text": "Choose some distal acupoints based on your diagnosis, and insert the needles at the\nchosen  points.  You  can  leave  the  needles  in  throughout  the  session  or  remove  them\nimmediately. If the patient gets nervous with needles lodged in the body while doing\nacupuncture treatment on the face, you need to remove the needles.\nI recommend using 1~3 distal points. The following are the most commonly used distal\npoints for cosmetic acupuncture. Each explanation belongs to a cosmetic acupuncture ﬁeld.\n~ !  ~\n70\nST-36\nST-36 is one of the most commonly used\nacupuncture points and helps gastrointestinal issues.\nSP-3\nSP-3 helps gastrointestinal issues with stress.\nSP-6\nSP-6 helps menstrual and circulational issues.\nLI-4\nLI-4 is one of the most commonly used acupuncture\npoints for the face and head.\nLV-3\nLV-3 helps stagnation issues.\nFacial  Cosmetic Acupuncture",
-  "category": "general"
+  "id": "0020f776-379c-4fc3-b1c0-02d5d622c068",
+  "object": "chat.completion",
+  "created": 1782905686,
+  "model": "deepseek-v4-flash",
+  "choices": [
+    {
+      "index": 0,
+      "message": {
+        "role": "assistant",
+        "content": "На основе вашего диагноза выберите несколько дистальных точек акупунктуры и введите иглы в выбранные точки. Вы можете оставить иглы на весь сеанс или удалить их сразу. Если пациент нервничает из-за игл, оставленных в теле во время проведения акупунктурного лечения на лице, необходимо удалить иглы.\n\nЯ рекомендую использовать 1–3 дистальные точки. Ниже приведены наиболее часто используемые дистальные точки для косметической акупунктуры. Каждое описание относится к области косметической акупунктуры.\n\n~ ! ~\n70\nST-36\nST-36 — одна из наиболее часто используемых точек акупунктуры, помогает при проблемах с желудочно-кишечным трактом.\nSP-3\nSP-3 помогает при проблемах с желудочно-кишечным трактом, связанных со стрессом.\nSP-6\nSP-6 помогает при менструальных проблемах и нарушениях кровообращения.\nLI-4\nLI-4 — одна из наиболее часто используемых точек акупунктуры для лица и головы.\nLV-3\nLV-3 помогает при проблемах застоя.\n\nЛицевая косметическая акупунктура"
+      },
+      "logprobs": null,
+      "finish_reason": "stop"
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 246,
+    "completion_tokens": 277,
+    "total_tokens": 523,
+    "prompt_tokens_details": {
+      "cached_tokens": 0
+    },
+    "prompt_cache_hit_tokens": 0,
+    "prompt_cache_miss_tokens": 246
+  },
+  "system_fingerprint": "fp_8b330d02d0_prod0820_fp8_kvcache_20260402",
+  "text_ru": "На основе вашего диагноза выберите несколько дистальных точек акупунктуры и введите иглы в выбранные точки. Вы можете оставить иглы на весь сеанс или удалить их сразу. Если пациент нервничает из-за игл, оставленных в теле во время проведения акупунктурного лечения на лице, необходимо удалить иглы.\n\nЯ рекомендую использовать 1–3 дистальные точки. Ниже приведены наиболее часто используемые дистальные точки для косметической акупунктуры. Каждое описание относится к области косметической акупунктуры.\n\n~ ! ~\n70\nST-36\nST-36 — одна из наиболее часто используемых точек акупунктуры, помогает при проблемах с желудочно-кишечным трактом.\nSP-3\nSP-3 помогает при проблемах с желудочно-кишечным трактом, связанных со стрессом.\nSP-6\nSP-6 помогает при менструальных проблемах и нарушениях кровообращения.\nLI-4\nLI-4 — одна из наиболее часто используемых точек акупунктуры для лица и головы.\nLV-3\nLV-3 помогает при проблемах застоя.\n\nЛицевая косметическая акупунктура"
 }

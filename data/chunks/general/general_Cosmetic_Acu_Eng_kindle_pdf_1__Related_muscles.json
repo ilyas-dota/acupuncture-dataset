@@ -1,6 +1,29 @@
 {
-  "source": "Cosmetic Acu_Eng_kindle.pdf",
-  "title": "1) Related muscles",
-  "text": "• Temporalis\n• Auricularis\n• Masseter\n• Lateral / Medial  Pterygoid",
-  "category": "general"
+  "id": "09f73be5-b42e-4c87-866d-59bc6d0f0301",
+  "object": "chat.completion",
+  "created": 1782905726,
+  "model": "deepseek-v4-flash",
+  "choices": [
+    {
+      "index": 0,
+      "message": {
+        "role": "assistant",
+        "content": "• Височная мышца\n• Ушная мышца\n• Жевательная мышца\n• Латеральная / Медиальная крыловидная мышца"
+      },
+      "logprobs": null,
+      "finish_reason": "stop"
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 58,
+    "completion_tokens": 37,
+    "total_tokens": 95,
+    "prompt_tokens_details": {
+      "cached_tokens": 0
+    },
+    "prompt_cache_hit_tokens": 0,
+    "prompt_cache_miss_tokens": 58
+  },
+  "system_fingerprint": "fp_8b330d02d0_prod0820_fp8_kvcache_20260402",
+  "text_ru": "• Височная мышца\n• Ушная мышца\n• Жевательная мышца\n• Латеральная / Медиальная крыловидная мышца"
 }

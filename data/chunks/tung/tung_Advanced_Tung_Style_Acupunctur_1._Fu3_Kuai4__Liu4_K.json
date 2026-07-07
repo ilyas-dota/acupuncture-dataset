@@ -1,6 +1,29 @@
 {
-  "source": "Advanced_Tung_Style_Acupuncture_Vol_3_Nephrology,_Urology_&_Andrology.pdf",
-  "title": "1. Fu3 Kuai4, Liu4 Kuai4, and Qi1 Kuai4 then moxa along San1 Jiang1 (LKC):",
-  "text": "•\nFu3 Kuai4: This point is located by coursing 0.5 cun lateral to the inferolateral border of the\nnares, then 0.5 cun superior. Needle 0.1 to 0.3 cun. {Kidney and Six Bowels Reaction\nAreas} [This point is 0.5 cun directly superior to LI-20WH0 .]\n•\nLiu4 Kuai4: This point is located on the face, 1.4 cun lateral to the center of the philtrum.\nNeedle 0.1 to 0.3 cun. {Endocrine Reaction Area} To locate the center of the philtrum,\nbisect the distance from the extraoral labial-cutaneous junction to the base of the nose\nbetween the nostrils.\n•\nQi1 Kuai4: This point is located on the face, 1.0 cun lateral to the commissure of the lips at\nthe angle of the mouth. Needle perpendicularly 0.2 to 0.3 cun or obliquely, from medial to\nlateral, 0.5 to 1.5 cun. {Endocrine Reaction Area}\n•\nSan1 Jiang1: This group of points includes: the interspinous spaces between L1~. Lz/L3,\nL]!L4, ~s. Ls/S1, and SI~Sz, as well as the bilateral points found 3.0 cun lateral to the\naforementioned segmental levels. 'Let'. {Kidney and Six Bowels Reaction Areas}\n191\nPolyuria (MC)",
-  "category": "tung"
+  "id": "2a384bab-cf54-465f-8a6e-8fd7dfbbd2be",
+  "object": "chat.completion",
+  "created": 1782906277,
+  "model": "deepseek-v4-flash",
+  "choices": [
+    {
+      "index": 0,
+      "message": {
+        "role": "assistant",
+        "content": "•\nFu3 Kuai4: Точка расположена на 0,5 цуня латеральнее нижнелатерального края ноздри, затем на 0,5 цуня выше. Иглу вводят на 0,1–0,3 цуня. {Зона реакции почек и шести кишечников} [Эта точка находится на 0,5 цуня непосредственно выше LI-20WH0.]\n•\nLiu4 Kuai4: Точка расположена на лице, на 1,4 цуня латеральнее центра фильтрума. Иглу вводят на 0,1–0,3 цуня. {Зона реакции эндокринной системы} Для определения центра фильтрума разделите пополам расстояние от наружной губно-кожной границы до основания носа между ноздрями.\n•\nQi1 Kuai4: Точка расположена на лице, на 1,0 цуня латеральнее спайки губ в углу рта. Иглу вводят перпендикулярно на 0,2–0,3 цуня или косо, медиально-латерально, на 0,5–1,5 цуня. {Зона реакции эндокринной системы}\n•\nSan1 Jiang1: Эта группа точек включает: межостистые промежутки между L1~. L2/L3, L3/L4, L4/L5, L5/S1 и S1~S2, а также билатеральные точки, расположенные на 3,0 цуня латеральнее вышеуказанных сегментарных уровней. 'Let'. {Зоны реакции почек и шести кишечников}\n191\nПолиурия (МК)"
+      },
+      "logprobs": null,
+      "finish_reason": "stop"
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 379,
+    "completion_tokens": 405,
+    "total_tokens": 784,
+    "prompt_tokens_details": {
+      "cached_tokens": 0
+    },
+    "prompt_cache_hit_tokens": 0,
+    "prompt_cache_miss_tokens": 379
+  },
+  "system_fingerprint": "fp_8b330d02d0_prod0820_fp8_kvcache_20260402",
+  "text_ru": "•\nFu3 Kuai4: Точка расположена на 0,5 цуня латеральнее нижнелатерального края ноздри, затем на 0,5 цуня выше. Иглу вводят на 0,1–0,3 цуня. {Зона реакции почек и шести кишечников} [Эта точка находится на 0,5 цуня непосредственно выше LI-20WH0.]\n•\nLiu4 Kuai4: Точка расположена на лице, на 1,4 цуня латеральнее центра фильтрума. Иглу вводят на 0,1–0,3 цуня. {Зона реакции эндокринной системы} Для определения центра фильтрума разделите пополам расстояние от наружной губно-кожной границы до основания носа между ноздрями.\n•\nQi1 Kuai4: Точка расположена на лице, на 1,0 цуня латеральнее спайки губ в углу рта. Иглу вводят перпендикулярно на 0,2–0,3 цуня или косо, медиально-латерально, на 0,5–1,5 цуня. {Зона реакции эндокринной системы}\n•\nSan1 Jiang1: Эта группа точек включает: межостистые промежутки между L1~. L2/L3, L3/L4, L4/L5, L5/S1 и S1~S2, а также билатеральные точки, расположенные на 3,0 цуня латеральнее вышеуказанных сегментарных уровней. 'Let'. {Зоны реакции почек и шести кишечников}\n191\nПолиурия (МК)"
 }

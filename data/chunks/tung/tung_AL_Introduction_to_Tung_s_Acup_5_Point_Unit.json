@@ -1,6 +1,29 @@
 {
-  "source": "AL_Introduction_to_Tung's_Acupuncture.pdf",
-  "title": "5 Point Unit",
-  "text": "Location: This line of points is located along the mid line of the stemum. The first point,\nJin Gan is located in the depression between the manubrium stemum and the body of the\nstemum. The remaining points are Jin Yin, Jin Yang, Jin Chuan, and Jin Jiao. Each of these\nis 1 cun inferior to the previous one.\nTung's Five Zang Channel: heart and trachea\nIndications: liver cholera, indigestion (stomach distention), flank pain, trachea blockage,\nvarious Sha syndromes.\nNeedle Technique: use a three-edged needle to prick blood.\nDT.04 Stomach Hair Seven (Wei Mao Qi) ʱ =€t",
-  "category": "tung"
+  "id": "598050a5-da9d-480d-96c2-28962bc52bdb",
+  "object": "chat.completion",
+  "created": 1782906101,
+  "model": "deepseek-v4-flash",
+  "choices": [
+    {
+      "index": 0,
+      "message": {
+        "role": "assistant",
+        "content": "Расположение: Эта линия точек расположена по средней линии грудины. Первая точка, Цзинь Гань, находится в углублении между рукояткой грудины и телом грудины. Остальные точки — Цзинь Инь, Цзинь Ян, Цзинь Чуань и Цзинь Цзяо. Каждая из них расположена на 1 цунь ниже предыдущей.\n\nКанал Пяти Цзан по Туну: сердце и трахея.\n\nПоказания: печеночная холера, несварение желудка (вздутие желудка), боль в подреберье, закупорка трахеи, различные синдромы Ша.\n\nТехника иглоукалывания: использовать трехгранную иглу для прокола до крови.\n\nDT.04 Семь волосков желудка (Вэй Мао Ци)"
+      },
+      "logprobs": null,
+      "finish_reason": "stop"
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 185,
+    "completion_tokens": 202,
+    "total_tokens": 387,
+    "prompt_tokens_details": {
+      "cached_tokens": 0
+    },
+    "prompt_cache_hit_tokens": 0,
+    "prompt_cache_miss_tokens": 185
+  },
+  "system_fingerprint": "fp_8b330d02d0_prod0820_fp8_kvcache_20260402",
+  "text_ru": "Расположение: Эта линия точек расположена по средней линии грудины. Первая точка, Цзинь Гань, находится в углублении между рукояткой грудины и телом грудины. Остальные точки — Цзинь Инь, Цзинь Ян, Цзинь Чуань и Цзинь Цзяо. Каждая из них расположена на 1 цунь ниже предыдущей.\n\nКанал Пяти Цзан по Туну: сердце и трахея.\n\nПоказания: печеночная холера, несварение желудка (вздутие желудка), боль в подреберье, закупорка трахеи, различные синдромы Ша.\n\nТехника иглоукалывания: использовать трехгранную иглу для прокола до крови.\n\nDT.04 Семь волосков желудка (Вэй Мао Ци)"
 }

@@ -1,6 +1,29 @@
 {
-  "source": "AL_Introduction_to_Tung's_Acupuncture.pdf",
-  "title": "3. Dr. Lai first needled Earth Emperor (77.19), then needled the points 3 cun ab",
-  "text": "below it. This Earth Emperor Daoma technique treats hyperthyroidism very well. This\npoint can also calm down bad emotions, so Dr. Lai also called these three points the\n\"pleasing point group\". (Lai, 1987)",
-  "category": "tung"
+  "id": "e80356a2-cb76-4117-9ae8-33ec5777152e",
+  "object": "chat.completion",
+  "created": 1782906032,
+  "model": "deepseek-v4-flash",
+  "choices": [
+    {
+      "index": 0,
+      "message": {
+        "role": "assistant",
+        "content": "在其下方。这种地皇倒马针法对治疗甲状腺功能亢进非常有效。此穴还能平复不良情绪，因此赖医师也将这三个穴位称为\"悦心穴组\"。（赖，1987）"
+      },
+      "logprobs": null,
+      "finish_reason": "stop"
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 86,
+    "completion_tokens": 46,
+    "total_tokens": 132,
+    "prompt_tokens_details": {
+      "cached_tokens": 0
+    },
+    "prompt_cache_hit_tokens": 0,
+    "prompt_cache_miss_tokens": 86
+  },
+  "system_fingerprint": "fp_8b330d02d0_prod0820_fp8_kvcache_20260402",
+  "text_ru": "在其下方。这种地皇倒马针法对治疗甲状腺功能亢进非常有效。此穴还能平复不良情绪，因此赖医师也将这三个穴位称为\"悦心穴组\"。（赖，1987）"
 }

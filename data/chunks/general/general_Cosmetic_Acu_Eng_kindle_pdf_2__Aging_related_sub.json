@@ -1,6 +1,29 @@
 {
-  "source": "Cosmetic Acu_Eng_kindle.pdf",
-  "title": "2) Aging related substances in dermis",
-  "text": "Collagen\nCollagen comes from Greek word ‘kolla’ meaning 'glue'. Collagen is the main structural\nprotein in the extracellular space. It is an important \"building block\" for the skin. It makes up\nabout 70% of the protein within our skin and helps our skin keep its volume. With aging, its\nformation gets reduced after around 25 and eventually stops, so the skin loses its volume.\nLigaments and tendons are other types of connective tissues, which contain a lot of collagen\nﬁbers. Research has shown that Acupuncture can help rebuild collagen ﬁbers in ligaments\nand tendons.7\nElastin\nElastin comes from the word ‘elastos’, which means ﬂexible. It is literally a highly elastic\nprotein in the connective tissue. It allows many tissues in the body to resume their shapes\nlike a spring or a rubber band. Collagen and Elastin are both connective tissues that make up\nour skin. Collagen provides rigidity as a building block, while elastin allows skin resilience\nas a suspension.\nSilva, M., et al. Anti-aging cosmetics:Facts and controversies. Clinics in Dermatology, 2013;31:750-758.\n6\nAlmeida MS, et al. Acupuncture increases the diameter and reorganization of collagen ﬁbrils during rat tendon healing.\n7\nAcupunct Med, 2015;33:51–57.\n~ !  ~\n22\nFacial  Cosmetic Acupuncture\nHyaluronic acid (GAG’S:Glycosaminoglycans)\nHyaluronic acid is a clear, lubricative substance that helps the skin retain collagen,\nincrease  moisture,  and  provide  elasticity  and  ﬂexibility.   It  is  basically  a  chain  of\ncarbohydrates that love to bind to water, giving it a stiff, viscous quality similar to jelly. As\nwe lose the hyaluronic acid with aging, the skin loses the ability to preserve moisture,\nresulting in the visible loss of volume and ﬁrmness.\n~ !  ~\n23\nCollagen gives our skin volume and rigidity as a building block.\nElastin  gives  our  skin  resilience  and  ﬂexibility  as  a  spring.\nHyaluronic acid gives our skin softness as a cushion.\nFacial  Cosmetic Acupuncture\n* Fill in the blanks by choosing answers from the box.",
-  "category": "general"
+  "id": "7d620534-4df2-4f4a-a2c0-0cdbc400e200",
+  "object": "chat.completion",
+  "created": 1782905752,
+  "model": "deepseek-v4-flash",
+  "choices": [
+    {
+      "index": 0,
+      "message": {
+        "role": "assistant",
+        "content": "Коллаген\nКоллаген происходит от греческого слова «kolla», означающего «клей». Коллаген является основным структурным белком во внеклеточном пространстве. Это важный «строительный материал» для кожи. Он составляет около 70% белка в нашей коже и помогает коже сохранять объем. С возрастом, примерно после 25 лет, его образование замедляется и в конечном итоге прекращается, поэтому кожа теряет объем. Связки и сухожилия являются другими типами соединительных тканей, которые содержат много коллагеновых волокон. Исследования показали, что акупунктура может способствовать восстановлению коллагеновых волокон в связках и сухожилиях.7\n\nЭластин\nЭластин происходит от слова «elastos», что означает «гибкий». Буквально это высокоэластичный белок в соединительной ткани. Он позволяет многим тканям организма возвращаться к своей форме, подобно пружине или резиновой ленте. Коллаген и эластин — это соединительные ткани, из которых состоит наша кожа. Коллаген обеспечивает жесткость как строительный блок, в то время как эластин придает коже упругость, действуя как подвеска.\n\nSilva, M., et al. Anti-aging cosmetics:Facts and controversies. Clinics in Dermatology, 2013;31:750-758.\n6\nAlmeida MS, et al. Acupuncture increases the diameter and reorganization of collagen fibrils during rat tendon healing.\n7\nAcupunct Med, 2015;33:51–57.\n~ ! ~\n22\nКосметическая акупунктура лица\n\nГиалуроновая кислота (ГАГ: гликозаминогликаны)\nГиалуроновая кислота — это прозрачное смазывающее вещество, которое помогает коже удерживать коллаген, увеличивать увлажнение, а также обеспечивать эластичность и гибкость. По сути, это цепь углеводов."
+      },
+      "logprobs": null,
+      "finish_reason": "stop"
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 417,
+    "completion_tokens": 483,
+    "total_tokens": 900,
+    "prompt_tokens_details": {
+      "cached_tokens": 0
+    },
+    "prompt_cache_hit_tokens": 0,
+    "prompt_cache_miss_tokens": 417
+  },
+  "system_fingerprint": "fp_8b330d02d0_prod0820_fp8_kvcache_20260402",
+  "text_ru": "Коллаген\nКоллаген происходит от греческого слова «kolla», означающего «клей». Коллаген является основным структурным белком во внеклеточном пространстве. Это важный «строительный материал» для кожи. Он составляет около 70% белка в нашей коже и помогает коже сохранять объем. С возрастом, примерно после 25 лет, его образование замедляется и в конечном итоге прекращается, поэтому кожа теряет объем. Связки и сухожилия являются другими типами соединительных тканей, которые содержат много коллагеновых волокон. Исследования показали, что акупунктура может способствовать восстановлению коллагеновых волокон в связках и сухожилиях.7\n\nЭластин\nЭластин происходит от слова «elastos», что означает «гибкий». Буквально это высокоэластичный белок в соединительной ткани. Он позволяет многим тканям организма возвращаться к своей форме, подобно пружине или резиновой ленте. Коллаген и эластин — это соединительные ткани, из которых состоит наша кожа. Коллаген обеспечивает жесткость как строительный блок, в то время как эластин придает коже упругость, действуя как подвеска.\n\nSilva, M., et al. Anti-aging cosmetics:Facts and controversies. Clinics in Dermatology, 2013;31:750-758.\n6\nAlmeida MS, et al. Acupuncture increases the diameter and reorganization of collagen fibrils during rat tendon healing.\n7\nAcupunct Med, 2015;33:51–57.\n~ ! ~\n22\nКосметическая акупунктура лица\n\nГиалуроновая кислота (ГАГ: гликозаминогликаны)\nГиалуроновая кислота — это прозрачное смазывающее вещество, которое помогает коже удерживать коллаген, увеличивать увлажнение, а также обеспечивать эластичность и гибкость. По сути, это цепь углеводов."
 }

@@ -1,6 +1,29 @@
 {
-  "source": "Cosmetic Acu_Eng_kindle.pdf",
-  "title": "5) Acupressure techniques",
-  "text": "Gently press or rub these tender points and acupoints. If the tightness is severe, you can\nuse acupuncture, but for the beginner practitioner, I do not recommend acupuncture on these\npoints. Acupressure and a gentle massage are enough.\n①Start with gentle rubbing of the back side of the neck, and evaluate the tightness.\n②Pinch the trapezius with a big grip and rub it. Compare both sides to see if there is\nasymmetry or tightness.\n③Let the patient turn his/her head to the side and slightly elevate the chin to stretch the\nSCM, and pinch and rub the SCM as if you were sliding through the muscle. You\nshould check both the clavicular and sternal heads. Compare both sides for tightness\nand size.\n④This procedure is both diagnosis and treatment. It is very important to release the\ntension from the muscles before starting acupuncture. Fully released muscles help the\npatient relax, and this can increase the result and satisfaction and decrease the risk of\nside effects.\n~ !  ~\n72\nFacial  Cosmetic Acupuncture\n⓵ Sternocleidomastoid *2\nThe SCM has two origins, one is the sternum\nand the other is the clavicle. It inserts into the\nmastoid process behind the ear. The SCM ﬂexes\nthe head together and rotates the head separately.\n⓶ Trapezius *2\nThe trapezius is a very big muscle from the\noccipital bone to vertebrae, clavicle, and scapula.\nThe  trapezius  extends  the  head,  raises  the\nshoulders and pulls it posteriorly, and moves the\nscapula.\n~ !  ~\n73\n⓵\n⓶\nPOSTURAL MUSCLES IN\nCOSMETIC ACUPUNCTURE\nThese  are  the  postural  muscles  we  need  to  care  about  for  cosmetic\nacupuncture. These muscles affect the position of the neck and head. Broken\nbalance of these muscles can affect the symmetry of the face as well. These are\nskeletal muscles, which are constantly in tension to balance the head, which is\nnot an easy task because the head is heavy like watermelon, and the spine is as\nﬁne as broomstick. Imagine balancing a watermelon on the tip of a broomstick,\nit must not be easy. Many muscles around the neck are involved in this task, but\nhere we focus on the biggest muscles for acupuncture treatment. The trapezius\nand the Sternocleidomastoid (SCM) affect left and right symmetry at the front of\nthe body (SCM) and at the back (Trapezius). For this reason, before starting\nacupuncture on the face, we should start by checking the balance of these two\nmuscles. Generally, gentle acupressure is applied on the tightened muscle, but\nfor severe tightness, we should release those muscles with acupuncture ﬁrst.\nFacial  Cosmetic Acupuncture",
-  "category": "general"
+  "id": "daa35c05-5604-41bb-b13d-3081cd39056e",
+  "object": "chat.completion",
+  "created": 1782905897,
+  "model": "deepseek-v4-flash",
+  "choices": [
+    {
+      "index": 0,
+      "message": {
+        "role": "assistant",
+        "content": "①轻柔按压或揉搓这些压痛点及穴位。若肌肉紧张感严重，可采用针刺疗法，但针对初学者，不建议在此类穴位施针。指压与轻柔按摩已足够。\n\n②首先轻柔揉搓颈后侧，评估肌肉紧张程度。\n\n③用大把抓握方式捏揉斜方肌，对比两侧是否存在不对称或紧张。\n\n④让患者将头转向一侧并微微抬高下巴以拉伸胸锁乳突肌，如同沿肌纤维滑动般捏揉该肌肉。需同时检查锁骨支与胸骨支，对比两侧的紧张度及肌肉体积。\n\n⑤此流程兼具诊断与治疗作用。在针刺前充分松解肌肉张力至关重要。完全放松的肌肉有助于患者舒缓，可提升疗效与满意度，并降低副作用风险。\n\n~ ! ~\n72\n面部美容针灸\n⓵ 胸锁乳突肌 *2\n胸锁乳突肌起于胸骨与锁骨两处，止于耳后乳突。该肌协同屈曲头部，单独收缩时可使头部旋转。\n\n⓶ 斜方肌 *2\n斜方肌为大型肌肉，起自枕骨延伸至椎骨、锁骨及肩胛骨。该肌可伸展头部、提肩并后拉肩部，同时参与肩胛骨运动。\n\n~ ! ~\n73\n⓵\n⓶\n美容针灸中的姿势肌群"
+      },
+      "logprobs": null,
+      "finish_reason": "stop"
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 423,
+    "completion_tokens": 294,
+    "total_tokens": 717,
+    "prompt_tokens_details": {
+      "cached_tokens": 0
+    },
+    "prompt_cache_hit_tokens": 0,
+    "prompt_cache_miss_tokens": 423
+  },
+  "system_fingerprint": "fp_8b330d02d0_prod0820_fp8_kvcache_20260402",
+  "text_ru": "①轻柔按压或揉搓这些压痛点及穴位。若肌肉紧张感严重，可采用针刺疗法，但针对初学者，不建议在此类穴位施针。指压与轻柔按摩已足够。\n\n②首先轻柔揉搓颈后侧，评估肌肉紧张程度。\n\n③用大把抓握方式捏揉斜方肌，对比两侧是否存在不对称或紧张。\n\n④让患者将头转向一侧并微微抬高下巴以拉伸胸锁乳突肌，如同沿肌纤维滑动般捏揉该肌肉。需同时检查锁骨支与胸骨支，对比两侧的紧张度及肌肉体积。\n\n⑤此流程兼具诊断与治疗作用。在针刺前充分松解肌肉张力至关重要。完全放松的肌肉有助于患者舒缓，可提升疗效与满意度，并降低副作用风险。\n\n~ ! ~\n72\n面部美容针灸\n⓵ 胸锁乳突肌 *2\n胸锁乳突肌起于胸骨与锁骨两处，止于耳后乳突。该肌协同屈曲头部，单独收缩时可使头部旋转。\n\n⓶ 斜方肌 *2\n斜方肌为大型肌肉，起自枕骨延伸至椎骨、锁骨及肩胛骨。该肌可伸展头部、提肩并后拉肩部，同时参与肩胛骨运动。\n\n~ ! ~\n73\n⓵\n⓶\n美容针灸中的姿势肌群"
 }

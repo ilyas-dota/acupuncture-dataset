@@ -1,6 +1,29 @@
 {
-  "source": "Cosmetic Acu_Eng_kindle.pdf",
-  "title": "3) Count treatment sessions",
-  "text": "~ !  ~\n60\nFacial  Cosmetic Acupuncture\nThe practitioner should know where the treatment is going. Always draw the big picture\nﬁrst. He/she should be able to assess the treatment result in the perspective of the big\npicture. Recognizing that the result is not good enough at the end of the session is too late for\npatient and for practitioner.\n5C - Care",
-  "category": "general"
+  "id": "3db1eb5a-f708-41a7-896c-d05aa3e1cfb4",
+  "object": "chat.completion",
+  "created": 1782905817,
+  "model": "deepseek-v4-flash",
+  "choices": [
+    {
+      "index": 0,
+      "message": {
+        "role": "assistant",
+        "content": "~ !  ~\n60\nЛицевая косметическая акупунктура\n\nСпециалист должен понимать, к чему ведет лечение. Всегда сначала составляйте общую картину. Он/она должен уметь оценивать результат лечения в контексте этой общей картины. Осознавать, что результат недостаточно хорош, в конце сеанса — слишком поздно и для пациента, и для специалиста.\n\n5C - Забота"
+      },
+      "logprobs": null,
+      "finish_reason": "stop"
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 116,
+    "completion_tokens": 96,
+    "total_tokens": 212,
+    "prompt_tokens_details": {
+      "cached_tokens": 0
+    },
+    "prompt_cache_hit_tokens": 0,
+    "prompt_cache_miss_tokens": 116
+  },
+  "system_fingerprint": "fp_8b330d02d0_prod0820_fp8_kvcache_20260402",
+  "text_ru": "~ !  ~\n60\nЛицевая косметическая акупунктура\n\nСпециалист должен понимать, к чему ведет лечение. Всегда сначала составляйте общую картину. Он/она должен уметь оценивать результат лечения в контексте этой общей картины. Осознавать, что результат недостаточно хорош, в конце сеанса — слишком поздно и для пациента, и для специалиста.\n\n5C - Забота"
 }

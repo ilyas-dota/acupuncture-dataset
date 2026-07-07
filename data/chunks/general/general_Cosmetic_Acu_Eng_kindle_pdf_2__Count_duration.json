@@ -1,6 +1,29 @@
 {
-  "source": "Cosmetic Acu_Eng_kindle.pdf",
-  "title": "2) Count duration",
-  "text": "You should use an alarm clock to keep track of the treatment duration.",
-  "category": "general"
+  "id": "37edb014-afe0-4859-9b2e-e18257173204",
+  "object": "chat.completion",
+  "created": 1782905757,
+  "model": "deepseek-v4-flash",
+  "choices": [
+    {
+      "index": 0,
+      "message": {
+        "role": "assistant",
+        "content": "您应使用闹钟来记录治疗时长。"
+      },
+      "logprobs": null,
+      "finish_reason": "stop"
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 49,
+    "completion_tokens": 10,
+    "total_tokens": 59,
+    "prompt_tokens_details": {
+      "cached_tokens": 0
+    },
+    "prompt_cache_hit_tokens": 0,
+    "prompt_cache_miss_tokens": 49
+  },
+  "system_fingerprint": "fp_8b330d02d0_prod0820_fp8_kvcache_20260402",
+  "text_ru": "您应使用闹钟来记录治疗时长。"
 }

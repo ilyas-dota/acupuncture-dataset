@@ -1,6 +1,29 @@
 {
-  "source": "Advanced_Tung_Style_Acupuncture_Vol_3_Nephrology,_Urology_&_Andrology.pdf",
-  "title": "1. DMG 77-05 'Three Weights Three Needles', Shui3 Jin1, Shui3 Tong\\ Mu4 Huan~, a",
-  "text": "Gu3 (LKC):\n•\nDMG 77-05 'Three Weights Three Needles':\ni. Yi1 Zhong4: This point is located by coursing 3 cun proximal, then 1 cun anterior,\nto the apex of (as viewed from posterior to anterior) the lateral malleolus. Needle\n1.0 to 2.0 cun or 'let' with a prismatic needle. {Heart Branch, Lung Branch, and\nSpleen Reaction Areas}\nii. Er4 Zhong4: This point is located by coursing 2 cun proximal to Yi1 Zhong4• Needle\n1.0 to 2.0 cun or 'let' with a prismatic needle. {Heart Branch, Lung Branch, and\nSpleen Reaction Areas}\niii. San1 Zhong4: This point is located by coursing 2 cun proximal to Er4 Zhong4•\nNeedle 1.0 to 2.0 cun or 'let' with a prismatic needle. {Heart Branch, Lung Branch,\nand Spleen Reaction Areas}\n•\nShui3 Jin1: This point is located 0.5 cun obliquely medial to Shui3 Tong1• Needle\nperpendicularly 0.2 to 0.3 cun or obliquely from medial to lateral up to 0.5 cun. {Kidney\nReaction Area} (To locate this point, proceed to a point 0.5 cun medial to Shue Tong1 and\n0.5 cun directly inferior to the extraorallabial-cutaneous junction of the inferior lip.)\n•\nShui3 Tong1: This point is located 0.5 cun directly inferior to the extraorallabial-cutaneous\njunction at the corner of the mouth. Needle perpendicularly 0.2 to 0.3 cun or obliquely from\nmedial to lateral up to 0.5 cun. {Kidney Reaction Area}\n•\nMu4 Huan~: This point is located on the midline (coronal plane) on the medial aspect of\nthe thigh, 6 cun distal to Ming2 Huang2• Needle 1.0 to 2.0 cun. {General Gallbladder, Liver,\nand Spleen Reaction Areas} (Ming2 Huang2 is located at the exact center (proximal to distal)\nof the midline (coronal plane) on the medial aspect of the thigh.)\n•\nLin~ Gu3: This point is located on the dorsum of the hand, immediately distal to the\narticulation of the bases of the 1st and 2nd metacarpal bones - have the patient make a loose\nfist to facilitate locating the point. Needle 1.0 to 2.0 cun; i.e. one may needle through to\nconnect with Zhong4 Xian1• CONTRAINDICATED IN PREGNANCY. {Lung Branch, Heart,\nand Kidney Reaction Areas}\nDMG 77-05 '3 Weights 3 Needles'\nDiminished Libido (LKC)\nI\n\\\nMing Huang'\n/\n39\n40\nEdema (LCH-1)",
-  "category": "tung"
+  "id": "55d49553-5913-438f-a224-8026c44a39b3",
+  "object": "chat.completion",
+  "created": 1782906187,
+  "model": "deepseek-v4-flash",
+  "choices": [
+    {
+      "index": 0,
+      "message": {
+        "role": "assistant",
+        "content": "Gu3 (LKC):\n•\nDMG 77-05 «Три веса, три иглы»:\ni. И Чжун (Yi1 Zhong4): Точка расположена на 3 цуня проксимальнее и на 1 цунь кпереди от верхушки (при виде сзади кпереди) латеральной лодыжки. Иглу вводят на 1,0–2,0 цуня или проводят «кровопускание» призматической иглой. {Зоны реакции сердца, легких и селезенки}\nii. Эр Чжун (Er4 Zhong4): Точка расположена на 2 цуня проксимальнее И Чжун (Yi1 Zhong4). Иглу вводят на 1,0–2,0 цуня или проводят «кровопускание» призматической иглой. {Зоны реакции сердца, легких и селезенки}\niii. Сань Чжун (San1 Zhong4): Точка расположена на 2 цуня проксимальнее Эр Чжун (Er4 Zhong4). Иглу вводят на 1,0–2,0 цуня или проводят «кровопускание» призматической иглой. {Зоны реакции сердца, легких и селезенки}\n•\nШуй Цзинь (Shui3 Jin1): Точка расположена на 0,5 цуня косо медиальнее Шуй Тун (Shui3 Tong1). Иглу вводят перпендикулярно на 0,2–0,3 цуня или косо с медиальной стороны в латеральном направлении до 0,5 цуня. {Зона реакции почек} (Для нахождения этой точки отступите 0,5 цуня медиальнее Шуй Тун (Shui3 Tong1) и 0,5 цуня непосредственно книзу от перехода слизистой оболочки губы в кожу нижней губы.)\n•\nШуй Тун (Shui3 Tong1): Точка расположена на 0,5 цуня непосредственно книзу от перехода слизистой оболочки губы в кожу в углу рта. Иглу вводят перпендикулярно на 0,2–0,3 цуня или косо с медиальной стороны в латеральном направлении до 0,5 цуня. {Зона реакции почек}\n•\nМу Хуань (Mu4 Huan~): Точка расположена по средней линии (во фронтальной плоскости) на медиальной поверхности бедра, на 6 цуней дистальнее Мин Хуан (Ming2 Huang2). Иглу вводят на 1,0–2,0 цуня. {Общая зона желчного пузыря, печени и селезенки}"
+      },
+      "logprobs": null,
+      "finish_reason": "stop"
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 518,
+    "completion_tokens": 663,
+    "total_tokens": 1181,
+    "prompt_tokens_details": {
+      "cached_tokens": 0
+    },
+    "prompt_cache_hit_tokens": 0,
+    "prompt_cache_miss_tokens": 518
+  },
+  "system_fingerprint": "fp_8b330d02d0_prod0820_fp8_kvcache_20260402",
+  "text_ru": "Gu3 (LKC):\n•\nDMG 77-05 «Три веса, три иглы»:\ni. И Чжун (Yi1 Zhong4): Точка расположена на 3 цуня проксимальнее и на 1 цунь кпереди от верхушки (при виде сзади кпереди) латеральной лодыжки. Иглу вводят на 1,0–2,0 цуня или проводят «кровопускание» призматической иглой. {Зоны реакции сердца, легких и селезенки}\nii. Эр Чжун (Er4 Zhong4): Точка расположена на 2 цуня проксимальнее И Чжун (Yi1 Zhong4). Иглу вводят на 1,0–2,0 цуня или проводят «кровопускание» призматической иглой. {Зоны реакции сердца, легких и селезенки}\niii. Сань Чжун (San1 Zhong4): Точка расположена на 2 цуня проксимальнее Эр Чжун (Er4 Zhong4). Иглу вводят на 1,0–2,0 цуня или проводят «кровопускание» призматической иглой. {Зоны реакции сердца, легких и селезенки}\n•\nШуй Цзинь (Shui3 Jin1): Точка расположена на 0,5 цуня косо медиальнее Шуй Тун (Shui3 Tong1). Иглу вводят перпендикулярно на 0,2–0,3 цуня или косо с медиальной стороны в латеральном направлении до 0,5 цуня. {Зона реакции почек} (Для нахождения этой точки отступите 0,5 цуня медиальнее Шуй Тун (Shui3 Tong1) и 0,5 цуня непосредственно книзу от перехода слизистой оболочки губы в кожу нижней губы.)\n•\nШуй Тун (Shui3 Tong1): Точка расположена на 0,5 цуня непосредственно книзу от перехода слизистой оболочки губы в кожу в углу рта. Иглу вводят перпендикулярно на 0,2–0,3 цуня или косо с медиальной стороны в латеральном направлении до 0,5 цуня. {Зона реакции почек}\n•\nМу Хуань (Mu4 Huan~): Точка расположена по средней линии (во фронтальной плоскости) на медиальной поверхности бедра, на 6 цуней дистальнее Мин Хуан (Ming2 Huang2). Иглу вводят на 1,0–2,0 цуня. {Общая зона желчного пузыря, печени и селезенки}"
 }

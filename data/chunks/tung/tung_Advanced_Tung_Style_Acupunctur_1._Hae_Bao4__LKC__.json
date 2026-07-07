@@ -1,6 +1,29 @@
 {
-  "source": "Advanced_Tung_Style_Acupuncture_Vol_3_Nephrology,_Urology_&_Andrology.pdf",
-  "title": "1. Hae Bao4 (LKC):",
-  "text": "•\nHai3 Bao4: This point is located on the medial side of the foot at the midpoint (i.e. plantar-\ndorsal midpoint) of the interphalangeal joint on the medial side of the great toe. Needle 0.1\nto 0.3 cun. {Heart Branch Reaction Area}\n292\nHydrocele (LKC)",
-  "category": "tung"
+  "id": "45bc7dfa-528b-41a5-bcc2-6699dc6e0843",
+  "object": "chat.completion",
+  "created": 1782906284,
+  "model": "deepseek-v4-flash",
+  "choices": [
+    {
+      "index": 0,
+      "message": {
+        "role": "assistant",
+        "content": "•\nHai3 Bao4: Точка расположена на медиальной стороне стопы, на середине (т.е. на подошвенно-тыльной середине) межфалангового сустава с медиальной стороны большого пальца стопы. Иглу вводят на глубину 0,1–0,3 цуня. {Зона реакции сердечной ветви}\n292\nГидроцеле (LKC)"
+      },
+      "logprobs": null,
+      "finish_reason": "stop"
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 112,
+    "completion_tokens": 100,
+    "total_tokens": 212,
+    "prompt_tokens_details": {
+      "cached_tokens": 0
+    },
+    "prompt_cache_hit_tokens": 0,
+    "prompt_cache_miss_tokens": 112
+  },
+  "system_fingerprint": "fp_8b330d02d0_prod0820_fp8_kvcache_20260402",
+  "text_ru": "•\nHai3 Bao4: Точка расположена на медиальной стороне стопы, на середине (т.е. на подошвенно-тыльной середине) межфалангового сустава с медиальной стороны большого пальца стопы. Иглу вводят на глубину 0,1–0,3 цуня. {Зона реакции сердечной ветви}\n292\nГидроцеле (LKC)"
 }

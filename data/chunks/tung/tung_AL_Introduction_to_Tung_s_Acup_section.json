@@ -1,6 +1,29 @@
 {
-  "source": "AL_Introduction_to_Tung's_Acupuncture.pdf",
-  "title": "section",
-  "text": "Master Tung Ching-Chang (May 23, 1916 - Nov 7, 1975)\nCONTENTS\nForward by Hui-Yan Cai, MD, PhD, LAc\nThe Way to Tung's Acupuncture\nPreface\nl. Area 1: Points on the Fingers",
-  "category": "tung"
+  "id": "27a6ff95-7087-4a1b-a70e-733ba9f48d71",
+  "object": "chat.completion",
+  "created": 1782906134,
+  "model": "deepseek-v4-flash",
+  "choices": [
+    {
+      "index": 0,
+      "message": {
+        "role": "assistant",
+        "content": "董景昌大师（1916年5月23日 - 1975年11月7日）\n目录\n序言：蔡辉彦医学博士、哲学博士、针灸师\n董氏针灸之道\n前言\n一、部位一：手指部穴位"
+      },
+      "logprobs": null,
+      "finish_reason": "stop"
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 96,
+    "completion_tokens": 54,
+    "total_tokens": 150,
+    "prompt_tokens_details": {
+      "cached_tokens": 0
+    },
+    "prompt_cache_hit_tokens": 0,
+    "prompt_cache_miss_tokens": 96
+  },
+  "system_fingerprint": "fp_8b330d02d0_prod0820_fp8_kvcache_20260402",
+  "text_ru": "董景昌大师（1916年5月23日 - 1975年11月7日）\n目录\n序言：蔡辉彦医学博士、哲学博士、针灸师\n董氏针灸之道\n前言\n一、部位一：手指部穴位"
 }

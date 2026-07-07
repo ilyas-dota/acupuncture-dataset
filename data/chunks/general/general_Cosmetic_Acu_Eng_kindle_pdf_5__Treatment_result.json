@@ -1,6 +1,29 @@
 {
-  "source": "Cosmetic Acu_Eng_kindle.pdf",
-  "title": "5) Treatment result",
-  "text": "Treatment result varies depending on age, past history, general health, skin condition,\ncurrent medication, history of other cosmetic interventions, and red ﬂags like smoking or\nrepetitive sun-tanning. Therefore, the practitioner should set a reasonable treatment goal in\nthe initial meeting and needs to modify the goal based on conditions again during progress.\nFirst of all, the treatment goal should be not removal of all the problems, but a slowing\ndown the of the aging process  in a healthy way.\n16\nThe assessment of result may be very subjective. While the practitioner may think the\npatient improved dramatically, the patient might not be satisﬁed with the results. For this\nreason, taking pictures, comparing before and after treatment, and modifying the treatment\ngoal are recommended.",
-  "category": "general"
+  "id": "07ebd337-fad7-45a2-974e-f6a322c4379f",
+  "object": "chat.completion",
+  "created": 1782905911,
+  "model": "deepseek-v4-flash",
+  "choices": [
+    {
+      "index": 0,
+      "message": {
+        "role": "assistant",
+        "content": "Результат лечения варьируется в зависимости от возраста, анамнеза, общего состояния здоровья, состояния кожи, принимаемых в настоящее время лекарств, истории других косметологических вмешательств, а также таких «красных флагов», как курение или частое посещение солярия. Поэтому специалисту следует установить разумную цель лечения при первой встрече и при необходимости корректировать её в процессе терапии с учётом текущего состояния.\n\nПрежде всего, целью лечения должно быть не полное устранение всех проблем, а замедление процессов старения здоровым способом.\n\n16\nОценка результата может быть весьма субъективной. В то время как специалист может считать, что состояние пациента значительно улучшилось, сам пациент может быть не удовлетворён результатами. По этой причине рекомендуется делать фотографии, сравнивать состояние до и после лечения и корректировать цели терапии."
+      },
+      "logprobs": null,
+      "finish_reason": "stop"
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 195,
+    "completion_tokens": 194,
+    "total_tokens": 389,
+    "prompt_tokens_details": {
+      "cached_tokens": 0
+    },
+    "prompt_cache_hit_tokens": 0,
+    "prompt_cache_miss_tokens": 195
+  },
+  "system_fingerprint": "fp_8b330d02d0_prod0820_fp8_kvcache_20260402",
+  "text_ru": "Результат лечения варьируется в зависимости от возраста, анамнеза, общего состояния здоровья, состояния кожи, принимаемых в настоящее время лекарств, истории других косметологических вмешательств, а также таких «красных флагов», как курение или частое посещение солярия. Поэтому специалисту следует установить разумную цель лечения при первой встрече и при необходимости корректировать её в процессе терапии с учётом текущего состояния.\n\nПрежде всего, целью лечения должно быть не полное устранение всех проблем, а замедление процессов старения здоровым способом.\n\n16\nОценка результата может быть весьма субъективной. В то время как специалист может считать, что состояние пациента значительно улучшилось, сам пациент может быть не удовлетворён результатами. По этой причине рекомендуется делать фотографии, сравнивать состояние до и после лечения и корректировать цели терапии."
 }

@@ -1,6 +1,29 @@
 {
-  "source": "Cosmetic Acu_Eng_kindle.pdf",
-  "title": "9. Akkus, O., et al. Evaluation of skin and subcutaneousneous Adipose Tissue Thi",
-  "text": "Injection. J Diabetes Metab, 2012 3:8.\n10.Almeida MS, et al. Acupuncture increases the diameter and reorganisation of collagen ﬁbrils during rat\ntendon healing. Acupunct Med 2015;33:51–57.\n11.B.C. Jones, et al. The relationship between shape symmetry and perceived skin condition in male facial\nattractiveness. Evolution and human behavior, 2004 Jan;25.\n12.Christensen KA, et al. Acupuncture-Associated Vasovagal Response: Revised Terminology and Hospital\nExperience. Med Acupunct, 2017 Dec 1;29(6):366-376.\n13.Clay and Pounds. Basic Clinical Massage Therapy, 2nd ed. LWW, 2008.\n14.Complete anatomy 2018 +courses.\n15.Elizabeth A., et al. Loving-Kindness Meditation practice associated with longer telomeres in women.\nBrain, Behavior, and Immunity, 2013 Aug;32:159-163.\n16.Jacobs TL, et al. Intensive meditation training, immune cell telomerase activity, and psychological\nmediators. Psychoneuroendocrinology, 2011 Jun;36(5):664-81.\n17.Kapit, W. and Elson, L.M. The Anatomy Coloring Book, 4th ed. Pearson, 2014.\n18.Kim KS, et al. Study on Anti-Skin Aging Effect of Sanguisorba ofﬁcinalis L. The Journal of Daejeon\nOriental Medicine. 2013;21(2):63-72.\n19.Lee JA, et al. Acupuncture acceletates wound healing in burn-injured mice. Burns. 2011;37(1):117-25.\n20.Light, D. Cells, Tissues, and Skin. Chelsea House, 2004.\n21.Lumley. Surface Anatomy 4th edition. Churchill Livingstone, 2008.\n~ !\n~\n114\nREFERENCES\nFacial  Cosmetic Acupuncture\n22.Milton M. Hom, et al. The anatomical and functional relationship between allergic conjunctivitis and\nallergic rhinitis. Allergy and Rhinology, 2013 Jan;4(3):110-119.\n23.Nozomi Donoyama, et al. Cosmetic acupuncture to enhance facial skin appearance: a preliminary study.\nAcupuncture in Medicine, 2012 Jun;30(2):152-153.\n24.Park SK, et al. Anti-aging Effect on Skin with Jaeum-Dan(JED). Kor J Herbology. 2004;19(1):67-76.\n25.Rebecca Small. Botulinum Toxin Injection for Facial Wrinkles. Am Fam Physician, 2014 Aug1;90(3):\n168-75.\n26.R.Y. Ha, et al. Analysis of Facial Skin Thickness: Deﬁning the Relative Thickness Index. Plastic and\nReconstructive Surgery, 2005 May.\n27.Seung Choi, et al. Sasang Medicine: A Self-Learning Text(Korean version, Kindle edition). 2017.\n28.Silva, M., et al. Anti-aging cosmetics:Facts and controversies. Clinics in Dermatology 2013;31:750-758.\n29.V. Doran. An Introduction to Facial Revitalisation Acupuncture. The European Journal of Oriental\nMedicine, 2007;5(7).\n30.Younghee Yun, et al. Effect of facial cosmetic acupuncture on facial elasticity: an open-label, single-arm\npilot study. Evidence Based Complement Alternative Med. 2013:424313.\n~ !\n~\n115\nFacial  Cosmetic Acupuncture\n~ !\n~\n116",
-  "category": "general"
+  "id": "c67110b9-c467-49f7-a34b-6688aebcff5d",
+  "object": "chat.completion",
+  "created": 1782905924,
+  "model": "deepseek-v4-flash",
+  "choices": [
+    {
+      "index": 0,
+      "message": {
+        "role": "assistant",
+        "content": "Инъекция. J Diabetes Metab, 2012 3:8.\n10. Almeida MS и соавт. Акупунктура увеличивает диаметр и реорганизацию коллагеновых фибрилл при заживлении сухожилий у крыс. Acupunct Med 2015;33:51–57.\n11. B.C. Jones и соавт. Взаимосвязь между симметрией формы и воспринимаемым состоянием кожи в мужской привлекательности лица. Evolution and human behavior, 2004 Jan;25.\n12. Christensen KA и соавт. Вазовагальная реакция, связанная с акупунктурой: пересмотренная терминология и больничный опыт. Med Acupunct, 2017 Dec 1;29(6):366-376.\n13. Clay and Pounds. Basic Clinical Massage Therapy, 2nd ed. LWW, 2008.\n14. Complete anatomy 2018 +courses.\n15. Elizabeth A. и соавт. Практика медитации любящей доброты связана с более длинными теломерами у женщин. Brain, Behavior, and Immunity, 2013 Aug;32:159-163.\n16. Jacobs TL и соавт. Интенсивная медитативная тренировка, активность теломеразы иммунных клеток и психологические медиаторы. Psychoneuroendocrinology, 2011 Jun;36(5):664-81.\n17. Kapit, W. and Elson, L.M. The Anatomy Coloring Book, 4th ed. Pearson, 2014.\n18. Kim KS и соавт. Исследование антивозрастного эффекта Sanguisorba officinalis L. на кожу. The Journal of Daejeon Oriental Medicine. 2013;21(2):63-72.\n19. Lee JA и соавт. Акупунктура ускоряет заживление ран у мышей с ожогами. Burns. 2011;37(1):117-25.\n20. Light, D. Cells, Tissues, and Skin. Chelsea House, 2004.\n21. Lumley. Surface Anatomy 4th edition. Churchill Livingstone, 2008.\n~ !\n~\n114\nССЫЛКИ\nКосметическая акупунктура лица\n22. Milton M. Hom и соавт. Анатомическая и функциональная взаимосвязь"
+      },
+      "logprobs": null,
+      "finish_reason": "stop"
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 486,
+    "completion_tokens": 542,
+    "total_tokens": 1028,
+    "prompt_tokens_details": {
+      "cached_tokens": 0
+    },
+    "prompt_cache_hit_tokens": 0,
+    "prompt_cache_miss_tokens": 486
+  },
+  "system_fingerprint": "fp_8b330d02d0_prod0820_fp8_kvcache_20260402",
+  "text_ru": "Инъекция. J Diabetes Metab, 2012 3:8.\n10. Almeida MS и соавт. Акупунктура увеличивает диаметр и реорганизацию коллагеновых фибрилл при заживлении сухожилий у крыс. Acupunct Med 2015;33:51–57.\n11. B.C. Jones и соавт. Взаимосвязь между симметрией формы и воспринимаемым состоянием кожи в мужской привлекательности лица. Evolution and human behavior, 2004 Jan;25.\n12. Christensen KA и соавт. Вазовагальная реакция, связанная с акупунктурой: пересмотренная терминология и больничный опыт. Med Acupunct, 2017 Dec 1;29(6):366-376.\n13. Clay and Pounds. Basic Clinical Massage Therapy, 2nd ed. LWW, 2008.\n14. Complete anatomy 2018 +courses.\n15. Elizabeth A. и соавт. Практика медитации любящей доброты связана с более длинными теломерами у женщин. Brain, Behavior, and Immunity, 2013 Aug;32:159-163.\n16. Jacobs TL и соавт. Интенсивная медитативная тренировка, активность теломеразы иммунных клеток и психологические медиаторы. Psychoneuroendocrinology, 2011 Jun;36(5):664-81.\n17. Kapit, W. and Elson, L.M. The Anatomy Coloring Book, 4th ed. Pearson, 2014.\n18. Kim KS и соавт. Исследование антивозрастного эффекта Sanguisorba officinalis L. на кожу. The Journal of Daejeon Oriental Medicine. 2013;21(2):63-72.\n19. Lee JA и соавт. Акупунктура ускоряет заживление ран у мышей с ожогами. Burns. 2011;37(1):117-25.\n20. Light, D. Cells, Tissues, and Skin. Chelsea House, 2004.\n21. Lumley. Surface Anatomy 4th edition. Churchill Livingstone, 2008.\n~ !\n~\n114\nССЫЛКИ\nКосметическая акупунктура лица\n22. Milton M. Hom и соавт. Анатомическая и функциональная взаимосвязь"
 }

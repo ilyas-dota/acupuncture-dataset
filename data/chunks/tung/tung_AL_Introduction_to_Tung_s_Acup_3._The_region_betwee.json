@@ -1,6 +1,29 @@
 {
-  "source": "AL_Introduction_to_Tung's_Acupuncture.pdf",
-  "title": "3. The region between the eyebrows: lung.",
-  "text": "4.\nThe region between the eyes: heart.\n5.\nThe region directly below the middle point of eyes: liver.\n6.\nAt the left side of liver: gallbladder.\n7.\nBelow the liver: spleen.\n8.\nLateral to the nose apex: stomach.\n9.\nThe central region of the cheeks: large intestine.",
-  "category": "tung"
+  "id": "51ce528e-a238-4507-8efd-fb025e9c538e",
+  "object": "chat.completion",
+  "created": 1782906043,
+  "model": "deepseek-v4-flash",
+  "choices": [
+    {
+      "index": 0,
+      "message": {
+        "role": "assistant",
+        "content": "4.\n两眼之间的区域：心脏。\n5.\n两眼正中点正下方的区域：肝脏。\n6.\n肝脏左侧：胆囊。\n7.\n肝脏下方：脾脏。\n8.\n鼻尖外侧：胃。\n9.\n面颊中央区域：大肠。"
+      },
+      "logprobs": null,
+      "finish_reason": "stop"
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 101,
+    "completion_tokens": 51,
+    "total_tokens": 152,
+    "prompt_tokens_details": {
+      "cached_tokens": 0
+    },
+    "prompt_cache_hit_tokens": 0,
+    "prompt_cache_miss_tokens": 101
+  },
+  "system_fingerprint": "fp_8b330d02d0_prod0820_fp8_kvcache_20260402",
+  "text_ru": "4.\n两眼之间的区域：心脏。\n5.\n两眼正中点正下方的区域：肝脏。\n6.\n肝脏左侧：胆囊。\n7.\n肝脏下方：脾脏。\n8.\n鼻尖外侧：胃。\n9.\n面颊中央区域：大肠。"
 }

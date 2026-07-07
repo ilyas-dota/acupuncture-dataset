@@ -1,6 +1,29 @@
 {
-  "source": "Cosmetic Acu_Eng_kindle.pdf",
-  "title": "3) During removal of needles",
-  "text": "The practitioner needs to concentrate on removing needles as much as inserting them.\nRule no.1, retrieve the needles at the exact angle you inserted them, so you can remove them\nwithout tissue injury or pain.\nAlso, the practitioner can hold the skin when he/she pulls out the needles so as not to\nstretch the skin.",
-  "category": "general"
+  "id": "c9254891-5f24-4bc0-90b2-a0c030a4197c",
+  "object": "chat.completion",
+  "created": 1782905819,
+  "model": "deepseek-v4-flash",
+  "choices": [
+    {
+      "index": 0,
+      "message": {
+        "role": "assistant",
+        "content": "Практикующему необходимо уделять удалению игл не меньше внимания, чем их введению.\nПравило №1: извлекайте иглы под тем же углом, под которым они были введены, чтобы избежать повреждения тканей или боли.\nКроме того, при извлечении игл практикующий может придерживать кожу, чтобы не растягивать её."
+      },
+      "logprobs": null,
+      "finish_reason": "stop"
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 102,
+    "completion_tokens": 87,
+    "total_tokens": 189,
+    "prompt_tokens_details": {
+      "cached_tokens": 0
+    },
+    "prompt_cache_hit_tokens": 0,
+    "prompt_cache_miss_tokens": 102
+  },
+  "system_fingerprint": "fp_8b330d02d0_prod0820_fp8_kvcache_20260402",
+  "text_ru": "Практикующему необходимо уделять удалению игл не меньше внимания, чем их введению.\nПравило №1: извлекайте иглы под тем же углом, под которым они были введены, чтобы избежать повреждения тканей или боли.\nКроме того, при извлечении игл практикующий может придерживать кожу, чтобы не растягивать её."
 }

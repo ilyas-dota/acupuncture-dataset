@@ -1,6 +1,29 @@
 {
-  "source": "AL_Introduction_to_Tung's_Acupuncture.pdf",
-  "title": "22 Point Unit",
-  "text": "Location: Both lines begin at T4; the first is 3 cun from the midline and the second is 6\ncun from the midline. 304 -309, (3 metal points and 3 wood points in oneline); 404 - 408, (1\nmetal point and 4 wood points in oneline).\nTung's Five Zang Channel: right-heart, liver, lung; left-heart, liver, spleen.\nIndications: low back pain due to arteriosclerosis, wrenched lower back & hard breathing\n(cha qi).\nNeedle Technique: use a three-edged needle to prick blood ipsilaterally, or bilaterally.\n209\nIntroduction to Tung' s Acupuncture\n1 01\n301\n202\n1 02\n302\n402\n203\n1 03\n303\n403\n204\n. 304\n8404\n205\n• 305\n9405\n206\ne 3o6\n20-\ne 30-\n208\n• 308\n• 309\nDT.11 Back Heart (Hou Xin) 1˳11)",
-  "category": "tung"
+  "id": "90938af4-c80c-4863-a327-3bb3fbebfaf5",
+  "object": "chat.completion",
+  "created": 1782906020,
+  "model": "deepseek-v4-flash",
+  "choices": [
+    {
+      "index": 0,
+      "message": {
+        "role": "assistant",
+        "content": "位置：两行均始于T4；第一行距中线3寸，第二行距中线6寸。304-309（一行含3个金点与3个木点）；404-408（一行含1个金点与4个木点）。\n\n董氏五脏脉：右心、肝、肺；左心、肝、脾。\n\n主治：动脉硬化所致腰痛、闪腰岔气（呼吸困难）。\n\n针法：用三棱针点刺出血，取患侧或双侧。\n\n209\n董氏针灸概论\n\n101\n301\n202\n102\n302\n402\n203\n103\n303\n403\n204\n·304\n8404\n205\n·305\n9405\n206\n·306\n20-\n·30-\n208\n·308\n·309\nDT.11 后心（Hou Xin）1˳11"
+      },
+      "logprobs": null,
+      "finish_reason": "stop"
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 266,
+    "completion_tokens": 180,
+    "total_tokens": 446,
+    "prompt_tokens_details": {
+      "cached_tokens": 0
+    },
+    "prompt_cache_hit_tokens": 0,
+    "prompt_cache_miss_tokens": 266
+  },
+  "system_fingerprint": "fp_8b330d02d0_prod0820_fp8_kvcache_20260402",
+  "text_ru": "位置：两行均始于T4；第一行距中线3寸，第二行距中线6寸。304-309（一行含3个金点与3个木点）；404-408（一行含1个金点与4个木点）。\n\n董氏五脏脉：右心、肝、肺；左心、肝、脾。\n\n主治：动脉硬化所致腰痛、闪腰岔气（呼吸困难）。\n\n针法：用三棱针点刺出血，取患侧或双侧。\n\n209\n董氏针灸概论\n\n101\n301\n202\n102\n302\n402\n203\n103\n303\n403\n204\n·304\n8404\n205\n·305\n9405\n206\n·306\n20-\n·30-\n208\n·308\n·309\nDT.11 后心（Hou Xin）1˳11"
 }

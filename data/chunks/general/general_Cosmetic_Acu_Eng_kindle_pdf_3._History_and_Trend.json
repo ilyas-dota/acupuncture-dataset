@@ -1,6 +1,29 @@
 {
-  "source": "Cosmetic Acu_Eng_kindle.pdf",
-  "title": "3. History and Trend of Cosmetic Acupuncture",
-  "text": "Although the history of cosmetic acupuncture can date back to the ancient doctor 'Sun\nSimiao' of A.D. 700 or a possibly much earlier, cosmetic acupuncture in western society\nemerged around the early 1980s. At that time, acupuncture treatment was more focused on\nthe distal point to regulate qi energy. In the mid 2000s, facial acupuncture became popular in\nKorea, Japan, and China, and much research has since been conducted on the topic.\nIronically, TCM doctors in the U.S. are a lot more 'conventional and traditional' in their\npractice of TCM. I use the term 'conventional and traditional' to refer to orthodox TCM, not\nconventional medicine. They focus more on using traditional ways of regulating qi and\ndiagnosis in cosmetic acupuncture.\nOn the other hand, in China and Korea, various new treatment methods have been\npracticed in the clinical ﬁeld. Other treatments besides acupuncture such as cupping, gua-\nsha, ear acupuncture, and moxibustion are popular.\nCosmetic acupuncture got popular again in the 1990s with economic growth in China.\nSince then, various techniques have been developed.  Japanese cosmetic acupuncture is more\n1\nfocused on local tissue needling around wrinkles. They use a great quantity of needles and e-\nstimulation.\nMyofascial  releasing  and  balancing  are  popular  approaches  in  Korean  cosmetic\nacupuncture. They were originally used for treating facial nerve palsy, a TMJ disorder, or\nfacial asymmetry. There are several famous techniques with myofascial approaches like,\nJung-an Acupuncture and Miso facial rejuvenation acupuncture.  Pharmacopuncture (herbal\n2\nextract  injection)  and  thread  embedding  acupuncture  (transplanting  a  surgical  thread\n3\nbeneath a wrinkle) are unique Korean acupuncture techniques.\nVirginia Doran. An Introduction to Facial Revitalisation Acupuncture. The European Journal of Oriental Medicine,\n1\n2007;5(7).\nMJ Im, et al. Study on the Local Wrinkle Cure Using Acupuncture Needle. Korean J. Oriental Physiology & Pathology,\n2\n2009;23(6):1261-1266.\nYH Yun, et al. Narrative Review and Propose of Thread Embedding Acupuncture Procedure for Facial Wrinkles and\n3\nFacial Laxity. Korean Med Ophthalmol Otolaryngol Dermatol, 2015;28(1):119-133.\n~ !  ~\n14\nFacial  Cosmetic Acupuncture",
-  "category": "general"
+  "id": "e1038bec-7506-43bd-98d3-7856caa0109a",
+  "object": "chat.completion",
+  "created": 1782905786,
+  "model": "deepseek-v4-flash",
+  "choices": [
+    {
+      "index": 0,
+      "message": {
+        "role": "assistant",
+        "content": "Хотя история косметической акупунктуры восходит к древнему врачу Сунь Сымяо (около 700 г. н.э.) или, возможно, к еще более раннему периоду, в западном обществе она появилась примерно в начале 1980-х годов. В то время акупунктурное лечение было в большей степени сосредоточено на дистальных точках для регуляции энергии ци. В середине 2000-х годов лицевая акупунктура стала популярной в Корее, Японии и Китае, и с тех пор было проведено множество исследований по этой теме. По иронии судьбы, врачи традиционной китайской медицины (ТКМ) в США гораздо более «консервативны и традиционны» в своей практике ТКМ. Я использую термин «консервативные и традиционные» для обозначения ортодоксальной ТКМ, а не конвенциональной медицины. Они больше сосредоточены на использовании традиционных методов регуляции ци и диагностики в косметической акупунктуре.\n\nС другой стороны, в Китае и Корее в клинической практике применяются различные новые методы лечения. Помимо акупунктуры, популярны такие процедуры, как банки, гуаша, аурикулярная акупунктура и моксотерапия.\n\nКосметическая акупунктура вновь обрела популярность в 1990-х годах с экономическим ростом в Китае. С тех пор были разработаны различные методики. Японская косметическая акупунктура в большей степени сосредоточена на иглоукалывании локальных тканей в области морщин. При этом используется большое количество игл и электростимуляция.\n\nМиофасциальное расслабление и балансировка являются популярными подходами в корейской косметической акупунктуре. Изначально они применялись для лечения паралича лицевого нерва, дисфункции височно-нижнечелюстного сустава (ВНЧС) или асимметрии лица. Существует несколько известных методик, основанных на миофасциальном подходе."
+      },
+      "logprobs": null,
+      "finish_reason": "stop"
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 374,
+    "completion_tokens": 512,
+    "total_tokens": 886,
+    "prompt_tokens_details": {
+      "cached_tokens": 0
+    },
+    "prompt_cache_hit_tokens": 0,
+    "prompt_cache_miss_tokens": 374
+  },
+  "system_fingerprint": "fp_8b330d02d0_prod0820_fp8_kvcache_20260402",
+  "text_ru": "Хотя история косметической акупунктуры восходит к древнему врачу Сунь Сымяо (около 700 г. н.э.) или, возможно, к еще более раннему периоду, в западном обществе она появилась примерно в начале 1980-х годов. В то время акупунктурное лечение было в большей степени сосредоточено на дистальных точках для регуляции энергии ци. В середине 2000-х годов лицевая акупунктура стала популярной в Корее, Японии и Китае, и с тех пор было проведено множество исследований по этой теме. По иронии судьбы, врачи традиционной китайской медицины (ТКМ) в США гораздо более «консервативны и традиционны» в своей практике ТКМ. Я использую термин «консервативные и традиционные» для обозначения ортодоксальной ТКМ, а не конвенциональной медицины. Они больше сосредоточены на использовании традиционных методов регуляции ци и диагностики в косметической акупунктуре.\n\nС другой стороны, в Китае и Корее в клинической практике применяются различные новые методы лечения. Помимо акупунктуры, популярны такие процедуры, как банки, гуаша, аурикулярная акупунктура и моксотерапия.\n\nКосметическая акупунктура вновь обрела популярность в 1990-х годах с экономическим ростом в Китае. С тех пор были разработаны различные методики. Японская косметическая акупунктура в большей степени сосредоточена на иглоукалывании локальных тканей в области морщин. При этом используется большое количество игл и электростимуляция.\n\nМиофасциальное расслабление и балансировка являются популярными подходами в корейской косметической акупунктуре. Изначально они применялись для лечения паралича лицевого нерва, дисфункции височно-нижнечелюстного сустава (ВНЧС) или асимметрии лица. Существует несколько известных методик, основанных на миофасциальном подходе."
 }

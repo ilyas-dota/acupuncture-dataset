@@ -1,6 +1,29 @@
 {
-  "source": "Cosmetic Acu_Eng_kindle.pdf",
-  "title": "3. Patients' condition",
-  "text": "There is a general law in TCM: Use gentle insertion with ﬁner needles for deﬁciency and\nstrong insertion with thicker needle for excessiveness. If a patient is weak, sensitive to pain,\nor afraid of needles, the practitioner should choose ﬁner needles.",
-  "category": "general"
+  "id": "4185cd90-f773-45f5-9255-071a7569b1ba",
+  "object": "chat.completion",
+  "created": 1782905793,
+  "model": "deepseek-v4-flash",
+  "choices": [
+    {
+      "index": 0,
+      "message": {
+        "role": "assistant",
+        "content": "中医有一条普遍规律：虚证宜用细针轻柔进针，实证宜用粗针强力进针。若患者体质虚弱、对疼痛敏感或畏惧针刺，医者应选用更细的针具。"
+      },
+      "logprobs": null,
+      "finish_reason": "stop"
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 89,
+    "completion_tokens": 46,
+    "total_tokens": 135,
+    "prompt_tokens_details": {
+      "cached_tokens": 0
+    },
+    "prompt_cache_hit_tokens": 0,
+    "prompt_cache_miss_tokens": 89
+  },
+  "system_fingerprint": "fp_8b330d02d0_prod0820_fp8_kvcache_20260402",
+  "text_ru": "中医有一条普遍规律：虚证宜用细针轻柔进针，实证宜用粗针强力进针。若患者体质虚弱、对疼痛敏感或畏惧针刺，医者应选用更细的针具。"
 }

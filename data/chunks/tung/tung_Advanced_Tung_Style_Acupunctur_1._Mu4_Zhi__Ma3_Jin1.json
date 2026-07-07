@@ -1,6 +1,29 @@
 {
-  "source": "Advanced_Tung_Style_Acupuncture_Vol_3_Nephrology,_Urology_&_Andrology.pdf",
-  "title": "1. Mu4 Zhi\\ Ma3 Jin1 Shui3, Ma3 Kuai4 Shui3, Liu4 Kuai4, and Qi1 Kuai4 (LKC):",
-  "text": "• Mu4 Zhi1: This point is located 1.5 cun distal to Ming2 Huan~2 • Needle 1.5 to 2.5 cun.\n{Gallbladder, Liver, and Heart Branch Reaction Areas} (Ming Huang2 is located at the\nexact center (proximal to distal) of the midline (coronal plane) on the medial aspect of the\nthigh.)\n• Ma3 Jin1 Shui3: This point is located by palpating for a depression along the inferior\nmargin of the zygomatic bone at the medial to lateral level of the lateral angle/margin of the\norbit; from this depression, course 0.4 cun lateral to arrive at Ma3 Jin1 Shui3• Needle 0.2 to\n0.3 cun. {Kidn:X and Lung Auxiliary Reaction Areas} (This point is essentially 0.4 cun\nlateral to SI-18\n°.)\n• Ma3 Kuai4 Shui3: This point lies 0.4 cun inferior to Ma3 Jin1 Shui3• Needle 0.1 to 0.3 cun.\n{Kidney and Bladder Reaction Areas}\n• Liu4 Kuai4: This point is located on the face, 1.4 cun lateral to the center of the philtrum.\nNeedle 0.1 to 0.3 cun. {Endocrine Reaction Area} To locate the center of the philtrum,\nbisect the distance from the extraoral labial-cutaneous junction to the base of the nose\nbetween the nostrils.\n•\nQi1 Kuai4: This point is located on the face, 1.0 cun lateral to the commissure of the lips at\nthe angle of the mouth. Needle perpendicularly 0.2 to 0.3 cun or obliquely, from medial to\nlateral, 0.5 to 1.5 cun. {Endocrine Reaction Area}\nI\n\\ t\n/\nJin1 Shui3\nKuai4 Shui3\n264\nUrolithiasis (MC)",
-  "category": "tung"
+  "id": "47e4e847-e3bc-4619-ae56-bbd66f678fd3",
+  "object": "chat.completion",
+  "created": 1782906380,
+  "model": "deepseek-v4-flash",
+  "choices": [
+    {
+      "index": 0,
+      "message": {
+        "role": "assistant",
+        "content": "• **Mu4 Zhi1**: Точка расположена на 1,5 цуня дистальнее Ming2 Huan~2. Глубина иглы 1,5–2,5 цуня.  \n{Реактивные зоны желчного пузыря, печени и сердечной ветви} (Ming Huang2 находится в точном центре (от проксимального к дистальному) срединной линии (корональная плоскость) на медиальной поверхности бедра.)\n\n• **Ma3 Jin1 Shui3**: Точка определяется пальпацией углубления по нижнему краю скуловой кости на уровне от медиального до латерального края латерального угла/края глазницы; от этого углубления отступить 0,4 цуня латерально для достижения Ma3 Jin1 Shui3. Глубина иглы 0,2–0,3 цуня.  \n{Реактивные зоны почек (X) и легких (вспомогательные)} (По сути, точка расположена на 0,4 цуня латеральнее SI-18.)\n\n• **Ma3 Kuai4 Shui3**: Точка находится на 0,4 цуня ниже Ma3 Jin1 Shui3. Глубина иглы 0,1–0,3 цуня.  \n{Реактивные зоны почек и мочевого пузыря}\n\n• **Liu4 Kuai4**: Точка расположена на лице, на 1,4 цуня латеральнее центра носогубного желобка. Глубина иглы 0,1–0,3 цуня.  \n{Реактивная зона эндокринной системы} Для определения центра носогубного желобка разделите пополам расстояние от наружного соединения кожи и красной каймы губ до основания носа между ноздрями.\n\n• **Qi1 Kuai4**: Точка расположена на лице, на 1,0 цуня латеральнее спайки губ в углу рта. Иглу вводить перпендикулярно на глубину 0,2–0,3 цуня или косо, от медиального к латеральному, на глубину 0,5–1,5 цуня.  \n{Реактивная зона эндокринной системы}\n\nJin1 Shui3  \nKuai4 Shui3  \n264  \nМочекаменная болезнь (МКБ)"
+      },
+      "logprobs": null,
+      "finish_reason": "stop"
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 487,
+    "completion_tokens": 566,
+    "total_tokens": 1053,
+    "prompt_tokens_details": {
+      "cached_tokens": 0
+    },
+    "prompt_cache_hit_tokens": 0,
+    "prompt_cache_miss_tokens": 487
+  },
+  "system_fingerprint": "fp_8b330d02d0_prod0820_fp8_kvcache_20260402",
+  "text_ru": "• **Mu4 Zhi1**: Точка расположена на 1,5 цуня дистальнее Ming2 Huan~2. Глубина иглы 1,5–2,5 цуня.  \n{Реактивные зоны желчного пузыря, печени и сердечной ветви} (Ming Huang2 находится в точном центре (от проксимального к дистальному) срединной линии (корональная плоскость) на медиальной поверхности бедра.)\n\n• **Ma3 Jin1 Shui3**: Точка определяется пальпацией углубления по нижнему краю скуловой кости на уровне от медиального до латерального края латерального угла/края глазницы; от этого углубления отступить 0,4 цуня латерально для достижения Ma3 Jin1 Shui3. Глубина иглы 0,2–0,3 цуня.  \n{Реактивные зоны почек (X) и легких (вспомогательные)} (По сути, точка расположена на 0,4 цуня латеральнее SI-18.)\n\n• **Ma3 Kuai4 Shui3**: Точка находится на 0,4 цуня ниже Ma3 Jin1 Shui3. Глубина иглы 0,1–0,3 цуня.  \n{Реактивные зоны почек и мочевого пузыря}\n\n• **Liu4 Kuai4**: Точка расположена на лице, на 1,4 цуня латеральнее центра носогубного желобка. Глубина иглы 0,1–0,3 цуня.  \n{Реактивная зона эндокринной системы} Для определения центра носогубного желобка разделите пополам расстояние от наружного соединения кожи и красной каймы губ до основания носа между ноздрями.\n\n• **Qi1 Kuai4**: Точка расположена на лице, на 1,0 цуня латеральнее спайки губ в углу рта. Иглу вводить перпендикулярно на глубину 0,2–0,3 цуня или косо, от медиального к латеральному, на глубину 0,5–1,5 цуня.  \n{Реактивная зона эндокринной системы}\n\nJin1 Shui3  \nKuai4 Shui3  \n264  \nМочекаменная болезнь (МКБ)"
 }

@@ -1,6 +1,29 @@
 {
-  "source": "Advanced_Tung_Style_Acupuncture_Vol_3_Nephrology,_Urology_&_Andrology.pdf",
-  "title": "1. DMG 33-05 'Hold Liver Spirit Three Needles', and DMG 88-01 'Passing Through t",
-  "text": "Three Needles' (CCC)- alternate with Pyelonephritis CCC-1 (above):\n•\nDMG 33-05 'Hold Liver Spirit Three Needles':\ni. Gan1 Linl( Yi1: This point is located 3 cun proximal to the anterior distal\ntransverse wrist crease on the line drawn proximally from the base of the proximal\nphalanx of the 4th digit (ring finger) to a point midway between HT-3WH0 and PC-",
-  "category": "tung"
+  "id": "6e0dbad3-d3ba-4f48-98ed-3e8977986d4f",
+  "object": "chat.completion",
+  "created": 1782906165,
+  "model": "deepseek-v4-flash",
+  "choices": [
+    {
+      "index": 0,
+      "message": {
+        "role": "assistant",
+        "content": "«Три иглы» (CCC) — чередовать с «Три иглы» при пиелонефрите CCC-1 (выше):\n•\nDMG 33-05 «Три иглы удержания духа печени»:\ni. Gan1 Lin1 (Yi1): Точка расположена на 3 цуня проксимальнее передней дистальной поперечной складки запястья по линии, проведенной проксимально от основания проксимальной фаланги 4-го пальца (безымянного) до точки на середине между HT-3 и WH0 и PC-"
+      },
+      "logprobs": null,
+      "finish_reason": "stop"
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 137,
+    "completion_tokens": 141,
+    "total_tokens": 278,
+    "prompt_tokens_details": {
+      "cached_tokens": 0
+    },
+    "prompt_cache_hit_tokens": 0,
+    "prompt_cache_miss_tokens": 137
+  },
+  "system_fingerprint": "fp_8b330d02d0_prod0820_fp8_kvcache_20260402",
+  "text_ru": "«Три иглы» (CCC) — чередовать с «Три иглы» при пиелонефрите CCC-1 (выше):\n•\nDMG 33-05 «Три иглы удержания духа печени»:\ni. Gan1 Lin1 (Yi1): Точка расположена на 3 цуня проксимальнее передней дистальной поперечной складки запястья по линии, проведенной проксимально от основания проксимальной фаланги 4-го пальца (безымянного) до точки на середине между HT-3 и WH0 и PC-"
 }

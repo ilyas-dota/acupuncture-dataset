@@ -1,6 +1,29 @@
 {
-  "source": "Cosmetic Acu_Eng_kindle.pdf",
-  "title": "section",
-  "text": "Facial  Cosmetic Acupuncture\nFACIAL\nCOSMETIC\nACUPUNCTURE\nSEUNG CHOI, LAC, OMD\nHYUNGSUK CHOI, PHD, LAC, OMD\n~ ! ~\n1\nTHE PRACTICAL GUIDE FOR AN ACUPUNCTURIST\nFacial  Cosmetic Acupuncture\n~ ! ~\n2\nFor Hankyul and Hansam\nFacial  Cosmetic Acupuncture\n~ ! ~\n3\nFACIAL\nCOSMETIC\nACUPUNCTURE\nⓒ 2018 by Seung Choi and Hyungsuk Choi all rights reserved.\nISBN 9781717714381\nThe Practical Guide for an Acupuncturist\nFacial  Cosmetic Acupuncture\n~ ! ~\n4\nHOW TO USE THIS BOOK\nThe surface anatomy and the needle\noverview are displayed here.\n•The location of needle insertion is\ndisplayed as a circle.\n•The  diameter  of  needle  and  the\nangle  of  insertion  are  displayed\nwith color and arrow shape.\nThe practice photo.\nThe head is upside down\nbecause the practitioner\nsees the patient this way\nduring the sessions.\nThe close-up photo of the\nneedles or the surface anatomy\nis displayed here.\nThis section shows the\nneedles used in the photo.\nThis section shows the target\nof acupuncture.\n• Muscles\n• Acupoints\nFacial  Cosmetic Acupuncture\n~ ! ~\n5\nSEUNG CHOI, OMD, LAC\nShe is an acupuncturist, writer, and speaker. She graduated from the best\noriental  medical  school  in  S.  Korea,  Kyunghee  university,  and  ﬁnished\nresidentship training as an internal medicine specialist in Bosaeng hospital in\nSouth Korea. She has experienced in acupuncture over 25 years, especially she\nhas devoted herself to female patients with psychosomatic problems, obesity,\nand cosmetic ﬁelds. She had been a well-known expert of health and a popular\nspeaker in numerous major TV and radio shows in S. Korea. She believes that\ntrue  health  and  beauty  come  from  sound  mind,  therefore  she  has  been\ncombining various ways for mental health in acupuncture practice. She studied\n'Neuropsychiatry' in Kyunghee graduate school of Oriental Medicine and\n‘Dance/Movement therapy' in Seoul women's graduate school in S. Korea.\nShe has been a staff physician of Hamsoa Oriental Medicine Clinic and a\nlecture at Samra and Dongguk University in LA since she moved to US in",
-  "category": "general"
+  "id": "b51d2773-4dd0-4980-b25c-02b39fa081c4",
+  "object": "chat.completion",
+  "created": 1782905929,
+  "model": "deepseek-v4-flash",
+  "choices": [
+    {
+      "index": 0,
+      "message": {
+        "role": "assistant",
+        "content": "КОСМЕТИЧЕСКАЯ АКУПУНКТУРА ЛИЦА\n\nКОСМЕТИЧЕСКАЯ АКУПУНКТУРА ЛИЦА\n\nСЫН ЧХОЙ, LAc, OMD  \nХЁНСУК ЧХОЙ, PhD, LAc, OMD  \n\n~ ! ~  \n1  \n\nПРАКТИЧЕСКОЕ РУКОВОДСТВО ДЛЯ АКУПУНКТУРИСТА  \n\nКосметическая акупунктура лица  \n\n~ ! ~  \n2  \n\nПосвящается Ханкёлю и Хансаму  \n\nКосметическая акупунктура лица  \n\n~ ! ~  \n3  \n\nКОСМЕТИЧЕСКАЯ АКУПУНКТУРА ЛИЦА  \n\n© 2018 Сын Чхой и Хёнсук Чхой. Все права защищены.  \n\nISBN 9781717714381  \n\nПрактическое руководство для акупунктуриста  \n\nКосметическая акупунктура лица  \n\n~ ! ~  \n4  \n\nКАК ПОЛЬЗОВАТЬСЯ ЭТОЙ КНИГОЙ  \n\nЗдесь представлены поверхностная анатомия и обзор игл.  \n\n• Место введения иглы обозначено кружком.  \n• Диаметр иглы и угол введения показаны цветом и формой стрелки.  \n\nФотография процедуры.  \n\nГолова расположена вверх ногами, так как практикующий специалист видит пациента именно так во время сеансов.  \n\nКрупный план игл или поверхностной анатомии представлен здесь.  \n\nВ этом разделе показаны иглы, используемые на фотографии.  \n\nВ этом разделе указана цель акупунктуры.  \n• Мышцы  \n• Акупунктурные точки  \n\nКосметическая акупунктура лица  \n\n~ ! ~  \n5  \n\nСЫН ЧХОЙ, OMD, LAc  \n\nОна акупунктурист, писатель и лектор. Окончила лучшую школу восточной медицины в Южной Корее — Университет Кёнхи, прошла ординатуру по специальности «внутренние болезни» в больнице Босэн в Южной Корее. Имеет более чем 25-летний опыт в акупунктуре, особенно в работе с пациентками с психосоматическими проблемами, ожирением и в области косметологии. Она была известным экспертом в области здоровья..."
+      },
+      "logprobs": null,
+      "finish_reason": "stop"
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 475,
+    "completion_tokens": 575,
+    "total_tokens": 1050,
+    "prompt_tokens_details": {
+      "cached_tokens": 0
+    },
+    "prompt_cache_hit_tokens": 0,
+    "prompt_cache_miss_tokens": 475
+  },
+  "system_fingerprint": "fp_8b330d02d0_prod0820_fp8_kvcache_20260402",
+  "text_ru": "КОСМЕТИЧЕСКАЯ АКУПУНКТУРА ЛИЦА\n\nКОСМЕТИЧЕСКАЯ АКУПУНКТУРА ЛИЦА\n\nСЫН ЧХОЙ, LAc, OMD  \nХЁНСУК ЧХОЙ, PhD, LAc, OMD  \n\n~ ! ~  \n1  \n\nПРАКТИЧЕСКОЕ РУКОВОДСТВО ДЛЯ АКУПУНКТУРИСТА  \n\nКосметическая акупунктура лица  \n\n~ ! ~  \n2  \n\nПосвящается Ханкёлю и Хансаму  \n\nКосметическая акупунктура лица  \n\n~ ! ~  \n3  \n\nКОСМЕТИЧЕСКАЯ АКУПУНКТУРА ЛИЦА  \n\n© 2018 Сын Чхой и Хёнсук Чхой. Все права защищены.  \n\nISBN 9781717714381  \n\nПрактическое руководство для акупунктуриста  \n\nКосметическая акупунктура лица  \n\n~ ! ~  \n4  \n\nКАК ПОЛЬЗОВАТЬСЯ ЭТОЙ КНИГОЙ  \n\nЗдесь представлены поверхностная анатомия и обзор игл.  \n\n• Место введения иглы обозначено кружком.  \n• Диаметр иглы и угол введения показаны цветом и формой стрелки.  \n\nФотография процедуры.  \n\nГолова расположена вверх ногами, так как практикующий специалист видит пациента именно так во время сеансов.  \n\nКрупный план игл или поверхностной анатомии представлен здесь.  \n\nВ этом разделе показаны иглы, используемые на фотографии.  \n\nВ этом разделе указана цель акупунктуры.  \n• Мышцы  \n• Акупунктурные точки  \n\nКосметическая акупунктура лица  \n\n~ ! ~  \n5  \n\nСЫН ЧХОЙ, OMD, LAc  \n\nОна акупунктурист, писатель и лектор. Окончила лучшую школу восточной медицины в Южной Корее — Университет Кёнхи, прошла ординатуру по специальности «внутренние болезни» в больнице Босэн в Южной Корее. Имеет более чем 25-летний опыт в акупунктуре, особенно в работе с пациентками с психосоматическими проблемами, ожирением и в области косметологии. Она была известным экспертом в области здоровья..."
 }

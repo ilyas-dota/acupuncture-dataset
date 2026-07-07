@@ -1,6 +1,29 @@
 {
-  "source": "AL_Introduction_to_Tung's_Acupuncture.pdf",
-  "title": "3. Prostatitis of aged male d/t cold evil, stick 11.06. Because 11.06 can promot",
-  "text": "of the triple energizer (Sanjiao). (Dr. Liu)",
-  "category": "tung"
+  "id": "b93b2842-4946-4621-85fe-a76fc2cefcc3",
+  "object": "chat.completion",
+  "created": 1782906041,
+  "model": "deepseek-v4-flash",
+  "choices": [
+    {
+      "index": 0,
+      "message": {
+        "role": "assistant",
+        "content": "тройного обогревателя (Саньцзяо). (Доктор Лю)"
+      },
+      "logprobs": null,
+      "finish_reason": "stop"
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 50,
+    "completion_tokens": 22,
+    "total_tokens": 72,
+    "prompt_tokens_details": {
+      "cached_tokens": 0
+    },
+    "prompt_cache_hit_tokens": 0,
+    "prompt_cache_miss_tokens": 50
+  },
+  "system_fingerprint": "fp_8b330d02d0_prod0820_fp8_kvcache_20260402",
+  "text_ru": "тройного обогревателя (Саньцзяо). (Доктор Лю)"
 }

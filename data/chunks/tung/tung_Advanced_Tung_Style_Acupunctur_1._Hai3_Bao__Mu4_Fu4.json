@@ -1,6 +1,29 @@
 {
-  "source": "Advanced_Tung_Style_Acupuncture_Vol_3_Nephrology,_Urology_&_Andrology.pdf",
-  "title": "1. Hai3 Bao\\ Mu4 Fu4, Ma3 Kuai4 Shui3, and Ma3 Jin1 Shui3 (MC):",
-  "text": "•\nHai3 Bao4: This point is found on the medial side of the great toe in the center (i.e. plantar-\nto-dorsum center) of the interphalangeal joint of the hallux (great toe). Needle 0.1 to 0.3\ncun. {Heart Branch Reaction Area}\n•\nMu4 Fu4: This point is located 0.3 cun lateral to the center of the median plane on the\ndorsum of the middle phalanx on the znd digit of the foot. Needle 0.2 to 0.4 cun close to the\nbone (use a very fine needle to minimize patient discomfort). {Heart Auxiliary Reaction\nArea}\n•\nMa3 Jin1 Shui3: This point is found on the face in the depression located along the inferior\nborder of the zygomatic bone at the medial-to-lateral level of the lateral canthus. Needle 0.1\nto 0.3 cun. {Kidney and Lung Auxiliary Reaction Areas}\n•\nMa3 Kuai4 Shui3: This point is 0.4 cun immediately inferior to Ma3 Jin1 Shue\napproximately at the most caudal level of the nose. Needle 0.1 to 0.3 cun. {Kidney and\nBladder Reaction Areas}\n184\nOveractive Bladder (MC-2)",
-  "category": "tung"
+  "id": "b9e53c8d-cf7c-4819-b40f-ee6d7baed4aa",
+  "object": "chat.completion",
+  "created": 1782906291,
+  "model": "deepseek-v4-flash",
+  "choices": [
+    {
+      "index": 0,
+      "message": {
+        "role": "assistant",
+        "content": "•\n**Hai3 Bao4 (海豹)**: 此穴位于拇趾内侧，在拇趾趾间关节的中心（即足底至足背的中心）。针刺深度0.1至0.3寸。{心脏分支反应区}\n•\n**Mu4 Fu4 (木腹)**: 此穴位于足第二趾中节背侧正中平面外侧0.3寸处。针刺深度0.2至0.4寸，贴近骨面（使用极细针具以减轻患者不适）。{心脏辅助反应区}\n•\n**Ma3 Jin1 Shui3 (马金水)**: 此穴位于面部，颧骨下缘凹陷处，平外眦内侧至外侧水平。针刺深度0.1至0.3寸。{肾与肺辅助反应区}\n•\n**Ma3 Kuai4 Shui3 (马快水)**: 此穴位于马金水穴正下方0.4寸处，约平鼻部最尾端水平。针刺深度0.1至0.3寸。{肾与膀胱反应区}\n184\n膀胱过度活动症 (MC-2)"
+      },
+      "logprobs": null,
+      "finish_reason": "stop"
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 329,
+    "completion_tokens": 242,
+    "total_tokens": 571,
+    "prompt_tokens_details": {
+      "cached_tokens": 0
+    },
+    "prompt_cache_hit_tokens": 0,
+    "prompt_cache_miss_tokens": 329
+  },
+  "system_fingerprint": "fp_8b330d02d0_prod0820_fp8_kvcache_20260402",
+  "text_ru": "•\n**Hai3 Bao4 (海豹)**: 此穴位于拇趾内侧，在拇趾趾间关节的中心（即足底至足背的中心）。针刺深度0.1至0.3寸。{心脏分支反应区}\n•\n**Mu4 Fu4 (木腹)**: 此穴位于足第二趾中节背侧正中平面外侧0.3寸处。针刺深度0.2至0.4寸，贴近骨面（使用极细针具以减轻患者不适）。{心脏辅助反应区}\n•\n**Ma3 Jin1 Shui3 (马金水)**: 此穴位于面部，颧骨下缘凹陷处，平外眦内侧至外侧水平。针刺深度0.1至0.3寸。{肾与肺辅助反应区}\n•\n**Ma3 Kuai4 Shui3 (马快水)**: 此穴位于马金水穴正下方0.4寸处，约平鼻部最尾端水平。针刺深度0.1至0.3寸。{肾与膀胱反应区}\n184\n膀胱过度活动症 (MC-2)"
 }

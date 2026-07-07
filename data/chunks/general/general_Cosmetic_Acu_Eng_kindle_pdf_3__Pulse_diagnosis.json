@@ -1,6 +1,29 @@
 {
-  "source": "Cosmetic Acu_Eng_kindle.pdf",
-  "title": "3) Pulse diagnosis",
-  "text": "Pulse  and  tongue  diagnosis  are  mandatory  procedure  in  cosmetic  acupuncture.\nRemember the ﬁrst principle. We are approaching the patient's skin with energy regulation\non  the  whole  body.  Without  proper  TCM  diagnosis,  you  cannot  regulate  the  channels\nproperly. Also, a change of pulse through the procedure can give you valuable information\nregarding prognosis and the usage of herbs.",
-  "category": "general"
+  "id": "601ce6d7-8819-40be-a322-157e6d4df911",
+  "object": "chat.completion",
+  "created": 1782905826,
+  "model": "deepseek-v4-flash",
+  "choices": [
+    {
+      "index": 0,
+      "message": {
+        "role": "assistant",
+        "content": "Пульсовая диагностика и диагностика по языку являются обязательными процедурами в косметической акупунктуре.\nПомните первый принцип. Мы подходим к коже пациента с точки зрения регуляции энергии во всем теле. Без правильного диагноза в рамках ТКМ вы не сможете должным образом регулировать каналы. Кроме того, изменение пульса в ходе процедуры может дать вам ценную информацию о прогнозе и применении трав."
+      },
+      "logprobs": null,
+      "finish_reason": "stop"
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 128,
+    "completion_tokens": 103,
+    "total_tokens": 231,
+    "prompt_tokens_details": {
+      "cached_tokens": 0
+    },
+    "prompt_cache_hit_tokens": 0,
+    "prompt_cache_miss_tokens": 128
+  },
+  "system_fingerprint": "fp_8b330d02d0_prod0820_fp8_kvcache_20260402",
+  "text_ru": "Пульсовая диагностика и диагностика по языку являются обязательными процедурами в косметической акупунктуре.\nПомните первый принцип. Мы подходим к коже пациента с точки зрения регуляции энергии во всем теле. Без правильного диагноза в рамках ТКМ вы не сможете должным образом регулировать каналы. Кроме того, изменение пульса в ходе процедуры может дать вам ценную информацию о прогнозе и применении трав."
 }

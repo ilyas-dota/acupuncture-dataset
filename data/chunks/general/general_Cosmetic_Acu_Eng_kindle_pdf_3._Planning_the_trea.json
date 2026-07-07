@@ -1,6 +1,29 @@
 {
-  "source": "Cosmetic Acu_Eng_kindle.pdf",
-  "title": "3. Planning the treatment",
-  "text": "• Plan the whole treatment based on your diagnosis and red ﬂags.\n• One or two treatment sessions per week is generally recommended.\n• Schedule post-treatment sessions, usually once a month, for two or three months to\nmaintain the result of treatment.",
-  "category": "general"
+  "id": "dd787d2a-c08d-4d74-8ee2-45cf43fa3757",
+  "object": "chat.completion",
+  "created": 1782905795,
+  "model": "deepseek-v4-flash",
+  "choices": [
+    {
+      "index": 0,
+      "message": {
+        "role": "assistant",
+        "content": "• Планируйте весь курс лечения на основе вашего диагноза и «красных флагов».\n• Обычно рекомендуется проводить один-два сеанса лечения в неделю.\n• Назначайте поддерживающие сеансы после лечения, как правило, один раз в месяц в течение двух-трёх месяцев для закрепления результата."
+      },
+      "logprobs": null,
+      "finish_reason": "stop"
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 86,
+    "completion_tokens": 79,
+    "total_tokens": 165,
+    "prompt_tokens_details": {
+      "cached_tokens": 0
+    },
+    "prompt_cache_hit_tokens": 0,
+    "prompt_cache_miss_tokens": 86
+  },
+  "system_fingerprint": "fp_8b330d02d0_prod0820_fp8_kvcache_20260402",
+  "text_ru": "• Планируйте весь курс лечения на основе вашего диагноза и «красных флагов».\n• Обычно рекомендуется проводить один-два сеанса лечения в неделю.\n• Назначайте поддерживающие сеансы после лечения, как правило, один раз в месяц в течение двух-трёх месяцев для закрепления результата."
 }

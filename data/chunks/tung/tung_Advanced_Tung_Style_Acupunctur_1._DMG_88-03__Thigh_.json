@@ -1,6 +1,29 @@
 {
-  "source": "Advanced_Tung_Style_Acupuncture_Vol_3_Nephrology,_Urology_&_Andrology.pdf",
-  "title": "1. DMG 88-03 'Thigh Team of Four Horses' (CCC):",
-  "text": "•\nDMG 88-03 'Thigh Team of Four Horses':\ni. Si4 Ma3 Xia4: This point is located 5.5 cun proximal to the superolateral angle of\nthe patella; i.e. proceed 1.0 cun lateral then 5.5 cun proximal to the center of the\nsuperior edge of the patella. Needle perpendicularly 1.0 to 3.0 cun. {General Lung\nand Liver Branch Reaction Areas}\nii. Si4 Ma3 Zhong1: This point is located 2.0 cun immediately proximal to Si4 Ma3\nXia4• Needle perpendicularly 1.0 to 3.0 cun. {General Lung and Liver Branch\nReaction Areas} (Si4 Ma3 Zhong1 is located 1.0 cun lateral then 7.5 cun proximal to\nthe center of the superior edge of the patella.)\niii. Si4 Ma3 Shang4: This point is located 2.0 cun immediately proximal to Si4 Ma3\nZhong1. Needle pe~endicularly 1.0 to 3.0 cun. {General Lung and Liver Branch\nReaction Areas} (Si Ma3 Shang4 is located 1.0 cun lateral then 9.5 cun proximal to\nthe center of the superior edge of the patella.)\nDMG 88-03 'Thigh Team of 4 Horses'\nLow Back Pain (CCC-1)\n[2° to 'Kidney Depletion']",
-  "category": "tung"
+  "id": "86069d7f-9413-49a6-9b5d-be810cab9042",
+  "object": "chat.completion",
+  "created": 1782906212,
+  "model": "deepseek-v4-flash",
+  "choices": [
+    {
+      "index": 0,
+      "message": {
+        "role": "assistant",
+        "content": "DMG 88-03 «Бедренная команда четырех лошадей»:\n\ni. Si4 Ma3 Xia4: Точка расположена на 5,5 цуня проксимальнее верхнелатерального угла надколенника; т.е. отступить 1,0 цунь латерально, затем 5,5 цуня проксимальнее от центра верхнего края надколенника. Иглу вводить перпендикулярно на глубину 1,0–3,0 цуня. {Общие зоны реакции легочной и печеночной ветвей}\n\nii. Si4 Ma3 Zhong1: Точка расположена на 2,0 цуня непосредственно проксимальнее Si4 Ma3 Xia4. Иглу вводить перпендикулярно на глубину 1,0–3,0 цуня. {Общие зоны реакции легочной и печеночной ветвей} (Si4 Ma3 Zhong1 находится на 1,0 цунь латеральнее и 7,5 цуня проксимальнее центра верхнего края надколенника.)\n\niii. Si4 Ma3 Shang4: Точка расположена на 2,0 цуня непосредственно проксимальнее Si4 Ma3 Zhong1. Иглу вводить перпендикулярно на глубину 1,0–3,0 цуня. {Общие зоны реакции легочной и печеночной ветвей} (Si4 Ma3 Shang4 находится на 1,0 цунь латеральнее и 9,5 цуня проксимальнее центра верхнего края надколенника.)\n\nDMG 88-03 «Бедренная команда четырех лошадей»\nБоль в пояснице (CCC-1)\n[Вторичная по отношению к «истощению почек»]"
+      },
+      "logprobs": null,
+      "finish_reason": "stop"
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 365,
+    "completion_tokens": 430,
+    "total_tokens": 795,
+    "prompt_tokens_details": {
+      "cached_tokens": 0
+    },
+    "prompt_cache_hit_tokens": 0,
+    "prompt_cache_miss_tokens": 365
+  },
+  "system_fingerprint": "fp_8b330d02d0_prod0820_fp8_kvcache_20260402",
+  "text_ru": "DMG 88-03 «Бедренная команда четырех лошадей»:\n\ni. Si4 Ma3 Xia4: Точка расположена на 5,5 цуня проксимальнее верхнелатерального угла надколенника; т.е. отступить 1,0 цунь латерально, затем 5,5 цуня проксимальнее от центра верхнего края надколенника. Иглу вводить перпендикулярно на глубину 1,0–3,0 цуня. {Общие зоны реакции легочной и печеночной ветвей}\n\nii. Si4 Ma3 Zhong1: Точка расположена на 2,0 цуня непосредственно проксимальнее Si4 Ma3 Xia4. Иглу вводить перпендикулярно на глубину 1,0–3,0 цуня. {Общие зоны реакции легочной и печеночной ветвей} (Si4 Ma3 Zhong1 находится на 1,0 цунь латеральнее и 7,5 цуня проксимальнее центра верхнего края надколенника.)\n\niii. Si4 Ma3 Shang4: Точка расположена на 2,0 цуня непосредственно проксимальнее Si4 Ma3 Zhong1. Иглу вводить перпендикулярно на глубину 1,0–3,0 цуня. {Общие зоны реакции легочной и печеночной ветвей} (Si4 Ma3 Shang4 находится на 1,0 цунь латеральнее и 9,5 цуня проксимальнее центра верхнего края надколенника.)\n\nDMG 88-03 «Бедренная команда четырех лошадей»\nБоль в пояснице (CCC-1)\n[Вторичная по отношению к «истощению почек»]"
 }

@@ -1,6 +1,29 @@
 {
-  "source": "Cosmetic Acu_Eng_kindle.pdf",
-  "title": "2. Lighting and Exposure",
-  "text": "Exposure  affects  the  result.  Just  little  bit  of  more\nexposure can make a patient’s face a lot younger with\nless wrinkles. If you use the exactly same room without\nany other light source, one-time setting can be enough.\nHowever, there can be some amount of natural light\nwhich changes the exposure. So, a 50% gray card is\nuseful, if you include a 50% gray card inside the frame,\nyou can adjust to the same condition even later.",
-  "category": "general"
+  "id": "a0469efa-9d52-4cbc-8742-d97b0609bc85",
+  "object": "chat.completion",
+  "created": 1782905746,
+  "model": "deepseek-v4-flash",
+  "choices": [
+    {
+      "index": 0,
+      "message": {
+        "role": "assistant",
+        "content": "曝光度影响结果。只需稍微增加一点曝光量，就能让患者的面部看起来年轻许多，皱纹也更少。如果在完全相同的房间内使用，且无其他光源，一次性设置便足够。然而，自然光的存在可能会改变曝光度。因此，50%灰卡非常有用——若在画面中放入一张50%灰卡，即便后期也能调整至相同条件。"
+      },
+      "logprobs": null,
+      "finish_reason": "stop"
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 145,
+    "completion_tokens": 80,
+    "total_tokens": 225,
+    "prompt_tokens_details": {
+      "cached_tokens": 0
+    },
+    "prompt_cache_hit_tokens": 0,
+    "prompt_cache_miss_tokens": 145
+  },
+  "system_fingerprint": "fp_8b330d02d0_prod0820_fp8_kvcache_20260402",
+  "text_ru": "曝光度影响结果。只需稍微增加一点曝光量，就能让患者的面部看起来年轻许多，皱纹也更少。如果在完全相同的房间内使用，且无其他光源，一次性设置便足够。然而，自然光的存在可能会改变曝光度。因此，50%灰卡非常有用——若在画面中放入一张50%灰卡，即便后期也能调整至相同条件。"
 }

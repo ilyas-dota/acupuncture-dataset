@@ -1,6 +1,29 @@
 {
-  "source": "AL_Introduction_to_Tung's_Acupuncture.pdf",
-  "title": "9 Point Unit",
-  "text": "Location: The center point is located over the thyroid cartilage. This is flanked by a point\nto each side 1.5 cun lateral. The upper three points are 1 cun superior and 1.5 cun lateral.\nThe lower three points are 1.5 cun inferior and 1.5 cun lateral.\nTung's Five Zang Channel: lung\nIndications: throat moth [tonsillitis], throat pain, thyroiditis, phlegm accumulating in the\nthroat which will not exit.\nNeedle Technique: Use a three-edged needle to bleed. This is an emergency treatment.\nWhen bleeding these points, pinch up the skin and be careful not to injure the sinews or\ncartilage.\nVT.02 Twelve Monkeys ( Shi Er Hou) + =Jfl",
-  "category": "tung"
+  "id": "e8c457f0-94b4-4bb5-b698-40145c26b8cb",
+  "object": "chat.completion",
+  "created": 1782906131,
+  "model": "deepseek-v4-flash",
+  "choices": [
+    {
+      "index": 0,
+      "message": {
+        "role": "assistant",
+        "content": "Расположение: Центральная точка находится над щитовидным хрящом. По обе стороны от неё, на расстоянии 1,5 цуня латерально, расположены две точки. Три верхние точки находятся на 1 цунь выше и на 1,5 цуня латерально. Три нижние точки находятся на 1,5 цуня ниже и на 1,5 цуня латерально.\n\nКанал Пяти Цзан по Туну: лёгкие\n\nПоказания: горловая моль [тонзиллит], боль в горле, тиреоидит, скопление флегмы в горле, которая не выходит наружу.\n\nТехника иглоукалывания: Используйте трёхгранную иглу для кровопускания. Это экстренное лечение. При кровопускании из этих точек захватите кожу в складку и будьте осторожны, чтобы не повредить сухожилия или хрящ.\n\nVT.02 Двенадцать обезьян (Shi Er Hou) + =Jfl"
+      },
+      "logprobs": null,
+      "finish_reason": "stop"
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 203,
+    "completion_tokens": 250,
+    "total_tokens": 453,
+    "prompt_tokens_details": {
+      "cached_tokens": 0
+    },
+    "prompt_cache_hit_tokens": 0,
+    "prompt_cache_miss_tokens": 203
+  },
+  "system_fingerprint": "fp_8b330d02d0_prod0820_fp8_kvcache_20260402",
+  "text_ru": "Расположение: Центральная точка находится над щитовидным хрящом. По обе стороны от неё, на расстоянии 1,5 цуня латерально, расположены две точки. Три верхние точки находятся на 1 цунь выше и на 1,5 цуня латерально. Три нижние точки находятся на 1,5 цуня ниже и на 1,5 цуня латерально.\n\nКанал Пяти Цзан по Туну: лёгкие\n\nПоказания: горловая моль [тонзиллит], боль в горле, тиреоидит, скопление флегмы в горле, которая не выходит наружу.\n\nТехника иглоукалывания: Используйте трёхгранную иглу для кровопускания. Это экстренное лечение. При кровопускании из этих точек захватите кожу в складку и будьте осторожны, чтобы не повредить сухожилия или хрящ.\n\nVT.02 Двенадцать обезьян (Shi Er Hou) + =Jfl"
 }

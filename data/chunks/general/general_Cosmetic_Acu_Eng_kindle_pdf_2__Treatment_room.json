@@ -1,6 +1,29 @@
 {
-  "source": "Cosmetic Acu_Eng_kindle.pdf",
-  "title": "2) Treatment room",
-  "text": "• Control the temperature and atmosphere based on the patient’s individual needs to let\nthem fully relax in the treatment room before treatment.\n• Organize all the equipment into the right places.",
-  "category": "general"
+  "id": "e8dcb184-2d86-4f15-960a-5b7823ffd31b",
+  "object": "chat.completion",
+  "created": 1782905779,
+  "model": "deepseek-v4-flash",
+  "choices": [
+    {
+      "index": 0,
+      "message": {
+        "role": "assistant",
+        "content": "• Контролируйте температуру и атмосферу в кабинете в соответствии с индивидуальными потребностями пациента, чтобы он мог полностью расслабиться перед началом лечения.\n• Разместите все оборудование в правильном порядке."
+      },
+      "logprobs": null,
+      "finish_reason": "stop"
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 73,
+    "completion_tokens": 51,
+    "total_tokens": 124,
+    "prompt_tokens_details": {
+      "cached_tokens": 0
+    },
+    "prompt_cache_hit_tokens": 0,
+    "prompt_cache_miss_tokens": 73
+  },
+  "system_fingerprint": "fp_8b330d02d0_prod0820_fp8_kvcache_20260402",
+  "text_ru": "• Контролируйте температуру и атмосферу в кабинете в соответствии с индивидуальными потребностями пациента, чтобы он мог полностью расслабиться перед началом лечения.\n• Разместите все оборудование в правильном порядке."
 }

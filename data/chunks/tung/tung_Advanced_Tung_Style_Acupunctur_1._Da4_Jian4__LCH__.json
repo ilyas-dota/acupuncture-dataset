@@ -1,6 +1,29 @@
 {
-  "source": "Advanced_Tung_Style_Acupuncture_Vol_3_Nephrology,_Urology_&_Andrology.pdf",
-  "title": "1. Da4 Jian4 (LCH):",
-  "text": "•\nDa4 Jian4: This point is located on the anterior surface of the proximal phalanx of the index\nfinger, 0.3 cun radial (lateral) to the exact center of said phalanx. Needle 0.2 to 0.3 cun.\nBILATERAL NEEDliNG CONTRAINDICATED. {Heart Organ and Six Bowels Branch\nReaction Areas} (This point is located at the proximal-to-distal center of digit line B; to\nlocate the center of digit line B, simply bisect the distance from the anterior\nmetacarpophalangeal skin crease to the anterior proximal interphalangeal skin crease along\nthe course of digit line B.)\nA-P view of the RIGHT index finger.\n308\nOrchitis (CCC)",
-  "category": "tung"
+  "id": "4ee2552b-cb7d-4dcc-b06a-90bbaa68fd7e",
+  "object": "chat.completion",
+  "created": 1782906226,
+  "model": "deepseek-v4-flash",
+  "choices": [
+    {
+      "index": 0,
+      "message": {
+        "role": "assistant",
+        "content": "•\nDa4 Jian4: Точка расположена на передней поверхности проксимальной фаланги указательного пальца, на 0,3 цуня радиально (латерально) от точного центра указанной фаланги. Иглу вводят на глубину 0,2–0,3 цуня. ДВУСТОРОННЕЕ ИГЛОУКАЛЫВАНИЕ ПРОТИВОПОКАЗАНО. {Реакционные зоны ветвей сердца и шести органов} (Точка находится на проксимально-дистальном центре линии B пальца; для определения центра линии B пальца достаточно разделить пополам расстояние от передней кожной складки пястно-фалангового сустава до передней кожной складки проксимального межфалангового сустава по ходу линии B пальца.)\n\nПередне-задняя проекция ПРАВОГО указательного пальца.\n308\nОрхит (Противопоказания, осложнения, сопутствующие состояния)"
+      },
+      "logprobs": null,
+      "finish_reason": "stop"
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 206,
+    "completion_tokens": 241,
+    "total_tokens": 447,
+    "prompt_tokens_details": {
+      "cached_tokens": 0
+    },
+    "prompt_cache_hit_tokens": 0,
+    "prompt_cache_miss_tokens": 206
+  },
+  "system_fingerprint": "fp_8b330d02d0_prod0820_fp8_kvcache_20260402",
+  "text_ru": "•\nDa4 Jian4: Точка расположена на передней поверхности проксимальной фаланги указательного пальца, на 0,3 цуня радиально (латерально) от точного центра указанной фаланги. Иглу вводят на глубину 0,2–0,3 цуня. ДВУСТОРОННЕЕ ИГЛОУКАЛЫВАНИЕ ПРОТИВОПОКАЗАНО. {Реакционные зоны ветвей сердца и шести органов} (Точка находится на проксимально-дистальном центре линии B пальца; для определения центра линии B пальца достаточно разделить пополам расстояние от передней кожной складки пястно-фалангового сустава до передней кожной складки проксимального межфалангового сустава по ходу линии B пальца.)\n\nПередне-задняя проекция ПРАВОГО указательного пальца.\n308\nОрхит (Противопоказания, осложнения, сопутствующие состояния)"
 }

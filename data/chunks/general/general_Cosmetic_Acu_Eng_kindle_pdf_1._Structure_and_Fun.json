@@ -1,6 +1,29 @@
 {
-  "source": "Cosmetic Acu_Eng_kindle.pdf",
-  "title": "1. Structure and Function of the Skin",
-  "text": "The skin is the largest and heaviest organ in the body. It is the ﬁrst line of defense of  the\nimmune system. The thickest skin is located at the soles of our feet, and the thinnest is\nbetween the eyebrow and the eye. Thick or thin, the skin protects the feeble body from\ngravels, shred of glasses, and even small dust. It is also an insulation device maintaining our\nbody temperature, and a sensory input device just like our eyes and ears. If our skin is not\nperforming  its  sensory  function  properly,  we  cannot  lift  a  small  empty  glass  without\nbreaking it. The skin is divided into three layers. The ﬁrst layer is the epidermis. It is the\nouter tissue of the dermis and works as a protective ﬁrst barrier. The second layer is the\ndermis, which literally means skin, which provides structure and support. The last layer is\nthe hypodermis, which is located right under the dermis. The adipose cell (fat) is a major\ncomponent that provides insulation and cushioning for the body.\n[ Three layers of the skin ]\n• Epidermis\n• Dermis\n• Hypodermis (Subcutaneous layer)",
-  "category": "general"
+  "id": "b8709a5a-a057-48ba-a060-3ceb9f760ed4",
+  "object": "chat.completion",
+  "created": 1782905690,
+  "model": "deepseek-v4-flash",
+  "choices": [
+    {
+      "index": 0,
+      "message": {
+        "role": "assistant",
+        "content": "Кожа — самый большой и тяжелый орган тела. Она является первой линией защиты иммунной системы. Самая толстая кожа расположена на подошвах ног, а самая тонкая — между бровью и глазом. Толстая или тонкая, кожа защищает хрупкое тело от гравия, осколков стекла и даже мелкой пыли. Она также выполняет функцию теплоизоляции, поддерживая температуру тела, и является сенсорным устройством, подобно нашим глазам и ушам. Если кожа не выполняет свою сенсорную функцию должным образом, мы не сможем поднять даже маленький пустой стакан, не разбив его. Кожа делится на три слоя. Первый слой — эпидермис. Это наружная ткань дермы, которая служит первой защитной преградой. Второй слой — дерма, что буквально означает «кожа», обеспечивающая структуру и поддержку. Последний слой — гиподерма, расположенная непосредственно под дермой. Адипоциты (жировые клетки) являются основным компонентом, обеспечивающим теплоизоляцию и амортизацию для тела.\n\n[ Три слоя кожи ]\n• Эпидермис\n• Дерма\n• Гиподерма (подкожный слой)"
+      },
+      "logprobs": null,
+      "finish_reason": "stop"
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 293,
+    "completion_tokens": 310,
+    "total_tokens": 603,
+    "prompt_tokens_details": {
+      "cached_tokens": 0
+    },
+    "prompt_cache_hit_tokens": 0,
+    "prompt_cache_miss_tokens": 293
+  },
+  "system_fingerprint": "fp_8b330d02d0_prod0820_fp8_kvcache_20260402",
+  "text_ru": "Кожа — самый большой и тяжелый орган тела. Она является первой линией защиты иммунной системы. Самая толстая кожа расположена на подошвах ног, а самая тонкая — между бровью и глазом. Толстая или тонкая, кожа защищает хрупкое тело от гравия, осколков стекла и даже мелкой пыли. Она также выполняет функцию теплоизоляции, поддерживая температуру тела, и является сенсорным устройством, подобно нашим глазам и ушам. Если кожа не выполняет свою сенсорную функцию должным образом, мы не сможем поднять даже маленький пустой стакан, не разбив его. Кожа делится на три слоя. Первый слой — эпидермис. Это наружная ткань дермы, которая служит первой защитной преградой. Второй слой — дерма, что буквально означает «кожа», обеспечивающая структуру и поддержку. Последний слой — гиподерма, расположенная непосредственно под дермой. Адипоциты (жировые клетки) являются основным компонентом, обеспечивающим теплоизоляцию и амортизацию для тела.\n\n[ Три слоя кожи ]\n• Эпидермис\n• Дерма\n• Гиподерма (подкожный слой)"
 }

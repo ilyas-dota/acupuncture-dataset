@@ -1,6 +1,29 @@
 {
-  "source": "Advanced_Tung_Style_Acupuncture_Vol_3_Nephrology,_Urology_&_Andrology.pdf",
-  "title": "1. Liu4 Wan2, Hua1 Gu3 Si\\ and DMG 77-12 'Lower Three Emperors' (LCH):",
-  "text": "•\nLiu4 Wan2: This point is located on the dorsum of the foot between the 4th and 5th\nmetatarsal bones, 0.5 cun proximal to the metatarsophalangeal joints. Needle 0.3 to 0.5 cun.\nUNilATERAL\nNEEDliNG\nONLY;\nCONTRAINDICATED\nIN\nPREGNANCY.\nCONTRAINDICATED IN CASES MARKED BY ASTHMA, PULMONARY DISEASES,\nEXCESSIVE PHLEGM/SPUTUM OR DEBiliTATION. {Lung Branch and Kidney Branch\nReaction Areas}\n•\nHua1 Gu3 Si4: This Eoint is located on the plantar surface of the foot, in the interosseous\nspace between the 4 and 5th metatarsal bones, 1.0 cun proximal to the interdigital web\nbetween the 4th and 5th toes. Needle 0.5 to 1.0 cun. {Lung Reaction Area}\n• DMG 77-12 'Lower Three Emperors':\ni. Tian1 Huani: This point is found in the depression immediately distal to the\nmedial tibial condyle, and lies 2.5 cun distal to the articular surface of the medial\ntibial condyle. Needle 0.5 to 1.0 cun. {Kidney, Six Bowels, and Heart Branch\nReaction Areas}\nii. Di4 Huani: This point is located 7.0 cun proximal to the medial malleolus along\nthe medial border of the tibia. Needle inferior to superior at a 45° angle 1.0 to 1.8\ncun. CONTRAINDICATED IN PREGNANCY. {Kidney Branch Reaction Area}\niii. Ren2 Huani: This point is located 3.0 cun proximal to the medial malleolus along\nthe medial border of the tibia. Needle 0.6 to 1.2 cun. CONTRAINDICATED IN\nPREGNANCY. {Kidney Branch Reaction Area}\nDMG 77-12 'Lower 3 Emperors'\n86\nHematuria (LKC)",
-  "category": "tung"
+  "id": "58b58359-a5ef-44a1-8869-06772b972a83",
+  "object": "chat.completion",
+  "created": 1782906349,
+  "model": "deepseek-v4-flash",
+  "choices": [
+    {
+      "index": 0,
+      "message": {
+        "role": "assistant",
+        "content": "•\nLiu4 Wan2: Точка расположена на тыльной стороне стопы между 4-й и 5-й плюсневыми костями, на 0,5 цуня проксимальнее плюснефаланговых суставов. Иглу вводить на глубину 0,3–0,5 цуня. ТОЛЬКО ОДНОСТОРОННЕЕ ИГЛОУКАЛЫВАНИЕ; ПРОТИВОПОКАЗАНО ПРИ БЕРЕМЕННОСТИ. ПРОТИВОПОКАЗАНО ПРИ АСТМЕ, ЗАБОЛЕВАНИЯХ ЛЕГКИХ, ИЗБЫТОЧНОЙ МОКРОТЕ/ОТХАРКИВАНИИ ИЛИ ИСТОЩЕНИИ. {Зоны реакции легочной и почечной ветвей}\n•\nHua1 Gu3 Si4: Точка расположена на подошвенной поверхности стопы, в межкостном промежутке между 4-й и 5-й плюсневыми костями, на 1,0 цуня проксимальнее межпальцевой складки между 4-м и 5-м пальцами стопы. Иглу вводить на глубину 0,5–1,0 цуня. {Зона реакции легких}\n• DMG 77-12 «Три нижних императора»:\ni. Tian1 Huani: Точка находится в углублении сразу дистальнее медиального мыщелка большеберцовой кости, на 2,5 цуня дистальнее суставной поверхности медиального мыщелка большеберцовой кости. Иглу вводить на глубину 0,5–1,0 цуня. {Зоны реакции почек, шести кишечников и сердечной ветви}\nii. Di4 Huani: Точка расположена на 7,0 цуня проксимальнее медиальной лодыжки по медиальному краю большеберцовой кости. Иглу вводить снизу вверх под углом 45° на глубину 1,0–1,8 цуня. ПРОТИВОПОКАЗАНО ПРИ БЕРЕМЕННОСТИ. {Зона реакции почечной ветви}\niii. Ren2 Huani: Точка расположена на 3,0 цуня проксимальнее медиальной лодыжки по медиальному краю большеберцовой кости. Иглу вводить на глубину 0,6–1,2 цуня. ПРОТИВОПОКАЗАНО ПРИ БЕРЕМЕННОСТИ. {Зона реакции почечной ветви}\nDMG 77-12 «Три нижних императора»\n86\nГематурия (LKC)"
+      },
+      "logprobs": null,
+      "finish_reason": "stop"
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 520,
+    "completion_tokens": 678,
+    "total_tokens": 1198,
+    "prompt_tokens_details": {
+      "cached_tokens": 0
+    },
+    "prompt_cache_hit_tokens": 0,
+    "prompt_cache_miss_tokens": 520
+  },
+  "system_fingerprint": "fp_8b330d02d0_prod0820_fp8_kvcache_20260402",
+  "text_ru": "•\nLiu4 Wan2: Точка расположена на тыльной стороне стопы между 4-й и 5-й плюсневыми костями, на 0,5 цуня проксимальнее плюснефаланговых суставов. Иглу вводить на глубину 0,3–0,5 цуня. ТОЛЬКО ОДНОСТОРОННЕЕ ИГЛОУКАЛЫВАНИЕ; ПРОТИВОПОКАЗАНО ПРИ БЕРЕМЕННОСТИ. ПРОТИВОПОКАЗАНО ПРИ АСТМЕ, ЗАБОЛЕВАНИЯХ ЛЕГКИХ, ИЗБЫТОЧНОЙ МОКРОТЕ/ОТХАРКИВАНИИ ИЛИ ИСТОЩЕНИИ. {Зоны реакции легочной и почечной ветвей}\n•\nHua1 Gu3 Si4: Точка расположена на подошвенной поверхности стопы, в межкостном промежутке между 4-й и 5-й плюсневыми костями, на 1,0 цуня проксимальнее межпальцевой складки между 4-м и 5-м пальцами стопы. Иглу вводить на глубину 0,5–1,0 цуня. {Зона реакции легких}\n• DMG 77-12 «Три нижних императора»:\ni. Tian1 Huani: Точка находится в углублении сразу дистальнее медиального мыщелка большеберцовой кости, на 2,5 цуня дистальнее суставной поверхности медиального мыщелка большеберцовой кости. Иглу вводить на глубину 0,5–1,0 цуня. {Зоны реакции почек, шести кишечников и сердечной ветви}\nii. Di4 Huani: Точка расположена на 7,0 цуня проксимальнее медиальной лодыжки по медиальному краю большеберцовой кости. Иглу вводить снизу вверх под углом 45° на глубину 1,0–1,8 цуня. ПРОТИВОПОКАЗАНО ПРИ БЕРЕМЕННОСТИ. {Зона реакции почечной ветви}\niii. Ren2 Huani: Точка расположена на 3,0 цуня проксимальнее медиальной лодыжки по медиальному краю большеберцовой кости. Иглу вводить на глубину 0,6–1,2 цуня. ПРОТИВОПОКАЗАНО ПРИ БЕРЕМЕННОСТИ. {Зона реакции почечной ветви}\nDMG 77-12 «Три нижних императора»\n86\nГематурия (LKC)"
 }

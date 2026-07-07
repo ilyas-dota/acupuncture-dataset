@@ -1,6 +1,29 @@
 {
-  "source": "Advanced_Tung_Style_Acupuncture_Vol_3_Nephrology,_Urology_&_Andrology.pdf",
-  "title": "1. Ma3 Kuai4 Shui3, Ce4 San1 Li\\ DMG 77-12 'Lower Three Emperors', Tong1 Shen\\ a",
-  "text": "Tong1 Wei4 (HPC):\n46\n•\nMa3 Kuai4 Shui3: This point is 0.4 cun immediately inferior to Ma3 Jin1 Shui3• Needle 0.1\nto 0.3 cun. {Kidney and Bladder Reaction Areas} (Ma3 Jin1 Shui3 is found on the face in\nthe depression located along the inferior border of the zygomatic bone at the medial-to-\nlateral level of the lateral canthus)\n•\nCe4 San1 Li3: This point is located 1.5 cun lateral to Si4 Hua1 Shang4• Needle 0.5 to 1.0 cun.\n{Lung Branch Reaction Area} (Si4 Hua1 Shang4 is located in the depression between the\norigins of the tibialis anterior and extensor digitorum longus muscles, 3 cun distal to the\nlateral 'eye' of the knee, on the anterior aspect of the proximal leg.)\n•\nDMG 77-12 'Lower Three Emperors':\ni. Tian1 Huanlf: This point is found in the depression immediately distal to the\nmedial tibial condyle, and lies 2.5 cun distal to the articular surface of the medial\ntibial condyle. Needle 0.5 to 1.0 cun. MOXABUSTION CONTRAINDICATED.\nNEEDLING ALSO CONTRAINDICATED IN PREGNANCY. {Kidney, Six Bowels,\nand Heart Branch Reaction Areas}\nii. Di4 Huanlf: This point is located 7 cun proximal to the medial malleolus along the\nmedial border of the tibia. Needle inferior to superior at a 45° angle 1.0 to 1.8 cun.\nCONTRAINDICATED IN PREGNANCY. {Kidney Branch Reaction Area}\niii. Ren2 Huanlf: This point is located 3 cun proximal to the medial malleolus along\nthe medial border of the tibia. Needle 0.6 to 1.2 cun. CONTRAINDICATED IN\nPREGNANCY. {Kidney Branch Reaction Area}\n•\nTong1 Shen4: This point is located in the depression found at the superomedial angle of the\npatella. Needle 0.3 to 0.5 cun. {Kidney Reaction Area}\n•\nTong1 Wei4: This point is located 2.0 cun immediately proximal to Tong1 Shen4• Needle\n0.5 to 1.0 cun. {Kidney Reaction Area} (Tong1 Shen4 is located in the depression found at\nthe superomedial angle of the patella)\n47\nFrequent Micturition (HPC-2)\nDMG 77-12 'Lower 3 Emperors'\n48\nFrequent Micturition (LKC-1)",
-  "category": "tung"
+  "id": "48727aaa-4c81-4d41-8f44-9ffed913e631",
+  "object": "chat.completion",
+  "created": 1782906369,
+  "model": "deepseek-v4-flash",
+  "choices": [
+    {
+      "index": 0,
+      "message": {
+        "role": "assistant",
+        "content": "通威（HPC）：\n46\n•\n马快水：此穴位于马金水直下0.4寸。针刺0.1至0.3寸。{肾与膀胱反应区}（马金水位于面部，颧骨下缘凹陷处，平外眦内侧至外侧水平）\n•\n侧三里：此穴位于四花上外侧1.5寸。针刺0.5至1.0寸。{肺支反应区}（四花上位于胫骨前肌与趾长伸肌起点之间的凹陷处，膝外侧“眼”直下3寸，小腿近端前侧）\n•\nDMG 77-12 “下三皇”：\ni. 天皇：此穴位于胫骨内侧髁远端紧邻的凹陷处，距胫骨内侧髁关节面2.5寸。针刺0.5至1.0寸。禁灸。妊娠期亦禁针。{肾、六腑及心支反应区}\nii. 地皇：此穴位于内踝尖沿胫骨内侧缘直上7寸。从下向上45°角斜刺1.0至1.8寸。妊娠期禁针。{肾支反应区}\niii. 人皇：此穴位于内踝尖沿胫骨内侧缘直上3寸。针刺0.6至1.2寸。妊娠期禁针。{肾支反应区}\n•\n通肾：此穴"
+      },
+      "logprobs": null,
+      "finish_reason": "stop"
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 513,
+    "completion_tokens": 310,
+    "total_tokens": 823,
+    "prompt_tokens_details": {
+      "cached_tokens": 0
+    },
+    "prompt_cache_hit_tokens": 0,
+    "prompt_cache_miss_tokens": 513
+  },
+  "system_fingerprint": "fp_8b330d02d0_prod0820_fp8_kvcache_20260402",
+  "text_ru": "通威（HPC）：\n46\n•\n马快水：此穴位于马金水直下0.4寸。针刺0.1至0.3寸。{肾与膀胱反应区}（马金水位于面部，颧骨下缘凹陷处，平外眦内侧至外侧水平）\n•\n侧三里：此穴位于四花上外侧1.5寸。针刺0.5至1.0寸。{肺支反应区}（四花上位于胫骨前肌与趾长伸肌起点之间的凹陷处，膝外侧“眼”直下3寸，小腿近端前侧）\n•\nDMG 77-12 “下三皇”：\ni. 天皇：此穴位于胫骨内侧髁远端紧邻的凹陷处，距胫骨内侧髁关节面2.5寸。针刺0.5至1.0寸。禁灸。妊娠期亦禁针。{肾、六腑及心支反应区}\nii. 地皇：此穴位于内踝尖沿胫骨内侧缘直上7寸。从下向上45°角斜刺1.0至1.8寸。妊娠期禁针。{肾支反应区}\niii. 人皇：此穴位于内踝尖沿胫骨内侧缘直上3寸。针刺0.6至1.2寸。妊娠期禁针。{肾支反应区}\n•\n通肾：此穴"
 }

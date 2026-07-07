@@ -1,6 +1,29 @@
 {
-  "source": "Cosmetic Acu_Eng_kindle.pdf",
-  "title": "1) Epidermis",
-  "text": "The epidermis is the outer layer of the three layers of skin and is composed of four\ndifferent types of cell. Keratinocyte is the most abundant (90%) and produces keratin, which\nis an outer barrier for the body. Melanocyte (pigment cell) synthesizes melanin, which gives\ncolor to the skin. Langerhan’s cell works for immunity, and the Merkel cell is involved in\nsensation.",
-  "category": "general"
+  "id": "c832ecbc-4d7f-44a3-bc74-34fcec921e3a",
+  "object": "chat.completion",
+  "created": 1782905721,
+  "model": "deepseek-v4-flash",
+  "choices": [
+    {
+      "index": 0,
+      "message": {
+        "role": "assistant",
+        "content": "Эпидермис является наружным слоем из трех слоев кожи и состоит из четырех различных типов клеток. Кератиноцит — самый распространенный (90%) — вырабатывает кератин, который служит внешним барьером организма. Меланоцит (пигментная клетка) синтезирует меланин, придающий коже цвет. Клетка Лангерганса отвечает за иммунитет, а клетка Меркеля участвует в восприятии ощущений."
+      },
+      "logprobs": null,
+      "finish_reason": "stop"
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 123,
+    "completion_tokens": 117,
+    "total_tokens": 240,
+    "prompt_tokens_details": {
+      "cached_tokens": 0
+    },
+    "prompt_cache_hit_tokens": 0,
+    "prompt_cache_miss_tokens": 123
+  },
+  "system_fingerprint": "fp_8b330d02d0_prod0820_fp8_kvcache_20260402",
+  "text_ru": "Эпидермис является наружным слоем из трех слоев кожи и состоит из четырех различных типов клеток. Кератиноцит — самый распространенный (90%) — вырабатывает кератин, который служит внешним барьером организма. Меланоцит (пигментная клетка) синтезирует меланин, придающий коже цвет. Клетка Лангерганса отвечает за иммунитет, а клетка Меркеля участвует в восприятии ощущений."
 }

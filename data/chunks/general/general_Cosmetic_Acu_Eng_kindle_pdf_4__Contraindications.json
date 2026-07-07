@@ -1,6 +1,29 @@
 {
-  "source": "Cosmetic Acu_Eng_kindle.pdf",
-  "title": "4) Contraindications",
-  "text": "• Absolute contra-indication: Hemophilia.\n• Relative: Pacemaker, Inﬂammatory skin diseases, Seizure disorder.\n~ !  ~\n45\nFacial  Cosmetic Acupuncture",
-  "category": "general"
+  "id": "f9d87e5b-8bd4-42be-ad9b-8d1f208cfe0f",
+  "object": "chat.completion",
+  "created": 1782905875,
+  "model": "deepseek-v4-flash",
+  "choices": [
+    {
+      "index": 0,
+      "message": {
+        "role": "assistant",
+        "content": "• Абсолютное противопоказание: Гемофилия.\n• Относительные: Кардиостимулятор, Воспалительные заболевания кожи, Судорожные расстройства.\n~ ! ~\n45\nКосметическая акупунктура лица"
+      },
+      "logprobs": null,
+      "finish_reason": "stop"
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 76,
+    "completion_tokens": 58,
+    "total_tokens": 134,
+    "prompt_tokens_details": {
+      "cached_tokens": 0
+    },
+    "prompt_cache_hit_tokens": 0,
+    "prompt_cache_miss_tokens": 76
+  },
+  "system_fingerprint": "fp_8b330d02d0_prod0820_fp8_kvcache_20260402",
+  "text_ru": "• Абсолютное противопоказание: Гемофилия.\n• Относительные: Кардиостимулятор, Воспалительные заболевания кожи, Судорожные расстройства.\n~ ! ~\n45\nКосметическая акупунктура лица"
 }

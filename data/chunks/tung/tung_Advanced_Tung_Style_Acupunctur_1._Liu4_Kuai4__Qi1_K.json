@@ -1,6 +1,29 @@
 {
-  "source": "Advanced_Tung_Style_Acupuncture_Vol_3_Nephrology,_Urology_&_Andrology.pdf",
-  "title": "1. Liu4 Kuai4, Qi1 Kuai4, Shui3 Yu4, and Mu4 Zhi1 (LKC):",
-  "text": "•\nLiu4 Kuai4: This point is located on the face, 1.4 cun lateral to the center of the philtrum.\nNeedle 0.1 to 0.3 cun. {Endocrine Reaction Area} To locate the center of the philtrum,\nbisect the distance from the extraoral labial-cutaneous junction to the base of the nose\nbetween the nostrils.\n•\nQi1 Kuai4: This point is located on the face, 1.0 cun lateral to the commissure of the lips at\nthe angle of the mouth. Needle perpendicularly 0.2 to 0.3 cun or obliquely, from medial to\nlateral, 0.5 to 1.5 cun. {Endocrine Reaction Area}\n•\nShoe Yu4 : Locate this point by coursing 2.0 cun posterior to Bei1 Mian4 - depending on\nthe size of the patient, the point may be somewhat inferior to the level of Bei1 Mian4•\nNeedle 0.3 to 0.5 cun. 'Let' yellow serous fluid to treat kidney disorders. {Kidney Branch\nReaction Area} (Bei1 Mian4 is 0.2 cun superior (proximal) to the large depression found\nimmediately lateral (distal) to the acromion process of the scapula when the arm is abducted\nto 90°.)\n•\nMu4 Zhi1: This point is located 1.5 cun distal to Ming2 Huanf2• Needle 1.5 to 2.5 cun.\n{Gallbladder, Liver, and Heart Branch Reaction Areas} (Ming Huang2 is located at the\nexact center (proximal to distal) of the midline (coronal plane) on the medial aspect of the\nthigh.)\n257\nUrodynia (LCH)",
-  "category": "tung"
+  "id": "f3f9b0d3-617b-4f4e-bfd4-f6aad669e2f1",
+  "object": "chat.completion",
+  "created": 1782906344,
+  "model": "deepseek-v4-flash",
+  "choices": [
+    {
+      "index": 0,
+      "message": {
+        "role": "assistant",
+        "content": "•\nЛю Куай: Точка расположена на лице, на 1,4 цуня латеральнее центра фильтра.\nГлубина иглы 0,1–0,3 цуня. {Зона эндокринной реакции}. Для определения центра фильтра\nразделите пополам расстояние от внеротовой кожно-губной границы до основания носа\nмежду ноздрями.\n•\nЦи Куай: Точка расположена на лице, на 1,0 цуня латеральнее спайки губ у\nугла рта. Иглу вводят перпендикулярно на глубину 0,2–0,3 цуня или косо, медиально-латерально,\nна 0,5–1,5 цуня. {Зона эндокринной реакции}.\n•\nШу Юй: Точку находят, отступив на 2,0 цуня кзади от Бэй Мянь — в зависимости\nот размеров пациента точка может располагаться несколько ниже уровня Бэй Мянь.\nГлубина иглы 0,3–0,5 цуня. Выпустить желтоватую серозную жидкость для лечения заболеваний почек. {Зона реакции почечной ветви}. (Бэй Мянь находится на 0,2 цуня выше (проксимальнее) большого углубления, расположенного непосредственно латеральнее (дистальнее) акромиального отростка лопатки при отведении руки на 90°.)\n•\nМу Чжи: Точка расположена на 1,5 цуня дистальнее Мин Хуан. Глубина иглы 1,5–2,5 цуня.\n{Зоны реакции желчного пузыря, печени и сердечной ветви}. (Мин Хуан находится в точном центре (от проксимального до дистального отдела) срединной линии (корональная плоскость) на медиальной поверхности бедра.)\n257\nУродиния (LCH)"
+      },
+      "logprobs": null,
+      "finish_reason": "stop"
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 442,
+    "completion_tokens": 473,
+    "total_tokens": 915,
+    "prompt_tokens_details": {
+      "cached_tokens": 0
+    },
+    "prompt_cache_hit_tokens": 0,
+    "prompt_cache_miss_tokens": 442
+  },
+  "system_fingerprint": "fp_8b330d02d0_prod0820_fp8_kvcache_20260402",
+  "text_ru": "•\nЛю Куай: Точка расположена на лице, на 1,4 цуня латеральнее центра фильтра.\nГлубина иглы 0,1–0,3 цуня. {Зона эндокринной реакции}. Для определения центра фильтра\nразделите пополам расстояние от внеротовой кожно-губной границы до основания носа\nмежду ноздрями.\n•\nЦи Куай: Точка расположена на лице, на 1,0 цуня латеральнее спайки губ у\nугла рта. Иглу вводят перпендикулярно на глубину 0,2–0,3 цуня или косо, медиально-латерально,\nна 0,5–1,5 цуня. {Зона эндокринной реакции}.\n•\nШу Юй: Точку находят, отступив на 2,0 цуня кзади от Бэй Мянь — в зависимости\nот размеров пациента точка может располагаться несколько ниже уровня Бэй Мянь.\nГлубина иглы 0,3–0,5 цуня. Выпустить желтоватую серозную жидкость для лечения заболеваний почек. {Зона реакции почечной ветви}. (Бэй Мянь находится на 0,2 цуня выше (проксимальнее) большого углубления, расположенного непосредственно латеральнее (дистальнее) акромиального отростка лопатки при отведении руки на 90°.)\n•\nМу Чжи: Точка расположена на 1,5 цуня дистальнее Мин Хуан. Глубина иглы 1,5–2,5 цуня.\n{Зоны реакции желчного пузыря, печени и сердечной ветви}. (Мин Хуан находится в точном центре (от проксимального до дистального отдела) срединной линии (корональная плоскость) на медиальной поверхности бедра.)\n257\nУродиния (LCH)"
 }

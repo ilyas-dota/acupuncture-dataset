@@ -1,6 +1,29 @@
 {
-  "source": "Cosmetic Acu_Eng_kindle.pdf",
-  "title": "2) Dermis",
-  "text": "The dermis is directly related to aging and divided into two layers, the upper papillary\nlayer and the lower reticular layer. The papillary layer is composed of loose connective tissue\nand  is  responsible  for  ﬁngerprints.  The  reticular  layer  is  composed  of  dense,  irregular\nconnective tissue and gives the skin strength and elasticity. It contains collagen and elastic\nﬁbers. The dermis also contains nerves, sensory receptors, blood vessels, hair follicles, oil\nglands, sweat glands, and the Hyaluronic acid.\n3)Hypodermis\nThe hypodermis called the subcutaneous layer, is the lower layer and not actually a part\nof the skin. It consists mostly of adipose cells, which function as mechanical and thermal\ninsulators, macrophages, blood vessels, and nerves.\n~ !  ~\n21\nFacial  Cosmetic Acupuncture",
-  "category": "general"
+  "id": "fca746f8-b9b9-41f6-a42d-c4ad3ac3815c",
+  "object": "chat.completion",
+  "created": 1782905758,
+  "model": "deepseek-v4-flash",
+  "choices": [
+    {
+      "index": 0,
+      "message": {
+        "role": "assistant",
+        "content": "Дерма напрямую связана со старением и делится на два слоя: верхний сосочковый слой и нижний сетчатый слой. Сосочковый слой состоит из рыхлой соединительной ткани и отвечает за отпечатки пальцев. Сетчатый слой состоит из плотной неоформленной соединительной ткани и обеспечивает коже прочность и эластичность. Он содержит коллагеновые и эластические волокна. Дерма также содержит нервы, сенсорные рецепторы, кровеносные сосуды, волосяные фолликулы, сальные железы, потовые железы и гиалуроновую кислоту.\n3) Гиподерма\nГиподерма, называемая подкожным слоем, является нижним слоем и фактически не является частью кожи. Она состоит в основном из адипоцитов, которые функционируют как механические и термические изоляторы, макрофагов, кровеносных сосудов и нервов.\n~ ! ~\n21\nКосметическая акупунктура лица"
+      },
+      "logprobs": null,
+      "finish_reason": "stop"
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 225,
+    "completion_tokens": 251,
+    "total_tokens": 476,
+    "prompt_tokens_details": {
+      "cached_tokens": 0
+    },
+    "prompt_cache_hit_tokens": 0,
+    "prompt_cache_miss_tokens": 225
+  },
+  "system_fingerprint": "fp_8b330d02d0_prod0820_fp8_kvcache_20260402",
+  "text_ru": "Дерма напрямую связана со старением и делится на два слоя: верхний сосочковый слой и нижний сетчатый слой. Сосочковый слой состоит из рыхлой соединительной ткани и отвечает за отпечатки пальцев. Сетчатый слой состоит из плотной неоформленной соединительной ткани и обеспечивает коже прочность и эластичность. Он содержит коллагеновые и эластические волокна. Дерма также содержит нервы, сенсорные рецепторы, кровеносные сосуды, волосяные фолликулы, сальные железы, потовые железы и гиалуроновую кислоту.\n3) Гиподерма\nГиподерма, называемая подкожным слоем, является нижним слоем и фактически не является частью кожи. Она состоит в основном из адипоцитов, которые функционируют как механические и термические изоляторы, макрофагов, кровеносных сосудов и нервов.\n~ ! ~\n21\nКосметическая акупунктура лица"
 }

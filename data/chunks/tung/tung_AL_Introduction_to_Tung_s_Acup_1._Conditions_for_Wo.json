@@ -1,6 +1,29 @@
 {
-  "source": "AL_Introduction_to_Tung's_Acupuncture.pdf",
-  "title": "1. Conditions for Wood Fire Point:",
-  "text": "1) cold lower limbs\n2) black/blue vein or black spot around this point",
-  "category": "tung"
+  "id": "561a5f64-949f-48b1-b1a6-f0ac0acd7742",
+  "object": "chat.completion",
+  "created": 1782905948,
+  "model": "deepseek-v4-flash",
+  "choices": [
+    {
+      "index": 0,
+      "message": {
+        "role": "assistant",
+        "content": "1) холодные нижние конечности\n2) черная/синяя вена или черное пятно вокруг этой точки"
+      },
+      "logprobs": null,
+      "finish_reason": "stop"
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 53,
+    "completion_tokens": 26,
+    "total_tokens": 79,
+    "prompt_tokens_details": {
+      "cached_tokens": 0
+    },
+    "prompt_cache_hit_tokens": 0,
+    "prompt_cache_miss_tokens": 53
+  },
+  "system_fingerprint": "fp_8b330d02d0_prod0820_fp8_kvcache_20260402",
+  "text_ru": "1) холодные нижние конечности\n2) черная/синяя вена или черное пятно вокруг этой точки"
 }

@@ -1,6 +1,29 @@
 {
-  "source": "Cosmetic Acu_Eng_kindle.pdf",
-  "title": "1) Count the number of needles",
-  "text": "• Count and memorize (or record) the number of needles used. This is very important.\nSome needles can be missed, hiding behind the ears and hairline.\n• Be careful not to drop any needles, and check again to see if you pulled out the same\nnumber of needles you inserted.\n• In the beginning, predetermine the number of needles necessary for the treatment. Use\nan easy number to remember like 20, 25, or 30.",
-  "category": "general"
+  "id": "6e4f8959-04f2-4c80-a8f7-1e1a7375f0a9",
+  "object": "chat.completion",
+  "created": 1782905713,
+  "model": "deepseek-v4-flash",
+  "choices": [
+    {
+      "index": 0,
+      "message": {
+        "role": "assistant",
+        "content": "•  Подсчитайте и запомните (или запишите) количество использованных игл. Это очень важно.\nНекоторые иглы могут быть пропущены, спрятавшись за ушами и линией роста волос.\n• Будьте осторожны, не уроните ни одной иглы, и перепроверьте, извлекли ли вы то же количество игл, которое ввели.\n• В начале лечения заранее определите необходимое количество игл. Используйте легко запоминающееся число, например 20, 25 или 30."
+      },
+      "logprobs": null,
+      "finish_reason": "stop"
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 130,
+    "completion_tokens": 127,
+    "total_tokens": 257,
+    "prompt_tokens_details": {
+      "cached_tokens": 0
+    },
+    "prompt_cache_hit_tokens": 0,
+    "prompt_cache_miss_tokens": 130
+  },
+  "system_fingerprint": "fp_8b330d02d0_prod0820_fp8_kvcache_20260402",
+  "text_ru": "•  Подсчитайте и запомните (или запишите) количество использованных игл. Это очень важно.\nНекоторые иглы могут быть пропущены, спрятавшись за ушами и линией роста волос.\n• Будьте осторожны, не уроните ни одной иглы, и перепроверьте, извлекли ли вы то же количество игл, которое ввели.\n• В начале лечения заранее определите необходимое количество игл. Используйте легко запоминающееся число, например 20, 25 или 30."
 }

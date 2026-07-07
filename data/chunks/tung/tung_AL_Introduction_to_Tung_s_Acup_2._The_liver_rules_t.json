@@ -1,6 +1,29 @@
 {
-  "source": "AL_Introduction_to_Tung's_Acupuncture.pdf",
-  "title": "2. The liver rules the colors. Self-entry makes for blue-green.",
-  "text": "3.\nWind evils entering the heart makes for red.\n4.\nWind evils entering the spleen makes for yellow.\n5.\nWind evils entering the lung makes for white.\n6.\nWind evils entering the kidney makes for black.",
-  "category": "tung"
+  "id": "6686fcd3-eae2-4ab4-acdc-f2378b5df981",
+  "object": "chat.completion",
+  "created": 1782905994,
+  "model": "deepseek-v4-flash",
+  "choices": [
+    {
+      "index": 0,
+      "message": {
+        "role": "assistant",
+        "content": "3.\n风邪入心则色赤。\n4.\n风邪入脾则色黄。\n5.\n风邪入肺则色白。\n6.\n风邪入肾则色黑。"
+      },
+      "logprobs": null,
+      "finish_reason": "stop"
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 79,
+    "completion_tokens": 40,
+    "total_tokens": 119,
+    "prompt_tokens_details": {
+      "cached_tokens": 0
+    },
+    "prompt_cache_hit_tokens": 0,
+    "prompt_cache_miss_tokens": 79
+  },
+  "system_fingerprint": "fp_8b330d02d0_prod0820_fp8_kvcache_20260402",
+  "text_ru": "3.\n风邪入心则色赤。\n4.\n风邪入脾则色黄。\n5.\n风邪入肺则色白。\n6.\n风邪入肾则色黑。"
 }

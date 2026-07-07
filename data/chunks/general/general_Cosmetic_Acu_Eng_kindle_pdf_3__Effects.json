@@ -1,6 +1,29 @@
 {
-  "source": "Cosmetic Acu_Eng_kindle.pdf",
-  "title": "3) Effects",
-  "text": "• It helps to reduce facial wrinkles.\n• It helps to increase water content of the skin.\n• It helps to improve facial elasticity.\n• It helps to release tightened facial muscles.\n• It helps to improve overall health.",
-  "category": "general"
+  "id": "2bdd5196-43a7-4a88-9b52-89394e55bf57",
+  "object": "chat.completion",
+  "created": 1782905821,
+  "model": "deepseek-v4-flash",
+  "choices": [
+    {
+      "index": 0,
+      "message": {
+        "role": "assistant",
+        "content": "• 有助于减少面部皱纹。\n• 有助于增加皮肤含水量。\n• 有助于改善面部弹性。\n• 有助于放松紧绷的面部肌肉。\n• 有助于改善整体健康状况。"
+      },
+      "logprobs": null,
+      "finish_reason": "stop"
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 79,
+    "completion_tokens": 37,
+    "total_tokens": 116,
+    "prompt_tokens_details": {
+      "cached_tokens": 0
+    },
+    "prompt_cache_hit_tokens": 0,
+    "prompt_cache_miss_tokens": 79
+  },
+  "system_fingerprint": "fp_8b330d02d0_prod0820_fp8_kvcache_20260402",
+  "text_ru": "• 有助于减少面部皱纹。\n• 有助于增加皮肤含水量。\n• 有助于改善面部弹性。\n• 有助于放松紧绷的面部肌肉。\n• 有助于改善整体健康状况。"
 }

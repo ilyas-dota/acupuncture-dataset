@@ -1,6 +1,29 @@
 {
-  "source": "Advanced_Tung_Style_Acupuncture_Vol_3_Nephrology,_Urology_&_Andrology.pdf",
-  "title": "1. Er4 Jiao3 Min~ and Fu3 Chao2 Er4 Shi2 San1 (LCH):",
-  "text": "•\nEr4 Jiao3 Ming2: These two points are located along the midline (Posterior Midsagittal\nPlane) of the proximal phalanx on the dorsum of the 3r d digit (middle finger). The proximal\npoint is located one third the distance from the dorsal metacarpophalangeal skin crease to\nthe dorsal proximal interphalangeal skin crease, and the distal point is located two thirds the\ndistance from the dorsal metacarpophalangeal skin crease to the dorsal proximal\ninterphalangeal skin crease. Needle subcutaneously horizontal 0.05 cun (i.e. 0.5 fen).\n{Kidney Reaction Area}\n•\nFu3 Chao2 Er4 Shi2 San1: This is a collective of 23 points located as follows: ['Let'. {Six\nBowels Reaction Area}]\ni. Midline Points (Conception Vessel): Superior to the umbilicus 1.0 and 2.0 cun.\nInferior to the umbilicus 1.0, 2.0, 3.0, 4.0, and 5.0 cun respectively, for a total of 7\nmidline points.\nii. Lateral Line 1 Points: These bilaterally paired points are located on two lines, each\nlocated 1.0 cun lateral to either side of the Conception Vessel. The first pair of\npoints is located 1.0 cun superior to the umbilicus, the second pair is at the level of\nthe umbilicus, the third pair is located 1.0 cun inferior to the umbilicus, and the\nfourth pair is located 2.0 cun inferior to the umbilicus for a total of 8 points.",
-  "category": "tung"
+  "id": "5ce9f812-04f2-425e-b8ec-86529a748006",
+  "object": "chat.completion",
+  "created": 1782906243,
+  "model": "deepseek-v4-flash",
+  "choices": [
+    {
+      "index": 0,
+      "message": {
+        "role": "assistant",
+        "content": "•\nЭр4 Цзяо3 Мин2: Эти две точки расположены по средней линии (задняя срединно-сагиттальная плоскость) проксимальной фаланги на тыльной стороне 3-го пальца (средний палец). Проксимальная точка находится на расстоянии одной трети от тыльной пястно-фаланговой кожной складки до тыльной проксимальной межфаланговой кожной складки, а дистальная точка — на расстоянии двух третей от тыльной пястно-фаланговой кожной складки до тыльной проксимальной межфаланговой кожной складки. Иглу вводят подкожно горизонтально на глубину 0,05 цуня (т.е. 0,5 фэня). {Реактивная зона почек}\n•\nФу3 Чао2 Эр4 Ши2 Сань1: Это совокупность из 23 точек, расположенных следующим образом: ['Пусть'. {Реактивная зона шести органов фу}]\ni. Точки средней линии (Сосуд Зачатия): Выше пупка на 1,0 и 2,0 цуня. Ниже пупка на 1,0, 2,0, 3,0, 4,0 и 5,0 цуня соответственно, всего 7 точек средней линии.\nii. Точки боковой линии 1: Эти парные (билатеральные) точки расположены на двух линиях, каждая из которых находится на расстоянии 1,0 цуня латеральнее от Сосуда Зачатия с каждой стороны. Первая пара точек расположена на 1,0 цуня выше пупка, вторая пара — на уровне пупка, третья пара — на 1,0 цуня ниже пупка, а четвертая пара — на 2,0 цуня ниже пупка, всего 8 точек."
+      },
+      "logprobs": null,
+      "finish_reason": "stop"
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 422,
+    "completion_tokens": 449,
+    "total_tokens": 871,
+    "prompt_tokens_details": {
+      "cached_tokens": 0
+    },
+    "prompt_cache_hit_tokens": 0,
+    "prompt_cache_miss_tokens": 422
+  },
+  "system_fingerprint": "fp_8b330d02d0_prod0820_fp8_kvcache_20260402",
+  "text_ru": "•\nЭр4 Цзяо3 Мин2: Эти две точки расположены по средней линии (задняя срединно-сагиттальная плоскость) проксимальной фаланги на тыльной стороне 3-го пальца (средний палец). Проксимальная точка находится на расстоянии одной трети от тыльной пястно-фаланговой кожной складки до тыльной проксимальной межфаланговой кожной складки, а дистальная точка — на расстоянии двух третей от тыльной пястно-фаланговой кожной складки до тыльной проксимальной межфаланговой кожной складки. Иглу вводят подкожно горизонтально на глубину 0,05 цуня (т.е. 0,5 фэня). {Реактивная зона почек}\n•\nФу3 Чао2 Эр4 Ши2 Сань1: Это совокупность из 23 точек, расположенных следующим образом: ['Пусть'. {Реактивная зона шести органов фу}]\ni. Точки средней линии (Сосуд Зачатия): Выше пупка на 1,0 и 2,0 цуня. Ниже пупка на 1,0, 2,0, 3,0, 4,0 и 5,0 цуня соответственно, всего 7 точек средней линии.\nii. Точки боковой линии 1: Эти парные (билатеральные) точки расположены на двух линиях, каждая из которых находится на расстоянии 1,0 цуня латеральнее от Сосуда Зачатия с каждой стороны. Первая пара точек расположена на 1,0 цуня выше пупка, вторая пара — на уровне пупка, третья пара — на 1,0 цуня ниже пупка, а четвертая пара — на 2,0 цуня ниже пупка, всего 8 точек."
 }

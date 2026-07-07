@@ -1,6 +1,29 @@
 {
-  "source": "Cosmetic Acu_Eng_kindle.pdf",
-  "title": "1) Choice of equipment",
-  "text": "Based on the practitioner’s purpose and patient's condition, choose the right needles.\nLocal needling on the dermis needs the ﬁnest needles, and muscle needling needs thicker\nones. Sensitive dry skin needs ﬁner, and thick strong skin needs thicker needles.",
-  "category": "general"
+  "id": "0fce5444-cdfd-4c93-a86d-801a34712fed",
+  "object": "chat.completion",
+  "created": 1782905709,
+  "model": "deepseek-v4-flash",
+  "choices": [
+    {
+      "index": 0,
+      "message": {
+        "role": "assistant",
+        "content": "根据治疗师的目的和患者的状况，选择合适的针具。\n在真皮层局部针刺需使用最细的针，而肌肉层针刺需使用较粗的针。敏感干燥的皮肤需用更细的针，厚实强韧的皮肤则需用较粗的针。"
+      },
+      "logprobs": null,
+      "finish_reason": "stop"
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 90,
+    "completion_tokens": 60,
+    "total_tokens": 150,
+    "prompt_tokens_details": {
+      "cached_tokens": 0
+    },
+    "prompt_cache_hit_tokens": 0,
+    "prompt_cache_miss_tokens": 90
+  },
+  "system_fingerprint": "fp_8b330d02d0_prod0820_fp8_kvcache_20260402",
+  "text_ru": "根据治疗师的目的和患者的状况，选择合适的针具。\n在真皮层局部针刺需使用最细的针，而肌肉层针刺需使用较粗的针。敏感干燥的皮肤需用更细的针，厚实强韧的皮肤则需用较粗的针。"
 }

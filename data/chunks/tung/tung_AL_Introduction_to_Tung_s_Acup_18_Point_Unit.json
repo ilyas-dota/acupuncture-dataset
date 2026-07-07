@@ -1,6 +1,29 @@
 {
-  "source": "AL_Introduction_to_Tung's_Acupuncture.pdf",
-  "title": "18 Point Unit",
-  "text": "Location: 1.5 cun lateral from the midline in the 2nd, 3rd and 4th intercostal spaces, 202-\n204 (3 fire points). 3 cun lateral from the midline at TI - T4, 301-304 (4 metal points). 6 cun\nlateral from the midline at T2 and T3, 402-403 (2 metal points).\nTung's Five Zang Channel: heart, lung.\nIndications: monkey sha syndrome. (This sha syndrome produces a lot of itching, which\ncauses the patient to scratch like a monkey.)\nSha syndrome:\nl.\nrash: skin eruption, generally referring to fine, sand-like papules\n2. noxious attack: sudden attack of impaired consciousness or vomiting and\ndiarrhea in children in summer, attributed to the invasion of a noxious factor.\n206\nMaster Tung' s Unique Points / Area DT and VT\n• DT06\nNine Monkey\n301\n30:?\ne 4o:?\n:?03\n. 303\n403\n:?04\n• 304\n404\n:?05\n305\n405\nNeedle Technique: use a three-edged needle to prick blood.\nDT.07 Three Metal (San Jin) =0",
-  "category": "tung"
+  "id": "9d2cd50a-80d0-4267-90cc-98774bb58794",
+  "object": "chat.completion",
+  "created": 1782905970,
+  "model": "deepseek-v4-flash",
+  "choices": [
+    {
+      "index": 0,
+      "message": {
+        "role": "assistant",
+        "content": "Расположение: на 1,5 цуня латеральнее срединной линии во 2-м, 3-м и 4-м межреберных промежутках, 202–204 (3 огненные точки). На 3 цуня латеральнее срединной линии на уровне Th1–Th4, 301–304 (4 металлические точки). На 6 цуней латеральнее срединной линии на уровне Th2 и Th3, 402–403 (2 металлические точки).\n\nПять каналов Цзан по Туну: сердце, легкие.\n\nПоказания: синдром «обезьяньей ша» (данный синдром ша вызывает сильный зуд, из-за которого пациент расчесывает кожу, подобно обезьяне).\n\nСиндром ша:\n1. сыпь: кожные высыпания, обычно обозначающие мелкие, песчинкоподобные папулы\n2. токсическое поражение: внезапный приступ с нарушением сознания или рвотой и диареей у детей в летнее время, обусловленный инвазией токсического фактора.\n\n206\nУникальные точки Мастера Туна / Зона DT и VT\n• DT06\nДевять Обезьян\n301\n30:?\ne 4o:?\n:?03\n. 303\n403\n:?04\n• 304\n404\n:?05\n305\n405\n\nТехника иглоукалывания: использовать трехгранную иглу для прокола с кровопусканием.\n\nDT.07 Три Металла (San Jin) =0"
+      },
+      "logprobs": null,
+      "finish_reason": "stop"
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 301,
+    "completion_tokens": 380,
+    "total_tokens": 681,
+    "prompt_tokens_details": {
+      "cached_tokens": 0
+    },
+    "prompt_cache_hit_tokens": 0,
+    "prompt_cache_miss_tokens": 301
+  },
+  "system_fingerprint": "fp_8b330d02d0_prod0820_fp8_kvcache_20260402",
+  "text_ru": "Расположение: на 1,5 цуня латеральнее срединной линии во 2-м, 3-м и 4-м межреберных промежутках, 202–204 (3 огненные точки). На 3 цуня латеральнее срединной линии на уровне Th1–Th4, 301–304 (4 металлические точки). На 6 цуней латеральнее срединной линии на уровне Th2 и Th3, 402–403 (2 металлические точки).\n\nПять каналов Цзан по Туну: сердце, легкие.\n\nПоказания: синдром «обезьяньей ша» (данный синдром ша вызывает сильный зуд, из-за которого пациент расчесывает кожу, подобно обезьяне).\n\nСиндром ша:\n1. сыпь: кожные высыпания, обычно обозначающие мелкие, песчинкоподобные папулы\n2. токсическое поражение: внезапный приступ с нарушением сознания или рвотой и диареей у детей в летнее время, обусловленный инвазией токсического фактора.\n\n206\nУникальные точки Мастера Туна / Зона DT и VT\n• DT06\nДевять Обезьян\n301\n30:?\ne 4o:?\n:?03\n. 303\n403\n:?04\n• 304\n404\n:?05\n305\n405\n\nТехника иглоукалывания: использовать трехгранную иглу для прокола с кровопусканием.\n\nDT.07 Три Металла (San Jin) =0"
 }

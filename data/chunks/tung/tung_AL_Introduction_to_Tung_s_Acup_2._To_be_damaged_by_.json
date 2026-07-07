@@ -1,6 +1,29 @@
 {
-  "source": "AL_Introduction_to_Tung's_Acupuncture.pdf",
-  "title": "2. To be damaged by heat. The heat pertains to the heart. The heart rules odors.",
-  "text": "3.\nTo drink and eat without restraint, as well as weariness and exhaustion. This evils\npertains to the spleen. The spleen rules flavors.\n4.\nTo be damaged by cold. Cold pertains to the lung. The lung rules sounds.",
-  "category": "tung"
+  "id": "7eaff2e7-2f45-4bc3-b653-7b826c14c846",
+  "object": "chat.completion",
+  "created": 1782906005,
+  "model": "deepseek-v4-flash",
+  "choices": [
+    {
+      "index": 0,
+      "message": {
+        "role": "assistant",
+        "content": "3.\nНеумеренность в питье и еде, а также утомление и истощение. Эти патогенные факторы относятся к селезенке. Селезенка управляет вкусами.\n4.\nПоражение холодом. Холод относится к легким. Легкие управляют звуками."
+      },
+      "logprobs": null,
+      "finish_reason": "stop"
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 86,
+    "completion_tokens": 72,
+    "total_tokens": 158,
+    "prompt_tokens_details": {
+      "cached_tokens": 0
+    },
+    "prompt_cache_hit_tokens": 0,
+    "prompt_cache_miss_tokens": 86
+  },
+  "system_fingerprint": "fp_8b330d02d0_prod0820_fp8_kvcache_20260402",
+  "text_ru": "3.\nНеумеренность в питье и еде, а также утомление и истощение. Эти патогенные факторы относятся к селезенке. Селезенка управляет вкусами.\n4.\nПоражение холодом. Холод относится к легким. Легкие управляют звуками."
 }
