@@ -1,0 +1,21 @@
+name: OpenCodeReview PR Review
+
+on:
+  pull_request_target:
+    types: [opened, synchronize, reopened]
+
+jobs:
+  review:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: read
+      pull-requests: write
+      issues: write
+    steps:
+      - uses: alibaba/open-code-review@main
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          llm_url: ${{ secrets.OCR_LLM_URL }}
+          llm_token: ${{ secrets.OCR_LLM_AUTH_TOKEN }}
+          llm_model: ${{ vars.OCR_LLM_MODEL }}
+          llm_use_anthropic: ${{ vars.OCR_LLM_USE_ANTHROPIC }}
